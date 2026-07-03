@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-03T03:09:01.983256+00:00",
+  "generatedAt": "2026-07-03T03:10:07.355101+00:00",
   "sourceCatalog": "/private/tmp/nivalis-grid/data/catalog.json",
   "sourceHash": "d450923b768b3b7dbe52ec839f2de257bc14b0ffc13294a9dfb06b4161c887be",
   "settings": {
@@ -30,7 +30,7 @@
       "page": 1,
       "pageCount": 3,
       "path": "grids/overview/active-items-p01.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/overview/active-items-p01.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/overview/active-items-p01.jpg",
       "cellCount": 16,
       "cells": [
         {
@@ -236,7 +236,7 @@
       "page": 2,
       "pageCount": 3,
       "path": "grids/overview/active-items-p02.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/overview/active-items-p02.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/overview/active-items-p02.jpg",
       "cellCount": 16,
       "cells": [
         {
@@ -442,7 +442,7 @@
       "page": 3,
       "pageCount": 3,
       "path": "grids/overview/active-items-p03.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/overview/active-items-p03.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/overview/active-items-p03.jpg",
       "cellCount": 3,
       "cells": [
         {
@@ -492,7 +492,7 @@
       "page": 1,
       "pageCount": 1,
       "path": "grids/category/accessory-p01.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/category/accessory-p01.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/category/accessory-p01.jpg",
       "cellCount": 2,
       "cells": [
         {
@@ -530,7 +530,7 @@
       "page": 1,
       "pageCount": 1,
       "path": "grids/category-all-images/accessory-p01.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/category-all-images/accessory-p01.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/category-all-images/accessory-p01.jpg",
       "cellCount": 6,
       "cells": [
         {
@@ -616,7 +616,7 @@
       "page": 1,
       "pageCount": 1,
       "path": "grids/category/bottom-p01.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/category/bottom-p01.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/category/bottom-p01.jpg",
       "cellCount": 8,
       "cells": [
         {
@@ -726,7 +726,7 @@
       "page": 1,
       "pageCount": 1,
       "path": "grids/category-all-images/bottom-p01.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/category-all-images/bottom-p01.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/category-all-images/bottom-p01.jpg",
       "cellCount": 12,
       "cells": [
         {
@@ -884,7 +884,7 @@
       "page": 1,
       "pageCount": 1,
       "path": "grids/category/footwear-p01.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/category/footwear-p01.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/category/footwear-p01.jpg",
       "cellCount": 9,
       "cells": [
         {
@@ -1006,7 +1006,7 @@
       "page": 1,
       "pageCount": 2,
       "path": "grids/category-all-images/footwear-p01.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/category-all-images/footwear-p01.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/category-all-images/footwear-p01.jpg",
       "cellCount": 16,
       "cells": [
         {
@@ -1212,7 +1212,7 @@
       "page": 2,
       "pageCount": 2,
       "path": "grids/category-all-images/footwear-p02.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/category-all-images/footwear-p02.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/category-all-images/footwear-p02.jpg",
       "cellCount": 8,
       "cells": [
         {
@@ -1322,7 +1322,7 @@
       "page": 1,
       "pageCount": 1,
       "path": "grids/category/outerwear-p01.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/category/outerwear-p01.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/category/outerwear-p01.jpg",
       "cellCount": 6,
       "cells": [
         {
@@ -1408,7 +1408,7 @@
       "page": 1,
       "pageCount": 1,
       "path": "grids/category-all-images/outerwear-p01.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/category-all-images/outerwear-p01.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/category-all-images/outerwear-p01.jpg",
       "cellCount": 6,
       "cells": [
         {
@@ -1494,7 +1494,7 @@
       "page": 1,
       "pageCount": 1,
       "path": "grids/category/top-p01.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/category/top-p01.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/category/top-p01.jpg",
       "cellCount": 9,
       "cells": [
         {
@@ -1616,7 +1616,7 @@
       "page": 1,
       "pageCount": 1,
       "path": "grids/category-all-images/top-p01.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/category-all-images/top-p01.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/category-all-images/top-p01.jpg",
       "cellCount": 12,
       "cells": [
         {
@@ -1774,7 +1774,7 @@
       "page": 1,
       "pageCount": 1,
       "path": "grids/category/underwear-p01.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/category/underwear-p01.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/category/underwear-p01.jpg",
       "cellCount": 1,
       "cells": [
         {
@@ -1800,7 +1800,7 @@
       "page": 1,
       "pageCount": 1,
       "path": "grids/category-all-images/underwear-p01.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/category-all-images/underwear-p01.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/category-all-images/underwear-p01.jpg",
       "cellCount": 1,
       "cells": [
         {
@@ -1826,7 +1826,7 @@
       "page": 1,
       "pageCount": 1,
       "path": "grids/subcategory/base-layer-p01.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/subcategory/base-layer-p01.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/subcategory/base-layer-p01.jpg",
       "cellCount": 2,
       "cells": [
         {
@@ -1864,7 +1864,7 @@
       "page": 1,
       "pageCount": 1,
       "path": "grids/subcategory/down-jacket-p01.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/subcategory/down-jacket-p01.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/subcategory/down-jacket-p01.jpg",
       "cellCount": 2,
       "cells": [
         {
@@ -1902,7 +1902,7 @@
       "page": 1,
       "pageCount": 1,
       "path": "grids/subcategory/pants-p01.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/subcategory/pants-p01.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/subcategory/pants-p01.jpg",
       "cellCount": 2,
       "cells": [
         {
@@ -1940,7 +1940,7 @@
       "page": 1,
       "pageCount": 1,
       "path": "grids/subcategory/shirt-p01.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/subcategory/shirt-p01.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/subcategory/shirt-p01.jpg",
       "cellCount": 2,
       "cells": [
         {
@@ -1978,7 +1978,7 @@
       "page": 1,
       "pageCount": 1,
       "path": "grids/subcategory/socks-p01.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/subcategory/socks-p01.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/subcategory/socks-p01.jpg",
       "cellCount": 2,
       "cells": [
         {
@@ -2016,7 +2016,7 @@
       "page": 1,
       "pageCount": 1,
       "path": "grids/subcategory/t-shirt-p01.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/subcategory/t-shirt-p01.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/subcategory/t-shirt-p01.jpg",
       "cellCount": 3,
       "cells": [
         {
@@ -2066,7 +2066,7 @@
       "page": 1,
       "pageCount": 1,
       "path": "grids/module/bike-active-p01.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/module/bike-active-p01.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/module/bike-active-p01.jpg",
       "cellCount": 5,
       "cells": [
         {
@@ -2140,7 +2140,7 @@
       "page": 1,
       "pageCount": 1,
       "path": "grids/module/formal-social-p01.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/module/formal-social-p01.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/module/formal-social-p01.jpg",
       "cellCount": 5,
       "cells": [
         {
@@ -2214,7 +2214,7 @@
       "page": 1,
       "pageCount": 1,
       "path": "grids/module/hot-water-p01.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/module/hot-water-p01.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/module/hot-water-p01.jpg",
       "cellCount": 2,
       "cells": [
         {
@@ -2252,7 +2252,7 @@
       "page": 1,
       "pageCount": 1,
       "path": "grids/module/outdoor-core-p01.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/module/outdoor-core-p01.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/module/outdoor-core-p01.jpg",
       "cellCount": 2,
       "cells": [
         {
@@ -2290,7 +2290,7 @@
       "page": 1,
       "pageCount": 1,
       "path": "grids/module/thermal-layering-p01.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/module/thermal-layering-p01.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/module/thermal-layering-p01.jpg",
       "cellCount": 5,
       "cells": [
         {
@@ -2364,7 +2364,7 @@
       "page": 1,
       "pageCount": 1,
       "path": "grids/module/urban-core-p01.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/module/urban-core-p01.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/module/urban-core-p01.jpg",
       "cellCount": 14,
       "cells": [
         {
@@ -2546,7 +2546,7 @@
       "page": 1,
       "pageCount": 1,
       "path": "grids/status/archived-p01.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/status/archived-p01.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/status/archived-p01.jpg",
       "cellCount": 1,
       "cells": [
         {
@@ -2572,7 +2572,7 @@
       "page": 1,
       "pageCount": 1,
       "path": "grids/status/candidate-buy-p01.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/status/candidate-buy-p01.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/status/candidate-buy-p01.jpg",
       "cellCount": 15,
       "cells": [
         {
@@ -2766,7 +2766,7 @@
       "page": 1,
       "pageCount": 2,
       "path": "grids/status/owned-p01.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/status/owned-p01.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/status/owned-p01.jpg",
       "cellCount": 16,
       "cells": [
         {
@@ -2972,7 +2972,7 @@
       "page": 2,
       "pageCount": 2,
       "path": "grids/status/owned-p02.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/status/owned-p02.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/status/owned-p02.jpg",
       "cellCount": 3,
       "cells": [
         {
@@ -3022,7 +3022,7 @@
       "page": 1,
       "pageCount": 1,
       "path": "grids/status/owned-buy-more-p01.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/grids/status/owned-buy-more-p01.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/status/owned-buy-more-p01.jpg",
       "cellCount": 1,
       "cells": [
         {
