@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
-  "exportType": "text-only-wardrobe-catalog",
+  "exportType": "public-wardrobe-catalog",
+  "source": "sanitized-private-export",
   "privacyNotes": [
     "No git history from the source repository is included.",
-    "Images are re-encoded as JPEG files before publication where supported by the local image tooling.",
+    "Images are re-encoded as JPEG files before publication.",
     "No personal profile, body measurements, capsules, outfits, local paths, or private repository metadata are included.",
     "Product/source URLs and remote product image URLs may be included when present in item metadata."
   ],
@@ -15,7 +16,9 @@
       "owned": 34,
       "owned_buy_more": 1
     },
-    "ownedCount": 34,
+    "ownedCount": 35,
+    "publicImageCount": 62,
+    "itemsWithPublicImages": 36,
     "categories": [
       "accessory",
       "bottom",
@@ -47,9 +50,7 @@
       "earth",
       "graphic",
       "neutral"
-    ],
-    "publicImageCount": 62,
-    "itemsWithPublicImages": 36
+    ]
   },
   "items": [
     {
