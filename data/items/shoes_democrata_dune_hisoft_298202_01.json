@@ -67,6 +67,14 @@
         "url": "https://www.democrata.com.br/",
         "role": "product"
       }
+    ],
+    "publicImages": [
+      "assets/shoes_democrata_dune_hisoft_298202_01/online-01.jpg",
+      "assets/shoes_democrata_dune_hisoft_298202_01/online-02.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_democrata_dune_hisoft_298202_01/online-01.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_democrata_dune_hisoft_298202_01/online-02.jpg"
     ]
   },
   "notes": "Pode ser redundante com CNS em alguns eventos, mas mais descontraído.",

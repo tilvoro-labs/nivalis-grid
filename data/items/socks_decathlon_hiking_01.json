@@ -66,6 +66,16 @@
         "url": "https://www.decathlon.com.br/",
         "role": "product"
       }
+    ],
+    "publicImages": [
+      "assets/socks_decathlon_hiking_01/online-01.jpg",
+      "assets/socks_decathlon_hiking_01/online-02.jpg",
+      "assets/socks_decathlon_hiking_01/online-03.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/socks_decathlon_hiking_01/online-01.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/socks_decathlon_hiking_01/online-02.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/socks_decathlon_hiking_01/online-03.jpg"
     ]
   },
   "notes": "Essenciais com Timberland e trilhas.",

@@ -68,6 +68,16 @@
         "url": "https://www.amazon.com/Timberland-Maddsen-Anti-Fatigue-Wateproof-Full-Grain/dp/B0CPSKW8J9",
         "role": "product"
       }
+    ],
+    "publicImages": [
+      "assets/boots_timberland_mt_maddsen_wp_brown_01/online-01.jpg",
+      "assets/boots_timberland_mt_maddsen_wp_brown_01/online-02.jpg",
+      "assets/boots_timberland_mt_maddsen_wp_brown_01/online-03.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_timberland_mt_maddsen_wp_brown_01/online-01.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_timberland_mt_maddsen_wp_brown_01/online-02.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_timberland_mt_maddsen_wp_brown_01/online-03.jpg"
     ]
   },
   "notes": "Provou funcionar em mochilão de 1 ano; estética outdoor.",

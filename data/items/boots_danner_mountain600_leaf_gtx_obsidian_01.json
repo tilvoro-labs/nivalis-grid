@@ -68,6 +68,16 @@
         "url": "https://www.danner.com/mountain-600-leaf-4-5-obsidian-kangaroo-gtx-m.html",
         "role": "product"
       }
+    ],
+    "publicImages": [
+      "assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-01.jpg",
+      "assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-02.jpg",
+      "assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-03.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-01.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-02.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-03.jpg"
     ]
   },
   "notes": "Melhor equilíbrio entre bota, trilha, chuva e urbanidade para seu perfil.",

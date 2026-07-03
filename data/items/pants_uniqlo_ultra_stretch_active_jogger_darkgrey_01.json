@@ -64,6 +64,12 @@
         "url": "https://www.uniqlo.com/us/en/products/E485744-000/00?colorDisplayCode=08&sizeDisplayCode=002",
         "role": "product"
       }
+    ],
+    "publicImages": [
+      "assets/pants_uniqlo_ultra_stretch_active_jogger_darkgrey_01/manual-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_ultra_stretch_active_jogger_darkgrey_01/manual-01.jpg"
     ]
   },
   "notes": "Candidato para possivel troca do Ultra Stretch Active Jogger Pants atual visando ficar mais adequado para academia. Ainda ha duvida porque o jogger bege atual complementa bem a Ultra Stretch Pants cinza escuro; essa troca faz mais sentido se entrar tambem uma Ultra Stretch Pants bege (ja no catalogo).",

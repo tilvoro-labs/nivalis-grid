@@ -68,6 +68,16 @@
         "url": "https://www.aku.com/",
         "role": "product"
       }
+    ],
+    "publicImages": [
+      "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-01.jpg",
+      "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-02.jpg",
+      "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-03.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-01.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-02.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-03.jpg"
     ]
   },
   "notes": "Melhor visual urbano discreto entre candidatos; low shoe com menos suporte que bota.",

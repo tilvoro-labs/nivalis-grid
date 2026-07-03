@@ -67,6 +67,16 @@
         "url": "https://www.cnscalcados.com.br/",
         "role": "product"
       }
+    ],
+    "publicImages": [
+      "assets/socks_cns_modal_social_01/online-01.jpg",
+      "assets/socks_cns_modal_social_01/online-02.jpg",
+      "assets/socks_cns_modal_social_01/online-03.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/socks_cns_modal_social_01/online-01.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/socks_cns_modal_social_01/online-02.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/socks_cns_modal_social_01/online-03.jpg"
     ]
   },
   "notes": "Mantém coerência visual com CNS/Democrata.",

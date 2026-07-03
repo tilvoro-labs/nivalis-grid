@@ -70,6 +70,18 @@
         "url": "https://www.uniqlo.com/us/en/products/E455957-000/00?colorDisplayCode=57&sizeDisplayCode=002",
         "role": "product"
       }
+    ],
+    "publicImages": [
+      "assets/shirt_uniqlo_premium_linen_tbd_01/manual-01.jpg",
+      "assets/shirt_uniqlo_premium_linen_tbd_01/manual-02.jpg",
+      "assets/shirt_uniqlo_premium_linen_tbd_01/manual-03.jpg",
+      "assets/shirt_uniqlo_premium_linen_tbd_01/manual-04.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_uniqlo_premium_linen_tbd_01/manual-01.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_uniqlo_premium_linen_tbd_01/manual-02.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_uniqlo_premium_linen_tbd_01/manual-03.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_uniqlo_premium_linen_tbd_01/manual-04.jpg"
     ]
   },
   "notes": "Camisa de linho premium bestseller para clima quente, respiravel e com visual limpo para uso urbano/viagem. Cor final ainda a definir entre olive, green, navy ou natural.",

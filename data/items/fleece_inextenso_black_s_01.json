@@ -54,7 +54,13 @@
     "remoteImages": [
       "https://s.penatrilha.com.br/product/2024/12/jaqueta-de-isolamento-termico-microfleece-edge-masculina-black-para-inverno-solo-1.jpg?format=webp"
     ],
-    "sourceLinks": []
+    "sourceLinks": [],
+    "publicImages": [
+      "assets/fleece_inextenso_black_s_01/manual-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/fleece_inextenso_black_s_01/manual-01.jpg"
+    ]
   },
   "notes": "Fit excelente e apego alto; batido, mas difícil substituir.",
   "modelConfidence": "medium",

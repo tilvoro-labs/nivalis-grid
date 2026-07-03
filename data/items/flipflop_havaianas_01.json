@@ -67,6 +67,16 @@
         "url": "https://www.havaianas.com/",
         "role": "product"
       }
+    ],
+    "publicImages": [
+      "assets/flipflop_havaianas_01/online-01.jpg",
+      "assets/flipflop_havaianas_01/online-02.jpg",
+      "assets/flipflop_havaianas_01/online-03.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/flipflop_havaianas_01/online-01.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/flipflop_havaianas_01/online-02.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/flipflop_havaianas_01/online-03.jpg"
     ]
   },
   "notes": "Complemento simples para banho/praia.",

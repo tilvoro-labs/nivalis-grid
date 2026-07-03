@@ -65,6 +65,12 @@
         "url": "https://www.uniqlo.com/au/en/products/E461003-000/00?colorDisplayCode=08&sizeDisplayCode=004",
         "role": "product"
       }
+    ],
+    "publicImages": [
+      "assets/baselayer_uniqlo_merino_light_01/manual-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/baselayer_uniqlo_merino_light_01/manual-01.jpg"
     ]
   },
   "notes": "Nao e merino: base HEATTECH sintetica com toque suave, elasticidade alta e conforto termico para camada interna em frio leve/moderado. Lavagem suave em maquina; sem dry clean.",

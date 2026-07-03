@@ -3,7 +3,7 @@
   "exportType": "text-only-wardrobe-catalog",
   "privacyNotes": [
     "No git history from the source repository is included.",
-    "No local/manual photos are included.",
+    "Images are re-encoded as JPEG files before publication where supported by the local image tooling.",
     "No personal profile, body measurements, capsules, outfits, local paths, or private repository metadata are included.",
     "Product/source URLs and remote product image URLs may be included when present in item metadata."
   ],
@@ -47,7 +47,9 @@
       "earth",
       "graphic",
       "neutral"
-    ]
+    ],
+    "publicImageCount": 62,
+    "itemsWithPublicImages": 36
   },
   "items": [
     {
@@ -117,6 +119,12 @@
             "url": "https://www.uniqlo.com/au/en/products/E461003-000/00?colorDisplayCode=08&sizeDisplayCode=004",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/baselayer_uniqlo_merino_light_01/manual-01.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/baselayer_uniqlo_merino_light_01/manual-01.jpg"
         ]
       },
       "notes": "Nao e merino: base HEATTECH sintetica com toque suave, elasticidade alta e conforto termico para camada interna em frio leve/moderado. Lavagem suave em maquina; sem dry clean.",
@@ -193,6 +201,16 @@
             "url": "https://www.danner.com/mountain-600-leaf-4-5-obsidian-kangaroo-gtx-m.html",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-01.jpg",
+          "assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-02.jpg",
+          "assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-03.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-03.jpg"
         ]
       },
       "notes": "Melhor equilíbrio entre bota, trilha, chuva e urbanidade para seu perfil.",
@@ -269,6 +287,16 @@
             "url": "https://www.amazon.com/Timberland-Maddsen-Anti-Fatigue-Wateproof-Full-Grain/dp/B0CPSKW8J9",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/boots_timberland_mt_maddsen_wp_brown_01/online-01.jpg",
+          "assets/boots_timberland_mt_maddsen_wp_brown_01/online-02.jpg",
+          "assets/boots_timberland_mt_maddsen_wp_brown_01/online-03.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_timberland_mt_maddsen_wp_brown_01/online-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_timberland_mt_maddsen_wp_brown_01/online-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_timberland_mt_maddsen_wp_brown_01/online-03.jpg"
         ]
       },
       "notes": "Provou funcionar em mochilão de 1 ano; estética outdoor.",
@@ -341,7 +369,9 @@
             "url": "https://www.timberland.ca/en-ca/p/men/footwear-10039/mens-redwood-falls-waterproof-boot-TB1A44MYF13",
             "role": "product"
           }
-        ]
+        ],
+        "publicImages": [],
+        "publicImageUrls": []
       },
       "notes": "Mais urbana que Mt. Maddsen; menos premium que Danner/AKU.",
       "modelConfidence": "medium",
@@ -413,6 +443,12 @@
             "url": "https://www.uniqlo.com/",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/down_uniqlo_grey_s_01/manual-01.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/down_uniqlo_grey_s_01/manual-01.jpg"
         ]
       },
       "notes": "Batida; manter para uso bruto e preservar a navy.",
@@ -485,6 +521,12 @@
             "url": "https://www.uniqlo.com/",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/down_uniqlo_navy_xs_01/manual-01.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/down_uniqlo_navy_xs_01/manual-01.jpg"
         ]
       },
       "notes": "Melhor caimento; preservar mais que a cinza.",
@@ -557,6 +599,12 @@
             "url": "https://www.uniqlo.com/us/en/products/E465203-000/00?colorDisplayCode=07&sizeDisplayCode=002",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/dry_ex_uv_hoodie_uniqlo_grey_01/manual-01.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/dry_ex_uv_hoodie_uniqlo_grey_01/manual-01.jpg"
         ]
       },
       "notes": "Candidato para camada de protecao solar e secagem rapida em clima quente, com zip para ventilacao e uso urbano/ativo.",
@@ -619,7 +667,13 @@
         "remoteImages": [
           "https://s.penatrilha.com.br/product/2024/12/jaqueta-de-isolamento-termico-microfleece-edge-masculina-black-para-inverno-solo-1.jpg?format=webp"
         ],
-        "sourceLinks": []
+        "sourceLinks": [],
+        "publicImages": [
+          "assets/fleece_inextenso_black_s_01/manual-01.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/fleece_inextenso_black_s_01/manual-01.jpg"
+        ]
       },
       "notes": "Fit excelente e apego alto; batido, mas difícil substituir.",
       "modelConfidence": "medium",
@@ -694,6 +748,16 @@
             "url": "https://www.havaianas.com/",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/flipflop_havaianas_01/online-01.jpg",
+          "assets/flipflop_havaianas_01/online-02.jpg",
+          "assets/flipflop_havaianas_01/online-03.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/flipflop_havaianas_01/online-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/flipflop_havaianas_01/online-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/flipflop_havaianas_01/online-03.jpg"
         ]
       },
       "notes": "Complemento simples para banho/praia.",
@@ -765,6 +829,12 @@
             "url": "https://www.uniqlo.com/au/en/products/E461003-000/00?colorDisplayCode=09&sizeDisplayCode=002",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/heattech_crew_neck_longsleeve_black_uniqlo_01/manual-01.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/heattech_crew_neck_longsleeve_black_uniqlo_01/manual-01.jpg"
         ]
       },
       "notes": "Candidato para ampliar rotacao de camada termica com cor preta mais facil de combinar.",
@@ -821,7 +891,9 @@
       "sourceLinks": [],
       "media": {
         "remoteImages": [],
-        "sourceLinks": []
+        "sourceLinks": [],
+        "publicImages": [],
+        "publicImageUrls": []
       },
       "notes": "Considerar somente se bike/trilha com sol forem frequentes.",
       "modelConfidence": "low",
@@ -880,7 +952,9 @@
       "sourceLinks": [],
       "media": {
         "remoteImages": [],
-        "sourceLinks": []
+        "sourceLinks": [],
+        "publicImages": [],
+        "publicImageUrls": []
       },
       "notes": "Muito funcional; visual chamativo e repetitivo em fotos.",
       "modelConfidence": "medium",
@@ -955,7 +1029,9 @@
             "url": "https://www.rei.com/product/236065/rei-co-op-sahara-convertible-pants-mens",
             "role": "product"
           }
-        ]
+        ],
+        "publicImages": [],
+        "publicImageUrls": []
       },
       "notes": "Muito versátil funcionalmente; visual cargo/zipper técnico.",
       "modelConfidence": "high",
@@ -1030,6 +1106,16 @@
             "url": "https://www.uniqlo.com/us/en/products/E475598-000/00?colorDisplayCode=08&sizeDisplayCode=002",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/pants_uniqlo_airism_stretch_darkgrey_01/manual-01.jpg",
+          "assets/pants_uniqlo_airism_stretch_darkgrey_01/manual-02.jpg",
+          "assets/pants_uniqlo_airism_stretch_darkgrey_01/manual-03.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_airism_stretch_darkgrey_01/manual-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_airism_stretch_darkgrey_01/manual-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_airism_stretch_darkgrey_01/manual-03.jpg"
         ]
       },
       "notes": "Calca regular fit com silhueta tapered, tecido nylon jersey leve e fresco ao toque; versatil para office/casual/travel e atividade leve. Acabamento water-repellent ajuda em chuva fraca (nao permanente). Bolsos funcionais.",
@@ -1102,6 +1188,12 @@
             "url": "https://www.uniqlo.com/us/en/products/E485744-000/00?colorDisplayCode=31&sizeDisplayCode=004",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/pants_uniqlo_airism_stretch_jogger_beige_01/manual-01.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_airism_stretch_jogger_beige_01/manual-01.jpg"
         ]
       },
       "notes": "Mesma família da cinza; boa para variação e clima quente. Também representa a peça identificada como Stretch Jogger bege.",
@@ -1174,6 +1266,12 @@
             "url": "https://www.uniqlo.com/us/en/products/E485744-000/00?colorDisplayCode=08&sizeDisplayCode=002",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/pants_uniqlo_ultra_stretch_active_jogger_darkgrey_01/manual-01.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_ultra_stretch_active_jogger_darkgrey_01/manual-01.jpg"
         ]
       },
       "notes": "Candidato para possivel troca do Ultra Stretch Active Jogger Pants atual visando ficar mais adequado para academia. Ainda ha duvida porque o jogger bege atual complementa bem a Ultra Stretch Pants cinza escuro; essa troca faz mais sentido se entrar tambem uma Ultra Stretch Pants bege (ja no catalogo).",
@@ -1233,7 +1331,9 @@
       "sourceLinks": [],
       "media": {
         "remoteImages": [],
-        "sourceLinks": []
+        "sourceLinks": [],
+        "publicImages": [],
+        "publicImageUrls": []
       },
       "notes": "Mesmo modelo/composição das outras Ultra Stretch. Boa peça para cliente, voo e jantar.",
       "modelConfidence": "medium",
@@ -1305,6 +1405,12 @@
             "url": "https://www.uniqlo.com/us/en/products/E467769-000/00?colorDisplayCode=32&sizeDisplayCode=004",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/pants_uniqlo_ultra_stretch_dry_ex_tapered_beige_01/manual-01.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_ultra_stretch_dry_ex_tapered_beige_01/manual-01.jpg"
         ]
       },
       "notes": "Candidato para versao mais tecnica e respiravel em tom bege, mantendo visual urbano limpo com silhueta tapered.",
@@ -1379,6 +1485,12 @@
             "url": "https://www.uniqlo.com/us/en/products/E478487-000/00?colorDisplayCode=32&sizeDisplayCode=004&pldDisplayCode=030",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/pants_uniqlo_ultra_stretch_tall_beige_01/manual-01.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_ultra_stretch_tall_beige_01/manual-01.jpg"
         ]
       },
       "notes": "Versao Tall com regular fit e silhueta tapered para melhor proporcao no comprimento. Tecido nylon jersey elastico e leve para dias longos de trabalho, viagem e uso casual. Acabamento water-repellent ajuda em umidade leve, mas nao e permanente.",
@@ -1452,6 +1564,12 @@
             "url": "https://vuoriclothing.com/products/strato-tech-polo-black?queryId=5f4a9f2ae28c8f1dad88ecd8640aafbf&collection=mens",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/polo_vuori_strato_black_01/manual-01.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/polo_vuori_strato_black_01/manual-01.jpg"
         ]
       },
       "notes": "Textura excelente, seca rápido, leve, quase perfeita.",
@@ -1525,7 +1643,9 @@
             "url": "https://www.teva.com/men-sandals/hurricane-xlt2-sandal/1019234.html",
             "role": "product"
           }
-        ]
+        ],
+        "publicImages": [],
+        "publicImageUrls": []
       },
       "notes": "Boa, mas pesada como complemento.",
       "modelConfidence": "high",
@@ -1596,7 +1716,9 @@
             "url": "https://www.decathlon.com.br/jaqueta-masculino-de-caminhada-corta-vento-resistente-a-agua-raincut-12-preto-preta-8862313-quechua/p?idsku=853230",
             "role": "product"
           }
-        ]
+        ],
+        "publicImages": [],
+        "publicImageUrls": []
       },
       "notes": "Muito compacta; meia abertura limita uso como shell principal.",
       "modelConfidence": "high",
@@ -1666,7 +1788,9 @@
             "url": "https://www.thenorthface.com/en-us/p/shop-all/jackets-701295/mens-alta-vista-jacket-NF0A7QAW",
             "role": "product"
           }
-        ]
+        ],
+        "publicImages": [],
+        "publicImageUrls": []
       },
       "notes": "Técnica e compacta; azul chama atenção em uso urbano.",
       "modelConfidence": "high",
@@ -1738,6 +1862,12 @@
             "url": "https://www.uniqlo.com/us/en/products/E482211-000/00?colorDisplayCode=69&sizeDisplayCode=002",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/shell_uniqlo_blocktech_navy_xs_01/manual-01.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shell_uniqlo_blocktech_navy_xs_01/manual-01.jpg"
         ]
       },
       "notes": "Compra candidata forte; melhor visual urbano que Alta Vista.",
@@ -1810,6 +1940,12 @@
             "url": "https://www.uniqlo.com/us/en/products/E486164-000/00?colorDisplayCode=09&sizeDisplayCode=002",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/shell_uniqlo_pocketable_01/manual-01.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shell_uniqlo_pocketable_01/manual-01.jpg"
         ]
       },
       "notes": "Cabe na shoulder bag; não contar como rain shell real.",
@@ -1869,7 +2005,9 @@
       "sourceLinks": [],
       "media": {
         "remoteImages": [],
-        "sourceLinks": []
+        "sourceLinks": [],
+        "publicImages": [],
+        "publicImageUrls": []
       },
       "notes": "Camisa casual de verão/praia. Menos coerente para cliente.",
       "modelConfidence": "medium",
@@ -1942,6 +2080,12 @@
             "url": "https://www.muji.eu/products/mens-flannel-shirt-20578?sku=4547315840304",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/shirt_muji_brown_s_01/manual-01.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_muji_brown_s_01/manual-01.jpg"
         ]
       },
       "notes": "Flanela 100% algodao com toque macio interno e externo. Regular fit bom para layering: pode usar aberta como sobrecamisa leve ou fechada como camisa. Boa para ambientes internos e clima ameno/frio leve.",
@@ -2002,7 +2146,9 @@
       "sourceLinks": [],
       "media": {
         "remoteImages": [],
-        "sourceLinks": []
+        "sourceLinks": [],
+        "publicImages": [],
+        "publicImageUrls": []
       },
       "notes": "Camisa casual-profissional navy. Melhor fit que a UNIQLO Super Non-Iron M. Boa para cliente, jantar e layering.",
       "modelConfidence": "medium",
@@ -2060,7 +2206,9 @@
       "sourceLinks": [],
       "media": {
         "remoteImages": [],
-        "sourceLinks": []
+        "sourceLinks": [],
+        "publicImages": [],
+        "publicImageUrls": []
       },
       "notes": "Camisa de alfaiate usada no casamento. Punho formal/para abotoadura. Formal demais para cápsula casual, mas importante no módulo social.",
       "modelConfidence": "medium",
@@ -2138,6 +2286,18 @@
             "url": "https://www.uniqlo.com/us/en/products/E455957-000/00?colorDisplayCode=57&sizeDisplayCode=002",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/shirt_uniqlo_premium_linen_tbd_01/manual-01.jpg",
+          "assets/shirt_uniqlo_premium_linen_tbd_01/manual-02.jpg",
+          "assets/shirt_uniqlo_premium_linen_tbd_01/manual-03.jpg",
+          "assets/shirt_uniqlo_premium_linen_tbd_01/manual-04.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_uniqlo_premium_linen_tbd_01/manual-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_uniqlo_premium_linen_tbd_01/manual-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_uniqlo_premium_linen_tbd_01/manual-03.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_uniqlo_premium_linen_tbd_01/manual-04.jpg"
         ]
       },
       "notes": "Camisa de linho premium bestseller para clima quente, respiravel e com visual limpo para uso urbano/viagem. Cor final ainda a definir entre olive, green, navy ou natural.",
@@ -2197,7 +2357,9 @@
       "sourceLinks": [],
       "media": {
         "remoteImages": [],
-        "sourceLinks": []
+        "sourceLinks": [],
+        "publicImages": [],
+        "publicImageUrls": []
       },
       "notes": "Camisa social/corporativa navy. Gola com botões, bolso no peito. Fit parece mais amplo/alongado que a MUJI navy.",
       "modelConfidence": "medium",
@@ -2256,7 +2418,9 @@
       "sourceLinks": [],
       "media": {
         "remoteImages": [],
-        "sourceLinks": []
+        "sourceLinks": [],
+        "publicImages": [],
+        "publicImageUrls": []
       },
       "notes": "Você confirmou que é Vuori. Boa para calor, passeio e cliente casual.",
       "modelConfidence": "medium",
@@ -2332,6 +2496,16 @@
             "url": "https://www.aku.com/",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-01.jpg",
+          "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-02.jpg",
+          "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-03.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-03.jpg"
         ]
       },
       "notes": "Melhor visual urbano discreto entre candidatos; low shoe com menos suporte que bota.",
@@ -2407,6 +2581,16 @@
             "url": "https://cnscalcados.com.br/produtos/sapato-social-masculino-oxford-cns-austin-17358/",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/shoes_cns_austin_oxford_17358_01/online-01.jpg",
+          "assets/shoes_cns_austin_oxford_17358_01/online-02.jpg",
+          "assets/shoes_cns_austin_oxford_17358_01/online-03.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_cns_austin_oxford_17358_01/online-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_cns_austin_oxford_17358_01/online-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_cns_austin_oxford_17358_01/online-03.jpg"
         ]
       },
       "notes": "Usado no casamento; só entra quando formalidade exige.",
@@ -2480,6 +2664,16 @@
             "url": "https://www.danner.com/trail-2650-suede-black-shadow-gtx.html",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/shoes_danner_trail2650_gtx_black_shadow_01/online-01.jpg",
+          "assets/shoes_danner_trail2650_gtx_black_shadow_01/online-02.jpg",
+          "assets/shoes_danner_trail2650_gtx_black_shadow_01/online-03.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_danner_trail2650_gtx_black_shadow_01/online-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_danner_trail2650_gtx_black_shadow_01/online-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_danner_trail2650_gtx_black_shadow_01/online-03.jpg"
         ]
       },
       "notes": "Boa opção leve, mas visual mais técnico e menos bota.",
@@ -2555,6 +2749,14 @@
             "url": "https://www.democrata.com.br/",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/shoes_democrata_dune_hisoft_298202_01/online-01.jpg",
+          "assets/shoes_democrata_dune_hisoft_298202_01/online-02.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_democrata_dune_hisoft_298202_01/online-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_democrata_dune_hisoft_298202_01/online-02.jpg"
         ]
       },
       "notes": "Pode ser redundante com CNS em alguns eventos, mas mais descontraído.",
@@ -2628,6 +2830,12 @@
             "url": "https://www.amazon.com/Nike-Pegasus-Running-DV3864-002-Anthracite/dp/B0D1YFQ3DH/ref=sr_1_1?crid=30SVX8HUTY89K&dib=eyJ2IjoiMSJ9.paLSyh8isONKvPGxhd4QE8LY_Wb3673u_wKplvL6bsIdPHU8ZkUrpqTTW1V_noGbOQN9TT3cOJdRNfQUqvHsr5H3ppWx1bzM_MxjZBX6SaqA_-AhynwmAEJsu9OJzoVXqdwLrgQpHvQ3tPOHQfETitSQpTCsqsWEI7l33yGKQkkrP92c12LgcmDlIjou5LWkieZSGbiC6UCZLlGAn_v572l8zBgP15oUzAFTluBp_Hc.4QsShftIQLu4bYxI-kmZTF_WGIZ6czoxRP2GWEqvv0w&dib_tag=se&keywords=Nike%2BPegasus%2BTrail%2B5&qid=1782939282&s=digital-text&sprefix=nike%2Bpegasus%2Btrail%2B5%2B%2Cdigital-text%2C209&sr=1-1&th=1&psc=1",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/shoes_nike_pegasus_trail_5_01/manual-01.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_nike_pegasus_trail_5_01/manual-01.jpg"
         ]
       },
       "notes": "Boa para corrida; risco de não dar firmeza que você gosta.",
@@ -2700,6 +2908,12 @@
             "url": "https://www.salomon.com/",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/shoes_salomon_xultra_mid_gtx_black_01/online-01.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_salomon_xultra_mid_gtx_black_01/online-01.jpg"
         ]
       },
       "notes": "Melhor tecnicamente, pior para visual urbano.",
@@ -2775,6 +2989,16 @@
             "url": "https://www.nike.com/",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/shorts_nike_running_01/online-01.jpg",
+          "assets/shorts_nike_running_01/online-02.jpg",
+          "assets/shorts_nike_running_01/online-03.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shorts_nike_running_01/online-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shorts_nike_running_01/online-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shorts_nike_running_01/online-03.jpg"
         ]
       },
       "notes": "Leve e fácil de carregar; pouco stylish.",
@@ -2834,7 +3058,9 @@
       "sourceLinks": [],
       "media": {
         "remoteImages": [],
-        "sourceLinks": []
+        "sourceLinks": [],
+        "publicImages": [],
+        "publicImageUrls": []
       },
       "notes": "Bermuda casual de verão. Boa para passeio/calor, não para cliente.",
       "modelConfidence": "medium",
@@ -2906,6 +3132,12 @@
             "url": "https://www.uniqlo.com/au/en/products/E478680-000/00?colorDisplayCode=31&sizeDisplayCode=002",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/shorts_uniqlo_stretch_easy_beige_01/manual-01.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shorts_uniqlo_stretch_easy_beige_01/manual-01.jpg"
         ]
       },
       "notes": "Candidate buy de shorts para calor com proposta simples e versatil. Cor bege pode funcionar como alternativa neutra para travel e uso casual.",
@@ -2983,6 +3215,12 @@
             "url": "https://www.uniqlo.com/us/en/products/E477753-000/00?colorDisplayCode=09&sizeDisplayCode=004",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/shorts_uniqlo_ultra_stretch_active_5in_black_01/manual-01.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shorts_uniqlo_ultra_stretch_active_5in_black_01/manual-01.jpg"
         ]
       },
       "notes": "Short regular fit com entreperna 5in, tecido leve com secagem rapida DRY-EX e elasticidade em todas as direcoes. Bom para treino e dias quentes, com bolsos de zip e acabamento limpo sem volume.",
@@ -3042,7 +3280,9 @@
       "sourceLinks": [],
       "media": {
         "remoteImages": [],
-        "sourceLinks": []
+        "sourceLinks": [],
+        "publicImages": [],
+        "publicImageUrls": []
       },
       "notes": "Levar só em viagem longa/frio/hospedagem fixa.",
       "modelConfidence": "low",
@@ -3116,6 +3356,16 @@
             "url": "https://www.pegada.com.br/",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/sneaker_pegada_119405_darkdune_01/online-01.jpg",
+          "assets/sneaker_pegada_119405_darkdune_01/online-02.jpg",
+          "assets/sneaker_pegada_119405_darkdune_01/online-03.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_pegada_119405_darkdune_01/online-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_pegada_119405_darkdune_01/online-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_pegada_119405_darkdune_01/online-03.jpg"
         ]
       },
       "notes": "Intermediário casual; não é trilha nem formal real.",
@@ -3175,7 +3425,9 @@
       "sourceLinks": [],
       "media": {
         "remoteImages": [],
-        "sourceLinks": []
+        "sourceLinks": [],
+        "publicImages": [],
+        "publicImageUrls": []
       },
       "notes": "Sapatênis/sneaker com zíper lateral, cadarço elástico e sola branca. Foi o calçado testado nos looks.",
       "modelConfidence": "medium",
@@ -3250,6 +3502,16 @@
             "url": "https://www.cnscalcados.com.br/",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/socks_cns_modal_social_01/online-01.jpg",
+          "assets/socks_cns_modal_social_01/online-02.jpg",
+          "assets/socks_cns_modal_social_01/online-03.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/socks_cns_modal_social_01/online-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/socks_cns_modal_social_01/online-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/socks_cns_modal_social_01/online-03.jpg"
         ]
       },
       "notes": "Mantém coerência visual com CNS/Democrata.",
@@ -3324,6 +3586,16 @@
             "url": "https://www.decathlon.com.br/",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/socks_decathlon_hiking_01/online-01.jpg",
+          "assets/socks_decathlon_hiking_01/online-02.jpg",
+          "assets/socks_decathlon_hiking_01/online-03.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/socks_decathlon_hiking_01/online-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/socks_decathlon_hiking_01/online-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/socks_decathlon_hiking_01/online-03.jpg"
         ]
       },
       "notes": "Essenciais com Timberland e trilhas.",
@@ -3401,6 +3673,12 @@
             "url": "https://www.uniqlo.com/us/en/products/E450535-000/00?colorDisplayCode=69&sizeDisplayCode=003",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/sweater_uniqlo_merino_black_01/manual-01.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sweater_uniqlo_merino_black_01/manual-01.jpg"
         ]
       },
       "notes": "Design simples e versatil para uso urbano. La merino extra-fina com toque suave e brilho discreto; mantem conforto termico e respirabilidade. Lavavel em maquina (ciclo suave, ideal lavar do avesso em saco) com tratamento anti-pilling.",
@@ -3474,6 +3752,12 @@
             "url": "https://www.uniqlo.com/us/en/products/E482514-000/00?colorDisplayCode=09&sizeDisplayCode=002",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/tee_uniqlo_airism_crew_black_01/manual-01.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/tee_uniqlo_airism_crew_black_01/manual-01.jpg"
         ]
       },
       "notes": "Comprar 1 para testar; pode substituir undershirt em usos mais visíveis.",
@@ -3547,6 +3831,12 @@
             "url": "https://www.uniqlo.com/au/en/products/E465187-000/01?colorDisplayCode=09&sizeDisplayCode=002",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/tee_uniqlo_dry_color_black_xs_01/manual-01.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/tee_uniqlo_dry_color_black_xs_01/manual-01.jpg"
         ]
       },
       "notes": "Ótima para visual programador; comprar várias se o caimento atual for consistente.",
@@ -3624,6 +3914,12 @@
             "url": "https://www.uniqlo.com/au/en/products/E482299-000/00?colorDisplayCode=09&sizeDisplayCode=002",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/tee_uniqlo_dry_ex_black_01/manual-01.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/tee_uniqlo_dry_ex_black_01/manual-01.jpg"
         ]
       },
       "notes": "Camiseta regular fit com DRY-EX de secagem rapida, malha respiravel nas laterais e centro das costas, tecido suave com brilho discreto e design com poucas costuras aparentes. Boa para dias ativos, calor, viagem e uso urbano casual.",
@@ -3682,7 +3978,9 @@
       "sourceLinks": [],
       "media": {
         "remoteImages": [],
-        "sourceLinks": []
+        "sourceLinks": [],
+        "publicImages": [],
+        "publicImageUrls": []
       },
       "notes": "Camiseta corporativa com logo Factored. Mais discreta que a branca, mas ainda casual.",
       "modelConfidence": "medium",
@@ -3741,7 +4039,9 @@
       "sourceLinks": [],
       "media": {
         "remoteImages": [],
-        "sourceLinks": []
+        "sourceLinks": [],
+        "publicImages": [],
+        "publicImageUrls": []
       },
       "notes": "Camiseta corporativa com logo Factored. Melhor para eventos internos, hotel ou casual; menos indicada para cliente.",
       "modelConfidence": "medium",
@@ -3800,7 +4100,9 @@
       "sourceLinks": [],
       "media": {
         "remoteImages": [],
-        "sourceLinks": []
+        "sourceLinks": [],
+        "publicImages": [],
+        "publicImageUrls": []
       },
       "notes": "Camiseta lisa sem estampa. Base útil para voo, layering e looks casuais.",
       "modelConfidence": "medium",
@@ -3858,7 +4160,9 @@
       "sourceLinks": [],
       "media": {
         "remoteImages": [],
-        "sourceLinks": []
+        "sourceLinks": [],
+        "publicImages": [],
+        "publicImageUrls": []
       },
       "notes": "Camiseta lisa sem estampa. Redundante com a preta, mas útil como base.",
       "modelConfidence": "medium",
@@ -3926,7 +4230,9 @@
             "url": "https://www.uniqlo.com/us/en/products/E454311-000/00?colorDisplayCode=09&sizeDisplayCode=004",
             "role": "product"
           }
-        ]
+        ],
+        "publicImages": [],
+        "publicImageUrls": []
       },
       "notes": "Muito leve; feia para usar sozinha; não serve bem para academia.",
       "modelConfidence": "high",
@@ -3996,6 +4302,12 @@
             "url": "https://uniqlo.com/au/en/products/E482556-000/00?colorDisplayCode=09",
             "role": "product"
           }
+        ],
+        "publicImages": [
+          "assets/underwear_uniqlo_01/manual-01.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/underwear_uniqlo_01/manual-01.jpg"
         ]
       },
       "notes": "Confirmar modelo e quantidade.",

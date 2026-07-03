@@ -48,7 +48,9 @@
   "sourceLinks": [],
   "media": {
     "remoteImages": [],
-    "sourceLinks": []
+    "sourceLinks": [],
+    "publicImages": [],
+    "publicImageUrls": []
   },
   "notes": "Considerar somente se bike/trilha com sol forem frequentes.",
   "modelConfidence": "low",

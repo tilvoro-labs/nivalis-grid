@@ -64,6 +64,12 @@
         "url": "https://www.uniqlo.com/us/en/products/E465203-000/00?colorDisplayCode=07&sizeDisplayCode=002",
         "role": "product"
       }
+    ],
+    "publicImages": [
+      "assets/dry_ex_uv_hoodie_uniqlo_grey_01/manual-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/dry_ex_uv_hoodie_uniqlo_grey_01/manual-01.jpg"
     ]
   },
   "notes": "Candidato para camada de protecao solar e secagem rapida em clima quente, com zip para ventilacao e uso urbano/ativo.",

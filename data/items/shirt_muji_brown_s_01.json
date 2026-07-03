@@ -65,6 +65,12 @@
         "url": "https://www.muji.eu/products/mens-flannel-shirt-20578?sku=4547315840304",
         "role": "product"
       }
+    ],
+    "publicImages": [
+      "assets/shirt_muji_brown_s_01/manual-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_muji_brown_s_01/manual-01.jpg"
     ]
   },
   "notes": "Flanela 100% algodao com toque macio interno e externo. Regular fit bom para layering: pode usar aberta como sobrecamisa leve ou fechada como camisa. Boa para ambientes internos e clima ameno/frio leve.",

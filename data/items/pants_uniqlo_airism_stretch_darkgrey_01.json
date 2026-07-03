@@ -67,6 +67,16 @@
         "url": "https://www.uniqlo.com/us/en/products/E475598-000/00?colorDisplayCode=08&sizeDisplayCode=002",
         "role": "product"
       }
+    ],
+    "publicImages": [
+      "assets/pants_uniqlo_airism_stretch_darkgrey_01/manual-01.jpg",
+      "assets/pants_uniqlo_airism_stretch_darkgrey_01/manual-02.jpg",
+      "assets/pants_uniqlo_airism_stretch_darkgrey_01/manual-03.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_airism_stretch_darkgrey_01/manual-01.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_airism_stretch_darkgrey_01/manual-02.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_airism_stretch_darkgrey_01/manual-03.jpg"
     ]
   },
   "notes": "Calca regular fit com silhueta tapered, tecido nylon jersey leve e fresco ao toque; versatil para office/casual/travel e atividade leve. Acabamento water-repellent ajuda em chuva fraca (nao permanente). Bolsos funcionais.",

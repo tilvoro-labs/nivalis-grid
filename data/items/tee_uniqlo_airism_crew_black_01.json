@@ -65,6 +65,12 @@
         "url": "https://www.uniqlo.com/us/en/products/E482514-000/00?colorDisplayCode=09&sizeDisplayCode=002",
         "role": "product"
       }
+    ],
+    "publicImages": [
+      "assets/tee_uniqlo_airism_crew_black_01/manual-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/tee_uniqlo_airism_crew_black_01/manual-01.jpg"
     ]
   },
   "notes": "Comprar 1 para testar; pode substituir undershirt em usos mais visíveis.",

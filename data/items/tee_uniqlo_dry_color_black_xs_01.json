@@ -65,6 +65,12 @@
         "url": "https://www.uniqlo.com/au/en/products/E465187-000/01?colorDisplayCode=09&sizeDisplayCode=002",
         "role": "product"
       }
+    ],
+    "publicImages": [
+      "assets/tee_uniqlo_dry_color_black_xs_01/manual-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/tee_uniqlo_dry_color_black_xs_01/manual-01.jpg"
     ]
   },
   "notes": "Ótima para visual programador; comprar várias se o caimento atual for consistente.",

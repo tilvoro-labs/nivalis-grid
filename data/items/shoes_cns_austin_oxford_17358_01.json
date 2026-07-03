@@ -67,6 +67,16 @@
         "url": "https://cnscalcados.com.br/produtos/sapato-social-masculino-oxford-cns-austin-17358/",
         "role": "product"
       }
+    ],
+    "publicImages": [
+      "assets/shoes_cns_austin_oxford_17358_01/online-01.jpg",
+      "assets/shoes_cns_austin_oxford_17358_01/online-02.jpg",
+      "assets/shoes_cns_austin_oxford_17358_01/online-03.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_cns_austin_oxford_17358_01/online-01.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_cns_austin_oxford_17358_01/online-02.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_cns_austin_oxford_17358_01/online-03.jpg"
     ]
   },
   "notes": "Usado no casamento; só entra quando formalidade exige.",

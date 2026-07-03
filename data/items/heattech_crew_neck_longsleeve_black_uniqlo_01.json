@@ -63,6 +63,12 @@
         "url": "https://www.uniqlo.com/au/en/products/E461003-000/00?colorDisplayCode=09&sizeDisplayCode=002",
         "role": "product"
       }
+    ],
+    "publicImages": [
+      "assets/heattech_crew_neck_longsleeve_black_uniqlo_01/manual-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/heattech_crew_neck_longsleeve_black_uniqlo_01/manual-01.jpg"
     ]
   },
   "notes": "Candidato para ampliar rotacao de camada termica com cor preta mais facil de combinar.",

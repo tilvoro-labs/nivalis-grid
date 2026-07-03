@@ -51,7 +51,9 @@
   "sourceLinks": [],
   "media": {
     "remoteImages": [],
-    "sourceLinks": []
+    "sourceLinks": [],
+    "publicImages": [],
+    "publicImageUrls": []
   },
   "notes": "Levar só em viagem longa/frio/hospedagem fixa.",
   "modelConfidence": "low",

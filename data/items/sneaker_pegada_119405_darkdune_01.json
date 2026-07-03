@@ -66,6 +66,16 @@
         "url": "https://www.pegada.com.br/",
         "role": "product"
       }
+    ],
+    "publicImages": [
+      "assets/sneaker_pegada_119405_darkdune_01/online-01.jpg",
+      "assets/sneaker_pegada_119405_darkdune_01/online-02.jpg",
+      "assets/sneaker_pegada_119405_darkdune_01/online-03.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_pegada_119405_darkdune_01/online-01.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_pegada_119405_darkdune_01/online-02.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_pegada_119405_darkdune_01/online-03.jpg"
     ]
   },
   "notes": "Intermediário casual; não é trilha nem formal real.",

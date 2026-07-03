@@ -69,6 +69,12 @@
         "url": "https://www.uniqlo.com/au/en/products/E482299-000/00?colorDisplayCode=09&sizeDisplayCode=002",
         "role": "product"
       }
+    ],
+    "publicImages": [
+      "assets/tee_uniqlo_dry_ex_black_01/manual-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/tee_uniqlo_dry_ex_black_01/manual-01.jpg"
     ]
   },
   "notes": "Camiseta regular fit com DRY-EX de secagem rapida, malha respiravel nas laterais e centro das costas, tecido suave com brilho discreto e design com poucas costuras aparentes. Boa para dias ativos, calor, viagem e uso urbano casual.",

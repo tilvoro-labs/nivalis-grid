@@ -69,6 +69,12 @@
         "url": "https://www.uniqlo.com/us/en/products/E450535-000/00?colorDisplayCode=69&sizeDisplayCode=003",
         "role": "product"
       }
+    ],
+    "publicImages": [
+      "assets/sweater_uniqlo_merino_black_01/manual-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sweater_uniqlo_merino_black_01/manual-01.jpg"
     ]
   },
   "notes": "Design simples e versatil para uso urbano. La merino extra-fina com toque suave e brilho discreto; mantem conforto termico e respirabilidade. Lavavel em maquina (ciclo suave, ideal lavar do avesso em saco) com tratamento anti-pilling.",

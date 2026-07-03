@@ -64,6 +64,12 @@
         "url": "https://www.uniqlo.com/us/en/products/E482211-000/00?colorDisplayCode=69&sizeDisplayCode=002",
         "role": "product"
       }
+    ],
+    "publicImages": [
+      "assets/shell_uniqlo_blocktech_navy_xs_01/manual-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shell_uniqlo_blocktech_navy_xs_01/manual-01.jpg"
     ]
   },
   "notes": "Compra candidata forte; melhor visual urbano que Alta Vista.",

@@ -64,6 +64,12 @@
         "url": "https://www.uniqlo.com/us/en/products/E485744-000/00?colorDisplayCode=31&sizeDisplayCode=004",
         "role": "product"
       }
+    ],
+    "publicImages": [
+      "assets/pants_uniqlo_airism_stretch_jogger_beige_01/manual-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_airism_stretch_jogger_beige_01/manual-01.jpg"
     ]
   },
   "notes": "Mesma família da cinza; boa para variação e clima quente. Também representa a peça identificada como Stretch Jogger bege.",

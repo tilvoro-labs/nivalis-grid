@@ -65,6 +65,12 @@
         "url": "https://vuoriclothing.com/products/strato-tech-polo-black?queryId=5f4a9f2ae28c8f1dad88ecd8640aafbf&collection=mens",
         "role": "product"
       }
+    ],
+    "publicImages": [
+      "assets/polo_vuori_strato_black_01/manual-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/polo_vuori_strato_black_01/manual-01.jpg"
     ]
   },
   "notes": "Textura excelente, seca rápido, leve, quase perfeita.",

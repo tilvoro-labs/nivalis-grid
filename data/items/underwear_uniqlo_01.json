@@ -62,6 +62,12 @@
         "url": "https://uniqlo.com/au/en/products/E482556-000/00?colorDisplayCode=09",
         "role": "product"
       }
+    ],
+    "publicImages": [
+      "assets/underwear_uniqlo_01/manual-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/underwear_uniqlo_01/manual-01.jpg"
     ]
   },
   "notes": "Confirmar modelo e quantidade.",
