@@ -1,0 +1,59 @@
+{
+  "id": "slippers_lightweight_01",
+  "status": "owned",
+  "name": "Pantufas leves",
+  "brand": "TBD",
+  "model": "Lightweight slippers",
+  "module": "Indoor/Comfort",
+  "category": "footwear",
+  "subcategory": "Slippers",
+  "layerType": "Footwear",
+  "size": null,
+  "color": "?",
+  "colorFamily": [
+    "neutral"
+  ],
+  "materialTech": "TBD",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "low"
+  },
+  "bestUse": [
+    "Casa",
+    "hospedagem",
+    "frio leve",
+    "descanso"
+  ],
+  "avoidUse": [
+    "Rua",
+    "água",
+    "outdoor"
+  ],
+  "scores": {
+    "urban": 0,
+    "formal": 0,
+    "outdoor": 0,
+    "rain": 0,
+    "cold": 2,
+    "hot": 1,
+    "bike": 0,
+    "water": 0,
+    "packability": 4,
+    "comfort": 4,
+    "style": 1,
+    "urbanTravel": 1.8,
+    "outdoorFinal": 1,
+    "travelPack": 2.5
+  },
+  "role": "Conforto indoor",
+  "purchaseAction": "Trip-specific",
+  "priority": "low",
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": []
+  },
+  "notes": "Levar só em viagem longa/frio/hospedagem fixa.",
+  "modelConfidence": "low",
+  "gapOrRedundancy": "Specific use"
+}

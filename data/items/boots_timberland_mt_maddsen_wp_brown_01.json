@@ -1,0 +1,76 @@
+{
+  "id": "boots_timberland_mt_maddsen_wp_brown_01",
+  "status": "owned",
+  "name": "Timberland Mt. Maddsen Waterproof Hiking Boot",
+  "brand": "Timberland",
+  "model": "Mt. Maddsen Waterproof",
+  "module": "Outdoor Core",
+  "category": "footwear",
+  "subcategory": "Hiking boot",
+  "layerType": "Footwear",
+  "size": null,
+  "color": "Marrom",
+  "colorFamily": [
+    "earth"
+  ],
+  "materialTech": "Couro waterproof + membrana impermeável",
+  "weight": {
+    "estimatedGrams": 1000,
+    "confidence": "medium"
+  },
+  "bestUse": [
+    "Trilha",
+    "frio",
+    "chuva",
+    "mochilão",
+    "terreno irregular"
+  ],
+  "avoidUse": [
+    "Corrida",
+    "calor intenso",
+    "reunião/formal"
+  ],
+  "scores": {
+    "urban": 2,
+    "formal": 1,
+    "outdoor": 4,
+    "rain": 4,
+    "cold": 4,
+    "hot": 1.5,
+    "bike": 1.5,
+    "water": 1,
+    "packability": 0.5,
+    "comfort": 4,
+    "style": 2,
+    "urbanTravel": 1.9,
+    "outdoorFinal": 2.9,
+    "travelPack": 2.6
+  },
+  "role": "Bota robusta principal",
+  "purchaseAction": "Keep",
+  "priority": "high",
+  "sourceLinks": [
+    {
+      "label": "Timberland",
+      "url": "https://www.amazon.com/Timberland-Maddsen-Anti-Fatigue-Wateproof-Full-Grain/dp/B0CPSKW8J9",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "https://m.media-amazon.com/images/G/01/share-icons/previewdoh/amazon.png",
+      "https://m.media-amazon.com/images/G/01/social_share/amazon_logo._CB635397845_.png",
+      "https://m.media-amazon.com/images/G/01/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB779528203_.png"
+    ],
+    "sourceLinks": [
+      {
+        "label": "Timberland",
+        "url": "https://www.amazon.com/Timberland-Maddsen-Anti-Fatigue-Wateproof-Full-Grain/dp/B0CPSKW8J9",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Provou funcionar em mochilão de 1 ano; estética outdoor.",
+  "modelConfidence": "high",
+  "gapOrRedundancy": "Worn-only in travel pack"
+}

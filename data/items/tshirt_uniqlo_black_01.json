@@ -1,0 +1,59 @@
+{
+  "id": "tshirt_uniqlo_black_01",
+  "status": "owned",
+  "name": "UNIQLO camiseta lisa preta",
+  "brand": "UNIQLO",
+  "model": "Camiseta lisa preta",
+  "module": "Urban Core",
+  "category": "top",
+  "subcategory": "T-shirt",
+  "layerType": "Base visible",
+  "size": "Não visível",
+  "color": "Preta",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": "Provável algodão ou cotton/poly blend; se for DRY Color: 66% cotton / 34% polyester",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "low"
+  },
+  "bestUse": [
+    "Voo",
+    "layering",
+    "looks casuais",
+    "dia a dia"
+  ],
+  "avoidUse": [
+    "Evento formal",
+    "trilha técnica",
+    "cliente formal"
+  ],
+  "scores": {
+    "urban": 3.8,
+    "formal": 1,
+    "outdoor": 1,
+    "rain": 0.5,
+    "cold": 1,
+    "hot": 2,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 4,
+    "comfort": 3.5,
+    "style": 3.8,
+    "urbanTravel": 3.8,
+    "outdoorFinal": 1.5,
+    "travelPack": 4
+  },
+  "role": "Base urbana preta",
+  "purchaseAction": "Keep",
+  "priority": "high",
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": []
+  },
+  "notes": "Camiseta lisa sem estampa. Base útil para voo, layering e looks casuais.",
+  "modelConfidence": "medium",
+  "gapOrRedundancy": "Possível redundância intencional com DRY Color preta."
+}

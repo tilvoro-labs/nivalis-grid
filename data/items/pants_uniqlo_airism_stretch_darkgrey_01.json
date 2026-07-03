@@ -1,0 +1,75 @@
+{
+  "id": "pants_uniqlo_airism_stretch_darkgrey_01",
+  "status": "owned",
+  "name": "UNIQLO Ultra Stretch Pants dark gray",
+  "brand": "UNIQLO",
+  "model": "Ultra Stretch Pants (Product ID 475598 / 482928)",
+  "module": "Urban Core",
+  "category": "bottom",
+  "subcategory": "Pants",
+  "layerType": "Bottom",
+  "size": "MEN XS",
+  "color": "08 DARK GRAY",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": "79% Nylon, 21% Spandex; nylon jersey; water-repellent finish",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "low"
+  },
+  "bestUse": [
+    "Viagem",
+    "home office",
+    "cidade",
+    "smart casual leve"
+  ],
+  "avoidUse": [
+    "Look formal com meia/canela aparecendo"
+  ],
+  "scores": {
+    "urban": 4,
+    "formal": 3,
+    "outdoor": 1.5,
+    "rain": 1,
+    "cold": 2,
+    "hot": 3,
+    "bike": 1,
+    "water": 1,
+    "packability": 4,
+    "comfort": 5,
+    "style": 4,
+    "urbanTravel": 4,
+    "outdoorFinal": 2.1,
+    "travelPack": 4.3
+  },
+  "role": "Calca tapered versatil para office/travel",
+  "purchaseAction": "Keep",
+  "priority": "high",
+  "sourceLinks": [
+    {
+      "label": "UNIQLO",
+      "url": "https://www.uniqlo.com/us/en/products/E475598-000/00?colorDisplayCode=08&sizeDisplayCode=002",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/475598/sub/goods_475598_sub14_3x4.jpg?width=400",
+      "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/475598/item/usgoods_08_475598_3x4.jpg?width=400",
+      "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/475598/sub/goods_475598_sub11_3x4.jpg?width=400",
+      "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/475598/feature/usgoods_475598_feature6.jpg",
+      "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/475598/feature/usgoods_475598_feature7.jpg"
+    ],
+    "sourceLinks": [
+      {
+        "label": "UNIQLO",
+        "url": "https://www.uniqlo.com/us/en/products/E475598-000/00?colorDisplayCode=08&sizeDisplayCode=002",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Calca regular fit com silhueta tapered, tecido nylon jersey leve e fresco ao toque; versatil para office/casual/travel e atividade leve. Acabamento water-repellent ajuda em chuva fraca (nao permanente). Bolsos funcionais.",
+  "modelConfidence": "high",
+  "gapOrRedundancy": "Comprimento curto para alguns looks formais; em troca ganha mobilidade e conforto no uso urbano."
+}

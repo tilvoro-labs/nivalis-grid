@@ -1,0 +1,78 @@
+{
+  "id": "shirt_uniqlo_premium_linen_tbd_01",
+  "status": "candidate_buy",
+  "name": "UNIQLO Premium Linen Shirt",
+  "brand": "UNIQLO",
+  "model": "Premium Linen Shirt (Product ID 455957)",
+  "module": "Urban Core",
+  "category": "top",
+  "subcategory": "Shirt",
+  "layerType": "Smart casual top",
+  "size": "MEN XS",
+  "color": "TBD: OLIVE / GREEN / NAVY / NATURAL",
+  "colorFamily": [
+    "earth",
+    "dark",
+    "neutral"
+  ],
+  "materialTech": "100% Linen",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "high"
+  },
+  "bestUse": [
+    "Cidade",
+    "viagem",
+    "calor",
+    "smart casual",
+    "layering leve"
+  ],
+  "avoidUse": [
+    "Frio sem camada",
+    "trilha pesada"
+  ],
+  "scores": {
+    "urban": 4,
+    "formal": 3.5,
+    "outdoor": 1.5,
+    "rain": 0.5,
+    "cold": 1,
+    "hot": 4.5,
+    "bike": 1,
+    "water": 0.5,
+    "packability": 3.5,
+    "comfort": 4.5,
+    "style": 4.2,
+    "urbanTravel": 4,
+    "outdoorFinal": 2,
+    "travelPack": 4.1
+  },
+  "role": "Camisa de linho versatil para calor e visual arrumado",
+  "purchaseAction": "Buy 1 after choosing final color",
+  "priority": "medium",
+  "sourceLinks": [
+    {
+      "label": "UNIQLO",
+      "url": "https://www.uniqlo.com/us/en/products/E455957-000/00?colorDisplayCode=57&sizeDisplayCode=002",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/455957/item/usgoods_57_455957_3x4.jpg?width=400",
+      "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/455957/item/usgoods_30_455957_3x4.jpg?width=400",
+      "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/455957/item/usgoods_51_455957_3x4.jpg?width=400",
+      "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/455957/sub/usgoods_455957_sub3_3x4.jpg?width=400"
+    ],
+    "sourceLinks": [
+      {
+        "label": "UNIQLO",
+        "url": "https://www.uniqlo.com/us/en/products/E455957-000/00?colorDisplayCode=57&sizeDisplayCode=002",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Camisa de linho premium bestseller para clima quente, respiravel e com visual limpo para uso urbano/viagem. Cor final ainda a definir entre olive, green, navy ou natural.",
+  "modelConfidence": "high",
+  "gapOrRedundancy": "Pode sobrepor camisas casuais atuais; ganho principal e conforto termico em calor com look arrumado."
+}

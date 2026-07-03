@@ -1,0 +1,72 @@
+{
+  "id": "shoes_salomon_xultra_mid_gtx_black_01",
+  "status": "archived",
+  "name": "Salomon X Ultra Mid GTX preto",
+  "brand": "Salomon",
+  "model": "X Ultra Mid GTX / Pioneer GTX",
+  "module": "Outdoor Core",
+  "category": "footwear",
+  "subcategory": "Technical hiking boot/shoe",
+  "layerType": "Footwear",
+  "size": null,
+  "color": "Preto",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": "GORE-TEX + hiking chassis",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "medium"
+  },
+  "bestUse": [
+    "Estabilidade",
+    "chuva",
+    "trilha",
+    "descida"
+  ],
+  "avoidUse": [
+    "Visual urbano",
+    "calor"
+  ],
+  "scores": {
+    "urban": 2.5,
+    "formal": 0.5,
+    "outdoor": 4.5,
+    "rain": 4.5,
+    "cold": 3,
+    "hot": 1.5,
+    "bike": 1,
+    "water": 1,
+    "packability": 0.5,
+    "comfort": 4,
+    "style": 2.5,
+    "urbanTravel": 2,
+    "outdoorFinal": 2.8,
+    "travelPack": 2.9
+  },
+  "role": "Opção técnica de trilha",
+  "purchaseAction": "Only if trail > urban",
+  "priority": "medium",
+  "sourceLinks": [
+    {
+      "label": "Salomon",
+      "url": "https://www.salomon.com/",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "https://images.ctfassets.net/7iktyqnb7v9e/NaCUCROLT7JdUHR1DbdLz/7300b544936b592ba95df22734c19460/Hiking-shoes.jpg"
+    ],
+    "sourceLinks": [
+      {
+        "label": "Salomon",
+        "url": "https://www.salomon.com/",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Melhor tecnicamente, pior para visual urbano.",
+  "modelConfidence": "medium",
+  "gapOrRedundancy": "Technical visual"
+}

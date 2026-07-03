@@ -1,0 +1,59 @@
+{
+  "id": "shirt_vuori_short_sleeve_bluegrey_01",
+  "status": "owned",
+  "name": "Vuori camisa manga curta azul acinzentada",
+  "brand": "Vuori",
+  "model": "Short sleeve shirt",
+  "module": "Urban Core / Hot Weather",
+  "category": "top",
+  "subcategory": "Short sleeve shirt",
+  "layerType": "Hot weather smart casual top",
+  "size": "Não visível",
+  "color": "Azul acinzentado / slate blue",
+  "colorFamily": [
+    "neutral"
+  ],
+  "materialTech": "Provável tecido técnico leve; material não confirmado",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "low"
+  },
+  "bestUse": [
+    "Calor",
+    "passeio",
+    "cliente casual",
+    "viagem urbana quente"
+  ],
+  "avoidUse": [
+    "Evento formal rígido",
+    "frio",
+    "trilha pesada"
+  ],
+  "scores": {
+    "urban": 4,
+    "formal": 2.8,
+    "outdoor": 1,
+    "rain": 0.5,
+    "cold": 1,
+    "hot": 4.5,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 4,
+    "comfort": 3.5,
+    "style": 4,
+    "urbanTravel": 4,
+    "outdoorFinal": 1.5,
+    "travelPack": 4
+  },
+  "role": "Camisa técnica casual para calor",
+  "purchaseAction": "Keep",
+  "priority": "high",
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": []
+  },
+  "notes": "Você confirmou que é Vuori. Boa para calor, passeio e cliente casual.",
+  "modelConfidence": "medium",
+  "gapOrRedundancy": "Boa peça quente com ponte casual/cliente."
+}

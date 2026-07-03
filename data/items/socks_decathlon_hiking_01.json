@@ -1,0 +1,74 @@
+{
+  "id": "socks_decathlon_hiking_01",
+  "status": "owned",
+  "name": "Meias técnicas hiking Decathlon",
+  "brand": "Decathlon",
+  "model": "Hiking socks",
+  "module": "Outdoor Core",
+  "category": "accessory",
+  "subcategory": "Socks",
+  "layerType": "Socks",
+  "size": null,
+  "color": "?",
+  "colorFamily": [
+    "neutral"
+  ],
+  "materialTech": "Synthetic/wool blend TBD",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "low"
+  },
+  "bestUse": [
+    "Trilha",
+    "frio",
+    "bota",
+    "caminhada longa"
+  ],
+  "avoidUse": [
+    "Sapato social",
+    "calor intenso se grossas"
+  ],
+  "scores": {
+    "urban": 1,
+    "formal": 0,
+    "outdoor": 4,
+    "rain": 1,
+    "cold": 3,
+    "hot": 1,
+    "bike": 1,
+    "water": 1,
+    "packability": 4,
+    "comfort": 4,
+    "style": 1,
+    "urbanTravel": 2,
+    "outdoorFinal": 2.1,
+    "travelPack": 3.3
+  },
+  "role": "Outdoor socks",
+  "purchaseAction": "Keep",
+  "priority": "high",
+  "sourceLinks": [
+    {
+      "label": "Decathlon",
+      "url": "https://www.decathlon.com.br/",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "https://decathlonstore.vteximg.com.br/arquivos/logo_og.png",
+      "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/6f083146-b23c-4b9b-8fa4-a4dffe4d7ff3___9edc794483d3b3969f2730041a90c1e5.png",
+      "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/034d70be-8d99-4e8c-9e5b-64f1de9b852f___c0000f3324659e3c6572ee8f200b01c5.png"
+    ],
+    "sourceLinks": [
+      {
+        "label": "Decathlon",
+        "url": "https://www.decathlon.com.br/",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Essenciais com Timberland e trilhas.",
+  "modelConfidence": "low",
+  "gapOrRedundancy": "Specialized socks"
+}

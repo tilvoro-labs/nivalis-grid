@@ -1,0 +1,73 @@
+{
+  "id": "shirt_muji_brown_s_01",
+  "status": "owned",
+  "name": "MUJI Men's Flannel Shirt brown",
+  "brand": "MUJI",
+  "model": "Men's Flannel Shirt (4547315590643)",
+  "module": "Formal/Social",
+  "category": "top",
+  "subcategory": "Shirt",
+  "layerType": "Smart casual top",
+  "size": "MEN S",
+  "color": "Brown",
+  "colorFamily": [
+    "earth"
+  ],
+  "materialTech": "Brushed 100% cotton flannel (both sides)",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "medium"
+  },
+  "bestUse": [
+    "Videochamada",
+    "sair à noite",
+    "frio leve",
+    "look casual arrumado"
+  ],
+  "avoidUse": [
+    "Trilha",
+    "chuva",
+    "calor intenso"
+  ],
+  "scores": {
+    "urban": 3.5,
+    "formal": 3.5,
+    "outdoor": 1,
+    "rain": 0.5,
+    "cold": 2,
+    "hot": 1,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 3,
+    "comfort": 3,
+    "style": 3.5,
+    "urbanTravel": 3.3,
+    "outdoorFinal": 1.2,
+    "travelPack": 3.3
+  },
+  "role": "Camisa flanela regular fit para layering urbano",
+  "purchaseAction": "Keep",
+  "priority": "medium",
+  "sourceLinks": [
+    {
+      "label": "MUJI",
+      "url": "https://www.muji.eu/products/mens-flannel-shirt-20578?sku=4547315840304",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "https://cdn11.bigcommerce.com/s-36unquhwg5/images/stencil/1280x1280/products/10874/2609868/P-AC20R-F-000000-085001__53437.1762512184.jpg?c=1"
+    ],
+    "sourceLinks": [
+      {
+        "label": "MUJI",
+        "url": "https://www.muji.eu/products/mens-flannel-shirt-20578?sku=4547315840304",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Flanela 100% algodao com toque macio interno e externo. Regular fit bom para layering: pode usar aberta como sobrecamisa leve ou fechada como camisa. Boa para ambientes internos e clima ameno/frio leve.",
+  "modelConfidence": "high",
+  "gapOrRedundancy": "Fit regular pode parecer amplo dependendo da composicao; peca focada em conforto e versatilidade casual."
+}

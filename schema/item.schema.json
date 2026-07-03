@@ -1,0 +1,97 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Wardrobe Item",
+  "type": "object",
+  "required": [
+    "id",
+    "status",
+    "name",
+    "category",
+    "colorFamily",
+    "bestUse",
+    "avoidUse",
+    "scores",
+    "media"
+  ],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9_]+$" },
+    "status": {
+      "type": "string",
+      "enum": [
+        "owned",
+        "owned_buy_more",
+        "candidate_buy",
+        "maybe_replace",
+        "trip_specific",
+        "archived"
+      ]
+    },
+    "name": { "type": "string", "minLength": 1 },
+    "brand": { "type": ["string", "null"] },
+    "model": { "type": ["string", "null"] },
+    "module": { "type": ["string", "null"] },
+    "category": {
+      "type": "string",
+      "enum": ["top", "bottom", "outerwear", "footwear", "underwear", "accessory"]
+    },
+    "subcategory": { "type": ["string", "null"] },
+    "layerType": { "type": ["string", "null"] },
+    "size": { "type": ["string", "null"] },
+    "color": { "type": ["string", "null"] },
+    "colorFamily": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["dark", "neutral", "earth", "bright", "graphic"]
+      },
+      "minItems": 1
+    },
+    "materialTech": { "type": ["string", "null"] },
+    "weight": {
+      "type": "object",
+      "required": ["estimatedGrams", "confidence"],
+      "properties": {
+        "estimatedGrams": { "type": ["number", "null"], "minimum": 0 },
+        "confidence": { "type": "string", "enum": ["low", "medium", "high", "unknown"] }
+      },
+      "additionalProperties": false
+    },
+    "bestUse": { "type": "array", "items": { "type": "string" } },
+    "avoidUse": { "type": "array", "items": { "type": "string" } },
+    "scores": {
+      "type": "object",
+      "additionalProperties": { "type": ["number", "null"] }
+    },
+    "role": { "type": ["string", "null"] },
+    "purchaseAction": { "type": ["string", "null"] },
+    "priority": { "type": "string", "enum": ["low", "medium", "high", "unknown"] },
+    "sourceLinks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["url", "role"],
+        "properties": {
+          "label": { "type": "string" },
+          "url": { "type": "string" },
+          "role": { "type": "string" }
+        },
+        "additionalProperties": false
+      }
+    },
+    "media": {
+      "type": "object",
+      "required": ["localPhotos", "remoteImages", "photoReferences"],
+      "properties": {
+        "localPhotos": { "type": "array" },
+        "remoteImages": { "type": "array" },
+        "photoReferences": { "type": "array" }
+      },
+      "additionalProperties": false
+    },
+    "notes": { "type": ["string", "null"] },
+    "modelConfidence": { "type": "string", "enum": ["low", "medium", "high", "unknown"] },
+    "gapOrRedundancy": { "type": ["string", "null"] },
+    "importSource": { "type": "object" }
+  },
+  "additionalProperties": false
+}

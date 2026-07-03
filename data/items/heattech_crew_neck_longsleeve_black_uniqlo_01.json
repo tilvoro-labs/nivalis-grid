@@ -1,0 +1,71 @@
+{
+  "id": "heattech_crew_neck_longsleeve_black_uniqlo_01",
+  "status": "candidate_buy",
+  "name": "UNIQLO HEATTECH Crew Neck Long Sleeve T-Shirt black",
+  "brand": "UNIQLO",
+  "model": "HEATTECH Crew Neck Long Sleeve T-Shirt (Product ID 461003 family)",
+  "module": "Thermal Layering",
+  "category": "top",
+  "subcategory": "Base layer",
+  "layerType": "Base thermal",
+  "size": "MEN XS",
+  "color": "09 BLACK",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": "40% Polyester, 32% Acrylic, 21% Viscose, 7% Elastane; ultra stretch",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "high"
+  },
+  "bestUse": [
+    "Camada base no frio leve/moderado",
+    "viagem",
+    "uso diario em clima frio"
+  ],
+  "avoidUse": [
+    "Calor",
+    "uso formal sem camada"
+  ],
+  "scores": {
+    "urban": 2.5,
+    "formal": 1.5,
+    "outdoor": 2.5,
+    "rain": 0.5,
+    "cold": 3.5,
+    "hot": 0.5,
+    "bike": 1,
+    "water": 0.5,
+    "packability": 4.5,
+    "comfort": 4,
+    "style": 2,
+    "urbanTravel": 3,
+    "outdoorFinal": 2,
+    "travelPack": 3.6
+  },
+  "role": "Base layer termica preta",
+  "purchaseAction": "Buy 1 to test warmth and layering",
+  "priority": "medium",
+  "sourceLinks": [
+    {
+      "label": "UNIQLO",
+      "url": "https://www.uniqlo.com/au/en/products/E461003-000/00?colorDisplayCode=09&sizeDisplayCode=002",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/461003/item/augoods_09_461003_3x4.jpg?width=400"
+    ],
+    "sourceLinks": [
+      {
+        "label": "UNIQLO",
+        "url": "https://www.uniqlo.com/au/en/products/E461003-000/00?colorDisplayCode=09&sizeDisplayCode=002",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Candidato para ampliar rotacao de camada termica com cor preta mais facil de combinar.",
+  "modelConfidence": "high",
+  "gapOrRedundancy": "Pode sobrepor o HEATTECH owned na cor cinza; foco e variacao de cor e rotacao."
+}

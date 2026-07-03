@@ -1,0 +1,76 @@
+{
+  "id": "shoes_aku_bellamont_iv_nbk_gtx_black_grey_01",
+  "status": "candidate_buy",
+  "name": "AKU Bellamont IV NBK GTX black-grey",
+  "brand": "AKU",
+  "model": "Bellamont IV NBK GTX",
+  "module": "Urban Core",
+  "category": "footwear",
+  "subcategory": "Urban-outdoor GTX shoe",
+  "layerType": "Footwear",
+  "size": "EU 38?",
+  "color": "Black-grey",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": "Nubuck/leather + GORE-TEX",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "medium"
+  },
+  "bestUse": [
+    "Cidade",
+    "viagem",
+    "chuva urbana",
+    "trilha leve",
+    "caminhada longa"
+  ],
+  "avoidUse": [
+    "Trilha pesada",
+    "lama intensa",
+    "formal"
+  ],
+  "scores": {
+    "urban": 4.5,
+    "formal": 2.5,
+    "outdoor": 3,
+    "rain": 4,
+    "cold": 2.5,
+    "hot": 2,
+    "bike": 1,
+    "water": 1,
+    "packability": 1,
+    "comfort": 4,
+    "style": 4.5,
+    "urbanTravel": 3.3,
+    "outdoorFinal": 2.5,
+    "travelPack": 3.5
+  },
+  "role": "Urban-outdoor low shoe",
+  "purchaseAction": "Test before buy",
+  "priority": "high",
+  "sourceLinks": [
+    {
+      "label": "AKU",
+      "url": "https://www.aku.com/",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "http://www.aku.com/cdn/shop/files/Scarpe_da_escursionismo_AKU.jpg?v=1773670450&width=2048",
+      "https://www.aku.com/cdn/shop/files/Scarpe_da_escursionismo_AKU.jpg?v=1773670450&width=2048",
+      "https://www.aku.com/cdn/shop/files/Scarpe_da_escursionismo_AKU.jpg?crop=center&height=1200&v=1773670450&width=1200"
+    ],
+    "sourceLinks": [
+      {
+        "label": "AKU",
+        "url": "https://www.aku.com/",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Melhor visual urbano discreto entre candidatos; low shoe com menos suporte que bota.",
+  "modelConfidence": "medium",
+  "gapOrRedundancy": "Low shoe not boot"
+}

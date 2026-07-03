@@ -1,0 +1,70 @@
+{
+  "id": "underwear_uniqlo_01",
+  "status": "owned",
+  "name": "Cuecas UNIQLO",
+  "brand": "UNIQLO",
+  "model": "Underwear",
+  "module": "Laundry / Base",
+  "category": "underwear",
+  "subcategory": "Briefs/boxer briefs",
+  "layerType": "Underwear",
+  "size": null,
+  "color": "?",
+  "colorFamily": [
+    "neutral"
+  ],
+  "materialTech": "AIRism/cotton blend TBD",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "low"
+  },
+  "bestUse": [
+    "Viagem",
+    "uso diário",
+    "rotação de lavanderia"
+  ],
+  "avoidUse": [
+    "N/A"
+  ],
+  "scores": {
+    "urban": 1,
+    "formal": 0,
+    "outdoor": 1,
+    "rain": 0,
+    "cold": 1,
+    "hot": 3,
+    "bike": 1,
+    "water": 1,
+    "packability": 5,
+    "comfort": 4,
+    "style": 1,
+    "urbanTravel": 2.2,
+    "outdoorFinal": 1.6,
+    "travelPack": 3.3
+  },
+  "role": "Core underwear",
+  "purchaseAction": "Keep",
+  "priority": "high",
+  "sourceLinks": [
+    {
+      "label": "UNIQLO",
+      "url": "https://uniqlo.com/au/en/products/E482556-000/00?colorDisplayCode=09",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482556/item/goods_09_482556_3x4.jpg?width=400"
+    ],
+    "sourceLinks": [
+      {
+        "label": "UNIQLO",
+        "url": "https://uniqlo.com/au/en/products/E482556-000/00?colorDisplayCode=09",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Confirmar modelo e quantidade.",
+  "modelConfidence": "low",
+  "gapOrRedundancy": "Core duplicate"
+}

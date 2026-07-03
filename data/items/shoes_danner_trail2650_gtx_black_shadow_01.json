@@ -1,0 +1,73 @@
+{
+  "id": "shoes_danner_trail2650_gtx_black_shadow_01",
+  "status": "candidate_buy",
+  "name": "Danner Trail 2650 GTX Black Shadow",
+  "brand": "Danner",
+  "model": "Trail 2650 GTX",
+  "module": "Bike/Active",
+  "category": "footwear",
+  "subcategory": "Trail shoe",
+  "layerType": "Footwear",
+  "size": null,
+  "color": "Black Shadow",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": "GORE-TEX + Vibram",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "medium"
+  },
+  "bestUse": [
+    "Caminhada longa",
+    "trilha leve/média",
+    "viagem ativa"
+  ],
+  "avoidUse": [
+    "Formal",
+    "suporte de tornozelo"
+  ],
+  "scores": {
+    "urban": 3.5,
+    "formal": 1,
+    "outdoor": 3.5,
+    "rain": 4,
+    "cold": 2,
+    "hot": 2.5,
+    "bike": 2,
+    "water": 1,
+    "packability": 1.5,
+    "comfort": 4,
+    "style": 3.5,
+    "urbanTravel": 2.7,
+    "outdoorFinal": 2.7,
+    "travelPack": 3.1
+  },
+  "role": "Exploração leve",
+  "purchaseAction": "Test before buy",
+  "priority": "medium",
+  "sourceLinks": [
+    {
+      "label": "Danner",
+      "url": "https://www.danner.com/trail-2650-suede-black-shadow-gtx.html",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "https://i.lfi.media/is/image/LaCrosse/danner_13_pdp/61296",
+      "https://i.lfi.media/is/image/LaCrosse/danner_22_pdp/61296",
+      "https://i.lfi.media/is/image/LaCrosse/danner_22_pdp/61296_Q"
+    ],
+    "sourceLinks": [
+      {
+        "label": "Danner",
+        "url": "https://www.danner.com/trail-2650-suede-black-shadow-gtx.html",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Boa opção leve, mas visual mais técnico e menos bota.",
+  "modelConfidence": "high",
+  "gapOrRedundancy": "Less ankle support"
+}

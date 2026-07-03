@@ -1,0 +1,71 @@
+{
+  "id": "shell_quechua_raincut_halfzip_black_01",
+  "status": "owned",
+  "name": "Quechua Raincut 1/2 preta",
+  "brand": "Decathlon / Quechua",
+  "model": "Raincut 1/2",
+  "module": "Outdoor Core",
+  "category": "outerwear",
+  "subcategory": "Emergency rain shell",
+  "layerType": "Shell",
+  "size": null,
+  "color": "Preta",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": "Impermeável leve, half zip",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "high"
+  },
+  "bestUse": [
+    "Mochila de escalada",
+    "trilha curta",
+    "emergência",
+    "chuva eventual"
+  ],
+  "avoidUse": [
+    "Uso urbano",
+    "ventilação",
+    "vestir/tirar rápido"
+  ],
+  "scores": {
+    "urban": 1.5,
+    "formal": 0.5,
+    "outdoor": 3,
+    "rain": 3.5,
+    "cold": 1,
+    "hot": 1,
+    "bike": 1,
+    "water": 1,
+    "packability": 4.5,
+    "comfort": 3,
+    "style": 1.5,
+    "urbanTravel": 2.2,
+    "outdoorFinal": 1.9,
+    "travelPack": 3
+  },
+  "role": "Emergency rain shell",
+  "purchaseAction": "Keep",
+  "priority": "medium",
+  "sourceLinks": [
+    {
+      "label": "Decathlon / Quechua",
+      "url": "https://www.decathlon.com.br/jaqueta-masculino-de-caminhada-corta-vento-resistente-a-agua-raincut-12-preto-preta-8862313-quechua/p?idsku=853230",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": [
+      {
+        "label": "Decathlon / Quechua",
+        "url": "https://www.decathlon.com.br/jaqueta-masculino-de-caminhada-corta-vento-resistente-a-agua-raincut-12-preto-preta-8862313-quechua/p?idsku=853230",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Muito compacta; meia abertura limita uso como shell principal.",
+  "modelConfidence": "high",
+  "gapOrRedundancy": "Half zip limitation"
+}

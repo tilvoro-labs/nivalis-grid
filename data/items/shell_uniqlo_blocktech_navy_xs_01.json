@@ -1,0 +1,72 @@
+{
+  "id": "shell_uniqlo_blocktech_navy_xs_01",
+  "status": "candidate_buy",
+  "name": "UNIQLO BLOCKTECH Parka",
+  "brand": "UNIQLO",
+  "model": "BLOCKTECH Parka",
+  "module": "Urban Core",
+  "category": "outerwear",
+  "subcategory": "Rain/wind shell",
+  "layerType": "Shell",
+  "size": "XS",
+  "color": "Navy / preto / grafite",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": "BLOCKTECH water resistant, windproof, breathable, stretch",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "medium"
+  },
+  "bestUse": [
+    "Cidade",
+    "chuva urbana",
+    "frio leve",
+    "viagem"
+  ],
+  "avoidUse": [
+    "Chuva longa/pesada",
+    "trilha agressiva"
+  ],
+  "scores": {
+    "urban": 4,
+    "formal": 3.5,
+    "outdoor": 2.5,
+    "rain": 3.5,
+    "cold": 2.5,
+    "hot": 1,
+    "bike": 1,
+    "water": 1,
+    "packability": 3.5,
+    "comfort": 4.5,
+    "style": 4,
+    "urbanTravel": 3.9,
+    "outdoorFinal": 2.3,
+    "travelPack": 4
+  },
+  "role": "Shell urbana principal",
+  "purchaseAction": "Test/buy if fit confirmed",
+  "priority": "high",
+  "sourceLinks": [
+    {
+      "label": "UNIQLO",
+      "url": "https://www.uniqlo.com/us/en/products/E482211-000/00?colorDisplayCode=69&sizeDisplayCode=002",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482211/item/usgoods_69_482211_3x4.jpg?width=400"
+    ],
+    "sourceLinks": [
+      {
+        "label": "UNIQLO",
+        "url": "https://www.uniqlo.com/us/en/products/E482211-000/00?colorDisplayCode=69&sizeDisplayCode=002",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Compra candidata forte; melhor visual urbano que Alta Vista.",
+  "modelConfidence": "medium",
+  "gapOrRedundancy": "Own not yet"
+}

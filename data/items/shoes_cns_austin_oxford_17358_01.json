@@ -1,0 +1,75 @@
+{
+  "id": "shoes_cns_austin_oxford_17358_01",
+  "status": "owned",
+  "name": "CNS Austin Oxford social",
+  "brand": "CNS",
+  "model": "Austin 17358",
+  "module": "Formal/Social",
+  "category": "footwear",
+  "subcategory": "Oxford shoe",
+  "layerType": "Footwear",
+  "size": null,
+  "color": "?",
+  "colorFamily": [
+    "dark",
+    "earth"
+  ],
+  "materialTech": "Couro",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "low"
+  },
+  "bestUse": [
+    "Casamento",
+    "evento formal",
+    "reunião formal"
+  ],
+  "avoidUse": [
+    "Caminhada longa",
+    "trilha",
+    "chuva"
+  ],
+  "scores": {
+    "urban": 3,
+    "formal": 5,
+    "outdoor": 0,
+    "rain": 0.5,
+    "cold": 1,
+    "hot": 1,
+    "bike": 0,
+    "water": 0,
+    "packability": 0.5,
+    "comfort": 3,
+    "style": 4.5,
+    "urbanTravel": 3.2,
+    "outdoorFinal": 0.8,
+    "travelPack": 2.8
+  },
+  "role": "Sapato formal clássico",
+  "purchaseAction": "Keep",
+  "priority": "high",
+  "sourceLinks": [
+    {
+      "label": "CNS",
+      "url": "https://cnscalcados.com.br/produtos/sapato-social-masculino-oxford-cns-austin-17358/",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "http://acdn-us.mitiendanube.com/stores/006/838/903/products/22-3639065c984b707d9217640774240485-640-0.webp",
+      "https://acdn-us.mitiendanube.com/stores/006/838/903/products/22-3639065c984b707d9217640774240485-640-0.webp",
+      "https://acdn-us.mitiendanube.com/stores/006/838/903/products/128-025c1f928a30b9189c17646116036414-480-0.webp"
+    ],
+    "sourceLinks": [
+      {
+        "label": "CNS",
+        "url": "https://cnscalcados.com.br/produtos/sapato-social-masculino-oxford-cns-austin-17358/",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Usado no casamento; só entra quando formalidade exige.",
+  "modelConfidence": "medium",
+  "gapOrRedundancy": "Formal only"
+}

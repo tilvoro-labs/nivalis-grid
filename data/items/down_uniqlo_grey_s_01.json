@@ -1,0 +1,72 @@
+{
+  "id": "down_uniqlo_grey_s_01",
+  "status": "owned",
+  "name": "Jaqueta down UNIQLO cinza",
+  "brand": "UNIQLO",
+  "model": "Ultra Light Down / Extra Warm old model",
+  "module": "Thermal Layering",
+  "category": "outerwear",
+  "subcategory": "Down jacket",
+  "layerType": "Insulation",
+  "size": "S",
+  "color": "Cinza",
+  "colorFamily": [
+    "neutral"
+  ],
+  "materialTech": "Nylon + down mínimo 90%",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "medium"
+  },
+  "bestUse": [
+    "Trilha",
+    "casa",
+    "frio",
+    "uso sem dó"
+  ],
+  "avoidUse": [
+    "Visual urbano limpo",
+    "trilha com risco de rasgo"
+  ],
+  "scores": {
+    "urban": 2,
+    "formal": 1.5,
+    "outdoor": 3.5,
+    "rain": 1,
+    "cold": 4,
+    "hot": 0.5,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 5,
+    "comfort": 4,
+    "style": 2,
+    "urbanTravel": 2.9,
+    "outdoorFinal": 2,
+    "travelPack": 3.6
+  },
+  "role": "Beater down",
+  "purchaseAction": "Keep",
+  "priority": "high",
+  "sourceLinks": [
+    {
+      "label": "UNIQLO",
+      "url": "https://www.uniqlo.com/",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/459621/item/goods_05_459621_3x4.jpg?width=600"
+    ],
+    "sourceLinks": [
+      {
+        "label": "UNIQLO",
+        "url": "https://www.uniqlo.com/",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Batida; manter para uso bruto e preservar a navy.",
+  "modelConfidence": "medium",
+  "gapOrRedundancy": "Beater item"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "baselayer_uniqlo_merino_light_01",
+  "status": "owned",
+  "name": "UNIQLO HEATTECH Crew Neck Long Sleeve T-Shirt",
+  "brand": "UNIQLO",
+  "model": "HEATTECH Crew Neck Long Sleeve T-Shirt (Product ID 479428 / 472909 / 469977 / 461003)",
+  "module": "Thermal Layering",
+  "category": "top",
+  "subcategory": "Base layer",
+  "layerType": "Base thermal",
+  "size": null,
+  "color": "08 DARK GRAY",
+  "colorFamily": [
+    "neutral"
+  ],
+  "materialTech": "40% Polyester, 32% Acrylic, 21% Viscose, 7% Elastane (40% recycled polyester); ultra stretch",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "medium"
+  },
+  "bestUse": [
+    "Layering",
+    "dormir",
+    "frio leve/moderado",
+    "trilha fria leve"
+  ],
+  "avoidUse": [
+    "Usar como peça social visível"
+  ],
+  "scores": {
+    "urban": 2.5,
+    "formal": 1.5,
+    "outdoor": 3,
+    "rain": 0.5,
+    "cold": 3,
+    "hot": 1,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 4.5,
+    "comfort": 4,
+    "style": 2,
+    "urbanTravel": 2.9,
+    "outdoorFinal": 1.8,
+    "travelPack": 3.4
+  },
+  "role": "Base térmica core",
+  "purchaseAction": "Keep",
+  "priority": "high",
+  "sourceLinks": [
+    {
+      "label": "UNIQLO",
+      "url": "https://www.uniqlo.com/au/en/products/E461003-000/00?colorDisplayCode=08&sizeDisplayCode=004",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/461003/sub/goods_461003_sub14_3x4.jpg?width=400",
+      "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/461003/feature/augoods_461003_feature2.jpg",
+      "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/461003/feature/augoods_461003_feature4.jpg"
+    ],
+    "sourceLinks": [
+      {
+        "label": "UNIQLO",
+        "url": "https://www.uniqlo.com/au/en/products/E461003-000/00?colorDisplayCode=08&sizeDisplayCode=004",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Nao e merino: base HEATTECH sintetica com toque suave, elasticidade alta e conforto termico para camada interna em frio leve/moderado. Lavagem suave em maquina; sem dry clean.",
+  "modelConfidence": "high",
+  "gapOrRedundancy": "Camada interna termica dedicada; pouca relevancia como peca externa."
+}

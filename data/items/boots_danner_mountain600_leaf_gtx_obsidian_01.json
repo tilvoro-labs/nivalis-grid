@@ -1,0 +1,76 @@
+{
+  "id": "boots_danner_mountain600_leaf_gtx_obsidian_01",
+  "status": "candidate_buy",
+  "name": "Danner Mountain 600 Leaf GTX Obsidian/Kangaroo",
+  "brand": "Danner",
+  "model": "Mountain 600 Leaf GTX",
+  "module": "Urban Core",
+  "category": "footwear",
+  "subcategory": "Urban hiking boot",
+  "layerType": "Footwear",
+  "size": null,
+  "color": "Obsidian/Kangaroo",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": "Leather + GORE-TEX + Vibram",
+  "weight": {
+    "estimatedGrams": 1020,
+    "confidence": "medium"
+  },
+  "bestUse": [
+    "Cidade",
+    "trilha",
+    "chuva",
+    "frio",
+    "viagem com bota única"
+  ],
+  "avoidUse": [
+    "Calor intenso",
+    "formal real",
+    "importação/custo"
+  ],
+  "scores": {
+    "urban": 4,
+    "formal": 2.5,
+    "outdoor": 4,
+    "rain": 4.5,
+    "cold": 3.5,
+    "hot": 1.5,
+    "bike": 1.5,
+    "water": 1,
+    "packability": 0.5,
+    "comfort": 4.5,
+    "style": 4,
+    "urbanTravel": 3.1,
+    "outdoorFinal": 2.9,
+    "travelPack": 3.3
+  },
+  "role": "Bota urbano-rugged premium",
+  "purchaseAction": "Test before buy",
+  "priority": "high",
+  "sourceLinks": [
+    {
+      "label": "Danner",
+      "url": "https://www.danner.com/mountain-600-leaf-4-5-obsidian-kangaroo-gtx-m.html",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "https://i.lfi.media/is/image/LaCrosse/danner_13_pdp/62306",
+      "https://i.lfi.media/is/image/LaCrosse/danner_22_pdp/62306",
+      "https://i.lfi.media/is/image/LaCrosse/danner_22_pdp/62306_Q"
+    ],
+    "sourceLinks": [
+      {
+        "label": "Danner",
+        "url": "https://www.danner.com/mountain-600-leaf-4-5-obsidian-kangaroo-gtx-m.html",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Melhor equilíbrio entre bota, trilha, chuva e urbanidade para seu perfil.",
+  "modelConfidence": "high",
+  "gapOrRedundancy": "Expensive/import"
+}

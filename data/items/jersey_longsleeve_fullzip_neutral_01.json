@@ -1,0 +1,56 @@
+{
+  "id": "jersey_longsleeve_fullzip_neutral_01",
+  "status": "archived",
+  "name": "Jersey manga longa neutra full zip",
+  "brand": "TBD",
+  "model": "Full zip cycling jersey",
+  "module": "Bike/Active",
+  "category": "top",
+  "subcategory": "Cycling jersey",
+  "layerType": "Active sun layer",
+  "size": null,
+  "color": "Preta/grafite/navy",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": "Poliéster técnico, UV preferencial",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "low"
+  },
+  "bestUse": [
+    "Bike",
+    "trilha com sol",
+    "fotos menos repetitivas"
+  ],
+  "avoidUse": [
+    "Compra redundante se pouco uso"
+  ],
+  "scores": {
+    "urban": 1.5,
+    "formal": 0,
+    "outdoor": 3.5,
+    "rain": 0.5,
+    "cold": 2,
+    "hot": 3.5,
+    "bike": 4.5,
+    "water": 1,
+    "packability": 4,
+    "comfort": 4,
+    "style": 2.5,
+    "urbanTravel": 2.4,
+    "outdoorFinal": 2.7,
+    "travelPack": 3.8
+  },
+  "role": "Neutral bike jersey",
+  "purchaseAction": "Consider if bike use frequent",
+  "priority": "medium",
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": []
+  },
+  "notes": "Considerar somente se bike/trilha com sol forem frequentes.",
+  "modelConfidence": "low",
+  "gapOrRedundancy": "Reduz repetição visual"
+}

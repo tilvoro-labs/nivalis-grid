@@ -1,0 +1,74 @@
+{
+  "id": "pants_uniqlo_ultra_stretch_tall_beige_01",
+  "status": "candidate_buy",
+  "name": "UNIQLO Ultra Stretch Pants Tall beige",
+  "brand": "UNIQLO",
+  "model": "Ultra Stretch Pants Tall (Product ID 482930 / 478487)",
+  "module": "Urban Core",
+  "category": "bottom",
+  "subcategory": "Pants",
+  "layerType": "Bottom",
+  "size": null,
+  "color": "32 BEIGE",
+  "colorFamily": [
+    "earth"
+  ],
+  "materialTech": "79% Nylon, 21% Spandex; stretchy nylon jersey; water-repellent finish",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "medium"
+  },
+  "bestUse": [
+    "Trabalho",
+    "viagem",
+    "deslocamento urbano",
+    "camadas leves em clima ameno"
+  ],
+  "avoidUse": [
+    "Chuva forte",
+    "frio intenso sem camada"
+  ],
+  "scores": {
+    "urban": 4,
+    "formal": 3,
+    "outdoor": 2,
+    "rain": 1.5,
+    "cold": 2,
+    "hot": 3,
+    "bike": 1.5,
+    "water": 1,
+    "packability": 4,
+    "comfort": 4.5,
+    "style": 4,
+    "urbanTravel": 4.1,
+    "outdoorFinal": 2.4,
+    "travelPack": 4.2
+  },
+  "role": "Calca tapered tall para uso diario versatil",
+  "purchaseAction": "Buy 1 to validate fit and inseam",
+  "priority": "high",
+  "sourceLinks": [
+    {
+      "label": "UNIQLO",
+      "url": "https://www.uniqlo.com/us/en/products/E478487-000/00?colorDisplayCode=32&sizeDisplayCode=004&pldDisplayCode=030",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/478487/item/usgoods_32_478487_3x4.jpg?width=400",
+      "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/478487/feature/usgoods_478487_feature6.jpg",
+      "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/478487/feature/usgoods_478487_feature7.jpg"
+    ],
+    "sourceLinks": [
+      {
+        "label": "UNIQLO",
+        "url": "https://www.uniqlo.com/us/en/products/E478487-000/00?colorDisplayCode=32&sizeDisplayCode=004&pldDisplayCode=030",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Versao Tall com regular fit e silhueta tapered para melhor proporcao no comprimento. Tecido nylon jersey elastico e leve para dias longos de trabalho, viagem e uso casual. Acabamento water-repellent ajuda em umidade leve, mas nao e permanente.",
+  "modelConfidence": "high",
+  "gapOrRedundancy": "Pode sobrepor a Ultra Stretch atual; valor principal e inseam mais longo e proporcao melhor."
+}

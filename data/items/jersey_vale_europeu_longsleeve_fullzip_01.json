@@ -1,0 +1,59 @@
+{
+  "id": "jersey_vale_europeu_longsleeve_fullzip_01",
+  "status": "archived",
+  "name": "Jersey manga longa Vale Europeu",
+  "brand": "Evento / Vale Europeu",
+  "model": "Jersey cicloturismo",
+  "module": "Bike/Active",
+  "category": "top",
+  "subcategory": "Cycling jersey",
+  "layerType": "Active sun layer",
+  "size": null,
+  "color": "Multicolorida",
+  "colorFamily": [
+    "graphic"
+  ],
+  "materialTech": "Provável poliéster técnico dry fit",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "medium"
+  },
+  "bestUse": [
+    "Ciclismo",
+    "cicloturismo",
+    "sol",
+    "trilha exposta"
+  ],
+  "avoidUse": [
+    "Cidade",
+    "fotos discretas",
+    "social"
+  ],
+  "scores": {
+    "urban": 0.5,
+    "formal": 0,
+    "outdoor": 3.5,
+    "rain": 0.5,
+    "cold": 2,
+    "hot": 3.5,
+    "bike": 4.5,
+    "water": 1,
+    "packability": 4,
+    "comfort": 4,
+    "style": 0.5,
+    "urbanTravel": 1.8,
+    "outdoorFinal": 2.7,
+    "travelPack": 3.3
+  },
+  "role": "Bike/sun module",
+  "purchaseAction": "Keep",
+  "priority": "medium",
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": []
+  },
+  "notes": "Muito funcional; visual chamativo e repetitivo em fotos.",
+  "modelConfidence": "medium",
+  "gapOrRedundancy": "Graphic penalty"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "boots_timberland_redwood_falls_wp_01",
+  "status": "archived",
+  "name": "Timberland Redwood Falls Waterproof",
+  "brand": "Timberland",
+  "model": "Redwood Falls Waterproof Boot",
+  "module": "Urban Core",
+  "category": "footwear",
+  "subcategory": "Waterproof casual boot",
+  "layerType": "Footwear",
+  "size": null,
+  "color": "Marrom escuro/preto ideal",
+  "colorFamily": [
+    "earth",
+    "dark"
+  ],
+  "materialTech": "Couro waterproof + traction outsole",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "medium"
+  },
+  "bestUse": [
+    "Viagem urbana",
+    "chuva",
+    "caminhada longa",
+    "trilha leve"
+  ],
+  "avoidUse": [
+    "Trilha pesada",
+    "calor",
+    "corrida"
+  ],
+  "scores": {
+    "urban": 4,
+    "formal": 2.5,
+    "outdoor": 3,
+    "rain": 4,
+    "cold": 3,
+    "hot": 1.5,
+    "bike": 1,
+    "water": 1,
+    "packability": 0.5,
+    "comfort": 4,
+    "style": 3.5,
+    "urbanTravel": 2.9,
+    "outdoorFinal": 2.5,
+    "travelPack": 3
+  },
+  "role": "Bota pragmática urbano-outdoor",
+  "purchaseAction": "Test before buy",
+  "priority": "medium",
+  "sourceLinks": [
+    {
+      "label": "Timberland",
+      "url": "https://www.timberland.ca/en-ca/p/men/footwear-10039/mens-redwood-falls-waterproof-boot-TB1A44MYF13",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": [
+      {
+        "label": "Timberland",
+        "url": "https://www.timberland.ca/en-ca/p/men/footwear-10039/mens-redwood-falls-waterproof-boot-TB1A44MYF13",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Mais urbana que Mt. Maddsen; menos premium que Danner/AKU.",
+  "modelConfidence": "medium",
+  "gapOrRedundancy": "Potential overlap"
+}

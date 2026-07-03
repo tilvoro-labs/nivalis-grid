@@ -1,0 +1,4006 @@
+{
+  "schemaVersion": 1,
+  "exportType": "text-only-wardrobe-catalog",
+  "privacyNotes": [
+    "No git history from the source repository is included.",
+    "No local/manual photos are included.",
+    "No personal profile, body measurements, capsules, outfits, local paths, or private repository metadata are included.",
+    "Product/source URLs and remote product image URLs may be included when present in item metadata."
+  ],
+  "stats": {
+    "itemCount": 57,
+    "statusCounts": {
+      "archived": 7,
+      "candidate_buy": 15,
+      "owned": 34,
+      "owned_buy_more": 1
+    },
+    "ownedCount": 34,
+    "categories": [
+      "accessory",
+      "bottom",
+      "footwear",
+      "outerwear",
+      "top",
+      "underwear"
+    ],
+    "modules": [
+      "Bike/Active",
+      "Casual / Work",
+      "Formal/Social",
+      "Formal/Social / Urban Core",
+      "Hot/Water",
+      "Hot/Water / Casual Summer",
+      "Indoor/Comfort",
+      "Laundry / Base",
+      "Outdoor Core",
+      "Thermal Layering",
+      "Urban Core",
+      "Urban Core / Casual",
+      "Urban Core / Formal-Social casual",
+      "Urban Core / Hot Weather",
+      "Zero Bag"
+    ],
+    "colorFamilies": [
+      "bright",
+      "dark",
+      "earth",
+      "graphic",
+      "neutral"
+    ]
+  },
+  "items": [
+    {
+      "id": "baselayer_uniqlo_merino_light_01",
+      "status": "owned",
+      "name": "UNIQLO HEATTECH Crew Neck Long Sleeve T-Shirt",
+      "brand": "UNIQLO",
+      "model": "HEATTECH Crew Neck Long Sleeve T-Shirt (Product ID 479428 / 472909 / 469977 / 461003)",
+      "module": "Thermal Layering",
+      "category": "top",
+      "subcategory": "Base layer",
+      "layerType": "Base thermal",
+      "size": null,
+      "color": "08 DARK GRAY",
+      "colorFamily": [
+        "neutral"
+      ],
+      "materialTech": "40% Polyester, 32% Acrylic, 21% Viscose, 7% Elastane (40% recycled polyester); ultra stretch",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "medium"
+      },
+      "bestUse": [
+        "Layering",
+        "dormir",
+        "frio leve/moderado",
+        "trilha fria leve"
+      ],
+      "avoidUse": [
+        "Usar como peça social visível"
+      ],
+      "scores": {
+        "urban": 2.5,
+        "formal": 1.5,
+        "outdoor": 3,
+        "rain": 0.5,
+        "cold": 3,
+        "hot": 1,
+        "bike": 0.5,
+        "water": 0.5,
+        "packability": 4.5,
+        "comfort": 4,
+        "style": 2,
+        "urbanTravel": 2.9,
+        "outdoorFinal": 1.8,
+        "travelPack": 3.4
+      },
+      "role": "Base térmica core",
+      "purchaseAction": "Keep",
+      "priority": "high",
+      "sourceLinks": [
+        {
+          "label": "UNIQLO",
+          "url": "https://www.uniqlo.com/au/en/products/E461003-000/00?colorDisplayCode=08&sizeDisplayCode=004",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/461003/sub/goods_461003_sub14_3x4.jpg?width=400",
+          "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/461003/feature/augoods_461003_feature2.jpg",
+          "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/461003/feature/augoods_461003_feature4.jpg"
+        ],
+        "sourceLinks": [
+          {
+            "label": "UNIQLO",
+            "url": "https://www.uniqlo.com/au/en/products/E461003-000/00?colorDisplayCode=08&sizeDisplayCode=004",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Nao e merino: base HEATTECH sintetica com toque suave, elasticidade alta e conforto termico para camada interna em frio leve/moderado. Lavagem suave em maquina; sem dry clean.",
+      "modelConfidence": "high",
+      "gapOrRedundancy": "Camada interna termica dedicada; pouca relevancia como peca externa."
+    },
+    {
+      "id": "boots_danner_mountain600_leaf_gtx_obsidian_01",
+      "status": "candidate_buy",
+      "name": "Danner Mountain 600 Leaf GTX Obsidian/Kangaroo",
+      "brand": "Danner",
+      "model": "Mountain 600 Leaf GTX",
+      "module": "Urban Core",
+      "category": "footwear",
+      "subcategory": "Urban hiking boot",
+      "layerType": "Footwear",
+      "size": null,
+      "color": "Obsidian/Kangaroo",
+      "colorFamily": [
+        "dark"
+      ],
+      "materialTech": "Leather + GORE-TEX + Vibram",
+      "weight": {
+        "estimatedGrams": 1020,
+        "confidence": "medium"
+      },
+      "bestUse": [
+        "Cidade",
+        "trilha",
+        "chuva",
+        "frio",
+        "viagem com bota única"
+      ],
+      "avoidUse": [
+        "Calor intenso",
+        "formal real",
+        "importação/custo"
+      ],
+      "scores": {
+        "urban": 4,
+        "formal": 2.5,
+        "outdoor": 4,
+        "rain": 4.5,
+        "cold": 3.5,
+        "hot": 1.5,
+        "bike": 1.5,
+        "water": 1,
+        "packability": 0.5,
+        "comfort": 4.5,
+        "style": 4,
+        "urbanTravel": 3.1,
+        "outdoorFinal": 2.9,
+        "travelPack": 3.3
+      },
+      "role": "Bota urbano-rugged premium",
+      "purchaseAction": "Test before buy",
+      "priority": "high",
+      "sourceLinks": [
+        {
+          "label": "Danner",
+          "url": "https://www.danner.com/mountain-600-leaf-4-5-obsidian-kangaroo-gtx-m.html",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://i.lfi.media/is/image/LaCrosse/danner_13_pdp/62306",
+          "https://i.lfi.media/is/image/LaCrosse/danner_22_pdp/62306",
+          "https://i.lfi.media/is/image/LaCrosse/danner_22_pdp/62306_Q"
+        ],
+        "sourceLinks": [
+          {
+            "label": "Danner",
+            "url": "https://www.danner.com/mountain-600-leaf-4-5-obsidian-kangaroo-gtx-m.html",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Melhor equilíbrio entre bota, trilha, chuva e urbanidade para seu perfil.",
+      "modelConfidence": "high",
+      "gapOrRedundancy": "Expensive/import"
+    },
+    {
+      "id": "boots_timberland_mt_maddsen_wp_brown_01",
+      "status": "owned",
+      "name": "Timberland Mt. Maddsen Waterproof Hiking Boot",
+      "brand": "Timberland",
+      "model": "Mt. Maddsen Waterproof",
+      "module": "Outdoor Core",
+      "category": "footwear",
+      "subcategory": "Hiking boot",
+      "layerType": "Footwear",
+      "size": null,
+      "color": "Marrom",
+      "colorFamily": [
+        "earth"
+      ],
+      "materialTech": "Couro waterproof + membrana impermeável",
+      "weight": {
+        "estimatedGrams": 1000,
+        "confidence": "medium"
+      },
+      "bestUse": [
+        "Trilha",
+        "frio",
+        "chuva",
+        "mochilão",
+        "terreno irregular"
+      ],
+      "avoidUse": [
+        "Corrida",
+        "calor intenso",
+        "reunião/formal"
+      ],
+      "scores": {
+        "urban": 2,
+        "formal": 1,
+        "outdoor": 4,
+        "rain": 4,
+        "cold": 4,
+        "hot": 1.5,
+        "bike": 1.5,
+        "water": 1,
+        "packability": 0.5,
+        "comfort": 4,
+        "style": 2,
+        "urbanTravel": 1.9,
+        "outdoorFinal": 2.9,
+        "travelPack": 2.6
+      },
+      "role": "Bota robusta principal",
+      "purchaseAction": "Keep",
+      "priority": "high",
+      "sourceLinks": [
+        {
+          "label": "Timberland",
+          "url": "https://www.amazon.com/Timberland-Maddsen-Anti-Fatigue-Wateproof-Full-Grain/dp/B0CPSKW8J9",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://m.media-amazon.com/images/G/01/share-icons/previewdoh/amazon.png",
+          "https://m.media-amazon.com/images/G/01/social_share/amazon_logo._CB635397845_.png",
+          "https://m.media-amazon.com/images/G/01/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB779528203_.png"
+        ],
+        "sourceLinks": [
+          {
+            "label": "Timberland",
+            "url": "https://www.amazon.com/Timberland-Maddsen-Anti-Fatigue-Wateproof-Full-Grain/dp/B0CPSKW8J9",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Provou funcionar em mochilão de 1 ano; estética outdoor.",
+      "modelConfidence": "high",
+      "gapOrRedundancy": "Worn-only in travel pack"
+    },
+    {
+      "id": "boots_timberland_redwood_falls_wp_01",
+      "status": "archived",
+      "name": "Timberland Redwood Falls Waterproof",
+      "brand": "Timberland",
+      "model": "Redwood Falls Waterproof Boot",
+      "module": "Urban Core",
+      "category": "footwear",
+      "subcategory": "Waterproof casual boot",
+      "layerType": "Footwear",
+      "size": null,
+      "color": "Marrom escuro/preto ideal",
+      "colorFamily": [
+        "earth",
+        "dark"
+      ],
+      "materialTech": "Couro waterproof + traction outsole",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "medium"
+      },
+      "bestUse": [
+        "Viagem urbana",
+        "chuva",
+        "caminhada longa",
+        "trilha leve"
+      ],
+      "avoidUse": [
+        "Trilha pesada",
+        "calor",
+        "corrida"
+      ],
+      "scores": {
+        "urban": 4,
+        "formal": 2.5,
+        "outdoor": 3,
+        "rain": 4,
+        "cold": 3,
+        "hot": 1.5,
+        "bike": 1,
+        "water": 1,
+        "packability": 0.5,
+        "comfort": 4,
+        "style": 3.5,
+        "urbanTravel": 2.9,
+        "outdoorFinal": 2.5,
+        "travelPack": 3
+      },
+      "role": "Bota pragmática urbano-outdoor",
+      "purchaseAction": "Test before buy",
+      "priority": "medium",
+      "sourceLinks": [
+        {
+          "label": "Timberland",
+          "url": "https://www.timberland.ca/en-ca/p/men/footwear-10039/mens-redwood-falls-waterproof-boot-TB1A44MYF13",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [],
+        "sourceLinks": [
+          {
+            "label": "Timberland",
+            "url": "https://www.timberland.ca/en-ca/p/men/footwear-10039/mens-redwood-falls-waterproof-boot-TB1A44MYF13",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Mais urbana que Mt. Maddsen; menos premium que Danner/AKU.",
+      "modelConfidence": "medium",
+      "gapOrRedundancy": "Potential overlap"
+    },
+    {
+      "id": "down_uniqlo_grey_s_01",
+      "status": "owned",
+      "name": "Jaqueta down UNIQLO cinza",
+      "brand": "UNIQLO",
+      "model": "Ultra Light Down / Extra Warm old model",
+      "module": "Thermal Layering",
+      "category": "outerwear",
+      "subcategory": "Down jacket",
+      "layerType": "Insulation",
+      "size": "S",
+      "color": "Cinza",
+      "colorFamily": [
+        "neutral"
+      ],
+      "materialTech": "Nylon + down mínimo 90%",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "medium"
+      },
+      "bestUse": [
+        "Trilha",
+        "casa",
+        "frio",
+        "uso sem dó"
+      ],
+      "avoidUse": [
+        "Visual urbano limpo",
+        "trilha com risco de rasgo"
+      ],
+      "scores": {
+        "urban": 2,
+        "formal": 1.5,
+        "outdoor": 3.5,
+        "rain": 1,
+        "cold": 4,
+        "hot": 0.5,
+        "bike": 0.5,
+        "water": 0.5,
+        "packability": 5,
+        "comfort": 4,
+        "style": 2,
+        "urbanTravel": 2.9,
+        "outdoorFinal": 2,
+        "travelPack": 3.6
+      },
+      "role": "Beater down",
+      "purchaseAction": "Keep",
+      "priority": "high",
+      "sourceLinks": [
+        {
+          "label": "UNIQLO",
+          "url": "https://www.uniqlo.com/",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/459621/item/goods_05_459621_3x4.jpg?width=600"
+        ],
+        "sourceLinks": [
+          {
+            "label": "UNIQLO",
+            "url": "https://www.uniqlo.com/",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Batida; manter para uso bruto e preservar a navy.",
+      "modelConfidence": "medium",
+      "gapOrRedundancy": "Beater item"
+    },
+    {
+      "id": "down_uniqlo_navy_xs_01",
+      "status": "owned",
+      "name": "Jaqueta down UNIQLO azul marinho",
+      "brand": "UNIQLO",
+      "model": "Ultra Light Down",
+      "module": "Thermal Layering",
+      "category": "outerwear",
+      "subcategory": "Down jacket",
+      "layerType": "Insulation",
+      "size": "XS",
+      "color": "Azul marinho",
+      "colorFamily": [
+        "dark"
+      ],
+      "materialTech": "Nylon + down",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "medium"
+      },
+      "bestUse": [
+        "Cidade",
+        "frio",
+        "viagem",
+        "trilha leve"
+      ],
+      "avoidUse": [
+        "Trilha pesada",
+        "uso com abrasão"
+      ],
+      "scores": {
+        "urban": 3,
+        "formal": 2.5,
+        "outdoor": 2.5,
+        "rain": 1,
+        "cold": 4,
+        "hot": 0.5,
+        "bike": 0.5,
+        "water": 0.5,
+        "packability": 5,
+        "comfort": 4,
+        "style": 3,
+        "urbanTravel": 3.5,
+        "outdoorFinal": 1.9,
+        "travelPack": 3.8
+      },
+      "role": "Clean insulation",
+      "purchaseAction": "Keep",
+      "priority": "high",
+      "sourceLinks": [
+        {
+          "label": "UNIQLO",
+          "url": "https://www.uniqlo.com/",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/459621/sub/goods_459621_sub14_3x4.jpg"
+        ],
+        "sourceLinks": [
+          {
+            "label": "UNIQLO",
+            "url": "https://www.uniqlo.com/",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Melhor caimento; preservar mais que a cinza.",
+      "modelConfidence": "medium",
+      "gapOrRedundancy": "Protected item"
+    },
+    {
+      "id": "dry_ex_uv_hoodie_uniqlo_grey_01",
+      "status": "candidate_buy",
+      "name": "UNIQLO DRY-EX UV Protection Full-Zip Hoodie",
+      "brand": "UNIQLO",
+      "model": "DRY-EX UV Protection Full-Zip Hoodie (Product ID 465203)",
+      "module": "Urban Core",
+      "category": "outerwear",
+      "subcategory": "Light performance hoodie",
+      "layerType": "Active shell light",
+      "size": "MEN XS",
+      "color": "07 GRAY",
+      "colorFamily": [
+        "neutral"
+      ],
+      "materialTech": "DRY-EX quick-dry fabric with UV protection",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "medium"
+      },
+      "bestUse": [
+        "Calor com sol",
+        "deslocamento urbano",
+        "viagem",
+        "camada leve em meia-estacao"
+      ],
+      "avoidUse": [
+        "Chuva real",
+        "frio forte sem camada"
+      ],
+      "scores": {
+        "urban": 3.5,
+        "formal": 1,
+        "outdoor": 2.5,
+        "rain": 1,
+        "cold": 1.5,
+        "hot": 3.5,
+        "bike": 2.5,
+        "water": 1,
+        "packability": 4.5,
+        "comfort": 4,
+        "style": 3.5,
+        "urbanTravel": 3.9,
+        "outdoorFinal": 2.4,
+        "travelPack": 4.1
+      },
+      "role": "Camada tecnica leve com protecao UV",
+      "purchaseAction": "Buy 1 to test fit and UV utility",
+      "priority": "medium",
+      "sourceLinks": [
+        {
+          "label": "UNIQLO",
+          "url": "https://www.uniqlo.com/us/en/products/E465203-000/00?colorDisplayCode=07&sizeDisplayCode=002",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/465203/item/usgoods_07_465203_3x4.jpg?width=400"
+        ],
+        "sourceLinks": [
+          {
+            "label": "UNIQLO",
+            "url": "https://www.uniqlo.com/us/en/products/E465203-000/00?colorDisplayCode=07&sizeDisplayCode=002",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Candidato para camada de protecao solar e secagem rapida em clima quente, com zip para ventilacao e uso urbano/ativo.",
+      "modelConfidence": "high",
+      "gapOrRedundancy": "Pode sobrepor o uso do pocketable e de camisetas tecnicas dependendo do clima."
+    },
+    {
+      "id": "fleece_inextenso_black_s_01",
+      "status": "owned",
+      "name": "Fleece preto In Extenso",
+      "brand": "In Extenso",
+      "model": "Fleece full zip",
+      "module": "Thermal Layering",
+      "category": "outerwear",
+      "subcategory": "Fleece",
+      "layerType": "Midlayer",
+      "size": "S",
+      "color": "Preto",
+      "colorFamily": [
+        "dark"
+      ],
+      "materialTech": "Provável poliéster fleece",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "low"
+      },
+      "bestUse": [
+        "Casa",
+        "dormir",
+        "trilha",
+        "frio leve",
+        "videochamada informal"
+      ],
+      "avoidUse": [
+        "Evento formal",
+        "calor",
+        "volume mínimo"
+      ],
+      "scores": {
+        "urban": 2.5,
+        "formal": 2,
+        "outdoor": 3.5,
+        "rain": 1,
+        "cold": 3,
+        "hot": 0.5,
+        "bike": 0.5,
+        "water": 0.5,
+        "packability": 2.5,
+        "comfort": 5,
+        "style": 3,
+        "urbanTravel": 3,
+        "outdoorFinal": 2,
+        "travelPack": 3.5
+      },
+      "role": "Comfort midlayer",
+      "purchaseAction": "Keep",
+      "priority": "high",
+      "sourceLinks": [],
+      "media": {
+        "remoteImages": [
+          "https://s.penatrilha.com.br/product/2024/12/jaqueta-de-isolamento-termico-microfleece-edge-masculina-black-para-inverno-solo-1.jpg?format=webp"
+        ],
+        "sourceLinks": []
+      },
+      "notes": "Fit excelente e apego alto; batido, mas difícil substituir.",
+      "modelConfidence": "medium",
+      "gapOrRedundancy": "Batido mas fit raro"
+    },
+    {
+      "id": "flipflop_havaianas_01",
+      "status": "owned",
+      "name": "Havaianas",
+      "brand": "Havaianas",
+      "model": "Flip-flop",
+      "module": "Hot/Water",
+      "category": "footwear",
+      "subcategory": "Flip-flop",
+      "layerType": "Footwear",
+      "size": null,
+      "color": "?",
+      "colorFamily": [
+        "neutral"
+      ],
+      "materialTech": "Rubber",
+      "weight": {
+        "estimatedGrams": 325,
+        "confidence": "low"
+      },
+      "bestUse": [
+        "Banho",
+        "hostel",
+        "praia",
+        "casa",
+        "emergência"
+      ],
+      "avoidUse": [
+        "Caminhada longa",
+        "social"
+      ],
+      "scores": {
+        "urban": 1,
+        "formal": 0,
+        "outdoor": 0.5,
+        "rain": 0.5,
+        "cold": 0,
+        "hot": 4,
+        "bike": 0,
+        "water": 4,
+        "packability": 4,
+        "comfort": 3,
+        "style": 1,
+        "urbanTravel": 1.8,
+        "outdoorFinal": 1.7,
+        "travelPack": 3
+      },
+      "role": "Banho/praia",
+      "purchaseAction": "Keep",
+      "priority": "high",
+      "sourceLinks": [
+        {
+          "label": "Havaianas",
+          "url": "https://www.havaianas.com/",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "http://www.havaianas.com/cdn/shop/files/Logo_Red_1200x628_2_e946c56c-6e13-4f85-809d-12df592fd7b2.png?v=1730144167",
+          "https://www.havaianas.com/cdn/shop/files/Logo_Red_1200x628_2_e946c56c-6e13-4f85-809d-12df592fd7b2.png?v=1730144167",
+          "https://www.havaianas.com/cdn/shop/files/dhero_2.png?v=1781030164&width=1920"
+        ],
+        "sourceLinks": [
+          {
+            "label": "Havaianas",
+            "url": "https://www.havaianas.com/",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Complemento simples para banho/praia.",
+      "modelConfidence": "low",
+      "gapOrRedundancy": "Low support"
+    },
+    {
+      "id": "heattech_crew_neck_longsleeve_black_uniqlo_01",
+      "status": "candidate_buy",
+      "name": "UNIQLO HEATTECH Crew Neck Long Sleeve T-Shirt black",
+      "brand": "UNIQLO",
+      "model": "HEATTECH Crew Neck Long Sleeve T-Shirt (Product ID 461003 family)",
+      "module": "Thermal Layering",
+      "category": "top",
+      "subcategory": "Base layer",
+      "layerType": "Base thermal",
+      "size": "MEN XS",
+      "color": "09 BLACK",
+      "colorFamily": [
+        "dark"
+      ],
+      "materialTech": "40% Polyester, 32% Acrylic, 21% Viscose, 7% Elastane; ultra stretch",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "high"
+      },
+      "bestUse": [
+        "Camada base no frio leve/moderado",
+        "viagem",
+        "uso diario em clima frio"
+      ],
+      "avoidUse": [
+        "Calor",
+        "uso formal sem camada"
+      ],
+      "scores": {
+        "urban": 2.5,
+        "formal": 1.5,
+        "outdoor": 2.5,
+        "rain": 0.5,
+        "cold": 3.5,
+        "hot": 0.5,
+        "bike": 1,
+        "water": 0.5,
+        "packability": 4.5,
+        "comfort": 4,
+        "style": 2,
+        "urbanTravel": 3,
+        "outdoorFinal": 2,
+        "travelPack": 3.6
+      },
+      "role": "Base layer termica preta",
+      "purchaseAction": "Buy 1 to test warmth and layering",
+      "priority": "medium",
+      "sourceLinks": [
+        {
+          "label": "UNIQLO",
+          "url": "https://www.uniqlo.com/au/en/products/E461003-000/00?colorDisplayCode=09&sizeDisplayCode=002",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/461003/item/augoods_09_461003_3x4.jpg?width=400"
+        ],
+        "sourceLinks": [
+          {
+            "label": "UNIQLO",
+            "url": "https://www.uniqlo.com/au/en/products/E461003-000/00?colorDisplayCode=09&sizeDisplayCode=002",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Candidato para ampliar rotacao de camada termica com cor preta mais facil de combinar.",
+      "modelConfidence": "high",
+      "gapOrRedundancy": "Pode sobrepor o HEATTECH owned na cor cinza; foco e variacao de cor e rotacao."
+    },
+    {
+      "id": "jersey_longsleeve_fullzip_neutral_01",
+      "status": "archived",
+      "name": "Jersey manga longa neutra full zip",
+      "brand": "TBD",
+      "model": "Full zip cycling jersey",
+      "module": "Bike/Active",
+      "category": "top",
+      "subcategory": "Cycling jersey",
+      "layerType": "Active sun layer",
+      "size": null,
+      "color": "Preta/grafite/navy",
+      "colorFamily": [
+        "dark"
+      ],
+      "materialTech": "Poliéster técnico, UV preferencial",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "low"
+      },
+      "bestUse": [
+        "Bike",
+        "trilha com sol",
+        "fotos menos repetitivas"
+      ],
+      "avoidUse": [
+        "Compra redundante se pouco uso"
+      ],
+      "scores": {
+        "urban": 1.5,
+        "formal": 0,
+        "outdoor": 3.5,
+        "rain": 0.5,
+        "cold": 2,
+        "hot": 3.5,
+        "bike": 4.5,
+        "water": 1,
+        "packability": 4,
+        "comfort": 4,
+        "style": 2.5,
+        "urbanTravel": 2.4,
+        "outdoorFinal": 2.7,
+        "travelPack": 3.8
+      },
+      "role": "Neutral bike jersey",
+      "purchaseAction": "Consider if bike use frequent",
+      "priority": "medium",
+      "sourceLinks": [],
+      "media": {
+        "remoteImages": [],
+        "sourceLinks": []
+      },
+      "notes": "Considerar somente se bike/trilha com sol forem frequentes.",
+      "modelConfidence": "low",
+      "gapOrRedundancy": "Reduz repetição visual"
+    },
+    {
+      "id": "jersey_vale_europeu_longsleeve_fullzip_01",
+      "status": "archived",
+      "name": "Jersey manga longa Vale Europeu",
+      "brand": "Evento / Vale Europeu",
+      "model": "Jersey cicloturismo",
+      "module": "Bike/Active",
+      "category": "top",
+      "subcategory": "Cycling jersey",
+      "layerType": "Active sun layer",
+      "size": null,
+      "color": "Multicolorida",
+      "colorFamily": [
+        "graphic"
+      ],
+      "materialTech": "Provável poliéster técnico dry fit",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "medium"
+      },
+      "bestUse": [
+        "Ciclismo",
+        "cicloturismo",
+        "sol",
+        "trilha exposta"
+      ],
+      "avoidUse": [
+        "Cidade",
+        "fotos discretas",
+        "social"
+      ],
+      "scores": {
+        "urban": 0.5,
+        "formal": 0,
+        "outdoor": 3.5,
+        "rain": 0.5,
+        "cold": 2,
+        "hot": 3.5,
+        "bike": 4.5,
+        "water": 1,
+        "packability": 4,
+        "comfort": 4,
+        "style": 0.5,
+        "urbanTravel": 1.8,
+        "outdoorFinal": 2.7,
+        "travelPack": 3.3
+      },
+      "role": "Bike/sun module",
+      "purchaseAction": "Keep",
+      "priority": "medium",
+      "sourceLinks": [],
+      "media": {
+        "remoteImages": [],
+        "sourceLinks": []
+      },
+      "notes": "Muito funcional; visual chamativo e repetitivo em fotos.",
+      "modelConfidence": "medium",
+      "gapOrRedundancy": "Graphic penalty"
+    },
+    {
+      "id": "pants_rei_sahara_convertible_taupe_01",
+      "status": "owned",
+      "name": "REI Co-op Sahara Convertible Pants",
+      "brand": "REI Co-op",
+      "model": "Sahara Convertible Pants - Men's",
+      "module": "Outdoor Core",
+      "category": "bottom",
+      "subcategory": "Hiking convertible pants",
+      "layerType": "Bottom",
+      "size": null,
+      "color": "Armadillo Taupe / bege",
+      "colorFamily": [
+        "earth"
+      ],
+      "materialTech": "96% recycled nylon / 4% spandex, UPF 50+",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "high"
+      },
+      "bestUse": [
+        "Trilhas",
+        "calor",
+        "viagem outdoor",
+        "camping",
+        "caminhada longa",
+        "vira shorts"
+      ],
+      "avoidUse": [
+        "Urbano",
+        "smart casual",
+        "reunião"
+      ],
+      "scores": {
+        "urban": 1.5,
+        "formal": 0.5,
+        "outdoor": 4,
+        "rain": 1.5,
+        "cold": 2,
+        "hot": 4,
+        "bike": 1.5,
+        "water": 1,
+        "packability": 3.5,
+        "comfort": 4,
+        "style": 1.5,
+        "urbanTravel": 2.2,
+        "outdoorFinal": 2.6,
+        "travelPack": 3.3
+      },
+      "role": "Outdoor modular pants",
+      "purchaseAction": "Keep",
+      "priority": "high",
+      "sourceLinks": [
+        {
+          "label": "REI Co-op",
+          "url": "https://www.rei.com/product/236065/rei-co-op-sahara-convertible-pants-mens",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://www.rei.com/media/02874b2b-e638-4c9a-b260-e5a6cdc5a5ba?size=2000"
+        ],
+        "sourceLinks": [
+          {
+            "label": "REI Co-op",
+            "url": "https://www.rei.com/product/236065/rei-co-op-sahara-convertible-pants-mens",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Muito versátil funcionalmente; visual cargo/zipper técnico.",
+      "modelConfidence": "high",
+      "gapOrRedundancy": "Pouco urbana"
+    },
+    {
+      "id": "pants_uniqlo_airism_stretch_darkgrey_01",
+      "status": "owned",
+      "name": "UNIQLO Ultra Stretch Pants dark gray",
+      "brand": "UNIQLO",
+      "model": "Ultra Stretch Pants (Product ID 475598 / 482928)",
+      "module": "Urban Core",
+      "category": "bottom",
+      "subcategory": "Pants",
+      "layerType": "Bottom",
+      "size": "MEN XS",
+      "color": "08 DARK GRAY",
+      "colorFamily": [
+        "dark"
+      ],
+      "materialTech": "79% Nylon, 21% Spandex; nylon jersey; water-repellent finish",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "low"
+      },
+      "bestUse": [
+        "Viagem",
+        "home office",
+        "cidade",
+        "smart casual leve"
+      ],
+      "avoidUse": [
+        "Look formal com meia/canela aparecendo"
+      ],
+      "scores": {
+        "urban": 4,
+        "formal": 3,
+        "outdoor": 1.5,
+        "rain": 1,
+        "cold": 2,
+        "hot": 3,
+        "bike": 1,
+        "water": 1,
+        "packability": 4,
+        "comfort": 5,
+        "style": 4,
+        "urbanTravel": 4,
+        "outdoorFinal": 2.1,
+        "travelPack": 4.3
+      },
+      "role": "Calca tapered versatil para office/travel",
+      "purchaseAction": "Keep",
+      "priority": "high",
+      "sourceLinks": [
+        {
+          "label": "UNIQLO",
+          "url": "https://www.uniqlo.com/us/en/products/E475598-000/00?colorDisplayCode=08&sizeDisplayCode=002",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/475598/sub/goods_475598_sub14_3x4.jpg?width=400",
+          "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/475598/item/usgoods_08_475598_3x4.jpg?width=400",
+          "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/475598/sub/goods_475598_sub11_3x4.jpg?width=400",
+          "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/475598/feature/usgoods_475598_feature6.jpg",
+          "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/475598/feature/usgoods_475598_feature7.jpg"
+        ],
+        "sourceLinks": [
+          {
+            "label": "UNIQLO",
+            "url": "https://www.uniqlo.com/us/en/products/E475598-000/00?colorDisplayCode=08&sizeDisplayCode=002",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Calca regular fit com silhueta tapered, tecido nylon jersey leve e fresco ao toque; versatil para office/casual/travel e atividade leve. Acabamento water-repellent ajuda em chuva fraca (nao permanente). Bolsos funcionais.",
+      "modelConfidence": "high",
+      "gapOrRedundancy": "Comprimento curto para alguns looks formais; em troca ganha mobilidade e conforto no uso urbano."
+    },
+    {
+      "id": "pants_uniqlo_airism_stretch_jogger_beige_01",
+      "status": "owned",
+      "name": "UNIQLO AIRism / Stretch jogger bege",
+      "brand": "UNIQLO",
+      "model": "AIRism stretch jogger pants / similar",
+      "module": "Urban Core",
+      "category": "bottom",
+      "subcategory": "Jogger pants",
+      "layerType": "Bottom",
+      "size": null,
+      "color": "Bege",
+      "colorFamily": [
+        "earth"
+      ],
+      "materialTech": "Stretch synthetic/AIRism-like",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "low"
+      },
+      "bestUse": [
+        "Calor",
+        "cidade",
+        "viagem",
+        "smart casual casual"
+      ],
+      "avoidUse": [
+        "Sujeira visível",
+        "trilha pesada"
+      ],
+      "scores": {
+        "urban": 3.5,
+        "formal": 3,
+        "outdoor": 1.5,
+        "rain": 1,
+        "cold": 2,
+        "hot": 3.5,
+        "bike": 1,
+        "water": 1,
+        "packability": 4,
+        "comfort": 5,
+        "style": 3.5,
+        "urbanTravel": 3.8,
+        "outdoorFinal": 2.1,
+        "travelPack": 4
+      },
+      "role": "Jogger claro de viagem",
+      "purchaseAction": "Keep",
+      "priority": "medium",
+      "sourceLinks": [
+        {
+          "label": "UNIQLO",
+          "url": "https://www.uniqlo.com/us/en/products/E485744-000/00?colorDisplayCode=31&sizeDisplayCode=004",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/485744/sub/goods_485744_sub11_3x4.jpg"
+        ],
+        "sourceLinks": [
+          {
+            "label": "UNIQLO",
+            "url": "https://www.uniqlo.com/us/en/products/E485744-000/00?colorDisplayCode=31&sizeDisplayCode=004",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Mesma família da cinza; boa para variação e clima quente. Também representa a peça identificada como Stretch Jogger bege.",
+      "modelConfidence": "low",
+      "gapOrRedundancy": "Sujeira mais visível"
+    },
+    {
+      "id": "pants_uniqlo_ultra_stretch_active_jogger_darkgrey_01",
+      "status": "candidate_buy",
+      "name": "UNIQLO Ultra Stretch Active Jogger Pants dark gray",
+      "brand": "UNIQLO",
+      "model": "Ultra Stretch Active Jogger Pants (Product ID 485744)",
+      "module": "Bike/Active",
+      "category": "bottom",
+      "subcategory": "Active jogger",
+      "layerType": "Bottom",
+      "size": "MEN XS",
+      "color": "08 DARK GRAY",
+      "colorFamily": [
+        "dark"
+      ],
+      "materialTech": "Ultra Stretch active synthetic blend",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "medium"
+      },
+      "bestUse": [
+        "Academia",
+        "mobilidade",
+        "viagem",
+        "uso casual esportivo"
+      ],
+      "avoidUse": [
+        "Evento formal",
+        "chuva forte"
+      ],
+      "scores": {
+        "urban": 3.5,
+        "formal": 1.5,
+        "outdoor": 2.5,
+        "rain": 1,
+        "cold": 2,
+        "hot": 3.5,
+        "bike": 2.5,
+        "water": 1,
+        "packability": 4.5,
+        "comfort": 4.5,
+        "style": 3.2,
+        "urbanTravel": 3.7,
+        "outdoorFinal": 2.5,
+        "travelPack": 4
+      },
+      "role": "Jogger tecnico para treinos e uso casual ativo",
+      "purchaseAction": "Buy 1 to compare with current beige jogger",
+      "priority": "medium",
+      "sourceLinks": [
+        {
+          "label": "UNIQLO",
+          "url": "https://www.uniqlo.com/us/en/products/E485744-000/00?colorDisplayCode=08&sizeDisplayCode=002",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/485744/item/usgoods_08_485744_3x4.jpg?width=400"
+        ],
+        "sourceLinks": [
+          {
+            "label": "UNIQLO",
+            "url": "https://www.uniqlo.com/us/en/products/E485744-000/00?colorDisplayCode=08&sizeDisplayCode=002",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Candidato para possivel troca do Ultra Stretch Active Jogger Pants atual visando ficar mais adequado para academia. Ainda ha duvida porque o jogger bege atual complementa bem a Ultra Stretch Pants cinza escuro; essa troca faz mais sentido se entrar tambem uma Ultra Stretch Pants bege (ja no catalogo).",
+      "modelConfidence": "high",
+      "gapOrRedundancy": "Pode sobrepor o jogger bege atual; decisao depende da composicao final com a calca Ultra Stretch bege."
+    },
+    {
+      "id": "pants_uniqlo_ultra_stretch_black_01",
+      "status": "owned",
+      "name": "UNIQLO Ultra Stretch Pants black",
+      "brand": "UNIQLO",
+      "model": "Ultra Stretch Pants",
+      "module": "Urban Core",
+      "category": "bottom",
+      "subcategory": "Pants",
+      "layerType": "Bottom",
+      "size": "MEN S, waist 27-30 in",
+      "color": "Preto / quase preto",
+      "colorFamily": [
+        "dark"
+      ],
+      "materialTech": "79% nylon, 21% spandex; water-repellent",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "low"
+      },
+      "bestUse": [
+        "Cliente",
+        "voo",
+        "jantar",
+        "viagem urbana",
+        "smart casual"
+      ],
+      "avoidUse": [
+        "Trilha pesada",
+        "evento formal rígido"
+      ],
+      "scores": {
+        "urban": 4.2,
+        "formal": 1,
+        "outdoor": 1,
+        "rain": 0.5,
+        "cold": 1,
+        "hot": 2,
+        "bike": 0.5,
+        "water": 0.5,
+        "packability": 4.4,
+        "comfort": 3.5,
+        "style": 4.2,
+        "urbanTravel": 4.2,
+        "outdoorFinal": 2,
+        "travelPack": 4.4
+      },
+      "role": "Calça urbana core preta",
+      "purchaseAction": "Keep",
+      "priority": "high",
+      "sourceLinks": [],
+      "media": {
+        "remoteImages": [],
+        "sourceLinks": []
+      },
+      "notes": "Mesmo modelo/composição das outras Ultra Stretch. Boa peça para cliente, voo e jantar.",
+      "modelConfidence": "medium",
+      "gapOrRedundancy": "Nova variação escura mais formal que bege/cinza."
+    },
+    {
+      "id": "pants_uniqlo_ultra_stretch_dry_ex_tapered_beige_01",
+      "status": "candidate_buy",
+      "name": "UNIQLO Ultra Stretch DRY-EX Tapered Pants",
+      "brand": "UNIQLO",
+      "model": "Ultra Stretch DRY-EX Tapered Pants (Product ID 467769)",
+      "module": "Urban Core",
+      "category": "bottom",
+      "subcategory": "Performance tapered pants",
+      "layerType": "Bottom",
+      "size": "MEN XS",
+      "color": "32 BEIGE",
+      "colorFamily": [
+        "earth"
+      ],
+      "materialTech": "Ultra Stretch DRY-EX synthetic blend with quick-dry behavior",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "medium"
+      },
+      "bestUse": [
+        "Viagem",
+        "cidade",
+        "dias quentes",
+        "uso misto office/casual"
+      ],
+      "avoidUse": [
+        "Frio intenso sem camada",
+        "chuva forte"
+      ],
+      "scores": {
+        "urban": 4,
+        "formal": 2.5,
+        "outdoor": 2,
+        "rain": 1.5,
+        "cold": 1.5,
+        "hot": 4,
+        "bike": 2,
+        "water": 1,
+        "packability": 4.5,
+        "comfort": 4.5,
+        "style": 3.8,
+        "urbanTravel": 4.1,
+        "outdoorFinal": 2.4,
+        "travelPack": 4.3
+      },
+      "role": "Calca tapered tecnica para uso urbano e viagem",
+      "purchaseAction": "Buy 1 to compare with current Ultra Stretch",
+      "priority": "high",
+      "sourceLinks": [
+        {
+          "label": "UNIQLO",
+          "url": "https://www.uniqlo.com/us/en/products/E467769-000/00?colorDisplayCode=32&sizeDisplayCode=004",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/467769/sub/goods_467769_sub14_3x4.jpg"
+        ],
+        "sourceLinks": [
+          {
+            "label": "UNIQLO",
+            "url": "https://www.uniqlo.com/us/en/products/E467769-000/00?colorDisplayCode=32&sizeDisplayCode=004",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Candidato para versao mais tecnica e respiravel em tom bege, mantendo visual urbano limpo com silhueta tapered.",
+      "modelConfidence": "high",
+      "gapOrRedundancy": "Pode duplicar funcao das Ultra Stretch atuais; validar se traz ganho real em conforto e secagem."
+    },
+    {
+      "id": "pants_uniqlo_ultra_stretch_tall_beige_01",
+      "status": "candidate_buy",
+      "name": "UNIQLO Ultra Stretch Pants Tall beige",
+      "brand": "UNIQLO",
+      "model": "Ultra Stretch Pants Tall (Product ID 482930 / 478487)",
+      "module": "Urban Core",
+      "category": "bottom",
+      "subcategory": "Pants",
+      "layerType": "Bottom",
+      "size": null,
+      "color": "32 BEIGE",
+      "colorFamily": [
+        "earth"
+      ],
+      "materialTech": "79% Nylon, 21% Spandex; stretchy nylon jersey; water-repellent finish",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "medium"
+      },
+      "bestUse": [
+        "Trabalho",
+        "viagem",
+        "deslocamento urbano",
+        "camadas leves em clima ameno"
+      ],
+      "avoidUse": [
+        "Chuva forte",
+        "frio intenso sem camada"
+      ],
+      "scores": {
+        "urban": 4,
+        "formal": 3,
+        "outdoor": 2,
+        "rain": 1.5,
+        "cold": 2,
+        "hot": 3,
+        "bike": 1.5,
+        "water": 1,
+        "packability": 4,
+        "comfort": 4.5,
+        "style": 4,
+        "urbanTravel": 4.1,
+        "outdoorFinal": 2.4,
+        "travelPack": 4.2
+      },
+      "role": "Calca tapered tall para uso diario versatil",
+      "purchaseAction": "Buy 1 to validate fit and inseam",
+      "priority": "high",
+      "sourceLinks": [
+        {
+          "label": "UNIQLO",
+          "url": "https://www.uniqlo.com/us/en/products/E478487-000/00?colorDisplayCode=32&sizeDisplayCode=004&pldDisplayCode=030",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/478487/item/usgoods_32_478487_3x4.jpg?width=400",
+          "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/478487/feature/usgoods_478487_feature6.jpg",
+          "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/478487/feature/usgoods_478487_feature7.jpg"
+        ],
+        "sourceLinks": [
+          {
+            "label": "UNIQLO",
+            "url": "https://www.uniqlo.com/us/en/products/E478487-000/00?colorDisplayCode=32&sizeDisplayCode=004&pldDisplayCode=030",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Versao Tall com regular fit e silhueta tapered para melhor proporcao no comprimento. Tecido nylon jersey elastico e leve para dias longos de trabalho, viagem e uso casual. Acabamento water-repellent ajuda em umidade leve, mas nao e permanente.",
+      "modelConfidence": "high",
+      "gapOrRedundancy": "Pode sobrepor a Ultra Stretch atual; valor principal e inseam mais longo e proporcao melhor."
+    },
+    {
+      "id": "polo_vuori_strato_black_01",
+      "status": "owned",
+      "name": "Vuori Strato Tech Polo Charcoal Heather",
+      "brand": "Vuori",
+      "model": "Strato Tech Polo",
+      "module": "Urban Core",
+      "category": "top",
+      "subcategory": "Polo",
+      "layerType": "Smart casual technical top",
+      "size": null,
+      "color": "Grafite (Charcoal Heather)",
+      "colorFamily": [
+        "dark"
+      ],
+      "materialTech": "96% polyester / 4% elastane",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "high"
+      },
+      "bestUse": [
+        "Viagem",
+        "reunião casual",
+        "jantar informal",
+        "calor",
+        "home office"
+      ],
+      "avoidUse": [
+        "Trilha pesada",
+        "evento formal rígido"
+      ],
+      "scores": {
+        "urban": 4,
+        "formal": 3.5,
+        "outdoor": 1.5,
+        "rain": 0.5,
+        "cold": 1.5,
+        "hot": 4,
+        "bike": 1,
+        "water": 1,
+        "packability": 4,
+        "comfort": 5,
+        "style": 4.5,
+        "urbanTravel": 4.2,
+        "outdoorFinal": 2.1,
+        "travelPack": 4.4
+      },
+      "role": "Polo técnica smart-casual",
+      "purchaseAction": "Keep",
+      "priority": "high",
+      "sourceLinks": [
+        {
+          "label": "Vuori",
+          "url": "https://vuoriclothing.com/products/strato-tech-polo-black?queryId=5f4a9f2ae28c8f1dad88ecd8640aafbf&collection=mens",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V188HCC_SP24_M_ECOMM_TOPS_PINUP_1_75abf975-a094-4387-b0f0-2c4b657936f1.jpg?v=1743124760&width=1000&height=1250&crop=center"
+        ],
+        "sourceLinks": [
+          {
+            "label": "Vuori",
+            "url": "https://vuoriclothing.com/products/strato-tech-polo-black?queryId=5f4a9f2ae28c8f1dad88ecd8640aafbf&collection=mens",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Textura excelente, seca rápido, leve, quase perfeita.",
+      "modelConfidence": "high",
+      "gapOrRedundancy": "Ótima ponte técnico/social"
+    },
+    {
+      "id": "sandals_teva_hurricane_xlt2_01",
+      "status": "archived",
+      "name": "Teva Hurricane XLT2 masculina",
+      "brand": "Teva",
+      "model": "Hurricane XLT2",
+      "module": "Hot/Water",
+      "category": "footwear",
+      "subcategory": "Sport sandal",
+      "layerType": "Footwear",
+      "size": null,
+      "color": "?",
+      "colorFamily": [
+        "neutral"
+      ],
+      "materialTech": "Synthetic webbing + rubber outsole",
+      "weight": {
+        "estimatedGrams": 600,
+        "confidence": "medium"
+      },
+      "bestUse": [
+        "Calor",
+        "praia",
+        "rio",
+        "hostel",
+        "banho",
+        "caminhada leve"
+      ],
+      "avoidUse": [
+        "Levar como segundo par",
+        "social",
+        "trilha técnica"
+      ],
+      "scores": {
+        "urban": 1.5,
+        "formal": 0,
+        "outdoor": 3.5,
+        "rain": 1,
+        "cold": 0,
+        "hot": 4,
+        "bike": 1,
+        "water": 4.5,
+        "packability": 2.5,
+        "comfort": 4,
+        "style": 1.5,
+        "urbanTravel": 1.9,
+        "outdoorFinal": 2.6,
+        "travelPack": 3.1
+      },
+      "role": "Water/hot sandal",
+      "purchaseAction": "Keep / maybe lighter alternative",
+      "priority": "medium",
+      "sourceLinks": [
+        {
+          "label": "Teva",
+          "url": "https://www.teva.com/men-sandals/hurricane-xlt2-sandal/1019234.html",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [],
+        "sourceLinks": [
+          {
+            "label": "Teva",
+            "url": "https://www.teva.com/men-sandals/hurricane-xlt2-sandal/1019234.html",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Boa, mas pesada como complemento.",
+      "modelConfidence": "high",
+      "gapOrRedundancy": "Pesada como segundo par"
+    },
+    {
+      "id": "shell_quechua_raincut_halfzip_black_01",
+      "status": "owned",
+      "name": "Quechua Raincut 1/2 preta",
+      "brand": "Decathlon / Quechua",
+      "model": "Raincut 1/2",
+      "module": "Outdoor Core",
+      "category": "outerwear",
+      "subcategory": "Emergency rain shell",
+      "layerType": "Shell",
+      "size": null,
+      "color": "Preta",
+      "colorFamily": [
+        "dark"
+      ],
+      "materialTech": "Impermeável leve, half zip",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "high"
+      },
+      "bestUse": [
+        "Mochila de escalada",
+        "trilha curta",
+        "emergência",
+        "chuva eventual"
+      ],
+      "avoidUse": [
+        "Uso urbano",
+        "ventilação",
+        "vestir/tirar rápido"
+      ],
+      "scores": {
+        "urban": 1.5,
+        "formal": 0.5,
+        "outdoor": 3,
+        "rain": 3.5,
+        "cold": 1,
+        "hot": 1,
+        "bike": 1,
+        "water": 1,
+        "packability": 4.5,
+        "comfort": 3,
+        "style": 1.5,
+        "urbanTravel": 2.2,
+        "outdoorFinal": 1.9,
+        "travelPack": 3
+      },
+      "role": "Emergency rain shell",
+      "purchaseAction": "Keep",
+      "priority": "medium",
+      "sourceLinks": [
+        {
+          "label": "Decathlon / Quechua",
+          "url": "https://www.decathlon.com.br/jaqueta-masculino-de-caminhada-corta-vento-resistente-a-agua-raincut-12-preto-preta-8862313-quechua/p?idsku=853230",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [],
+        "sourceLinks": [
+          {
+            "label": "Decathlon / Quechua",
+            "url": "https://www.decathlon.com.br/jaqueta-masculino-de-caminhada-corta-vento-resistente-a-agua-raincut-12-preto-preta-8862313-quechua/p?idsku=853230",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Muito compacta; meia abertura limita uso como shell principal.",
+      "modelConfidence": "high",
+      "gapOrRedundancy": "Half zip limitation"
+    },
+    {
+      "id": "shell_tnf_alta_vista_blue_01",
+      "status": "archived",
+      "name": "The North Face Alta Vista azul",
+      "brand": "The North Face",
+      "model": "Alta Vista Jacket",
+      "module": "Outdoor Core",
+      "category": "outerwear",
+      "subcategory": "Rain shell",
+      "layerType": "Shell",
+      "size": null,
+      "color": "Azul",
+      "colorFamily": [
+        "bright"
+      ],
+      "materialTech": "DryVent 2.5L waterproof seam-sealed",
+      "weight": {
+        "estimatedGrams": 260,
+        "confidence": "high"
+      },
+      "bestUse": [
+        "Trilha",
+        "chuva real",
+        "bike",
+        "viagem outdoor"
+      ],
+      "avoidUse": [
+        "Setup urbano discreto",
+        "reunião"
+      ],
+      "scores": {
+        "urban": 2.5,
+        "formal": 1.5,
+        "outdoor": 4.5,
+        "rain": 4.5,
+        "cold": 2.5,
+        "hot": 1,
+        "bike": 3.5,
+        "water": 1,
+        "packability": 4,
+        "comfort": 4,
+        "style": 2,
+        "urbanTravel": 2.8,
+        "outdoorFinal": 3,
+        "travelPack": 3.6
+      },
+      "role": "Rain shell técnica",
+      "purchaseAction": "Keep / maybe replace color",
+      "priority": "medium",
+      "sourceLinks": [
+        {
+          "label": "The North Face",
+          "url": "https://www.thenorthface.com/en-us/p/shop-all/jackets-701295/mens-alta-vista-jacket-NF0A7QAW",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [],
+        "sourceLinks": [
+          {
+            "label": "The North Face",
+            "url": "https://www.thenorthface.com/en-us/p/shop-all/jackets-701295/mens-alta-vista-jacket-NF0A7QAW",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Técnica e compacta; azul chama atenção em uso urbano.",
+      "modelConfidence": "high",
+      "gapOrRedundancy": "Cor chamativa"
+    },
+    {
+      "id": "shell_uniqlo_blocktech_navy_xs_01",
+      "status": "candidate_buy",
+      "name": "UNIQLO BLOCKTECH Parka",
+      "brand": "UNIQLO",
+      "model": "BLOCKTECH Parka",
+      "module": "Urban Core",
+      "category": "outerwear",
+      "subcategory": "Rain/wind shell",
+      "layerType": "Shell",
+      "size": "XS",
+      "color": "Navy / preto / grafite",
+      "colorFamily": [
+        "dark"
+      ],
+      "materialTech": "BLOCKTECH water resistant, windproof, breathable, stretch",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "medium"
+      },
+      "bestUse": [
+        "Cidade",
+        "chuva urbana",
+        "frio leve",
+        "viagem"
+      ],
+      "avoidUse": [
+        "Chuva longa/pesada",
+        "trilha agressiva"
+      ],
+      "scores": {
+        "urban": 4,
+        "formal": 3.5,
+        "outdoor": 2.5,
+        "rain": 3.5,
+        "cold": 2.5,
+        "hot": 1,
+        "bike": 1,
+        "water": 1,
+        "packability": 3.5,
+        "comfort": 4.5,
+        "style": 4,
+        "urbanTravel": 3.9,
+        "outdoorFinal": 2.3,
+        "travelPack": 4
+      },
+      "role": "Shell urbana principal",
+      "purchaseAction": "Test/buy if fit confirmed",
+      "priority": "high",
+      "sourceLinks": [
+        {
+          "label": "UNIQLO",
+          "url": "https://www.uniqlo.com/us/en/products/E482211-000/00?colorDisplayCode=69&sizeDisplayCode=002",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482211/item/usgoods_69_482211_3x4.jpg?width=400"
+        ],
+        "sourceLinks": [
+          {
+            "label": "UNIQLO",
+            "url": "https://www.uniqlo.com/us/en/products/E482211-000/00?colorDisplayCode=69&sizeDisplayCode=002",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Compra candidata forte; melhor visual urbano que Alta Vista.",
+      "modelConfidence": "medium",
+      "gapOrRedundancy": "Own not yet"
+    },
+    {
+      "id": "shell_uniqlo_pocketable_01",
+      "status": "owned",
+      "name": "Corta-vento UNIQLO ultracompacto",
+      "brand": "UNIQLO",
+      "model": "Pocketable windbreaker / UV Parka family",
+      "module": "Zero Bag",
+      "category": "outerwear",
+      "subcategory": "Wind shell",
+      "layerType": "Shell",
+      "size": null,
+      "color": "?",
+      "colorFamily": [
+        "neutral"
+      ],
+      "materialTech": "Nylon/polyester leve + DWR leve",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "medium"
+      },
+      "bestUse": [
+        "Zero bag",
+        "shoulder bag",
+        "vento",
+        "garoa leve"
+      ],
+      "avoidUse": [
+        "Chuva real",
+        "visual social"
+      ],
+      "scores": {
+        "urban": 2.5,
+        "formal": 2,
+        "outdoor": 2,
+        "rain": 1.5,
+        "cold": 1.5,
+        "hot": 2,
+        "bike": 2,
+        "water": 1,
+        "packability": 5,
+        "comfort": 3.5,
+        "style": 2.5,
+        "urbanTravel": 3.1,
+        "outdoorFinal": 1.9,
+        "travelPack": 3.4
+      },
+      "role": "Zero bag wind shell",
+      "purchaseAction": "Keep",
+      "priority": "high",
+      "sourceLinks": [
+        {
+          "label": "UNIQLO",
+          "url": "https://www.uniqlo.com/us/en/products/E486164-000/00?colorDisplayCode=09&sizeDisplayCode=002",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/486164/sub/goods_486164_sub14_3x4.jpg?width=400"
+        ],
+        "sourceLinks": [
+          {
+            "label": "UNIQLO",
+            "url": "https://www.uniqlo.com/us/en/products/E486164-000/00?colorDisplayCode=09&sizeDisplayCode=002",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Cabe na shoulder bag; não contar como rain shell real.",
+      "modelConfidence": "low",
+      "gapOrRedundancy": "Emergency ultracompact"
+    },
+    {
+      "id": "shirt_avalanche_tropical_blue_01",
+      "status": "owned",
+      "name": "Avalanche camisa manga curta estampada",
+      "brand": "Avalanche",
+      "model": "Tropical short sleeve shirt",
+      "module": "Hot/Water / Casual Summer",
+      "category": "top",
+      "subcategory": "Short sleeve shirt",
+      "layerType": "Casual summer top",
+      "size": "Não legível",
+      "color": "Azul com estampa tropical branca/azul clara",
+      "colorFamily": [
+        "graphic"
+      ],
+      "materialTech": "Provável poliéster ou tecido sintético leve; não confirmado",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "low"
+      },
+      "bestUse": [
+        "Praia",
+        "verão casual",
+        "passeio",
+        "calor"
+      ],
+      "avoidUse": [
+        "Cliente",
+        "jantar arrumado",
+        "cápsula discreta"
+      ],
+      "scores": {
+        "urban": 2.4,
+        "formal": 1,
+        "outdoor": 1,
+        "rain": 0.5,
+        "cold": 1,
+        "hot": 4,
+        "bike": 0.5,
+        "water": 2,
+        "packability": 2.7,
+        "comfort": 3.5,
+        "style": 2.4,
+        "urbanTravel": 2.4,
+        "outdoorFinal": 1.7,
+        "travelPack": 2.7
+      },
+      "role": "Camisa casual de verão/praia",
+      "purchaseAction": "Keep",
+      "priority": "low",
+      "sourceLinks": [],
+      "media": {
+        "remoteImages": [],
+        "sourceLinks": []
+      },
+      "notes": "Camisa casual de verão/praia. Menos coerente para cliente.",
+      "modelConfidence": "medium",
+      "gapOrRedundancy": "Visual estampado reduz compatibilidade urbana discreta."
+    },
+    {
+      "id": "shirt_muji_brown_s_01",
+      "status": "owned",
+      "name": "MUJI Men's Flannel Shirt brown",
+      "brand": "MUJI",
+      "model": "Men's Flannel Shirt (4547315590643)",
+      "module": "Formal/Social",
+      "category": "top",
+      "subcategory": "Shirt",
+      "layerType": "Smart casual top",
+      "size": "MEN S",
+      "color": "Brown",
+      "colorFamily": [
+        "earth"
+      ],
+      "materialTech": "Brushed 100% cotton flannel (both sides)",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "medium"
+      },
+      "bestUse": [
+        "Videochamada",
+        "sair à noite",
+        "frio leve",
+        "look casual arrumado"
+      ],
+      "avoidUse": [
+        "Trilha",
+        "chuva",
+        "calor intenso"
+      ],
+      "scores": {
+        "urban": 3.5,
+        "formal": 3.5,
+        "outdoor": 1,
+        "rain": 0.5,
+        "cold": 2,
+        "hot": 1,
+        "bike": 0.5,
+        "water": 0.5,
+        "packability": 3,
+        "comfort": 3,
+        "style": 3.5,
+        "urbanTravel": 3.3,
+        "outdoorFinal": 1.2,
+        "travelPack": 3.3
+      },
+      "role": "Camisa flanela regular fit para layering urbano",
+      "purchaseAction": "Keep",
+      "priority": "medium",
+      "sourceLinks": [
+        {
+          "label": "MUJI",
+          "url": "https://www.muji.eu/products/mens-flannel-shirt-20578?sku=4547315840304",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://cdn11.bigcommerce.com/s-36unquhwg5/images/stencil/1280x1280/products/10874/2609868/P-AC20R-F-000000-085001__53437.1762512184.jpg?c=1"
+        ],
+        "sourceLinks": [
+          {
+            "label": "MUJI",
+            "url": "https://www.muji.eu/products/mens-flannel-shirt-20578?sku=4547315840304",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Flanela 100% algodao com toque macio interno e externo. Regular fit bom para layering: pode usar aberta como sobrecamisa leve ou fechada como camisa. Boa para ambientes internos e clima ameno/frio leve.",
+      "modelConfidence": "high",
+      "gapOrRedundancy": "Fit regular pode parecer amplo dependendo da composicao; peca focada em conforto e versatilidade casual."
+    },
+    {
+      "id": "shirt_muji_buttondown_navy_s_01",
+      "status": "owned",
+      "name": "MUJI camisa button-down navy",
+      "brand": "MUJI",
+      "model": "Button-down navy shirt",
+      "module": "Urban Core / Formal-Social casual",
+      "category": "top",
+      "subcategory": "Button-down shirt",
+      "layerType": "Smart casual top",
+      "size": "MEN S",
+      "color": "Navy",
+      "colorFamily": [
+        "dark"
+      ],
+      "materialTech": "Etiqueta indica \"100%\"; provável 100% algodão",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "low"
+      },
+      "bestUse": [
+        "Cliente",
+        "jantar",
+        "layering",
+        "viagem urbana",
+        "smart casual"
+      ],
+      "avoidUse": [
+        "Trilha",
+        "chuva",
+        "calor extremo"
+      ],
+      "scores": {
+        "urban": 4,
+        "formal": 3.8,
+        "outdoor": 1,
+        "rain": 0.5,
+        "cold": 1,
+        "hot": 2,
+        "bike": 0.5,
+        "water": 0.5,
+        "packability": 3.8,
+        "comfort": 3.5,
+        "style": 4.1,
+        "urbanTravel": 4,
+        "outdoorFinal": 1.2,
+        "travelPack": 3.8
+      },
+      "role": "Camisa casual-profissional navy",
+      "purchaseAction": "Keep",
+      "priority": "high",
+      "sourceLinks": [],
+      "media": {
+        "remoteImages": [],
+        "sourceLinks": []
+      },
+      "notes": "Camisa casual-profissional navy. Melhor fit que a UNIQLO Super Non-Iron M. Boa para cliente, jantar e layering.",
+      "modelConfidence": "medium",
+      "gapOrRedundancy": "Provável melhor camisa social casual do módulo."
+    },
+    {
+      "id": "shirt_tailored_white_wedding_01",
+      "status": "owned",
+      "name": "Camisa social branca sob medida",
+      "brand": "Sob medida",
+      "model": "Camisa social branca casamento",
+      "module": "Formal/Social",
+      "category": "top",
+      "subcategory": "Dress shirt",
+      "layerType": "Formal visible top",
+      "size": "Sob medida",
+      "color": "Branca",
+      "colorFamily": [
+        "neutral"
+      ],
+      "materialTech": "Provável algodão; não confirmado",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "low"
+      },
+      "bestUse": [
+        "Casamento",
+        "evento formal",
+        "reunião formal"
+      ],
+      "avoidUse": [
+        "Cápsula casual",
+        "trilha",
+        "calor extremo"
+      ],
+      "scores": {
+        "urban": 2.8,
+        "formal": 5,
+        "outdoor": 1,
+        "rain": 0.5,
+        "cold": 1,
+        "hot": 2,
+        "bike": 0.5,
+        "water": 0.5,
+        "packability": 2.2,
+        "comfort": 3.5,
+        "style": 4,
+        "urbanTravel": 2.8,
+        "outdoorFinal": 0.8,
+        "travelPack": 2.2
+      },
+      "role": "Camisa formal clássica",
+      "purchaseAction": "Keep",
+      "priority": "low",
+      "sourceLinks": [],
+      "media": {
+        "remoteImages": [],
+        "sourceLinks": []
+      },
+      "notes": "Camisa de alfaiate usada no casamento. Punho formal/para abotoadura. Formal demais para cápsula casual, mas importante no módulo social.",
+      "modelConfidence": "medium",
+      "gapOrRedundancy": "Formal-only; manter por ocasião específica."
+    },
+    {
+      "id": "shirt_uniqlo_premium_linen_tbd_01",
+      "status": "candidate_buy",
+      "name": "UNIQLO Premium Linen Shirt",
+      "brand": "UNIQLO",
+      "model": "Premium Linen Shirt (Product ID 455957)",
+      "module": "Urban Core",
+      "category": "top",
+      "subcategory": "Shirt",
+      "layerType": "Smart casual top",
+      "size": "MEN XS",
+      "color": "TBD: OLIVE / GREEN / NAVY / NATURAL",
+      "colorFamily": [
+        "earth",
+        "dark",
+        "neutral"
+      ],
+      "materialTech": "100% Linen",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "high"
+      },
+      "bestUse": [
+        "Cidade",
+        "viagem",
+        "calor",
+        "smart casual",
+        "layering leve"
+      ],
+      "avoidUse": [
+        "Frio sem camada",
+        "trilha pesada"
+      ],
+      "scores": {
+        "urban": 4,
+        "formal": 3.5,
+        "outdoor": 1.5,
+        "rain": 0.5,
+        "cold": 1,
+        "hot": 4.5,
+        "bike": 1,
+        "water": 0.5,
+        "packability": 3.5,
+        "comfort": 4.5,
+        "style": 4.2,
+        "urbanTravel": 4,
+        "outdoorFinal": 2,
+        "travelPack": 4.1
+      },
+      "role": "Camisa de linho versatil para calor e visual arrumado",
+      "purchaseAction": "Buy 1 after choosing final color",
+      "priority": "medium",
+      "sourceLinks": [
+        {
+          "label": "UNIQLO",
+          "url": "https://www.uniqlo.com/us/en/products/E455957-000/00?colorDisplayCode=57&sizeDisplayCode=002",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/455957/item/usgoods_57_455957_3x4.jpg?width=400",
+          "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/455957/item/usgoods_30_455957_3x4.jpg?width=400",
+          "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/455957/item/usgoods_51_455957_3x4.jpg?width=400",
+          "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/455957/sub/usgoods_455957_sub3_3x4.jpg?width=400"
+        ],
+        "sourceLinks": [
+          {
+            "label": "UNIQLO",
+            "url": "https://www.uniqlo.com/us/en/products/E455957-000/00?colorDisplayCode=57&sizeDisplayCode=002",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Camisa de linho premium bestseller para clima quente, respiravel e com visual limpo para uso urbano/viagem. Cor final ainda a definir entre olive, green, navy ou natural.",
+      "modelConfidence": "high",
+      "gapOrRedundancy": "Pode sobrepor camisas casuais atuais; ganho principal e conforto termico em calor com look arrumado."
+    },
+    {
+      "id": "shirt_uniqlo_super_non_iron_slim_navy_01",
+      "status": "owned",
+      "name": "UNIQLO Super Non-Iron Slim Fit Shirt navy",
+      "brand": "UNIQLO",
+      "model": "Super Non-Iron Slim Fit Shirt",
+      "module": "Formal/Social / Urban Core",
+      "category": "top",
+      "subcategory": "Dress shirt",
+      "layerType": "Smart formal top",
+      "size": "MEN M",
+      "color": "Navy",
+      "colorFamily": [
+        "dark"
+      ],
+      "materialTech": "Provável 100% algodão non-iron",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "low"
+      },
+      "bestUse": [
+        "Cliente",
+        "reunião",
+        "viagem urbana",
+        "jantar casual arrumado"
+      ],
+      "avoidUse": [
+        "Trilha",
+        "calor intenso",
+        "mochila abrasiva"
+      ],
+      "scores": {
+        "urban": 3.6,
+        "formal": 4,
+        "outdoor": 1,
+        "rain": 0.5,
+        "cold": 1,
+        "hot": 2,
+        "bike": 0.5,
+        "water": 0.5,
+        "packability": 3.2,
+        "comfort": 3.5,
+        "style": 3.6,
+        "urbanTravel": 3.6,
+        "outdoorFinal": 1,
+        "travelPack": 3.2
+      },
+      "role": "Camisa social/corporativa navy",
+      "purchaseAction": "Keep",
+      "priority": "medium",
+      "sourceLinks": [],
+      "media": {
+        "remoteImages": [],
+        "sourceLinks": []
+      },
+      "notes": "Camisa social/corporativa navy. Gola com botões, bolso no peito. Fit parece mais amplo/alongado que a MUJI navy.",
+      "modelConfidence": "medium",
+      "gapOrRedundancy": "Boa ponte formal, mas fit possivelmente amplo."
+    },
+    {
+      "id": "shirt_vuori_short_sleeve_bluegrey_01",
+      "status": "owned",
+      "name": "Vuori camisa manga curta azul acinzentada",
+      "brand": "Vuori",
+      "model": "Short sleeve shirt",
+      "module": "Urban Core / Hot Weather",
+      "category": "top",
+      "subcategory": "Short sleeve shirt",
+      "layerType": "Hot weather smart casual top",
+      "size": "Não visível",
+      "color": "Azul acinzentado / slate blue",
+      "colorFamily": [
+        "neutral"
+      ],
+      "materialTech": "Provável tecido técnico leve; material não confirmado",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "low"
+      },
+      "bestUse": [
+        "Calor",
+        "passeio",
+        "cliente casual",
+        "viagem urbana quente"
+      ],
+      "avoidUse": [
+        "Evento formal rígido",
+        "frio",
+        "trilha pesada"
+      ],
+      "scores": {
+        "urban": 4,
+        "formal": 2.8,
+        "outdoor": 1,
+        "rain": 0.5,
+        "cold": 1,
+        "hot": 4.5,
+        "bike": 0.5,
+        "water": 0.5,
+        "packability": 4,
+        "comfort": 3.5,
+        "style": 4,
+        "urbanTravel": 4,
+        "outdoorFinal": 1.5,
+        "travelPack": 4
+      },
+      "role": "Camisa técnica casual para calor",
+      "purchaseAction": "Keep",
+      "priority": "high",
+      "sourceLinks": [],
+      "media": {
+        "remoteImages": [],
+        "sourceLinks": []
+      },
+      "notes": "Você confirmou que é Vuori. Boa para calor, passeio e cliente casual.",
+      "modelConfidence": "medium",
+      "gapOrRedundancy": "Boa peça quente com ponte casual/cliente."
+    },
+    {
+      "id": "shoes_aku_bellamont_iv_nbk_gtx_black_grey_01",
+      "status": "candidate_buy",
+      "name": "AKU Bellamont IV NBK GTX black-grey",
+      "brand": "AKU",
+      "model": "Bellamont IV NBK GTX",
+      "module": "Urban Core",
+      "category": "footwear",
+      "subcategory": "Urban-outdoor GTX shoe",
+      "layerType": "Footwear",
+      "size": "EU 38?",
+      "color": "Black-grey",
+      "colorFamily": [
+        "dark"
+      ],
+      "materialTech": "Nubuck/leather + GORE-TEX",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "medium"
+      },
+      "bestUse": [
+        "Cidade",
+        "viagem",
+        "chuva urbana",
+        "trilha leve",
+        "caminhada longa"
+      ],
+      "avoidUse": [
+        "Trilha pesada",
+        "lama intensa",
+        "formal"
+      ],
+      "scores": {
+        "urban": 4.5,
+        "formal": 2.5,
+        "outdoor": 3,
+        "rain": 4,
+        "cold": 2.5,
+        "hot": 2,
+        "bike": 1,
+        "water": 1,
+        "packability": 1,
+        "comfort": 4,
+        "style": 4.5,
+        "urbanTravel": 3.3,
+        "outdoorFinal": 2.5,
+        "travelPack": 3.5
+      },
+      "role": "Urban-outdoor low shoe",
+      "purchaseAction": "Test before buy",
+      "priority": "high",
+      "sourceLinks": [
+        {
+          "label": "AKU",
+          "url": "https://www.aku.com/",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "http://www.aku.com/cdn/shop/files/Scarpe_da_escursionismo_AKU.jpg?v=1773670450&width=2048",
+          "https://www.aku.com/cdn/shop/files/Scarpe_da_escursionismo_AKU.jpg?v=1773670450&width=2048",
+          "https://www.aku.com/cdn/shop/files/Scarpe_da_escursionismo_AKU.jpg?crop=center&height=1200&v=1773670450&width=1200"
+        ],
+        "sourceLinks": [
+          {
+            "label": "AKU",
+            "url": "https://www.aku.com/",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Melhor visual urbano discreto entre candidatos; low shoe com menos suporte que bota.",
+      "modelConfidence": "medium",
+      "gapOrRedundancy": "Low shoe not boot"
+    },
+    {
+      "id": "shoes_cns_austin_oxford_17358_01",
+      "status": "owned",
+      "name": "CNS Austin Oxford social",
+      "brand": "CNS",
+      "model": "Austin 17358",
+      "module": "Formal/Social",
+      "category": "footwear",
+      "subcategory": "Oxford shoe",
+      "layerType": "Footwear",
+      "size": null,
+      "color": "?",
+      "colorFamily": [
+        "dark",
+        "earth"
+      ],
+      "materialTech": "Couro",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "low"
+      },
+      "bestUse": [
+        "Casamento",
+        "evento formal",
+        "reunião formal"
+      ],
+      "avoidUse": [
+        "Caminhada longa",
+        "trilha",
+        "chuva"
+      ],
+      "scores": {
+        "urban": 3,
+        "formal": 5,
+        "outdoor": 0,
+        "rain": 0.5,
+        "cold": 1,
+        "hot": 1,
+        "bike": 0,
+        "water": 0,
+        "packability": 0.5,
+        "comfort": 3,
+        "style": 4.5,
+        "urbanTravel": 3.2,
+        "outdoorFinal": 0.8,
+        "travelPack": 2.8
+      },
+      "role": "Sapato formal clássico",
+      "purchaseAction": "Keep",
+      "priority": "high",
+      "sourceLinks": [
+        {
+          "label": "CNS",
+          "url": "https://cnscalcados.com.br/produtos/sapato-social-masculino-oxford-cns-austin-17358/",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "http://acdn-us.mitiendanube.com/stores/006/838/903/products/22-3639065c984b707d9217640774240485-640-0.webp",
+          "https://acdn-us.mitiendanube.com/stores/006/838/903/products/22-3639065c984b707d9217640774240485-640-0.webp",
+          "https://acdn-us.mitiendanube.com/stores/006/838/903/products/128-025c1f928a30b9189c17646116036414-480-0.webp"
+        ],
+        "sourceLinks": [
+          {
+            "label": "CNS",
+            "url": "https://cnscalcados.com.br/produtos/sapato-social-masculino-oxford-cns-austin-17358/",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Usado no casamento; só entra quando formalidade exige.",
+      "modelConfidence": "medium",
+      "gapOrRedundancy": "Formal only"
+    },
+    {
+      "id": "shoes_danner_trail2650_gtx_black_shadow_01",
+      "status": "candidate_buy",
+      "name": "Danner Trail 2650 GTX Black Shadow",
+      "brand": "Danner",
+      "model": "Trail 2650 GTX",
+      "module": "Bike/Active",
+      "category": "footwear",
+      "subcategory": "Trail shoe",
+      "layerType": "Footwear",
+      "size": null,
+      "color": "Black Shadow",
+      "colorFamily": [
+        "dark"
+      ],
+      "materialTech": "GORE-TEX + Vibram",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "medium"
+      },
+      "bestUse": [
+        "Caminhada longa",
+        "trilha leve/média",
+        "viagem ativa"
+      ],
+      "avoidUse": [
+        "Formal",
+        "suporte de tornozelo"
+      ],
+      "scores": {
+        "urban": 3.5,
+        "formal": 1,
+        "outdoor": 3.5,
+        "rain": 4,
+        "cold": 2,
+        "hot": 2.5,
+        "bike": 2,
+        "water": 1,
+        "packability": 1.5,
+        "comfort": 4,
+        "style": 3.5,
+        "urbanTravel": 2.7,
+        "outdoorFinal": 2.7,
+        "travelPack": 3.1
+      },
+      "role": "Exploração leve",
+      "purchaseAction": "Test before buy",
+      "priority": "medium",
+      "sourceLinks": [
+        {
+          "label": "Danner",
+          "url": "https://www.danner.com/trail-2650-suede-black-shadow-gtx.html",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://i.lfi.media/is/image/LaCrosse/danner_13_pdp/61296",
+          "https://i.lfi.media/is/image/LaCrosse/danner_22_pdp/61296",
+          "https://i.lfi.media/is/image/LaCrosse/danner_22_pdp/61296_Q"
+        ],
+        "sourceLinks": [
+          {
+            "label": "Danner",
+            "url": "https://www.danner.com/trail-2650-suede-black-shadow-gtx.html",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Boa opção leve, mas visual mais técnico e menos bota.",
+      "modelConfidence": "high",
+      "gapOrRedundancy": "Less ankle support"
+    },
+    {
+      "id": "shoes_democrata_dune_hisoft_298202_01",
+      "status": "owned",
+      "name": "Democrata Dune Hi-Soft 298202",
+      "brand": "Democrata",
+      "model": "Dune Hi-Soft 298202",
+      "module": "Formal/Social",
+      "category": "footwear",
+      "subcategory": "Smart casual derby",
+      "layerType": "Footwear",
+      "size": null,
+      "color": "Preto/tabaco?",
+      "colorFamily": [
+        "dark",
+        "earth"
+      ],
+      "materialTech": "Couro",
+      "weight": {
+        "estimatedGrams": 840,
+        "confidence": "medium"
+      },
+      "bestUse": [
+        "Casamentos",
+        "eventos formais menos rígidos",
+        "social descolado"
+      ],
+      "avoidUse": [
+        "Trilha",
+        "chuva",
+        "viagem minimalista"
+      ],
+      "scores": {
+        "urban": 3.5,
+        "formal": 4,
+        "outdoor": 0,
+        "rain": 0.5,
+        "cold": 1,
+        "hot": 1,
+        "bike": 0,
+        "water": 0,
+        "packability": 0.5,
+        "comfort": 4,
+        "style": 4,
+        "urbanTravel": 3.2,
+        "outdoorFinal": 0.9,
+        "travelPack": 3
+      },
+      "role": "Social descontraído",
+      "purchaseAction": "Keep",
+      "priority": "medium",
+      "sourceLinks": [
+        {
+          "label": "Democrata",
+          "url": "https://www.democrata.com.br/",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://democrata.vtexassets.com/arquivos/ids/242226/Bota-Masculina-Doha-Couro-Preto-Preto-37.jpg?v=639118462891400000",
+          "https://democrata.vtexassets.com/arquivos/ids/253700/Bota-Masculina-Dust-Marrom-Marrom-37.jpg?v=639180692533670000",
+          "https://democrata.vtexassets.com/assets/vtex/assets-builder/democrata.theme/2.4.51/images/svg/logo-desktop___cf025c7cec2ba6d666f2ca39df4ec757.svg"
+        ],
+        "sourceLinks": [
+          {
+            "label": "Democrata",
+            "url": "https://www.democrata.com.br/",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Pode ser redundante com CNS em alguns eventos, mas mais descontraído.",
+      "modelConfidence": "medium",
+      "gapOrRedundancy": "Social redundancy"
+    },
+    {
+      "id": "shoes_nike_pegasus_trail_5_01",
+      "status": "candidate_buy",
+      "name": "Nike Pegasus Trail 5",
+      "brand": "Nike",
+      "model": "Pegasus Trail 5",
+      "module": "Bike/Active",
+      "category": "footwear",
+      "subcategory": "Trail runner",
+      "layerType": "Footwear",
+      "size": null,
+      "color": "Preta/grafite ideal",
+      "colorFamily": [
+        "dark"
+      ],
+      "materialTech": "Synthetic trail runner",
+      "weight": {
+        "estimatedGrams": 600,
+        "confidence": "medium"
+      },
+      "bestUse": [
+        "Corrida",
+        "caminhada longa",
+        "trilha leve/moderada seca",
+        "viagem ativa"
+      ],
+      "avoidUse": [
+        "Chuva",
+        "formalidade",
+        "firmeza de bota/calcanhar"
+      ],
+      "scores": {
+        "urban": 3.5,
+        "formal": 0.5,
+        "outdoor": 3.5,
+        "rain": 2,
+        "cold": 1.5,
+        "hot": 3.5,
+        "bike": 3,
+        "water": 1,
+        "packability": 1.5,
+        "comfort": 4.5,
+        "style": 3,
+        "urbanTravel": 2.6,
+        "outdoorFinal": 2.7,
+        "travelPack": 3.1
+      },
+      "role": "Corrida + trilha leve",
+      "purchaseAction": "Test before buy",
+      "priority": "low",
+      "sourceLinks": [
+        {
+          "label": "Amazon",
+          "url": "https://www.amazon.com/Nike-Pegasus-Running-DV3864-002-Anthracite/dp/B0D1YFQ3DH/ref=sr_1_1?crid=30SVX8HUTY89K&dib=eyJ2IjoiMSJ9.paLSyh8isONKvPGxhd4QE8LY_Wb3673u_wKplvL6bsIdPHU8ZkUrpqTTW1V_noGbOQN9TT3cOJdRNfQUqvHsr5H3ppWx1bzM_MxjZBX6SaqA_-AhynwmAEJsu9OJzoVXqdwLrgQpHvQ3tPOHQfETitSQpTCsqsWEI7l33yGKQkkrP92c12LgcmDlIjou5LWkieZSGbiC6UCZLlGAn_v572l8zBgP15oUzAFTluBp_Hc.4QsShftIQLu4bYxI-kmZTF_WGIZ6czoxRP2GWEqvv0w&dib_tag=se&keywords=Nike%2BPegasus%2BTrail%2B5&qid=1782939282&s=digital-text&sprefix=nike%2Bpegasus%2Btrail%2B5%2B%2Cdigital-text%2C209&sr=1-1&th=1&psc=1",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://m.media-amazon.com/images/I/71CwgN9KWFL._AC_SY695_.jpg"
+        ],
+        "sourceLinks": [
+          {
+            "label": "Amazon",
+            "url": "https://www.amazon.com/Nike-Pegasus-Running-DV3864-002-Anthracite/dp/B0D1YFQ3DH/ref=sr_1_1?crid=30SVX8HUTY89K&dib=eyJ2IjoiMSJ9.paLSyh8isONKvPGxhd4QE8LY_Wb3673u_wKplvL6bsIdPHU8ZkUrpqTTW1V_noGbOQN9TT3cOJdRNfQUqvHsr5H3ppWx1bzM_MxjZBX6SaqA_-AhynwmAEJsu9OJzoVXqdwLrgQpHvQ3tPOHQfETitSQpTCsqsWEI7l33yGKQkkrP92c12LgcmDlIjou5LWkieZSGbiC6UCZLlGAn_v572l8zBgP15oUzAFTluBp_Hc.4QsShftIQLu4bYxI-kmZTF_WGIZ6czoxRP2GWEqvv0w&dib_tag=se&keywords=Nike%2BPegasus%2BTrail%2B5&qid=1782939282&s=digital-text&sprefix=nike%2Bpegasus%2Btrail%2B5%2B%2Cdigital-text%2C209&sr=1-1&th=1&psc=1",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Boa para corrida; risco de não dar firmeza que você gosta.",
+      "modelConfidence": "high",
+      "gapOrRedundancy": "Not waterproof"
+    },
+    {
+      "id": "shoes_salomon_xultra_mid_gtx_black_01",
+      "status": "archived",
+      "name": "Salomon X Ultra Mid GTX preto",
+      "brand": "Salomon",
+      "model": "X Ultra Mid GTX / Pioneer GTX",
+      "module": "Outdoor Core",
+      "category": "footwear",
+      "subcategory": "Technical hiking boot/shoe",
+      "layerType": "Footwear",
+      "size": null,
+      "color": "Preto",
+      "colorFamily": [
+        "dark"
+      ],
+      "materialTech": "GORE-TEX + hiking chassis",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "medium"
+      },
+      "bestUse": [
+        "Estabilidade",
+        "chuva",
+        "trilha",
+        "descida"
+      ],
+      "avoidUse": [
+        "Visual urbano",
+        "calor"
+      ],
+      "scores": {
+        "urban": 2.5,
+        "formal": 0.5,
+        "outdoor": 4.5,
+        "rain": 4.5,
+        "cold": 3,
+        "hot": 1.5,
+        "bike": 1,
+        "water": 1,
+        "packability": 0.5,
+        "comfort": 4,
+        "style": 2.5,
+        "urbanTravel": 2,
+        "outdoorFinal": 2.8,
+        "travelPack": 2.9
+      },
+      "role": "Opção técnica de trilha",
+      "purchaseAction": "Only if trail > urban",
+      "priority": "medium",
+      "sourceLinks": [
+        {
+          "label": "Salomon",
+          "url": "https://www.salomon.com/",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://images.ctfassets.net/7iktyqnb7v9e/NaCUCROLT7JdUHR1DbdLz/7300b544936b592ba95df22734c19460/Hiking-shoes.jpg"
+        ],
+        "sourceLinks": [
+          {
+            "label": "Salomon",
+            "url": "https://www.salomon.com/",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Melhor tecnicamente, pior para visual urbano.",
+      "modelConfidence": "medium",
+      "gapOrRedundancy": "Technical visual"
+    },
+    {
+      "id": "shorts_nike_running_01",
+      "status": "owned",
+      "name": "Shorts Nike de corrida",
+      "brand": "Nike",
+      "model": "Running shorts",
+      "module": "Bike/Active",
+      "category": "bottom",
+      "subcategory": "Running shorts",
+      "layerType": "Active bottom",
+      "size": null,
+      "color": "?",
+      "colorFamily": [
+        "neutral"
+      ],
+      "materialTech": "Synthetic lightweight",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "medium"
+      },
+      "bestUse": [
+        "Corrida",
+        "pijama quente",
+        "rio",
+        "emergência",
+        "calor"
+      ],
+      "avoidUse": [
+        "Smart casual",
+        "cidade estilosa"
+      ],
+      "scores": {
+        "urban": 1,
+        "formal": 0,
+        "outdoor": 2,
+        "rain": 0.5,
+        "cold": 0,
+        "hot": 4,
+        "bike": 2,
+        "water": 3,
+        "packability": 5,
+        "comfort": 4,
+        "style": 1,
+        "urbanTravel": 2.2,
+        "outdoorFinal": 2.2,
+        "travelPack": 3.5
+      },
+      "role": "Active/light shorts",
+      "purchaseAction": "Keep",
+      "priority": "medium",
+      "sourceLinks": [
+        {
+          "label": "Nike",
+          "url": "https://www.nike.com/",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://c.static-nike.com/a/images/w_1920,c_limit/bzl2wmsfh7kgdkufrrjq/image.jpg",
+          "https://static.nike.com/a/images/w_144,c_limit/93e27030-4bef-467b-b6e1-32e9cf6d4efa/image.jpg",
+          "https://static.nike.com/a/images/w_144,c_limit/9e5afd10-e3f6-4391-a815-5df681b5fe05/image.jpg"
+        ],
+        "sourceLinks": [
+          {
+            "label": "Nike",
+            "url": "https://www.nike.com/",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Leve e fácil de carregar; pouco stylish.",
+      "modelConfidence": "low",
+      "gapOrRedundancy": "Low style"
+    },
+    {
+      "id": "shorts_taco_walkshort_flex_beige_01",
+      "status": "owned",
+      "name": "TACO Walkshort Flex bege",
+      "brand": "TACO",
+      "model": "Walkshort Flex",
+      "module": "Hot/Water / Casual Summer",
+      "category": "bottom",
+      "subcategory": "Walkshort",
+      "layerType": "Active/casual bottom",
+      "size": "36 ou 38, não totalmente legível",
+      "color": "Bege / khaki",
+      "colorFamily": [
+        "earth"
+      ],
+      "materialTech": "Provável tecido misto com stretch; composição não visível",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "low"
+      },
+      "bestUse": [
+        "Passeio",
+        "calor",
+        "verão casual",
+        "praia urbana"
+      ],
+      "avoidUse": [
+        "Cliente",
+        "evento formal",
+        "frio"
+      ],
+      "scores": {
+        "urban": 2.8,
+        "formal": 1,
+        "outdoor": 1,
+        "rain": 0.5,
+        "cold": 1,
+        "hot": 2,
+        "bike": 0.5,
+        "water": 0.5,
+        "packability": 3.2,
+        "comfort": 3.5,
+        "style": 2.8,
+        "urbanTravel": 2.8,
+        "outdoorFinal": 1.5,
+        "travelPack": 3.2
+      },
+      "role": "Bermuda casual de verão",
+      "purchaseAction": "Keep",
+      "priority": "medium",
+      "sourceLinks": [],
+      "media": {
+        "remoteImages": [],
+        "sourceLinks": []
+      },
+      "notes": "Bermuda casual de verão. Boa para passeio/calor, não para cliente.",
+      "modelConfidence": "medium",
+      "gapOrRedundancy": "Mais casual que as calças urbanas."
+    },
+    {
+      "id": "shorts_uniqlo_stretch_easy_beige_01",
+      "status": "candidate_buy",
+      "name": "UNIQLO Stretch Easy Shorts beige",
+      "brand": "UNIQLO",
+      "model": "Stretch Easy Shorts (Product ID 478680)",
+      "module": "Hot/Water",
+      "category": "bottom",
+      "subcategory": "Shorts",
+      "layerType": "Bottom",
+      "size": "MEN XS",
+      "color": "31 BEIGE",
+      "colorFamily": [
+        "earth"
+      ],
+      "materialTech": "Stretch synthetic blend for warm weather daily wear",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "medium"
+      },
+      "bestUse": [
+        "Calor",
+        "uso casual",
+        "viagem",
+        "dias leves"
+      ],
+      "avoidUse": [
+        "Evento formal",
+        "frio sem camada"
+      ],
+      "scores": {
+        "urban": 3,
+        "formal": 0.5,
+        "outdoor": 2,
+        "rain": 1,
+        "cold": 0.5,
+        "hot": 4.5,
+        "bike": 1.5,
+        "water": 1.5,
+        "packability": 4.5,
+        "comfort": 4.5,
+        "style": 3,
+        "urbanTravel": 3.5,
+        "outdoorFinal": 2.2,
+        "travelPack": 4
+      },
+      "role": "Short casual leve para clima quente",
+      "purchaseAction": "Buy 1 to test fit and fabric",
+      "priority": "medium",
+      "sourceLinks": [
+        {
+          "label": "UNIQLO AU",
+          "url": "https://www.uniqlo.com/au/en/products/E478680-000/00?colorDisplayCode=31&sizeDisplayCode=002",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/478680/item/goods_31_478680_3x4.jpg?width=400"
+        ],
+        "sourceLinks": [
+          {
+            "label": "UNIQLO AU",
+            "url": "https://www.uniqlo.com/au/en/products/E478680-000/00?colorDisplayCode=31&sizeDisplayCode=002",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Candidate buy de shorts para calor com proposta simples e versatil. Cor bege pode funcionar como alternativa neutra para travel e uso casual.",
+      "modelConfidence": "high",
+      "gapOrRedundancy": "Pode sobrepor outros shorts casuais; validar ganho real versus os modelos tecnicos já catalogados."
+    },
+    {
+      "id": "shorts_uniqlo_ultra_stretch_active_5in_black_01",
+      "status": "candidate_buy",
+      "name": "UNIQLO Ultra Stretch Active Shorts 5in black",
+      "brand": "UNIQLO",
+      "model": "Ultra Stretch Active Shorts 5in (Product ID 485602 / 477753)",
+      "module": "Bike/Active",
+      "category": "bottom",
+      "subcategory": "Active shorts",
+      "layerType": "Bottom",
+      "size": null,
+      "color": "09 BLACK",
+      "colorFamily": [
+        "dark"
+      ],
+      "materialTech": "100% polyester (34% recycled) with DRY-EX quick-dry and Ultra Stretch",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "high"
+      },
+      "bestUse": [
+        "Treino",
+        "corrida",
+        "calor",
+        "viagem ativa",
+        "uso casual esportivo"
+      ],
+      "avoidUse": [
+        "Evento formal",
+        "frio sem camada"
+      ],
+      "scores": {
+        "urban": 2.5,
+        "formal": 0,
+        "outdoor": 3.5,
+        "rain": 1,
+        "cold": 0.5,
+        "hot": 4.5,
+        "bike": 3.5,
+        "water": 1.5,
+        "packability": 5,
+        "comfort": 4.5,
+        "style": 2.5,
+        "urbanTravel": 3.4,
+        "outdoorFinal": 2.9,
+        "travelPack": 4.2
+      },
+      "role": "Short tecnico leve para clima quente e atividade",
+      "purchaseAction": "Buy 1 to validate fit and inseam",
+      "priority": "medium",
+      "sourceLinks": [
+        {
+          "label": "UNIQLO",
+          "url": "https://www.uniqlo.com/us/en/products/E477753-000/00?colorDisplayCode=09&sizeDisplayCode=004",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/477753/sub/goods_477753_sub15_3x4.jpg?width=400",
+          "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/477753/feature/usgoods_477753_feature6.jpg",
+          "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/477753/feature/usgoods_477753_feature7.jpg",
+          "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/477753/feature/usgoods_477753_feature8.jpg",
+          "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/477753/feature/usgoods_477753_feature9.jpg"
+        ],
+        "sourceLinks": [
+          {
+            "label": "UNIQLO",
+            "url": "https://www.uniqlo.com/us/en/products/E477753-000/00?colorDisplayCode=09&sizeDisplayCode=004",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Short regular fit com entreperna 5in, tecido leve com secagem rapida DRY-EX e elasticidade em todas as direcoes. Bom para treino e dias quentes, com bolsos de zip e acabamento limpo sem volume.",
+      "modelConfidence": "high",
+      "gapOrRedundancy": "Pode sobrepor o shorts Nike atual; validar se o fit 5in e conforto em uso real compensam."
+    },
+    {
+      "id": "slippers_lightweight_01",
+      "status": "owned",
+      "name": "Pantufas leves",
+      "brand": "TBD",
+      "model": "Lightweight slippers",
+      "module": "Indoor/Comfort",
+      "category": "footwear",
+      "subcategory": "Slippers",
+      "layerType": "Footwear",
+      "size": null,
+      "color": "?",
+      "colorFamily": [
+        "neutral"
+      ],
+      "materialTech": "TBD",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "low"
+      },
+      "bestUse": [
+        "Casa",
+        "hospedagem",
+        "frio leve",
+        "descanso"
+      ],
+      "avoidUse": [
+        "Rua",
+        "água",
+        "outdoor"
+      ],
+      "scores": {
+        "urban": 0,
+        "formal": 0,
+        "outdoor": 0,
+        "rain": 0,
+        "cold": 2,
+        "hot": 1,
+        "bike": 0,
+        "water": 0,
+        "packability": 4,
+        "comfort": 4,
+        "style": 1,
+        "urbanTravel": 1.8,
+        "outdoorFinal": 1,
+        "travelPack": 2.5
+      },
+      "role": "Conforto indoor",
+      "purchaseAction": "Trip-specific",
+      "priority": "low",
+      "sourceLinks": [],
+      "media": {
+        "remoteImages": [],
+        "sourceLinks": []
+      },
+      "notes": "Levar só em viagem longa/frio/hospedagem fixa.",
+      "modelConfidence": "low",
+      "gapOrRedundancy": "Specific use"
+    },
+    {
+      "id": "sneaker_pegada_119405_darkdune_01",
+      "status": "owned",
+      "name": "Pegada sapatênis couro com zíper",
+      "brand": "Pegada",
+      "model": "119405",
+      "module": "Formal/Social",
+      "category": "footwear",
+      "subcategory": "Casual sneaker",
+      "layerType": "Footwear",
+      "size": "38?",
+      "color": "Dark dune / marrom",
+      "colorFamily": [
+        "earth"
+      ],
+      "materialTech": "Couro",
+      "weight": {
+        "estimatedGrams": 630,
+        "confidence": "medium"
+      },
+      "bestUse": [
+        "Cidade",
+        "viagem urbana",
+        "social casual"
+      ],
+      "avoidUse": [
+        "Trilha",
+        "formal real",
+        "chuva pesada"
+      ],
+      "scores": {
+        "urban": 3.5,
+        "formal": 2.5,
+        "outdoor": 1,
+        "rain": 1.5,
+        "cold": 1.5,
+        "hot": 2,
+        "bike": 0,
+        "water": 0,
+        "packability": 1,
+        "comfort": 4,
+        "style": 3,
+        "urbanTravel": 2.8,
+        "outdoorFinal": 1.4,
+        "travelPack": 2.9
+      },
+      "role": "Casual urbano",
+      "purchaseAction": "Keep",
+      "priority": "medium",
+      "sourceLinks": [
+        {
+          "label": "Pegada",
+          "url": "https://www.pegada.com.br/",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://www.pegada.com.br/img/pegada-pt.png",
+          "https://admin.pegada.com.br/pegada-admin/assets/CAD-0185-25Y%20-%20BANNERS%20SITE%20CAMP%2026%20259060.jpg",
+          "https://admin.pegada.com.br/pegada-admin/assets/thaila-ayala-pegada-desktop.jpg"
+        ],
+        "sourceLinks": [
+          {
+            "label": "Pegada",
+            "url": "https://www.pegada.com.br/",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Intermediário casual; não é trilha nem formal real.",
+      "modelConfidence": "medium",
+      "gapOrRedundancy": "Casual/social overlap"
+    },
+    {
+      "id": "sneaker_velluti_everyday_brown_01",
+      "status": "owned",
+      "name": "Velluti Everyday sapatênis marrom",
+      "brand": "Velluti",
+      "model": "Everyday sapatênis",
+      "module": "Urban Core / Casual",
+      "category": "footwear",
+      "subcategory": "Casual sneaker",
+      "layerType": "Footwear",
+      "size": "41",
+      "color": "Marrom escuro com detalhes marrom médio",
+      "colorFamily": [
+        "earth"
+      ],
+      "materialTech": "Couro ou couro sintético aparente; não confirmado",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "low"
+      },
+      "bestUse": [
+        "Cidade",
+        "looks casuais",
+        "viagem urbana",
+        "smart casual leve"
+      ],
+      "avoidUse": [
+        "Trilha",
+        "chuva pesada",
+        "formal real"
+      ],
+      "scores": {
+        "urban": 3.4,
+        "formal": 2.2,
+        "outdoor": 1,
+        "rain": 0.5,
+        "cold": 1,
+        "hot": 2,
+        "bike": 0.5,
+        "water": 0.5,
+        "packability": 3.2,
+        "comfort": 3.5,
+        "style": 3.4,
+        "urbanTravel": 3.4,
+        "outdoorFinal": 1.4,
+        "travelPack": 3.2
+      },
+      "role": "Sapatênis urbano marrom",
+      "purchaseAction": "Keep",
+      "priority": "medium",
+      "sourceLinks": [],
+      "media": {
+        "remoteImages": [],
+        "sourceLinks": []
+      },
+      "notes": "Sapatênis/sneaker com zíper lateral, cadarço elástico e sola branca. Foi o calçado testado nos looks.",
+      "modelConfidence": "medium",
+      "gapOrRedundancy": "Pode sobrepor com Pegada; validar conforto e função."
+    },
+    {
+      "id": "socks_cns_modal_social_01",
+      "status": "owned",
+      "name": "Meias sociais modal CNS",
+      "brand": "CNS",
+      "model": "Modal social socks",
+      "module": "Formal/Social",
+      "category": "accessory",
+      "subcategory": "Socks",
+      "layerType": "Socks",
+      "size": null,
+      "color": "?",
+      "colorFamily": [
+        "dark"
+      ],
+      "materialTech": "Modal blend",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "medium"
+      },
+      "bestUse": [
+        "Sapato social",
+        "casamento",
+        "eventos",
+        "calça alfaiataria"
+      ],
+      "avoidUse": [
+        "Trilha",
+        "bota",
+        "chuva"
+      ],
+      "scores": {
+        "urban": 3,
+        "formal": 4,
+        "outdoor": 0,
+        "rain": 0,
+        "cold": 1,
+        "hot": 2,
+        "bike": 0,
+        "water": 0,
+        "packability": 4,
+        "comfort": 4,
+        "style": 3.5,
+        "urbanTravel": 3.7,
+        "outdoorFinal": 1,
+        "travelPack": 3.6
+      },
+      "role": "Social socks",
+      "purchaseAction": "Keep",
+      "priority": "medium",
+      "sourceLinks": [
+        {
+          "label": "CNS",
+          "url": "https://www.cnscalcados.com.br/",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "http://acdn-us.mitiendanube.com/stores/006/838/903/themes/common/logo-1813003253-1762358966-8519e3ffe530237b2b03002a860143af1762358966.png?0",
+          "https://acdn-us.mitiendanube.com/stores/006/838/903/themes/common/logo-1813003253-1762358966-8519e3ffe530237b2b03002a860143af1762358966.png?0",
+          "https://acdn-us.mitiendanube.com/stores/006/838/903/products/1-7c770e1f307fe0b16617640752966329-480-0.webp"
+        ],
+        "sourceLinks": [
+          {
+            "label": "CNS",
+            "url": "https://www.cnscalcados.com.br/",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Mantém coerência visual com CNS/Democrata.",
+      "modelConfidence": "medium",
+      "gapOrRedundancy": "Formal module"
+    },
+    {
+      "id": "socks_decathlon_hiking_01",
+      "status": "owned",
+      "name": "Meias técnicas hiking Decathlon",
+      "brand": "Decathlon",
+      "model": "Hiking socks",
+      "module": "Outdoor Core",
+      "category": "accessory",
+      "subcategory": "Socks",
+      "layerType": "Socks",
+      "size": null,
+      "color": "?",
+      "colorFamily": [
+        "neutral"
+      ],
+      "materialTech": "Synthetic/wool blend TBD",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "low"
+      },
+      "bestUse": [
+        "Trilha",
+        "frio",
+        "bota",
+        "caminhada longa"
+      ],
+      "avoidUse": [
+        "Sapato social",
+        "calor intenso se grossas"
+      ],
+      "scores": {
+        "urban": 1,
+        "formal": 0,
+        "outdoor": 4,
+        "rain": 1,
+        "cold": 3,
+        "hot": 1,
+        "bike": 1,
+        "water": 1,
+        "packability": 4,
+        "comfort": 4,
+        "style": 1,
+        "urbanTravel": 2,
+        "outdoorFinal": 2.1,
+        "travelPack": 3.3
+      },
+      "role": "Outdoor socks",
+      "purchaseAction": "Keep",
+      "priority": "high",
+      "sourceLinks": [
+        {
+          "label": "Decathlon",
+          "url": "https://www.decathlon.com.br/",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://decathlonstore.vteximg.com.br/arquivos/logo_og.png",
+          "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/6f083146-b23c-4b9b-8fa4-a4dffe4d7ff3___9edc794483d3b3969f2730041a90c1e5.png",
+          "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/034d70be-8d99-4e8c-9e5b-64f1de9b852f___c0000f3324659e3c6572ee8f200b01c5.png"
+        ],
+        "sourceLinks": [
+          {
+            "label": "Decathlon",
+            "url": "https://www.decathlon.com.br/",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Essenciais com Timberland e trilhas.",
+      "modelConfidence": "low",
+      "gapOrRedundancy": "Specialized socks"
+    },
+    {
+      "id": "sweater_uniqlo_merino_black_01",
+      "status": "owned",
+      "name": "UNIQLO Merino Sweater navy",
+      "brand": "UNIQLO",
+      "model": "Merino Sweater (Product ID 486058 / 478535)",
+      "module": "Urban Core",
+      "category": "top",
+      "subcategory": "Knitwear",
+      "layerType": "Base-mid visible",
+      "size": "MEN S",
+      "color": "NAVY",
+      "colorFamily": [
+        "dark"
+      ],
+      "materialTech": "19.5 micron extra-fine 100% Merino wool; machine-washable; pilling-resistant",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "medium"
+      },
+      "bestUse": [
+        "Dia a dia",
+        "home office",
+        "frio leve",
+        "cidade",
+        "videochamada"
+      ],
+      "avoidUse": [
+        "Trilha pesada",
+        "mochila abrasiva"
+      ],
+      "scores": {
+        "urban": 4,
+        "formal": 3.5,
+        "outdoor": 1.5,
+        "rain": 0.5,
+        "cold": 2.5,
+        "hot": 1.5,
+        "bike": 0.5,
+        "water": 0.5,
+        "packability": 3.5,
+        "comfort": 4,
+        "style": 4,
+        "urbanTravel": 3.8,
+        "outdoorFinal": 1.6,
+        "travelPack": 3.9
+      },
+      "role": "Sueter versatil para camada urbana de frio leve",
+      "purchaseAction": "Keep",
+      "priority": "high",
+      "sourceLinks": [
+        {
+          "label": "UNIQLO",
+          "url": "https://www.uniqlo.com/us/en/products/E450535-000/00?colorDisplayCode=69&sizeDisplayCode=003",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/450535/item/usgoods_69_450535_3x4.jpg?width=400",
+          "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/450535/feature/usgoods_450535_feature1.jpg",
+          "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/450535/feature/usgoods_450535_feature2.jpg",
+          "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/450535/feature/usgoods_450535_feature3.jpg",
+          "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/450535/feature/usgoods_450535_feature4.jpg"
+        ],
+        "sourceLinks": [
+          {
+            "label": "UNIQLO",
+            "url": "https://www.uniqlo.com/us/en/products/E450535-000/00?colorDisplayCode=69&sizeDisplayCode=003",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Design simples e versatil para uso urbano. La merino extra-fina com toque suave e brilho discreto; mantem conforto termico e respirabilidade. Lavavel em maquina (ciclo suave, ideal lavar do avesso em saco) com tratamento anti-pilling.",
+      "modelConfidence": "high",
+      "gapOrRedundancy": "Peca de la exige cuidado extra com umidade e friccao; pode ter odor quando molhada ate secar."
+    },
+    {
+      "id": "tee_uniqlo_airism_crew_black_01",
+      "status": "candidate_buy",
+      "name": "UNIQLO AIRism Crew Neck T-Shirt",
+      "brand": "UNIQLO",
+      "model": "AIRism Crew Neck T-Shirt",
+      "module": "Urban Core",
+      "category": "top",
+      "subcategory": "T-shirt",
+      "layerType": "Base visible / base hidden",
+      "size": "MEN XS",
+      "color": "09 BLACK",
+      "colorFamily": [
+        "dark",
+        "neutral"
+      ],
+      "materialTech": "AIRism stretchable synthetic blend",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "high"
+      },
+      "bestUse": [
+        "Usar sozinha",
+        "por baixo",
+        "viagem",
+        "calor",
+        "layering"
+      ],
+      "avoidUse": [
+        "Confirmar transparência/caimento"
+      ],
+      "scores": {
+        "urban": 3.5,
+        "formal": 1.5,
+        "outdoor": 1.5,
+        "rain": 0.5,
+        "cold": 1,
+        "hot": 4,
+        "bike": 1,
+        "water": 1,
+        "packability": 5,
+        "comfort": 4,
+        "style": 3.5,
+        "urbanTravel": 3.5,
+        "outdoorFinal": 1.9,
+        "travelPack": 4.1
+      },
+      "role": "Camiseta técnica leve versátil",
+      "purchaseAction": "Test before buy",
+      "priority": "medium",
+      "sourceLinks": [
+        {
+          "label": "UNIQLO",
+          "url": "https://www.uniqlo.com/us/en/products/E482514-000/00?colorDisplayCode=09&sizeDisplayCode=002",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/482514/item/augoods_09_482514_3x4.jpg?width=400"
+        ],
+        "sourceLinks": [
+          {
+            "label": "UNIQLO",
+            "url": "https://www.uniqlo.com/us/en/products/E482514-000/00?colorDisplayCode=09&sizeDisplayCode=002",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Comprar 1 para testar; pode substituir undershirt em usos mais visíveis.",
+      "modelConfidence": "high",
+      "gapOrRedundancy": "Candidate basic technical tee"
+    },
+    {
+      "id": "tee_uniqlo_dry_color_black_xs_01",
+      "status": "owned_buy_more",
+      "name": "UNIQLO DRY Color T-Shirt preta",
+      "brand": "UNIQLO",
+      "model": "DRY Color T-Shirt",
+      "module": "Urban Core",
+      "category": "top",
+      "subcategory": "T-shirt",
+      "layerType": "Base visible",
+      "size": "XS",
+      "color": "Preta",
+      "colorFamily": [
+        "dark"
+      ],
+      "materialTech": "66% cotton / 34% polyester",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "high"
+      },
+      "bestUse": [
+        "Dia a dia",
+        "visual programador",
+        "viagem",
+        "layering"
+      ],
+      "avoidUse": [
+        "Chuva",
+        "trilha técnica",
+        "social formal"
+      ],
+      "scores": {
+        "urban": 3.5,
+        "formal": 1.5,
+        "outdoor": 1.5,
+        "rain": 0.5,
+        "cold": 1.5,
+        "hot": 3,
+        "bike": 1,
+        "water": 1,
+        "packability": 4,
+        "comfort": 4,
+        "style": 3.5,
+        "urbanTravel": 3.3,
+        "outdoorFinal": 1.8,
+        "travelPack": 3.8
+      },
+      "role": "Camiseta urbana core",
+      "purchaseAction": "Buy more if fit consistent",
+      "priority": "high",
+      "sourceLinks": [
+        {
+          "label": "UNIQLO",
+          "url": "https://www.uniqlo.com/au/en/products/E465187-000/01?colorDisplayCode=09&sizeDisplayCode=002",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/465187/item/augoods_09_465187_3x4.jpg?width=400"
+        ],
+        "sourceLinks": [
+          {
+            "label": "UNIQLO",
+            "url": "https://www.uniqlo.com/au/en/products/E465187-000/01?colorDisplayCode=09&sizeDisplayCode=002",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Ótima para visual programador; comprar várias se o caimento atual for consistente.",
+      "modelConfidence": "high",
+      "gapOrRedundancy": "Cotton blend, não técnica pura"
+    },
+    {
+      "id": "tee_uniqlo_dry_ex_black_01",
+      "status": "candidate_buy",
+      "name": "UNIQLO DRY-EX T-Shirt black",
+      "brand": "UNIQLO",
+      "model": "DRY-EX T-Shirt (Product ID 482299)",
+      "module": "Urban Core",
+      "category": "top",
+      "subcategory": "T-shirt",
+      "layerType": "Base visible / active base",
+      "size": "MEN XS",
+      "color": "09 BLACK",
+      "colorFamily": [
+        "dark"
+      ],
+      "materialTech": "DRY-EX quick-dry performance knit with breathable mesh panels",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "high"
+      },
+      "bestUse": [
+        "Calor",
+        "treino indoor",
+        "viagem",
+        "deslocamento urbano",
+        "layering leve"
+      ],
+      "avoidUse": [
+        "Evento formal",
+        "frio sem camada"
+      ],
+      "scores": {
+        "urban": 3.5,
+        "formal": 1,
+        "outdoor": 2,
+        "rain": 1,
+        "cold": 1,
+        "hot": 4.5,
+        "bike": 2.5,
+        "water": 1.5,
+        "packability": 5,
+        "comfort": 4.5,
+        "style": 3.5,
+        "urbanTravel": 4,
+        "outdoorFinal": 2.5,
+        "travelPack": 4.4
+      },
+      "role": "Camiseta tecnica de secagem rapida para uso diario e ativo",
+      "purchaseAction": "Buy 1 to test fit and fabric behavior",
+      "priority": "high",
+      "sourceLinks": [
+        {
+          "label": "UNIQLO",
+          "url": "https://www.uniqlo.com/au/en/products/E482299-000/00?colorDisplayCode=09&sizeDisplayCode=002",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/482299/item/augoods_09_482299_3x4.jpg?width=400",
+          "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482299/feature/usgoods_482299_feature1.jpg",
+          "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482299/feature/usgoods_482299_feature2.jpg",
+          "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482299/feature/usgoods_482299_feature3.jpg",
+          "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482299/feature/usgoods_482299_feature4.jpg"
+        ],
+        "sourceLinks": [
+          {
+            "label": "UNIQLO",
+            "url": "https://www.uniqlo.com/au/en/products/E482299-000/00?colorDisplayCode=09&sizeDisplayCode=002",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Camiseta regular fit com DRY-EX de secagem rapida, malha respiravel nas laterais e centro das costas, tecido suave com brilho discreto e design com poucas costuras aparentes. Boa para dias ativos, calor, viagem e uso urbano casual.",
+      "modelConfidence": "high",
+      "gapOrRedundancy": "Pode competir com outras camisetas tecnicas pretas; validar caimento e sensacao no uso real."
+    },
+    {
+      "id": "tshirt_factored_black_01",
+      "status": "owned",
+      "name": "Factored camiseta preta",
+      "brand": "Factored",
+      "model": "Camiseta corporativa preta",
+      "module": "Casual / Work",
+      "category": "top",
+      "subcategory": "T-shirt",
+      "layerType": "Casual visible",
+      "size": "Não legível",
+      "color": "Preta",
+      "colorFamily": [
+        "dark"
+      ],
+      "materialTech": "Provável algodão; base não totalmente legível",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "low"
+      },
+      "bestUse": [
+        "Eventos internos",
+        "hotel",
+        "casual discreto"
+      ],
+      "avoidUse": [
+        "Cliente",
+        "formal",
+        "cápsula minimalista se houver opções sem logo"
+      ],
+      "scores": {
+        "urban": 2.8,
+        "formal": 1,
+        "outdoor": 1,
+        "rain": 0.5,
+        "cold": 1,
+        "hot": 2,
+        "bike": 0.5,
+        "water": 0.5,
+        "packability": 3,
+        "comfort": 3.5,
+        "style": 2.8,
+        "urbanTravel": 2.8,
+        "outdoorFinal": 1,
+        "travelPack": 3
+      },
+      "role": "Camiseta corporativa casual discreta",
+      "purchaseAction": "Keep",
+      "priority": "medium",
+      "sourceLinks": [],
+      "media": {
+        "remoteImages": [],
+        "sourceLinks": []
+      },
+      "notes": "Camiseta corporativa com logo Factored. Mais discreta que a branca, mas ainda casual.",
+      "modelConfidence": "medium",
+      "gapOrRedundancy": "Logo ainda limita uso externo."
+    },
+    {
+      "id": "tshirt_factored_white_01",
+      "status": "owned",
+      "name": "Factored camiseta branca",
+      "brand": "Factored / Delta",
+      "model": "Camiseta corporativa branca",
+      "module": "Casual / Work",
+      "category": "top",
+      "subcategory": "T-shirt",
+      "layerType": "Casual visible",
+      "size": "Não legível",
+      "color": "Branca",
+      "colorFamily": [
+        "neutral"
+      ],
+      "materialTech": "Provável algodão; etiqueta Delta",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "low"
+      },
+      "bestUse": [
+        "Eventos internos",
+        "hotel",
+        "casual",
+        "uso de apoio"
+      ],
+      "avoidUse": [
+        "Cliente",
+        "jantar",
+        "cápsula minimalista"
+      ],
+      "scores": {
+        "urban": 2.5,
+        "formal": 1,
+        "outdoor": 1,
+        "rain": 0.5,
+        "cold": 1,
+        "hot": 2,
+        "bike": 0.5,
+        "water": 0.5,
+        "packability": 2.8,
+        "comfort": 3.5,
+        "style": 2.5,
+        "urbanTravel": 2.5,
+        "outdoorFinal": 1,
+        "travelPack": 2.8
+      },
+      "role": "Camiseta corporativa casual",
+      "purchaseAction": "Keep",
+      "priority": "low",
+      "sourceLinks": [],
+      "media": {
+        "remoteImages": [],
+        "sourceLinks": []
+      },
+      "notes": "Camiseta corporativa com logo Factored. Melhor para eventos internos, hotel ou casual; menos indicada para cliente.",
+      "modelConfidence": "medium",
+      "gapOrRedundancy": "Logo reduz versatilidade externa."
+    },
+    {
+      "id": "tshirt_uniqlo_black_01",
+      "status": "owned",
+      "name": "UNIQLO camiseta lisa preta",
+      "brand": "UNIQLO",
+      "model": "Camiseta lisa preta",
+      "module": "Urban Core",
+      "category": "top",
+      "subcategory": "T-shirt",
+      "layerType": "Base visible",
+      "size": "Não visível",
+      "color": "Preta",
+      "colorFamily": [
+        "dark"
+      ],
+      "materialTech": "Provável algodão ou cotton/poly blend; se for DRY Color: 66% cotton / 34% polyester",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "low"
+      },
+      "bestUse": [
+        "Voo",
+        "layering",
+        "looks casuais",
+        "dia a dia"
+      ],
+      "avoidUse": [
+        "Evento formal",
+        "trilha técnica",
+        "cliente formal"
+      ],
+      "scores": {
+        "urban": 3.8,
+        "formal": 1,
+        "outdoor": 1,
+        "rain": 0.5,
+        "cold": 1,
+        "hot": 2,
+        "bike": 0.5,
+        "water": 0.5,
+        "packability": 4,
+        "comfort": 3.5,
+        "style": 3.8,
+        "urbanTravel": 3.8,
+        "outdoorFinal": 1.5,
+        "travelPack": 4
+      },
+      "role": "Base urbana preta",
+      "purchaseAction": "Keep",
+      "priority": "high",
+      "sourceLinks": [],
+      "media": {
+        "remoteImages": [],
+        "sourceLinks": []
+      },
+      "notes": "Camiseta lisa sem estampa. Base útil para voo, layering e looks casuais.",
+      "modelConfidence": "medium",
+      "gapOrRedundancy": "Possível redundância intencional com DRY Color preta."
+    },
+    {
+      "id": "tshirt_uniqlo_navy_01",
+      "status": "owned",
+      "name": "UNIQLO camiseta lisa navy",
+      "brand": "UNIQLO",
+      "model": "Camiseta lisa navy",
+      "module": "Urban Core",
+      "category": "top",
+      "subcategory": "T-shirt",
+      "layerType": "Base visible",
+      "size": "Não visível",
+      "color": "Navy",
+      "colorFamily": [
+        "dark"
+      ],
+      "materialTech": "Provável algodão ou cotton/poly blend",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "low"
+      },
+      "bestUse": [
+        "Layering",
+        "dia a dia",
+        "viagem urbana",
+        "looks casuais"
+      ],
+      "avoidUse": [
+        "Evento formal",
+        "trilha técnica"
+      ],
+      "scores": {
+        "urban": 3.6,
+        "formal": 1,
+        "outdoor": 1,
+        "rain": 0.5,
+        "cold": 1,
+        "hot": 2,
+        "bike": 0.5,
+        "water": 0.5,
+        "packability": 3.8,
+        "comfort": 3.5,
+        "style": 3.6,
+        "urbanTravel": 3.6,
+        "outdoorFinal": 1.5,
+        "travelPack": 3.8
+      },
+      "role": "Base urbana navy",
+      "purchaseAction": "Keep",
+      "priority": "high",
+      "sourceLinks": [],
+      "media": {
+        "remoteImages": [],
+        "sourceLinks": []
+      },
+      "notes": "Camiseta lisa sem estampa. Redundante com a preta, mas útil como base.",
+      "modelConfidence": "medium",
+      "gapOrRedundancy": "Redundância útil para rotação."
+    },
+    {
+      "id": "undershirt_uniqlo_airism_vneck_black_01",
+      "status": "archived",
+      "name": "UNIQLO AIRism V-Neck undershirt",
+      "brand": "UNIQLO",
+      "model": "AIRism V-Neck Short Sleeve T-Shirt",
+      "module": "Laundry / Base",
+      "category": "top",
+      "subcategory": "Undershirt",
+      "layerType": "Base hidden",
+      "size": null,
+      "color": "Preta",
+      "colorFamily": [
+        "dark"
+      ],
+      "materialTech": "AIRism synthetic blend",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "high"
+      },
+      "bestUse": [
+        "Por baixo de camisas/polos/malhas para reaproveitar",
+        "pijama leve"
+      ],
+      "avoidUse": [
+        "Usar sozinha",
+        "academia"
+      ],
+      "scores": {
+        "urban": 1,
+        "formal": 0.5,
+        "outdoor": 1,
+        "rain": 0.5,
+        "cold": 1,
+        "hot": 4,
+        "bike": 0.5,
+        "water": 1,
+        "packability": 5,
+        "comfort": 4,
+        "style": 1,
+        "urbanTravel": 2.3,
+        "outdoorFinal": 1.7,
+        "travelPack": 3.5
+      },
+      "role": "Camada de reuso/lavanderia",
+      "purchaseAction": "Keep",
+      "priority": "medium",
+      "sourceLinks": [
+        {
+          "label": "UNIQLO",
+          "url": "https://www.uniqlo.com/us/en/products/E454311-000/00?colorDisplayCode=09&sizeDisplayCode=004",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [],
+        "sourceLinks": [
+          {
+            "label": "UNIQLO",
+            "url": "https://www.uniqlo.com/us/en/products/E454311-000/00?colorDisplayCode=09&sizeDisplayCode=004",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Muito leve; feia para usar sozinha; não serve bem para academia.",
+      "modelConfidence": "high",
+      "gapOrRedundancy": "Hidden layer"
+    },
+    {
+      "id": "underwear_uniqlo_01",
+      "status": "owned",
+      "name": "Cuecas UNIQLO",
+      "brand": "UNIQLO",
+      "model": "Underwear",
+      "module": "Laundry / Base",
+      "category": "underwear",
+      "subcategory": "Briefs/boxer briefs",
+      "layerType": "Underwear",
+      "size": null,
+      "color": "?",
+      "colorFamily": [
+        "neutral"
+      ],
+      "materialTech": "AIRism/cotton blend TBD",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "low"
+      },
+      "bestUse": [
+        "Viagem",
+        "uso diário",
+        "rotação de lavanderia"
+      ],
+      "avoidUse": [
+        "N/A"
+      ],
+      "scores": {
+        "urban": 1,
+        "formal": 0,
+        "outdoor": 1,
+        "rain": 0,
+        "cold": 1,
+        "hot": 3,
+        "bike": 1,
+        "water": 1,
+        "packability": 5,
+        "comfort": 4,
+        "style": 1,
+        "urbanTravel": 2.2,
+        "outdoorFinal": 1.6,
+        "travelPack": 3.3
+      },
+      "role": "Core underwear",
+      "purchaseAction": "Keep",
+      "priority": "high",
+      "sourceLinks": [
+        {
+          "label": "UNIQLO",
+          "url": "https://uniqlo.com/au/en/products/E482556-000/00?colorDisplayCode=09",
+          "role": "product"
+        }
+      ],
+      "media": {
+        "remoteImages": [
+          "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/482556/item/goods_09_482556_3x4.jpg?width=400"
+        ],
+        "sourceLinks": [
+          {
+            "label": "UNIQLO",
+            "url": "https://uniqlo.com/au/en/products/E482556-000/00?colorDisplayCode=09",
+            "role": "product"
+          }
+        ]
+      },
+      "notes": "Confirmar modelo e quantidade.",
+      "modelConfidence": "low",
+      "gapOrRedundancy": "Core duplicate"
+    }
+  ]
+}

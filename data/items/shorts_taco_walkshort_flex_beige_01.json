@@ -1,0 +1,59 @@
+{
+  "id": "shorts_taco_walkshort_flex_beige_01",
+  "status": "owned",
+  "name": "TACO Walkshort Flex bege",
+  "brand": "TACO",
+  "model": "Walkshort Flex",
+  "module": "Hot/Water / Casual Summer",
+  "category": "bottom",
+  "subcategory": "Walkshort",
+  "layerType": "Active/casual bottom",
+  "size": "36 ou 38, não totalmente legível",
+  "color": "Bege / khaki",
+  "colorFamily": [
+    "earth"
+  ],
+  "materialTech": "Provável tecido misto com stretch; composição não visível",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "low"
+  },
+  "bestUse": [
+    "Passeio",
+    "calor",
+    "verão casual",
+    "praia urbana"
+  ],
+  "avoidUse": [
+    "Cliente",
+    "evento formal",
+    "frio"
+  ],
+  "scores": {
+    "urban": 2.8,
+    "formal": 1,
+    "outdoor": 1,
+    "rain": 0.5,
+    "cold": 1,
+    "hot": 2,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 3.2,
+    "comfort": 3.5,
+    "style": 2.8,
+    "urbanTravel": 2.8,
+    "outdoorFinal": 1.5,
+    "travelPack": 3.2
+  },
+  "role": "Bermuda casual de verão",
+  "purchaseAction": "Keep",
+  "priority": "medium",
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": []
+  },
+  "notes": "Bermuda casual de verão. Boa para passeio/calor, não para cliente.",
+  "modelConfidence": "medium",
+  "gapOrRedundancy": "Mais casual que as calças urbanas."
+}

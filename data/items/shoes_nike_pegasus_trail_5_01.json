@@ -1,0 +1,73 @@
+{
+  "id": "shoes_nike_pegasus_trail_5_01",
+  "status": "candidate_buy",
+  "name": "Nike Pegasus Trail 5",
+  "brand": "Nike",
+  "model": "Pegasus Trail 5",
+  "module": "Bike/Active",
+  "category": "footwear",
+  "subcategory": "Trail runner",
+  "layerType": "Footwear",
+  "size": null,
+  "color": "Preta/grafite ideal",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": "Synthetic trail runner",
+  "weight": {
+    "estimatedGrams": 600,
+    "confidence": "medium"
+  },
+  "bestUse": [
+    "Corrida",
+    "caminhada longa",
+    "trilha leve/moderada seca",
+    "viagem ativa"
+  ],
+  "avoidUse": [
+    "Chuva",
+    "formalidade",
+    "firmeza de bota/calcanhar"
+  ],
+  "scores": {
+    "urban": 3.5,
+    "formal": 0.5,
+    "outdoor": 3.5,
+    "rain": 2,
+    "cold": 1.5,
+    "hot": 3.5,
+    "bike": 3,
+    "water": 1,
+    "packability": 1.5,
+    "comfort": 4.5,
+    "style": 3,
+    "urbanTravel": 2.6,
+    "outdoorFinal": 2.7,
+    "travelPack": 3.1
+  },
+  "role": "Corrida + trilha leve",
+  "purchaseAction": "Test before buy",
+  "priority": "low",
+  "sourceLinks": [
+    {
+      "label": "Amazon",
+      "url": "https://www.amazon.com/Nike-Pegasus-Running-DV3864-002-Anthracite/dp/B0D1YFQ3DH/ref=sr_1_1?crid=30SVX8HUTY89K&dib=eyJ2IjoiMSJ9.paLSyh8isONKvPGxhd4QE8LY_Wb3673u_wKplvL6bsIdPHU8ZkUrpqTTW1V_noGbOQN9TT3cOJdRNfQUqvHsr5H3ppWx1bzM_MxjZBX6SaqA_-AhynwmAEJsu9OJzoVXqdwLrgQpHvQ3tPOHQfETitSQpTCsqsWEI7l33yGKQkkrP92c12LgcmDlIjou5LWkieZSGbiC6UCZLlGAn_v572l8zBgP15oUzAFTluBp_Hc.4QsShftIQLu4bYxI-kmZTF_WGIZ6czoxRP2GWEqvv0w&dib_tag=se&keywords=Nike%2BPegasus%2BTrail%2B5&qid=1782939282&s=digital-text&sprefix=nike%2Bpegasus%2Btrail%2B5%2B%2Cdigital-text%2C209&sr=1-1&th=1&psc=1",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "https://m.media-amazon.com/images/I/71CwgN9KWFL._AC_SY695_.jpg"
+    ],
+    "sourceLinks": [
+      {
+        "label": "Amazon",
+        "url": "https://www.amazon.com/Nike-Pegasus-Running-DV3864-002-Anthracite/dp/B0D1YFQ3DH/ref=sr_1_1?crid=30SVX8HUTY89K&dib=eyJ2IjoiMSJ9.paLSyh8isONKvPGxhd4QE8LY_Wb3673u_wKplvL6bsIdPHU8ZkUrpqTTW1V_noGbOQN9TT3cOJdRNfQUqvHsr5H3ppWx1bzM_MxjZBX6SaqA_-AhynwmAEJsu9OJzoVXqdwLrgQpHvQ3tPOHQfETitSQpTCsqsWEI7l33yGKQkkrP92c12LgcmDlIjou5LWkieZSGbiC6UCZLlGAn_v572l8zBgP15oUzAFTluBp_Hc.4QsShftIQLu4bYxI-kmZTF_WGIZ6czoxRP2GWEqvv0w&dib_tag=se&keywords=Nike%2BPegasus%2BTrail%2B5&qid=1782939282&s=digital-text&sprefix=nike%2Bpegasus%2Btrail%2B5%2B%2Cdigital-text%2C209&sr=1-1&th=1&psc=1",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Boa para corrida; risco de não dar firmeza que você gosta.",
+  "modelConfidence": "high",
+  "gapOrRedundancy": "Not waterproof"
+}

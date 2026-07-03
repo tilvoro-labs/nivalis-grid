@@ -1,0 +1,59 @@
+{
+  "id": "sneaker_velluti_everyday_brown_01",
+  "status": "owned",
+  "name": "Velluti Everyday sapatênis marrom",
+  "brand": "Velluti",
+  "model": "Everyday sapatênis",
+  "module": "Urban Core / Casual",
+  "category": "footwear",
+  "subcategory": "Casual sneaker",
+  "layerType": "Footwear",
+  "size": "41",
+  "color": "Marrom escuro com detalhes marrom médio",
+  "colorFamily": [
+    "earth"
+  ],
+  "materialTech": "Couro ou couro sintético aparente; não confirmado",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "low"
+  },
+  "bestUse": [
+    "Cidade",
+    "looks casuais",
+    "viagem urbana",
+    "smart casual leve"
+  ],
+  "avoidUse": [
+    "Trilha",
+    "chuva pesada",
+    "formal real"
+  ],
+  "scores": {
+    "urban": 3.4,
+    "formal": 2.2,
+    "outdoor": 1,
+    "rain": 0.5,
+    "cold": 1,
+    "hot": 2,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 3.2,
+    "comfort": 3.5,
+    "style": 3.4,
+    "urbanTravel": 3.4,
+    "outdoorFinal": 1.4,
+    "travelPack": 3.2
+  },
+  "role": "Sapatênis urbano marrom",
+  "purchaseAction": "Keep",
+  "priority": "medium",
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": []
+  },
+  "notes": "Sapatênis/sneaker com zíper lateral, cadarço elástico e sola branca. Foi o calçado testado nos looks.",
+  "modelConfidence": "medium",
+  "gapOrRedundancy": "Pode sobrepor com Pegada; validar conforto e função."
+}

@@ -1,0 +1,59 @@
+{
+  "id": "shirt_uniqlo_super_non_iron_slim_navy_01",
+  "status": "owned",
+  "name": "UNIQLO Super Non-Iron Slim Fit Shirt navy",
+  "brand": "UNIQLO",
+  "model": "Super Non-Iron Slim Fit Shirt",
+  "module": "Formal/Social / Urban Core",
+  "category": "top",
+  "subcategory": "Dress shirt",
+  "layerType": "Smart formal top",
+  "size": "MEN M",
+  "color": "Navy",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": "Provável 100% algodão non-iron",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "low"
+  },
+  "bestUse": [
+    "Cliente",
+    "reunião",
+    "viagem urbana",
+    "jantar casual arrumado"
+  ],
+  "avoidUse": [
+    "Trilha",
+    "calor intenso",
+    "mochila abrasiva"
+  ],
+  "scores": {
+    "urban": 3.6,
+    "formal": 4,
+    "outdoor": 1,
+    "rain": 0.5,
+    "cold": 1,
+    "hot": 2,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 3.2,
+    "comfort": 3.5,
+    "style": 3.6,
+    "urbanTravel": 3.6,
+    "outdoorFinal": 1,
+    "travelPack": 3.2
+  },
+  "role": "Camisa social/corporativa navy",
+  "purchaseAction": "Keep",
+  "priority": "medium",
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": []
+  },
+  "notes": "Camisa social/corporativa navy. Gola com botões, bolso no peito. Fit parece mais amplo/alongado que a MUJI navy.",
+  "modelConfidence": "medium",
+  "gapOrRedundancy": "Boa ponte formal, mas fit possivelmente amplo."
+}

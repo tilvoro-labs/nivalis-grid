@@ -1,0 +1,77 @@
+{
+  "id": "shorts_uniqlo_ultra_stretch_active_5in_black_01",
+  "status": "candidate_buy",
+  "name": "UNIQLO Ultra Stretch Active Shorts 5in black",
+  "brand": "UNIQLO",
+  "model": "Ultra Stretch Active Shorts 5in (Product ID 485602 / 477753)",
+  "module": "Bike/Active",
+  "category": "bottom",
+  "subcategory": "Active shorts",
+  "layerType": "Bottom",
+  "size": null,
+  "color": "09 BLACK",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": "100% polyester (34% recycled) with DRY-EX quick-dry and Ultra Stretch",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "high"
+  },
+  "bestUse": [
+    "Treino",
+    "corrida",
+    "calor",
+    "viagem ativa",
+    "uso casual esportivo"
+  ],
+  "avoidUse": [
+    "Evento formal",
+    "frio sem camada"
+  ],
+  "scores": {
+    "urban": 2.5,
+    "formal": 0,
+    "outdoor": 3.5,
+    "rain": 1,
+    "cold": 0.5,
+    "hot": 4.5,
+    "bike": 3.5,
+    "water": 1.5,
+    "packability": 5,
+    "comfort": 4.5,
+    "style": 2.5,
+    "urbanTravel": 3.4,
+    "outdoorFinal": 2.9,
+    "travelPack": 4.2
+  },
+  "role": "Short tecnico leve para clima quente e atividade",
+  "purchaseAction": "Buy 1 to validate fit and inseam",
+  "priority": "medium",
+  "sourceLinks": [
+    {
+      "label": "UNIQLO",
+      "url": "https://www.uniqlo.com/us/en/products/E477753-000/00?colorDisplayCode=09&sizeDisplayCode=004",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/477753/sub/goods_477753_sub15_3x4.jpg?width=400",
+      "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/477753/feature/usgoods_477753_feature6.jpg",
+      "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/477753/feature/usgoods_477753_feature7.jpg",
+      "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/477753/feature/usgoods_477753_feature8.jpg",
+      "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/477753/feature/usgoods_477753_feature9.jpg"
+    ],
+    "sourceLinks": [
+      {
+        "label": "UNIQLO",
+        "url": "https://www.uniqlo.com/us/en/products/E477753-000/00?colorDisplayCode=09&sizeDisplayCode=004",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Short regular fit com entreperna 5in, tecido leve com secagem rapida DRY-EX e elasticidade em todas as direcoes. Bom para treino e dias quentes, com bolsos de zip e acabamento limpo sem volume.",
+  "modelConfidence": "high",
+  "gapOrRedundancy": "Pode sobrepor o shorts Nike atual; validar se o fit 5in e conforto em uso real compensam."
+}

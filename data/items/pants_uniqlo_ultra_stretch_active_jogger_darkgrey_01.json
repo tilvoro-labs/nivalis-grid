@@ -1,0 +1,72 @@
+{
+  "id": "pants_uniqlo_ultra_stretch_active_jogger_darkgrey_01",
+  "status": "candidate_buy",
+  "name": "UNIQLO Ultra Stretch Active Jogger Pants dark gray",
+  "brand": "UNIQLO",
+  "model": "Ultra Stretch Active Jogger Pants (Product ID 485744)",
+  "module": "Bike/Active",
+  "category": "bottom",
+  "subcategory": "Active jogger",
+  "layerType": "Bottom",
+  "size": "MEN XS",
+  "color": "08 DARK GRAY",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": "Ultra Stretch active synthetic blend",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "medium"
+  },
+  "bestUse": [
+    "Academia",
+    "mobilidade",
+    "viagem",
+    "uso casual esportivo"
+  ],
+  "avoidUse": [
+    "Evento formal",
+    "chuva forte"
+  ],
+  "scores": {
+    "urban": 3.5,
+    "formal": 1.5,
+    "outdoor": 2.5,
+    "rain": 1,
+    "cold": 2,
+    "hot": 3.5,
+    "bike": 2.5,
+    "water": 1,
+    "packability": 4.5,
+    "comfort": 4.5,
+    "style": 3.2,
+    "urbanTravel": 3.7,
+    "outdoorFinal": 2.5,
+    "travelPack": 4
+  },
+  "role": "Jogger tecnico para treinos e uso casual ativo",
+  "purchaseAction": "Buy 1 to compare with current beige jogger",
+  "priority": "medium",
+  "sourceLinks": [
+    {
+      "label": "UNIQLO",
+      "url": "https://www.uniqlo.com/us/en/products/E485744-000/00?colorDisplayCode=08&sizeDisplayCode=002",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/485744/item/usgoods_08_485744_3x4.jpg?width=400"
+    ],
+    "sourceLinks": [
+      {
+        "label": "UNIQLO",
+        "url": "https://www.uniqlo.com/us/en/products/E485744-000/00?colorDisplayCode=08&sizeDisplayCode=002",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Candidato para possivel troca do Ultra Stretch Active Jogger Pants atual visando ficar mais adequado para academia. Ainda ha duvida porque o jogger bege atual complementa bem a Ultra Stretch Pants cinza escuro; essa troca faz mais sentido se entrar tambem uma Ultra Stretch Pants bege (ja no catalogo).",
+  "modelConfidence": "high",
+  "gapOrRedundancy": "Pode sobrepor o jogger bege atual; decisao depende da composicao final com a calca Ultra Stretch bege."
+}

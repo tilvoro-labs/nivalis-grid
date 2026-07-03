@@ -1,0 +1,73 @@
+{
+  "id": "polo_vuori_strato_black_01",
+  "status": "owned",
+  "name": "Vuori Strato Tech Polo Charcoal Heather",
+  "brand": "Vuori",
+  "model": "Strato Tech Polo",
+  "module": "Urban Core",
+  "category": "top",
+  "subcategory": "Polo",
+  "layerType": "Smart casual technical top",
+  "size": null,
+  "color": "Grafite (Charcoal Heather)",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": "96% polyester / 4% elastane",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "high"
+  },
+  "bestUse": [
+    "Viagem",
+    "reunião casual",
+    "jantar informal",
+    "calor",
+    "home office"
+  ],
+  "avoidUse": [
+    "Trilha pesada",
+    "evento formal rígido"
+  ],
+  "scores": {
+    "urban": 4,
+    "formal": 3.5,
+    "outdoor": 1.5,
+    "rain": 0.5,
+    "cold": 1.5,
+    "hot": 4,
+    "bike": 1,
+    "water": 1,
+    "packability": 4,
+    "comfort": 5,
+    "style": 4.5,
+    "urbanTravel": 4.2,
+    "outdoorFinal": 2.1,
+    "travelPack": 4.4
+  },
+  "role": "Polo técnica smart-casual",
+  "purchaseAction": "Keep",
+  "priority": "high",
+  "sourceLinks": [
+    {
+      "label": "Vuori",
+      "url": "https://vuoriclothing.com/products/strato-tech-polo-black?queryId=5f4a9f2ae28c8f1dad88ecd8640aafbf&collection=mens",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V188HCC_SP24_M_ECOMM_TOPS_PINUP_1_75abf975-a094-4387-b0f0-2c4b657936f1.jpg?v=1743124760&width=1000&height=1250&crop=center"
+    ],
+    "sourceLinks": [
+      {
+        "label": "Vuori",
+        "url": "https://vuoriclothing.com/products/strato-tech-polo-black?queryId=5f4a9f2ae28c8f1dad88ecd8640aafbf&collection=mens",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Textura excelente, seca rápido, leve, quase perfeita.",
+  "modelConfidence": "high",
+  "gapOrRedundancy": "Ótima ponte técnico/social"
+}

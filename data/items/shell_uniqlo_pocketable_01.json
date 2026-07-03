@@ -1,0 +1,72 @@
+{
+  "id": "shell_uniqlo_pocketable_01",
+  "status": "owned",
+  "name": "Corta-vento UNIQLO ultracompacto",
+  "brand": "UNIQLO",
+  "model": "Pocketable windbreaker / UV Parka family",
+  "module": "Zero Bag",
+  "category": "outerwear",
+  "subcategory": "Wind shell",
+  "layerType": "Shell",
+  "size": null,
+  "color": "?",
+  "colorFamily": [
+    "neutral"
+  ],
+  "materialTech": "Nylon/polyester leve + DWR leve",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "medium"
+  },
+  "bestUse": [
+    "Zero bag",
+    "shoulder bag",
+    "vento",
+    "garoa leve"
+  ],
+  "avoidUse": [
+    "Chuva real",
+    "visual social"
+  ],
+  "scores": {
+    "urban": 2.5,
+    "formal": 2,
+    "outdoor": 2,
+    "rain": 1.5,
+    "cold": 1.5,
+    "hot": 2,
+    "bike": 2,
+    "water": 1,
+    "packability": 5,
+    "comfort": 3.5,
+    "style": 2.5,
+    "urbanTravel": 3.1,
+    "outdoorFinal": 1.9,
+    "travelPack": 3.4
+  },
+  "role": "Zero bag wind shell",
+  "purchaseAction": "Keep",
+  "priority": "high",
+  "sourceLinks": [
+    {
+      "label": "UNIQLO",
+      "url": "https://www.uniqlo.com/us/en/products/E486164-000/00?colorDisplayCode=09&sizeDisplayCode=002",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/486164/sub/goods_486164_sub14_3x4.jpg?width=400"
+    ],
+    "sourceLinks": [
+      {
+        "label": "UNIQLO",
+        "url": "https://www.uniqlo.com/us/en/products/E486164-000/00?colorDisplayCode=09&sizeDisplayCode=002",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Cabe na shoulder bag; não contar como rain shell real.",
+  "modelConfidence": "low",
+  "gapOrRedundancy": "Emergency ultracompact"
+}

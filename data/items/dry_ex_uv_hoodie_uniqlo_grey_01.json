@@ -1,0 +1,72 @@
+{
+  "id": "dry_ex_uv_hoodie_uniqlo_grey_01",
+  "status": "candidate_buy",
+  "name": "UNIQLO DRY-EX UV Protection Full-Zip Hoodie",
+  "brand": "UNIQLO",
+  "model": "DRY-EX UV Protection Full-Zip Hoodie (Product ID 465203)",
+  "module": "Urban Core",
+  "category": "outerwear",
+  "subcategory": "Light performance hoodie",
+  "layerType": "Active shell light",
+  "size": "MEN XS",
+  "color": "07 GRAY",
+  "colorFamily": [
+    "neutral"
+  ],
+  "materialTech": "DRY-EX quick-dry fabric with UV protection",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "medium"
+  },
+  "bestUse": [
+    "Calor com sol",
+    "deslocamento urbano",
+    "viagem",
+    "camada leve em meia-estacao"
+  ],
+  "avoidUse": [
+    "Chuva real",
+    "frio forte sem camada"
+  ],
+  "scores": {
+    "urban": 3.5,
+    "formal": 1,
+    "outdoor": 2.5,
+    "rain": 1,
+    "cold": 1.5,
+    "hot": 3.5,
+    "bike": 2.5,
+    "water": 1,
+    "packability": 4.5,
+    "comfort": 4,
+    "style": 3.5,
+    "urbanTravel": 3.9,
+    "outdoorFinal": 2.4,
+    "travelPack": 4.1
+  },
+  "role": "Camada tecnica leve com protecao UV",
+  "purchaseAction": "Buy 1 to test fit and UV utility",
+  "priority": "medium",
+  "sourceLinks": [
+    {
+      "label": "UNIQLO",
+      "url": "https://www.uniqlo.com/us/en/products/E465203-000/00?colorDisplayCode=07&sizeDisplayCode=002",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/465203/item/usgoods_07_465203_3x4.jpg?width=400"
+    ],
+    "sourceLinks": [
+      {
+        "label": "UNIQLO",
+        "url": "https://www.uniqlo.com/us/en/products/E465203-000/00?colorDisplayCode=07&sizeDisplayCode=002",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Candidato para camada de protecao solar e secagem rapida em clima quente, com zip para ventilacao e uso urbano/ativo.",
+  "modelConfidence": "high",
+  "gapOrRedundancy": "Pode sobrepor o uso do pocketable e de camisetas tecnicas dependendo do clima."
+}

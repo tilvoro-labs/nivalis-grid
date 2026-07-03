@@ -1,0 +1,72 @@
+{
+  "id": "shorts_uniqlo_stretch_easy_beige_01",
+  "status": "candidate_buy",
+  "name": "UNIQLO Stretch Easy Shorts beige",
+  "brand": "UNIQLO",
+  "model": "Stretch Easy Shorts (Product ID 478680)",
+  "module": "Hot/Water",
+  "category": "bottom",
+  "subcategory": "Shorts",
+  "layerType": "Bottom",
+  "size": "MEN XS",
+  "color": "31 BEIGE",
+  "colorFamily": [
+    "earth"
+  ],
+  "materialTech": "Stretch synthetic blend for warm weather daily wear",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "medium"
+  },
+  "bestUse": [
+    "Calor",
+    "uso casual",
+    "viagem",
+    "dias leves"
+  ],
+  "avoidUse": [
+    "Evento formal",
+    "frio sem camada"
+  ],
+  "scores": {
+    "urban": 3,
+    "formal": 0.5,
+    "outdoor": 2,
+    "rain": 1,
+    "cold": 0.5,
+    "hot": 4.5,
+    "bike": 1.5,
+    "water": 1.5,
+    "packability": 4.5,
+    "comfort": 4.5,
+    "style": 3,
+    "urbanTravel": 3.5,
+    "outdoorFinal": 2.2,
+    "travelPack": 4
+  },
+  "role": "Short casual leve para clima quente",
+  "purchaseAction": "Buy 1 to test fit and fabric",
+  "priority": "medium",
+  "sourceLinks": [
+    {
+      "label": "UNIQLO AU",
+      "url": "https://www.uniqlo.com/au/en/products/E478680-000/00?colorDisplayCode=31&sizeDisplayCode=002",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/478680/item/goods_31_478680_3x4.jpg?width=400"
+    ],
+    "sourceLinks": [
+      {
+        "label": "UNIQLO AU",
+        "url": "https://www.uniqlo.com/au/en/products/E478680-000/00?colorDisplayCode=31&sizeDisplayCode=002",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Candidate buy de shorts para calor com proposta simples e versatil. Cor bege pode funcionar como alternativa neutra para travel e uso casual.",
+  "modelConfidence": "high",
+  "gapOrRedundancy": "Pode sobrepor outros shorts casuais; validar ganho real versus os modelos tecnicos já catalogados."
+}

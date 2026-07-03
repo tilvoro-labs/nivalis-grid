@@ -1,0 +1,73 @@
+{
+  "id": "tee_uniqlo_dry_color_black_xs_01",
+  "status": "owned_buy_more",
+  "name": "UNIQLO DRY Color T-Shirt preta",
+  "brand": "UNIQLO",
+  "model": "DRY Color T-Shirt",
+  "module": "Urban Core",
+  "category": "top",
+  "subcategory": "T-shirt",
+  "layerType": "Base visible",
+  "size": "XS",
+  "color": "Preta",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": "66% cotton / 34% polyester",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "high"
+  },
+  "bestUse": [
+    "Dia a dia",
+    "visual programador",
+    "viagem",
+    "layering"
+  ],
+  "avoidUse": [
+    "Chuva",
+    "trilha técnica",
+    "social formal"
+  ],
+  "scores": {
+    "urban": 3.5,
+    "formal": 1.5,
+    "outdoor": 1.5,
+    "rain": 0.5,
+    "cold": 1.5,
+    "hot": 3,
+    "bike": 1,
+    "water": 1,
+    "packability": 4,
+    "comfort": 4,
+    "style": 3.5,
+    "urbanTravel": 3.3,
+    "outdoorFinal": 1.8,
+    "travelPack": 3.8
+  },
+  "role": "Camiseta urbana core",
+  "purchaseAction": "Buy more if fit consistent",
+  "priority": "high",
+  "sourceLinks": [
+    {
+      "label": "UNIQLO",
+      "url": "https://www.uniqlo.com/au/en/products/E465187-000/01?colorDisplayCode=09&sizeDisplayCode=002",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/465187/item/augoods_09_465187_3x4.jpg?width=400"
+    ],
+    "sourceLinks": [
+      {
+        "label": "UNIQLO",
+        "url": "https://www.uniqlo.com/au/en/products/E465187-000/01?colorDisplayCode=09&sizeDisplayCode=002",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Ótima para visual programador; comprar várias se o caimento atual for consistente.",
+  "modelConfidence": "high",
+  "gapOrRedundancy": "Cotton blend, não técnica pura"
+}

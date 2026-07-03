@@ -1,0 +1,62 @@
+{
+  "id": "fleece_inextenso_black_s_01",
+  "status": "owned",
+  "name": "Fleece preto In Extenso",
+  "brand": "In Extenso",
+  "model": "Fleece full zip",
+  "module": "Thermal Layering",
+  "category": "outerwear",
+  "subcategory": "Fleece",
+  "layerType": "Midlayer",
+  "size": "S",
+  "color": "Preto",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": "Provável poliéster fleece",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "low"
+  },
+  "bestUse": [
+    "Casa",
+    "dormir",
+    "trilha",
+    "frio leve",
+    "videochamada informal"
+  ],
+  "avoidUse": [
+    "Evento formal",
+    "calor",
+    "volume mínimo"
+  ],
+  "scores": {
+    "urban": 2.5,
+    "formal": 2,
+    "outdoor": 3.5,
+    "rain": 1,
+    "cold": 3,
+    "hot": 0.5,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 2.5,
+    "comfort": 5,
+    "style": 3,
+    "urbanTravel": 3,
+    "outdoorFinal": 2,
+    "travelPack": 3.5
+  },
+  "role": "Comfort midlayer",
+  "purchaseAction": "Keep",
+  "priority": "high",
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [
+      "https://s.penatrilha.com.br/product/2024/12/jaqueta-de-isolamento-termico-microfleece-edge-masculina-black-para-inverno-solo-1.jpg?format=webp"
+    ],
+    "sourceLinks": []
+  },
+  "notes": "Fit excelente e apego alto; batido, mas difícil substituir.",
+  "modelConfidence": "medium",
+  "gapOrRedundancy": "Batido mas fit raro"
+}

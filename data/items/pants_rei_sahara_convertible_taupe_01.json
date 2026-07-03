@@ -1,0 +1,75 @@
+{
+  "id": "pants_rei_sahara_convertible_taupe_01",
+  "status": "owned",
+  "name": "REI Co-op Sahara Convertible Pants",
+  "brand": "REI Co-op",
+  "model": "Sahara Convertible Pants - Men's",
+  "module": "Outdoor Core",
+  "category": "bottom",
+  "subcategory": "Hiking convertible pants",
+  "layerType": "Bottom",
+  "size": null,
+  "color": "Armadillo Taupe / bege",
+  "colorFamily": [
+    "earth"
+  ],
+  "materialTech": "96% recycled nylon / 4% spandex, UPF 50+",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "high"
+  },
+  "bestUse": [
+    "Trilhas",
+    "calor",
+    "viagem outdoor",
+    "camping",
+    "caminhada longa",
+    "vira shorts"
+  ],
+  "avoidUse": [
+    "Urbano",
+    "smart casual",
+    "reunião"
+  ],
+  "scores": {
+    "urban": 1.5,
+    "formal": 0.5,
+    "outdoor": 4,
+    "rain": 1.5,
+    "cold": 2,
+    "hot": 4,
+    "bike": 1.5,
+    "water": 1,
+    "packability": 3.5,
+    "comfort": 4,
+    "style": 1.5,
+    "urbanTravel": 2.2,
+    "outdoorFinal": 2.6,
+    "travelPack": 3.3
+  },
+  "role": "Outdoor modular pants",
+  "purchaseAction": "Keep",
+  "priority": "high",
+  "sourceLinks": [
+    {
+      "label": "REI Co-op",
+      "url": "https://www.rei.com/product/236065/rei-co-op-sahara-convertible-pants-mens",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "https://www.rei.com/media/02874b2b-e638-4c9a-b260-e5a6cdc5a5ba?size=2000"
+    ],
+    "sourceLinks": [
+      {
+        "label": "REI Co-op",
+        "url": "https://www.rei.com/product/236065/rei-co-op-sahara-convertible-pants-mens",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Muito versátil funcionalmente; visual cargo/zipper técnico.",
+  "modelConfidence": "high",
+  "gapOrRedundancy": "Pouco urbana"
+}

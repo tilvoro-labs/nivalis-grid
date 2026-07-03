@@ -1,0 +1,68 @@
+{
+  "id": "undershirt_uniqlo_airism_vneck_black_01",
+  "status": "archived",
+  "name": "UNIQLO AIRism V-Neck undershirt",
+  "brand": "UNIQLO",
+  "model": "AIRism V-Neck Short Sleeve T-Shirt",
+  "module": "Laundry / Base",
+  "category": "top",
+  "subcategory": "Undershirt",
+  "layerType": "Base hidden",
+  "size": null,
+  "color": "Preta",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": "AIRism synthetic blend",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "high"
+  },
+  "bestUse": [
+    "Por baixo de camisas/polos/malhas para reaproveitar",
+    "pijama leve"
+  ],
+  "avoidUse": [
+    "Usar sozinha",
+    "academia"
+  ],
+  "scores": {
+    "urban": 1,
+    "formal": 0.5,
+    "outdoor": 1,
+    "rain": 0.5,
+    "cold": 1,
+    "hot": 4,
+    "bike": 0.5,
+    "water": 1,
+    "packability": 5,
+    "comfort": 4,
+    "style": 1,
+    "urbanTravel": 2.3,
+    "outdoorFinal": 1.7,
+    "travelPack": 3.5
+  },
+  "role": "Camada de reuso/lavanderia",
+  "purchaseAction": "Keep",
+  "priority": "medium",
+  "sourceLinks": [
+    {
+      "label": "UNIQLO",
+      "url": "https://www.uniqlo.com/us/en/products/E454311-000/00?colorDisplayCode=09&sizeDisplayCode=004",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": [
+      {
+        "label": "UNIQLO",
+        "url": "https://www.uniqlo.com/us/en/products/E454311-000/00?colorDisplayCode=09&sizeDisplayCode=004",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Muito leve; feia para usar sozinha; não serve bem para academia.",
+  "modelConfidence": "high",
+  "gapOrRedundancy": "Hidden layer"
+}

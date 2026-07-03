@@ -1,0 +1,75 @@
+{
+  "id": "flipflop_havaianas_01",
+  "status": "owned",
+  "name": "Havaianas",
+  "brand": "Havaianas",
+  "model": "Flip-flop",
+  "module": "Hot/Water",
+  "category": "footwear",
+  "subcategory": "Flip-flop",
+  "layerType": "Footwear",
+  "size": null,
+  "color": "?",
+  "colorFamily": [
+    "neutral"
+  ],
+  "materialTech": "Rubber",
+  "weight": {
+    "estimatedGrams": 325,
+    "confidence": "low"
+  },
+  "bestUse": [
+    "Banho",
+    "hostel",
+    "praia",
+    "casa",
+    "emergência"
+  ],
+  "avoidUse": [
+    "Caminhada longa",
+    "social"
+  ],
+  "scores": {
+    "urban": 1,
+    "formal": 0,
+    "outdoor": 0.5,
+    "rain": 0.5,
+    "cold": 0,
+    "hot": 4,
+    "bike": 0,
+    "water": 4,
+    "packability": 4,
+    "comfort": 3,
+    "style": 1,
+    "urbanTravel": 1.8,
+    "outdoorFinal": 1.7,
+    "travelPack": 3
+  },
+  "role": "Banho/praia",
+  "purchaseAction": "Keep",
+  "priority": "high",
+  "sourceLinks": [
+    {
+      "label": "Havaianas",
+      "url": "https://www.havaianas.com/",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "http://www.havaianas.com/cdn/shop/files/Logo_Red_1200x628_2_e946c56c-6e13-4f85-809d-12df592fd7b2.png?v=1730144167",
+      "https://www.havaianas.com/cdn/shop/files/Logo_Red_1200x628_2_e946c56c-6e13-4f85-809d-12df592fd7b2.png?v=1730144167",
+      "https://www.havaianas.com/cdn/shop/files/dhero_2.png?v=1781030164&width=1920"
+    ],
+    "sourceLinks": [
+      {
+        "label": "Havaianas",
+        "url": "https://www.havaianas.com/",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Complemento simples para banho/praia.",
+  "modelConfidence": "low",
+  "gapOrRedundancy": "Low support"
+}

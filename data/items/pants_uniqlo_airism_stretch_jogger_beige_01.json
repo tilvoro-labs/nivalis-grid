@@ -1,0 +1,72 @@
+{
+  "id": "pants_uniqlo_airism_stretch_jogger_beige_01",
+  "status": "owned",
+  "name": "UNIQLO AIRism / Stretch jogger bege",
+  "brand": "UNIQLO",
+  "model": "AIRism stretch jogger pants / similar",
+  "module": "Urban Core",
+  "category": "bottom",
+  "subcategory": "Jogger pants",
+  "layerType": "Bottom",
+  "size": null,
+  "color": "Bege",
+  "colorFamily": [
+    "earth"
+  ],
+  "materialTech": "Stretch synthetic/AIRism-like",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "low"
+  },
+  "bestUse": [
+    "Calor",
+    "cidade",
+    "viagem",
+    "smart casual casual"
+  ],
+  "avoidUse": [
+    "Sujeira visível",
+    "trilha pesada"
+  ],
+  "scores": {
+    "urban": 3.5,
+    "formal": 3,
+    "outdoor": 1.5,
+    "rain": 1,
+    "cold": 2,
+    "hot": 3.5,
+    "bike": 1,
+    "water": 1,
+    "packability": 4,
+    "comfort": 5,
+    "style": 3.5,
+    "urbanTravel": 3.8,
+    "outdoorFinal": 2.1,
+    "travelPack": 4
+  },
+  "role": "Jogger claro de viagem",
+  "purchaseAction": "Keep",
+  "priority": "medium",
+  "sourceLinks": [
+    {
+      "label": "UNIQLO",
+      "url": "https://www.uniqlo.com/us/en/products/E485744-000/00?colorDisplayCode=31&sizeDisplayCode=004",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/485744/sub/goods_485744_sub11_3x4.jpg"
+    ],
+    "sourceLinks": [
+      {
+        "label": "UNIQLO",
+        "url": "https://www.uniqlo.com/us/en/products/E485744-000/00?colorDisplayCode=31&sizeDisplayCode=004",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Mesma família da cinza; boa para variação e clima quente. Também representa a peça identificada como Stretch Jogger bege.",
+  "modelConfidence": "low",
+  "gapOrRedundancy": "Sujeira mais visível"
+}

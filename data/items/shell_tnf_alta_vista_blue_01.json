@@ -1,0 +1,70 @@
+{
+  "id": "shell_tnf_alta_vista_blue_01",
+  "status": "archived",
+  "name": "The North Face Alta Vista azul",
+  "brand": "The North Face",
+  "model": "Alta Vista Jacket",
+  "module": "Outdoor Core",
+  "category": "outerwear",
+  "subcategory": "Rain shell",
+  "layerType": "Shell",
+  "size": null,
+  "color": "Azul",
+  "colorFamily": [
+    "bright"
+  ],
+  "materialTech": "DryVent 2.5L waterproof seam-sealed",
+  "weight": {
+    "estimatedGrams": 260,
+    "confidence": "high"
+  },
+  "bestUse": [
+    "Trilha",
+    "chuva real",
+    "bike",
+    "viagem outdoor"
+  ],
+  "avoidUse": [
+    "Setup urbano discreto",
+    "reunião"
+  ],
+  "scores": {
+    "urban": 2.5,
+    "formal": 1.5,
+    "outdoor": 4.5,
+    "rain": 4.5,
+    "cold": 2.5,
+    "hot": 1,
+    "bike": 3.5,
+    "water": 1,
+    "packability": 4,
+    "comfort": 4,
+    "style": 2,
+    "urbanTravel": 2.8,
+    "outdoorFinal": 3,
+    "travelPack": 3.6
+  },
+  "role": "Rain shell técnica",
+  "purchaseAction": "Keep / maybe replace color",
+  "priority": "medium",
+  "sourceLinks": [
+    {
+      "label": "The North Face",
+      "url": "https://www.thenorthface.com/en-us/p/shop-all/jackets-701295/mens-alta-vista-jacket-NF0A7QAW",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": [
+      {
+        "label": "The North Face",
+        "url": "https://www.thenorthface.com/en-us/p/shop-all/jackets-701295/mens-alta-vista-jacket-NF0A7QAW",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Técnica e compacta; azul chama atenção em uso urbano.",
+  "modelConfidence": "high",
+  "gapOrRedundancy": "Cor chamativa"
+}

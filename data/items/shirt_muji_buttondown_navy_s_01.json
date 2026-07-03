@@ -1,0 +1,60 @@
+{
+  "id": "shirt_muji_buttondown_navy_s_01",
+  "status": "owned",
+  "name": "MUJI camisa button-down navy",
+  "brand": "MUJI",
+  "model": "Button-down navy shirt",
+  "module": "Urban Core / Formal-Social casual",
+  "category": "top",
+  "subcategory": "Button-down shirt",
+  "layerType": "Smart casual top",
+  "size": "MEN S",
+  "color": "Navy",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": "Etiqueta indica \"100%\"; provável 100% algodão",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "low"
+  },
+  "bestUse": [
+    "Cliente",
+    "jantar",
+    "layering",
+    "viagem urbana",
+    "smart casual"
+  ],
+  "avoidUse": [
+    "Trilha",
+    "chuva",
+    "calor extremo"
+  ],
+  "scores": {
+    "urban": 4,
+    "formal": 3.8,
+    "outdoor": 1,
+    "rain": 0.5,
+    "cold": 1,
+    "hot": 2,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 3.8,
+    "comfort": 3.5,
+    "style": 4.1,
+    "urbanTravel": 4,
+    "outdoorFinal": 1.2,
+    "travelPack": 3.8
+  },
+  "role": "Camisa casual-profissional navy",
+  "purchaseAction": "Keep",
+  "priority": "high",
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": []
+  },
+  "notes": "Camisa casual-profissional navy. Melhor fit que a UNIQLO Super Non-Iron M. Boa para cliente, jantar e layering.",
+  "modelConfidence": "medium",
+  "gapOrRedundancy": "Provável melhor camisa social casual do módulo."
+}

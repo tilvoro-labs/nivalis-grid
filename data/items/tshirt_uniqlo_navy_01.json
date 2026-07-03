@@ -1,0 +1,58 @@
+{
+  "id": "tshirt_uniqlo_navy_01",
+  "status": "owned",
+  "name": "UNIQLO camiseta lisa navy",
+  "brand": "UNIQLO",
+  "model": "Camiseta lisa navy",
+  "module": "Urban Core",
+  "category": "top",
+  "subcategory": "T-shirt",
+  "layerType": "Base visible",
+  "size": "Não visível",
+  "color": "Navy",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": "Provável algodão ou cotton/poly blend",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "low"
+  },
+  "bestUse": [
+    "Layering",
+    "dia a dia",
+    "viagem urbana",
+    "looks casuais"
+  ],
+  "avoidUse": [
+    "Evento formal",
+    "trilha técnica"
+  ],
+  "scores": {
+    "urban": 3.6,
+    "formal": 1,
+    "outdoor": 1,
+    "rain": 0.5,
+    "cold": 1,
+    "hot": 2,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 3.8,
+    "comfort": 3.5,
+    "style": 3.6,
+    "urbanTravel": 3.6,
+    "outdoorFinal": 1.5,
+    "travelPack": 3.8
+  },
+  "role": "Base urbana navy",
+  "purchaseAction": "Keep",
+  "priority": "high",
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": []
+  },
+  "notes": "Camiseta lisa sem estampa. Redundante com a preta, mas útil como base.",
+  "modelConfidence": "medium",
+  "gapOrRedundancy": "Redundância útil para rotação."
+}

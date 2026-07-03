@@ -1,0 +1,58 @@
+{
+  "id": "tshirt_factored_black_01",
+  "status": "owned",
+  "name": "Factored camiseta preta",
+  "brand": "Factored",
+  "model": "Camiseta corporativa preta",
+  "module": "Casual / Work",
+  "category": "top",
+  "subcategory": "T-shirt",
+  "layerType": "Casual visible",
+  "size": "Não legível",
+  "color": "Preta",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": "Provável algodão; base não totalmente legível",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "low"
+  },
+  "bestUse": [
+    "Eventos internos",
+    "hotel",
+    "casual discreto"
+  ],
+  "avoidUse": [
+    "Cliente",
+    "formal",
+    "cápsula minimalista se houver opções sem logo"
+  ],
+  "scores": {
+    "urban": 2.8,
+    "formal": 1,
+    "outdoor": 1,
+    "rain": 0.5,
+    "cold": 1,
+    "hot": 2,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 3,
+    "comfort": 3.5,
+    "style": 2.8,
+    "urbanTravel": 2.8,
+    "outdoorFinal": 1,
+    "travelPack": 3
+  },
+  "role": "Camiseta corporativa casual discreta",
+  "purchaseAction": "Keep",
+  "priority": "medium",
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": []
+  },
+  "notes": "Camiseta corporativa com logo Factored. Mais discreta que a branca, mas ainda casual.",
+  "modelConfidence": "medium",
+  "gapOrRedundancy": "Logo ainda limita uso externo."
+}

@@ -1,0 +1,75 @@
+{
+  "id": "socks_cns_modal_social_01",
+  "status": "owned",
+  "name": "Meias sociais modal CNS",
+  "brand": "CNS",
+  "model": "Modal social socks",
+  "module": "Formal/Social",
+  "category": "accessory",
+  "subcategory": "Socks",
+  "layerType": "Socks",
+  "size": null,
+  "color": "?",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": "Modal blend",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "medium"
+  },
+  "bestUse": [
+    "Sapato social",
+    "casamento",
+    "eventos",
+    "calça alfaiataria"
+  ],
+  "avoidUse": [
+    "Trilha",
+    "bota",
+    "chuva"
+  ],
+  "scores": {
+    "urban": 3,
+    "formal": 4,
+    "outdoor": 0,
+    "rain": 0,
+    "cold": 1,
+    "hot": 2,
+    "bike": 0,
+    "water": 0,
+    "packability": 4,
+    "comfort": 4,
+    "style": 3.5,
+    "urbanTravel": 3.7,
+    "outdoorFinal": 1,
+    "travelPack": 3.6
+  },
+  "role": "Social socks",
+  "purchaseAction": "Keep",
+  "priority": "medium",
+  "sourceLinks": [
+    {
+      "label": "CNS",
+      "url": "https://www.cnscalcados.com.br/",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "http://acdn-us.mitiendanube.com/stores/006/838/903/themes/common/logo-1813003253-1762358966-8519e3ffe530237b2b03002a860143af1762358966.png?0",
+      "https://acdn-us.mitiendanube.com/stores/006/838/903/themes/common/logo-1813003253-1762358966-8519e3ffe530237b2b03002a860143af1762358966.png?0",
+      "https://acdn-us.mitiendanube.com/stores/006/838/903/products/1-7c770e1f307fe0b16617640752966329-480-0.webp"
+    ],
+    "sourceLinks": [
+      {
+        "label": "CNS",
+        "url": "https://www.cnscalcados.com.br/",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Mantém coerência visual com CNS/Democrata.",
+  "modelConfidence": "medium",
+  "gapOrRedundancy": "Formal module"
+}

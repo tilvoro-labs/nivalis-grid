@@ -1,0 +1,73 @@
+{
+  "id": "sandals_teva_hurricane_xlt2_01",
+  "status": "archived",
+  "name": "Teva Hurricane XLT2 masculina",
+  "brand": "Teva",
+  "model": "Hurricane XLT2",
+  "module": "Hot/Water",
+  "category": "footwear",
+  "subcategory": "Sport sandal",
+  "layerType": "Footwear",
+  "size": null,
+  "color": "?",
+  "colorFamily": [
+    "neutral"
+  ],
+  "materialTech": "Synthetic webbing + rubber outsole",
+  "weight": {
+    "estimatedGrams": 600,
+    "confidence": "medium"
+  },
+  "bestUse": [
+    "Calor",
+    "praia",
+    "rio",
+    "hostel",
+    "banho",
+    "caminhada leve"
+  ],
+  "avoidUse": [
+    "Levar como segundo par",
+    "social",
+    "trilha técnica"
+  ],
+  "scores": {
+    "urban": 1.5,
+    "formal": 0,
+    "outdoor": 3.5,
+    "rain": 1,
+    "cold": 0,
+    "hot": 4,
+    "bike": 1,
+    "water": 4.5,
+    "packability": 2.5,
+    "comfort": 4,
+    "style": 1.5,
+    "urbanTravel": 1.9,
+    "outdoorFinal": 2.6,
+    "travelPack": 3.1
+  },
+  "role": "Water/hot sandal",
+  "purchaseAction": "Keep / maybe lighter alternative",
+  "priority": "medium",
+  "sourceLinks": [
+    {
+      "label": "Teva",
+      "url": "https://www.teva.com/men-sandals/hurricane-xlt2-sandal/1019234.html",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": [
+      {
+        "label": "Teva",
+        "url": "https://www.teva.com/men-sandals/hurricane-xlt2-sandal/1019234.html",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Boa, mas pesada como complemento.",
+  "modelConfidence": "high",
+  "gapOrRedundancy": "Pesada como segundo par"
+}

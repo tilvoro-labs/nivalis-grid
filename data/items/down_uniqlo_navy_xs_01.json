@@ -1,0 +1,72 @@
+{
+  "id": "down_uniqlo_navy_xs_01",
+  "status": "owned",
+  "name": "Jaqueta down UNIQLO azul marinho",
+  "brand": "UNIQLO",
+  "model": "Ultra Light Down",
+  "module": "Thermal Layering",
+  "category": "outerwear",
+  "subcategory": "Down jacket",
+  "layerType": "Insulation",
+  "size": "XS",
+  "color": "Azul marinho",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": "Nylon + down",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "medium"
+  },
+  "bestUse": [
+    "Cidade",
+    "frio",
+    "viagem",
+    "trilha leve"
+  ],
+  "avoidUse": [
+    "Trilha pesada",
+    "uso com abrasão"
+  ],
+  "scores": {
+    "urban": 3,
+    "formal": 2.5,
+    "outdoor": 2.5,
+    "rain": 1,
+    "cold": 4,
+    "hot": 0.5,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 5,
+    "comfort": 4,
+    "style": 3,
+    "urbanTravel": 3.5,
+    "outdoorFinal": 1.9,
+    "travelPack": 3.8
+  },
+  "role": "Clean insulation",
+  "purchaseAction": "Keep",
+  "priority": "high",
+  "sourceLinks": [
+    {
+      "label": "UNIQLO",
+      "url": "https://www.uniqlo.com/",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/459621/sub/goods_459621_sub14_3x4.jpg"
+    ],
+    "sourceLinks": [
+      {
+        "label": "UNIQLO",
+        "url": "https://www.uniqlo.com/",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Melhor caimento; preservar mais que a cinza.",
+  "modelConfidence": "medium",
+  "gapOrRedundancy": "Protected item"
+}

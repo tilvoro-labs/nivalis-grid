@@ -1,0 +1,58 @@
+{
+  "id": "shirt_tailored_white_wedding_01",
+  "status": "owned",
+  "name": "Camisa social branca sob medida",
+  "brand": "Sob medida",
+  "model": "Camisa social branca casamento",
+  "module": "Formal/Social",
+  "category": "top",
+  "subcategory": "Dress shirt",
+  "layerType": "Formal visible top",
+  "size": "Sob medida",
+  "color": "Branca",
+  "colorFamily": [
+    "neutral"
+  ],
+  "materialTech": "Provável algodão; não confirmado",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "low"
+  },
+  "bestUse": [
+    "Casamento",
+    "evento formal",
+    "reunião formal"
+  ],
+  "avoidUse": [
+    "Cápsula casual",
+    "trilha",
+    "calor extremo"
+  ],
+  "scores": {
+    "urban": 2.8,
+    "formal": 5,
+    "outdoor": 1,
+    "rain": 0.5,
+    "cold": 1,
+    "hot": 2,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 2.2,
+    "comfort": 3.5,
+    "style": 4,
+    "urbanTravel": 2.8,
+    "outdoorFinal": 0.8,
+    "travelPack": 2.2
+  },
+  "role": "Camisa formal clássica",
+  "purchaseAction": "Keep",
+  "priority": "low",
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": []
+  },
+  "notes": "Camisa de alfaiate usada no casamento. Punho formal/para abotoadura. Formal demais para cápsula casual, mas importante no módulo social.",
+  "modelConfidence": "medium",
+  "gapOrRedundancy": "Formal-only; manter por ocasião específica."
+}

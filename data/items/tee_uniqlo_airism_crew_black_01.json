@@ -1,0 +1,73 @@
+{
+  "id": "tee_uniqlo_airism_crew_black_01",
+  "status": "candidate_buy",
+  "name": "UNIQLO AIRism Crew Neck T-Shirt",
+  "brand": "UNIQLO",
+  "model": "AIRism Crew Neck T-Shirt",
+  "module": "Urban Core",
+  "category": "top",
+  "subcategory": "T-shirt",
+  "layerType": "Base visible / base hidden",
+  "size": "MEN XS",
+  "color": "09 BLACK",
+  "colorFamily": [
+    "dark",
+    "neutral"
+  ],
+  "materialTech": "AIRism stretchable synthetic blend",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "high"
+  },
+  "bestUse": [
+    "Usar sozinha",
+    "por baixo",
+    "viagem",
+    "calor",
+    "layering"
+  ],
+  "avoidUse": [
+    "Confirmar transparência/caimento"
+  ],
+  "scores": {
+    "urban": 3.5,
+    "formal": 1.5,
+    "outdoor": 1.5,
+    "rain": 0.5,
+    "cold": 1,
+    "hot": 4,
+    "bike": 1,
+    "water": 1,
+    "packability": 5,
+    "comfort": 4,
+    "style": 3.5,
+    "urbanTravel": 3.5,
+    "outdoorFinal": 1.9,
+    "travelPack": 4.1
+  },
+  "role": "Camiseta técnica leve versátil",
+  "purchaseAction": "Test before buy",
+  "priority": "medium",
+  "sourceLinks": [
+    {
+      "label": "UNIQLO",
+      "url": "https://www.uniqlo.com/us/en/products/E482514-000/00?colorDisplayCode=09&sizeDisplayCode=002",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/482514/item/augoods_09_482514_3x4.jpg?width=400"
+    ],
+    "sourceLinks": [
+      {
+        "label": "UNIQLO",
+        "url": "https://www.uniqlo.com/us/en/products/E482514-000/00?colorDisplayCode=09&sizeDisplayCode=002",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Comprar 1 para testar; pode substituir undershirt em usos mais visíveis.",
+  "modelConfidence": "high",
+  "gapOrRedundancy": "Candidate basic technical tee"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "tee_uniqlo_dry_ex_black_01",
+  "status": "candidate_buy",
+  "name": "UNIQLO DRY-EX T-Shirt black",
+  "brand": "UNIQLO",
+  "model": "DRY-EX T-Shirt (Product ID 482299)",
+  "module": "Urban Core",
+  "category": "top",
+  "subcategory": "T-shirt",
+  "layerType": "Base visible / active base",
+  "size": "MEN XS",
+  "color": "09 BLACK",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": "DRY-EX quick-dry performance knit with breathable mesh panels",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "high"
+  },
+  "bestUse": [
+    "Calor",
+    "treino indoor",
+    "viagem",
+    "deslocamento urbano",
+    "layering leve"
+  ],
+  "avoidUse": [
+    "Evento formal",
+    "frio sem camada"
+  ],
+  "scores": {
+    "urban": 3.5,
+    "formal": 1,
+    "outdoor": 2,
+    "rain": 1,
+    "cold": 1,
+    "hot": 4.5,
+    "bike": 2.5,
+    "water": 1.5,
+    "packability": 5,
+    "comfort": 4.5,
+    "style": 3.5,
+    "urbanTravel": 4,
+    "outdoorFinal": 2.5,
+    "travelPack": 4.4
+  },
+  "role": "Camiseta tecnica de secagem rapida para uso diario e ativo",
+  "purchaseAction": "Buy 1 to test fit and fabric behavior",
+  "priority": "high",
+  "sourceLinks": [
+    {
+      "label": "UNIQLO",
+      "url": "https://www.uniqlo.com/au/en/products/E482299-000/00?colorDisplayCode=09&sizeDisplayCode=002",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/482299/item/augoods_09_482299_3x4.jpg?width=400",
+      "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482299/feature/usgoods_482299_feature1.jpg",
+      "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482299/feature/usgoods_482299_feature2.jpg",
+      "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482299/feature/usgoods_482299_feature3.jpg",
+      "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482299/feature/usgoods_482299_feature4.jpg"
+    ],
+    "sourceLinks": [
+      {
+        "label": "UNIQLO",
+        "url": "https://www.uniqlo.com/au/en/products/E482299-000/00?colorDisplayCode=09&sizeDisplayCode=002",
+        "role": "product"
+      }
+    ]
+  },
+  "notes": "Camiseta regular fit com DRY-EX de secagem rapida, malha respiravel nas laterais e centro das costas, tecido suave com brilho discreto e design com poucas costuras aparentes. Boa para dias ativos, calor, viagem e uso urbano casual.",
+  "modelConfidence": "high",
+  "gapOrRedundancy": "Pode competir com outras camisetas tecnicas pretas; validar caimento e sensacao no uso real."
+}
