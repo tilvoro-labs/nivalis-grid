@@ -1,0 +1,67 @@
+{
+  "status": "owned",
+  "ownership": "owned",
+  "tags": [],
+  "brand": "UNIQLO",
+  "model": "Touchscreen gloves",
+  "module": "Thermal Layering",
+  "subcategory": "Gloves",
+  "layerType": "Hand warmth accessory",
+  "size": null,
+  "color": "Preta",
+  "materialTech": "Luvas térmicas compatíveis com celular; composição não legível",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "low"
+  },
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": [],
+    "publicImages": [
+      "assets/gloves_uniqlo_black_touchscreen_01/manual-whatsapp-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/gloves_uniqlo_black_touchscreen_01/manual-whatsapp-01.jpg"
+    ]
+  },
+  "modelConfidence": "medium",
+  "gapOrRedundancy": null,
+  "id": "gloves_uniqlo_black_touchscreen_01",
+  "name": "UNIQLO luvas pretas touchscreen",
+  "category": "accessory",
+  "colorFamily": [
+    "dark"
+  ],
+  "bestUse": [
+    "frio urbano",
+    "viagem fria",
+    "usar celular no frio",
+    "camada térmica compacta"
+  ],
+  "avoidUse": [
+    "chuva forte",
+    "calor",
+    "atividade muito abrasiva"
+  ],
+  "scores": {
+    "urban": 3.2,
+    "formal": 0.5,
+    "outdoor": 1,
+    "rain": 0.5,
+    "cold": 4,
+    "hot": 2,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 4,
+    "comfort": 3.8,
+    "style": 3,
+    "urbanTravel": 3.4,
+    "outdoorFinal": 2,
+    "travelPack": 3.5
+  },
+  "role": "Luvas compactas para frio e celular",
+  "purchaseAction": "Keep",
+  "priority": "medium",
+  "notes": "Dropbox inbox 2026-07-04: adição recente; funcionam com celular e esquentam bem, ainda pouco usadas."
+}

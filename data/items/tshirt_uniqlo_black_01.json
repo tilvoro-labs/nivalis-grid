@@ -52,10 +52,18 @@
   "media": {
     "remoteImages": [],
     "sourceLinks": [],
-    "publicImages": [],
-    "publicImageUrls": []
+    "publicImages": [
+      "assets/tshirt_uniqlo_black_01/manual-whatsapp-01.jpg",
+      "assets/tshirt_uniqlo_black_01/manual-whatsapp-02.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/tshirt_uniqlo_black_01/manual-whatsapp-01.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/tshirt_uniqlo_black_01/manual-whatsapp-02.jpg"
+    ]
   },
   "notes": "Camiseta lisa sem estampa. Base útil para voo, layering e looks casuais.",
   "modelConfidence": "medium",
-  "gapOrRedundancy": "Possível redundância intencional com DRY Color preta."
+  "gapOrRedundancy": "Possível redundância intencional com DRY Color preta.",
+  "ownership": "owned",
+  "tags": []
 }

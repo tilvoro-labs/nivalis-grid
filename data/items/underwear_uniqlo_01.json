@@ -72,5 +72,7 @@
   },
   "notes": "Confirmar modelo e quantidade.",
   "modelConfidence": "low",
-  "gapOrRedundancy": "Core duplicate"
+  "gapOrRedundancy": "Core duplicate",
+  "ownership": "owned",
+  "tags": []
 }

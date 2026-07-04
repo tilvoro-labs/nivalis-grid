@@ -75,5 +75,9 @@
   },
   "notes": "Boa para corrida; risco de não dar firmeza que você gosta.",
   "modelConfidence": "high",
-  "gapOrRedundancy": "Not waterproof"
+  "gapOrRedundancy": "Not waterproof",
+  "ownership": "not_owned",
+  "tags": [
+    "candidate_buy"
+  ]
 }

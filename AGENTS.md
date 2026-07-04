@@ -5,10 +5,11 @@ This repository is a public, sanitized mirror for AI inspection of a wardrobe ca
 ## How To Navigate
 
 1. Start with `grids/index.md` for the visual overview.
-2. Use the cell IDs in each grid page to discuss visible pieces quickly.
-3. Use `grids/index.json` to map each local `cellId` to the stable `itemId`.
-4. Use `data/catalog.json` as the structured source of truth for item metadata.
-5. Use `media.publicImageUrls` in `data/catalog.json` only when a grid cell needs closer visual inspection.
+2. Prefer `AI_CONTEXT.md` when a single Markdown file is easier to provide to an AI.
+3. Use the cell IDs in each grid page to discuss visible pieces quickly.
+4. Use `grids/index.json` to map each local `cellId` to the stable `itemId`.
+5. Use `data/catalog.json` as the structured source of truth for item metadata.
+6. Use `media.publicImageUrls` in `data/catalog.json` only when a grid cell needs closer visual inspection.
 
 ## Important Concepts
 
@@ -17,12 +18,13 @@ This repository is a public, sanitized mirror for AI inspection of a wardrobe ca
 - `assets/<item_id>/*.jpg` contains re-encoded public JPEG images.
 - `grids/` contains regenerated visual indexes. They are meant for overview and triage, not fine-grained image inspection.
 - `data/items/*.json` mirrors individual item records from the consolidated catalog.
+- `AI_CONTEXT.md` is a generated visual dossier that combines selected grids, summary stats, action queues, and item tables.
 
 ## Suggested Analysis Workflow
 
 - First inspect `grids/index.md`.
 - Identify broad color, silhouette, formality, and category patterns from the grids.
-- Then consult `data/catalog.json` for exact names, categories, scores, status, and source links.
+- Then consult `data/catalog.json` for exact names, categories, scores, ownership, tags, and source links.
 - Open individual `media.publicImageUrls` only for items where the grid is too small or ambiguous.
 - When recommending outfits, cite stable `itemId` values and optionally mention the grid/cell used for visual reference.
 

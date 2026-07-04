@@ -52,10 +52,18 @@
   "media": {
     "remoteImages": [],
     "sourceLinks": [],
-    "publicImages": [],
-    "publicImageUrls": []
+    "publicImages": [
+      "assets/slippers_lightweight_01/manual-whatsapp-01.jpg",
+      "assets/slippers_lightweight_01/manual-whatsapp-02.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/slippers_lightweight_01/manual-whatsapp-01.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/slippers_lightweight_01/manual-whatsapp-02.jpg"
+    ]
   },
   "notes": "Levar só em viagem longa/frio/hospedagem fixa.",
   "modelConfidence": "low",
-  "gapOrRedundancy": "Specific use"
+  "gapOrRedundancy": "Specific use",
+  "ownership": "owned",
+  "tags": []
 }

@@ -56,11 +56,7 @@
     }
   ],
   "media": {
-    "remoteImages": [
-      "http://acdn-us.mitiendanube.com/stores/006/838/903/themes/common/logo-1813003253-1762358966-8519e3ffe530237b2b03002a860143af1762358966.png?0",
-      "https://acdn-us.mitiendanube.com/stores/006/838/903/themes/common/logo-1813003253-1762358966-8519e3ffe530237b2b03002a860143af1762358966.png?0",
-      "https://acdn-us.mitiendanube.com/stores/006/838/903/products/1-7c770e1f307fe0b16617640752966329-480-0.webp"
-    ],
+    "remoteImages": [],
     "sourceLinks": [
       {
         "label": "CNS",
@@ -69,17 +65,15 @@
       }
     ],
     "publicImages": [
-      "assets/socks_cns_modal_social_01/online-01.jpg",
-      "assets/socks_cns_modal_social_01/online-02.jpg",
-      "assets/socks_cns_modal_social_01/online-03.jpg"
+      "assets/socks_cns_modal_social_01/manual-whatsapp-01.jpg"
     ],
     "publicImageUrls": [
-      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/socks_cns_modal_social_01/online-01.jpg",
-      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/socks_cns_modal_social_01/online-02.jpg",
-      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/socks_cns_modal_social_01/online-03.jpg"
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/socks_cns_modal_social_01/manual-whatsapp-01.jpg"
     ]
   },
   "notes": "Mantém coerência visual com CNS/Democrata.",
   "modelConfidence": "medium",
-  "gapOrRedundancy": "Formal module"
+  "gapOrRedundancy": "Formal module",
+  "ownership": "owned",
+  "tags": []
 }

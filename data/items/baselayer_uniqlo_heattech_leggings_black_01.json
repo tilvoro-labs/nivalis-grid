@@ -1,0 +1,71 @@
+{
+  "id": "baselayer_uniqlo_heattech_leggings_black_01",
+  "status": "owned",
+  "name": "UNIQLO HEATTECH legging térmica preta",
+  "brand": "UNIQLO",
+  "model": "HEATTECH leggings",
+  "module": "Thermal Layering",
+  "category": "bottom",
+  "subcategory": "Base layer bottom",
+  "layerType": "Base layer",
+  "size": null,
+  "color": "Preta",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": "HEATTECH synthetic thermal knit",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "unknown"
+  },
+  "bestUse": [
+    "inverno",
+    "acampamento frio",
+    "usar sob shorts/calça"
+  ],
+  "avoidUse": [
+    "calor",
+    "uso sozinho urbano"
+  ],
+  "scores": {
+    "urban": 2,
+    "formal": 1,
+    "outdoor": 1,
+    "rain": 0.5,
+    "cold": 1,
+    "hot": 2,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 3,
+    "comfort": 3,
+    "style": 2,
+    "urbanTravel": 2.5,
+    "outdoorFinal": 1.5,
+    "travelPack": 2.5
+  },
+  "role": "Camada térmica inferior",
+  "purchaseAction": "Keep",
+  "priority": "high",
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": [],
+    "publicImages": [
+      "assets/baselayer_uniqlo_heattech_leggings_black_01/manual-whatsapp-01.jpg",
+      "assets/baselayer_uniqlo_heattech_leggings_black_01/manual-whatsapp-02.jpg",
+      "assets/baselayer_uniqlo_heattech_leggings_black_01/manual-whatsapp-03.jpg",
+      "assets/baselayer_uniqlo_heattech_leggings_black_01/manual-whatsapp-04.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/baselayer_uniqlo_heattech_leggings_black_01/manual-whatsapp-01.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/baselayer_uniqlo_heattech_leggings_black_01/manual-whatsapp-02.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/baselayer_uniqlo_heattech_leggings_black_01/manual-whatsapp-03.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/baselayer_uniqlo_heattech_leggings_black_01/manual-whatsapp-04.jpg"
+    ]
+  },
+  "notes": "Peça compacta que adiciona calor nas pernas; distinta da camiseta HEATTECH existente.",
+  "modelConfidence": "medium",
+  "gapOrRedundancy": null,
+  "ownership": "owned",
+  "tags": []
+}

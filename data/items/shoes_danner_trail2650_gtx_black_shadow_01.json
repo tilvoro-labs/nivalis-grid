@@ -79,5 +79,9 @@
   },
   "notes": "Boa opção leve, mas visual mais técnico e menos bota.",
   "modelConfidence": "high",
-  "gapOrRedundancy": "Less ankle support"
+  "gapOrRedundancy": "Less ankle support",
+  "ownership": "not_owned",
+  "tags": [
+    "candidate_buy"
+  ]
 }

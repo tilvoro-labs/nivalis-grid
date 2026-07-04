@@ -1,0 +1,69 @@
+{
+  "status": "owned",
+  "ownership": "owned",
+  "tags": [],
+  "brand": "UNIQLO",
+  "model": "AIRism polo",
+  "module": "Urban Core / Casual Work",
+  "subcategory": "Polo",
+  "layerType": "Casual smart top",
+  "size": "XS/S, não totalmente confirmado",
+  "color": "Preta",
+  "materialTech": "AIRism; etiqueta indica mistura sintética com elastano, composição não totalmente legível",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "low"
+  },
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": [],
+    "publicImages": [
+      "assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg",
+      "assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg"
+    ]
+  },
+  "modelConfidence": "medium",
+  "gapOrRedundancy": "Pode ser redundante com Vuori polo; manter enquanto caimento justificar.",
+  "id": "polo_uniqlo_airism_black_01",
+  "name": "UNIQLO AIRism polo preta",
+  "category": "top",
+  "colorFamily": [
+    "dark"
+  ],
+  "bestUse": [
+    "home office",
+    "casual urbano",
+    "viagem urbana",
+    "ambientes pouco formais"
+  ],
+  "avoidUse": [
+    "cliente formal",
+    "trilha abrasiva",
+    "uso quando aparência gasta importar"
+  ],
+  "scores": {
+    "urban": 3.2,
+    "formal": 2,
+    "outdoor": 1,
+    "rain": 0.5,
+    "cold": 1,
+    "hot": 3,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 3.4,
+    "comfort": 4,
+    "style": 3,
+    "urbanTravel": 3.3,
+    "outdoorFinal": 1.5,
+    "travelPack": 3.3
+  },
+  "role": "Polo preta casual com bom caimento",
+  "purchaseAction": "Keep",
+  "priority": "medium",
+  "notes": "Dropbox inbox 2026-07-04: usuário tem apego; peça já um pouco velha, mas com caimento muito bom. Considerar para home office e ambientes não tão formais."
+}

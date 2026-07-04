@@ -1,0 +1,86 @@
+{
+  "id": "pants_uniqlo_ultra_stretch_olive_01",
+  "status": "owned",
+  "name": "UNIQLO Ultra Stretch Pants olive",
+  "brand": "UNIQLO",
+  "model": "Ultra Stretch Pants (Product ID 475598)",
+  "module": "Urban Core",
+  "category": "bottom",
+  "subcategory": "Pants",
+  "layerType": "Bottom",
+  "size": "MEN M",
+  "color": "57 OLIVE",
+  "colorFamily": [
+    "earth"
+  ],
+  "materialTech": "79% Nylon, 21% Spandex; nylon jersey; water-repellent finish",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "unknown"
+  },
+  "bestUse": [
+    "viagem urbana",
+    "home office",
+    "cidade",
+    "smart casual leve"
+  ],
+  "avoidUse": [
+    "evento formal rígido",
+    "trilha pesada"
+  ],
+  "scores": {
+    "urban": 2,
+    "formal": 1,
+    "outdoor": 1,
+    "rain": 0.5,
+    "cold": 1,
+    "hot": 2,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 3,
+    "comfort": 3,
+    "style": 2,
+    "urbanTravel": 2.5,
+    "outdoorFinal": 1.5,
+    "travelPack": 2.5
+  },
+  "role": "Calça tapered versátil olive",
+  "purchaseAction": "Keep",
+  "priority": "high",
+  "sourceLinks": [
+    {
+      "label": "UNIQLO",
+      "url": "https://www.uniqlo.com/us/en/products/E475598-000/00?colorDisplayCode=57&sizeDisplayCode=004",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/475598/chip/goods_57_475598_chip.jpg"
+    ],
+    "sourceLinks": [
+      {
+        "label": "UNIQLO",
+        "url": "https://www.uniqlo.com/us/en/products/E475598-000/00?colorDisplayCode=57&sizeDisplayCode=004",
+        "role": "product"
+      }
+    ],
+    "publicImages": [
+      "assets/pants_uniqlo_ultra_stretch_olive_01/manual-whatsapp-01.jpg",
+      "assets/pants_uniqlo_ultra_stretch_olive_01/manual-whatsapp-02.jpg",
+      "assets/pants_uniqlo_ultra_stretch_olive_01/manual-whatsapp-03.jpg",
+      "assets/pants_uniqlo_ultra_stretch_olive_01/manual-whatsapp-04.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_ultra_stretch_olive_01/manual-whatsapp-01.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_ultra_stretch_olive_01/manual-whatsapp-02.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_ultra_stretch_olive_01/manual-whatsapp-03.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_ultra_stretch_olive_01/manual-whatsapp-04.jpg"
+    ]
+  },
+  "notes": "Cor confirmada pelo usuário como 57 OLIVE; item distinto da dark gray existente.",
+  "modelConfidence": "medium",
+  "gapOrRedundancy": null,
+  "ownership": "owned",
+  "tags": []
+}

@@ -74,5 +74,7 @@
   },
   "notes": "Batida; manter para uso bruto e preservar a navy.",
   "modelConfidence": "medium",
-  "gapOrRedundancy": "Beater item"
+  "gapOrRedundancy": "Beater item",
+  "ownership": "owned",
+  "tags": []
 }

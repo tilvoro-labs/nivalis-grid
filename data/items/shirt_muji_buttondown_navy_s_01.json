@@ -53,10 +53,20 @@
   "media": {
     "remoteImages": [],
     "sourceLinks": [],
-    "publicImages": [],
-    "publicImageUrls": []
+    "publicImages": [
+      "assets/shirt_muji_buttondown_navy_s_01/manual-whatsapp-01.jpg",
+      "assets/shirt_muji_buttondown_navy_s_01/manual-whatsapp-02.jpg",
+      "assets/shirt_muji_buttondown_navy_s_01/manual-whatsapp-03.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_muji_buttondown_navy_s_01/manual-whatsapp-01.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_muji_buttondown_navy_s_01/manual-whatsapp-02.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_muji_buttondown_navy_s_01/manual-whatsapp-03.jpg"
+    ]
   },
   "notes": "Camisa casual-profissional navy. Melhor fit que a UNIQLO Super Non-Iron M. Boa para cliente, jantar e layering.",
   "modelConfidence": "medium",
-  "gapOrRedundancy": "Provável melhor camisa social casual do módulo."
+  "gapOrRedundancy": "Provável melhor camisa social casual do módulo.",
+  "ownership": "owned",
+  "tags": []
 }

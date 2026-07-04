@@ -1,0 +1,68 @@
+{
+  "status": "owned",
+  "ownership": "owned",
+  "tags": [],
+  "brand": null,
+  "model": null,
+  "module": "Thermal Layering / Urban Core",
+  "subcategory": "Scarf",
+  "layerType": "Neck warmth accessory",
+  "size": null,
+  "color": "Xadrez preto/bege",
+  "materialTech": "Tecido de cachecol; composição não legível",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "low"
+  },
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": [],
+    "publicImages": [
+      "assets/scarf_plaid_black_beige_01/manual-whatsapp-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/scarf_plaid_black_beige_01/manual-whatsapp-01.jpg"
+    ]
+  },
+  "modelConfidence": "medium",
+  "gapOrRedundancy": null,
+  "id": "scarf_plaid_black_beige_01",
+  "name": "Cachecol xadrez preto/bege",
+  "category": "accessory",
+  "colorFamily": [
+    "neutral",
+    "graphic"
+  ],
+  "bestUse": [
+    "frio urbano",
+    "viagem fria",
+    "camada compacta de aquecimento",
+    "visual casual"
+  ],
+  "avoidUse": [
+    "calor",
+    "chuva forte",
+    "trilha técnica"
+  ],
+  "scores": {
+    "urban": 3,
+    "formal": 2,
+    "outdoor": 1,
+    "rain": 0.5,
+    "cold": 3.5,
+    "hot": 2,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 3.2,
+    "comfort": 3.5,
+    "style": 3,
+    "urbanTravel": 3.2,
+    "outdoorFinal": 1.5,
+    "travelPack": 3
+  },
+  "role": "Cachecol compacto para frio leve/moderado",
+  "purchaseAction": "Keep",
+  "priority": "medium",
+  "notes": "Dropbox inbox 2026-07-04: usuário tem há cerca de 10 anos; gosta por ser levemente compacto."
+}

@@ -74,5 +74,9 @@
   },
   "notes": "Compra candidata forte; melhor visual urbano que Alta Vista.",
   "modelConfidence": "medium",
-  "gapOrRedundancy": "Own not yet"
+  "gapOrRedundancy": "Own not yet",
+  "ownership": "not_owned",
+  "tags": [
+    "candidate_buy"
+  ]
 }

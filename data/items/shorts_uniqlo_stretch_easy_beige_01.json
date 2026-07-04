@@ -74,5 +74,9 @@
   },
   "notes": "Candidate buy de shorts para calor com proposta simples e versatil. Cor bege pode funcionar como alternativa neutra para travel e uso casual.",
   "modelConfidence": "high",
-  "gapOrRedundancy": "Pode sobrepor outros shorts casuais; validar ganho real versus os modelos tecnicos já catalogados."
+  "gapOrRedundancy": "Pode sobrepor outros shorts casuais; validar ganho real versus os modelos tecnicos já catalogados.",
+  "ownership": "not_owned",
+  "tags": [
+    "candidate_buy"
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "shell_tnf_alta_vista_blue_01",
-  "status": "archived",
+  "status": "owned",
   "name": "The North Face Alta Vista azul",
   "brand": "The North Face",
   "model": "Alta Vista Jacket",
@@ -52,6 +52,11 @@
       "label": "The North Face",
       "url": "https://www.thenorthface.com/en-us/p/shop-all/jackets-701295/mens-alta-vista-jacket-NF0A7QAW",
       "role": "product"
+    },
+    {
+      "label": "REI",
+      "url": "https://www.rei.com/product/236398/the-north-face-alta-vista-rain-jacket-mens",
+      "role": "retailer"
     }
   ],
   "media": {
@@ -61,12 +66,31 @@
         "label": "The North Face",
         "url": "https://www.thenorthface.com/en-us/p/shop-all/jackets-701295/mens-alta-vista-jacket-NF0A7QAW",
         "role": "product"
+      },
+      {
+        "label": "REI",
+        "url": "https://www.rei.com/product/236398/the-north-face-alta-vista-rain-jacket-mens",
+        "role": "retailer"
       }
     ],
-    "publicImages": [],
-    "publicImageUrls": []
+    "publicImages": [
+      "assets/shell_tnf_alta_vista_blue_01/manual-whatsapp-01.jpg",
+      "assets/shell_tnf_alta_vista_blue_01/manual-whatsapp-02.jpg",
+      "assets/shell_tnf_alta_vista_blue_01/manual-whatsapp-03.jpg",
+      "assets/shell_tnf_alta_vista_blue_01/manual-whatsapp-04.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shell_tnf_alta_vista_blue_01/manual-whatsapp-01.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shell_tnf_alta_vista_blue_01/manual-whatsapp-02.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shell_tnf_alta_vista_blue_01/manual-whatsapp-03.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shell_tnf_alta_vista_blue_01/manual-whatsapp-04.jpg"
+    ]
   },
-  "notes": "Técnica e compacta; azul chama atenção em uso urbano.",
+  "notes": "Técnica e compacta; azul chama atenção em uso urbano. WhatsApp inbox update: compact and technical, but user is unsure because bright blue is less versatile for urban use.",
   "modelConfidence": "high",
-  "gapOrRedundancy": "Cor chamativa"
+  "gapOrRedundancy": "Cor chamativa",
+  "ownership": "owned",
+  "tags": [
+    "maybe_replace"
+  ]
 }

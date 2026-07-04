@@ -1,0 +1,67 @@
+{
+  "id": "pants_renner_flannel_plaid_01",
+  "status": "owned",
+  "name": "Calça flanela xadrez Renner",
+  "brand": "Renner",
+  "model": null,
+  "module": "Sleep / Camp",
+  "category": "bottom",
+  "subcategory": "Sleep pants",
+  "layerType": "Bottom",
+  "size": null,
+  "color": "Xadrez escuro",
+  "colorFamily": [
+    "graphic"
+  ],
+  "materialTech": null,
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "unknown"
+  },
+  "bestUse": [
+    "pijama frio",
+    "acampamento frio",
+    "sono"
+  ],
+  "avoidUse": [
+    "travel pack ultraleve",
+    "cidade"
+  ],
+  "scores": {
+    "urban": 2,
+    "formal": 1,
+    "outdoor": 1,
+    "rain": 0.5,
+    "cold": 1,
+    "hot": 2,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 3,
+    "comfort": 3,
+    "style": 2,
+    "urbanTravel": 2.5,
+    "outdoorFinal": 1.5,
+    "travelPack": 2.5
+  },
+  "role": "Calça de pijama fria",
+  "purchaseAction": "Keep",
+  "priority": "medium",
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": [],
+    "publicImages": [
+      "assets/pants_renner_flannel_plaid_01/manual-whatsapp-01.jpg",
+      "assets/pants_renner_flannel_plaid_01/manual-whatsapp-02.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_renner_flannel_plaid_01/manual-whatsapp-01.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_renner_flannel_plaid_01/manual-whatsapp-02.jpg"
+    ]
+  },
+  "notes": "Volumosa, mas útil para pijama de inverno e acampamento frio.",
+  "modelConfidence": "medium",
+  "gapOrRedundancy": null,
+  "ownership": "owned",
+  "tags": []
+}

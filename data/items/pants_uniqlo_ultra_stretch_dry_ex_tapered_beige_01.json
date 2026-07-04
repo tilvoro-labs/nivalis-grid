@@ -74,5 +74,9 @@
   },
   "notes": "Candidato para versao mais tecnica e respiravel em tom bege, mantendo visual urbano limpo com silhueta tapered.",
   "modelConfidence": "high",
-  "gapOrRedundancy": "Pode duplicar funcao das Ultra Stretch atuais; validar se traz ganho real em conforto e secagem."
+  "gapOrRedundancy": "Pode duplicar funcao das Ultra Stretch atuais; validar se traz ganho real em conforto e secagem.",
+  "ownership": "not_owned",
+  "tags": [
+    "candidate_buy"
+  ]
 }

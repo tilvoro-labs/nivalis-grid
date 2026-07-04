@@ -82,5 +82,9 @@
   },
   "notes": "Melhor equilíbrio entre bota, trilha, chuva e urbanidade para seu perfil.",
   "modelConfidence": "high",
-  "gapOrRedundancy": "Expensive/import"
+  "gapOrRedundancy": "Expensive/import",
+  "ownership": "not_owned",
+  "tags": [
+    "candidate_buy"
+  ]
 }

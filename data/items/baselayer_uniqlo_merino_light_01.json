@@ -75,5 +75,7 @@
   },
   "notes": "Nao e merino: base HEATTECH sintetica com toque suave, elasticidade alta e conforto termico para camada interna em frio leve/moderado. Lavagem suave em maquina; sem dry clean.",
   "modelConfidence": "high",
-  "gapOrRedundancy": "Camada interna termica dedicada; pouca relevancia como peca externa."
+  "gapOrRedundancy": "Camada interna termica dedicada; pouca relevancia como peca externa.",
+  "ownership": "owned",
+  "tags": []
 }

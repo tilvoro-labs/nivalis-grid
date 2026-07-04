@@ -68,10 +68,18 @@
         "role": "product"
       }
     ],
-    "publicImages": [],
-    "publicImageUrls": []
+    "publicImages": [
+      "assets/pants_rei_sahara_convertible_taupe_01/manual-whatsapp-01.jpg",
+      "assets/pants_rei_sahara_convertible_taupe_01/manual-whatsapp-02.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_rei_sahara_convertible_taupe_01/manual-whatsapp-01.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_rei_sahara_convertible_taupe_01/manual-whatsapp-02.jpg"
+    ]
   },
   "notes": "Muito versátil funcionalmente; visual cargo/zipper técnico.",
   "modelConfidence": "high",
-  "gapOrRedundancy": "Pouco urbana"
+  "gapOrRedundancy": "Pouco urbana",
+  "ownership": "owned",
+  "tags": []
 }

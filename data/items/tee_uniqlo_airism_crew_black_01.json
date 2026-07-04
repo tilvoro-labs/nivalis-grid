@@ -75,5 +75,9 @@
   },
   "notes": "Comprar 1 para testar; pode substituir undershirt em usos mais visíveis.",
   "modelConfidence": "high",
-  "gapOrRedundancy": "Candidate basic technical tee"
+  "gapOrRedundancy": "Candidate basic technical tee",
+  "ownership": "not_owned",
+  "tags": [
+    "candidate_buy"
+  ]
 }

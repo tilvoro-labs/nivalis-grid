@@ -1,0 +1,63 @@
+{
+  "id": "tie_navy_social_01",
+  "status": "owned",
+  "name": "Gravata social navy",
+  "brand": null,
+  "model": null,
+  "module": "Formal / Social",
+  "category": "accessory",
+  "subcategory": "Tie",
+  "layerType": "Accessory",
+  "size": null,
+  "color": "Navy",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": null,
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "unknown"
+  },
+  "bestUse": [
+    "casamento",
+    "evento social"
+  ],
+  "avoidUse": [
+    "uso casual"
+  ],
+  "scores": {
+    "urban": 2,
+    "formal": 1,
+    "outdoor": 1,
+    "rain": 0.5,
+    "cold": 1,
+    "hot": 2,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 3,
+    "comfort": 3,
+    "style": 2,
+    "urbanTravel": 2.5,
+    "outdoorFinal": 1.5,
+    "travelPack": 2.5
+  },
+  "role": "Acessório social",
+  "purchaseAction": "Keep",
+  "priority": "medium",
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": [],
+    "publicImages": [
+      "assets/tie_navy_social_01/manual-whatsapp-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/tie_navy_social_01/manual-whatsapp-01.jpg"
+    ]
+  },
+  "notes": "Fotografada junto dos conjuntos sociais.",
+  "modelConfidence": "medium",
+  "gapOrRedundancy": null,
+  "ownership": "owned",
+  "tags": []
+}

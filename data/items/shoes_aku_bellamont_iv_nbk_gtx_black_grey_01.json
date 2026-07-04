@@ -82,5 +82,9 @@
   },
   "notes": "Melhor visual urbano discreto entre candidatos; low shoe com menos suporte que bota.",
   "modelConfidence": "medium",
-  "gapOrRedundancy": "Low shoe not boot"
+  "gapOrRedundancy": "Low shoe not boot",
+  "ownership": "not_owned",
+  "tags": [
+    "candidate_buy"
+  ]
 }

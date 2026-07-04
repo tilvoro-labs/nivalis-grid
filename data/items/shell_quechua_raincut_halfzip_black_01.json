@@ -69,5 +69,7 @@
   },
   "notes": "Muito compacta; meia abertura limita uso como shell principal.",
   "modelConfidence": "high",
-  "gapOrRedundancy": "Half zip limitation"
+  "gapOrRedundancy": "Half zip limitation",
+  "ownership": "owned",
+  "tags": []
 }

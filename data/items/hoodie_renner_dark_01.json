@@ -1,0 +1,65 @@
+{
+  "id": "hoodie_renner_dark_01",
+  "status": "owned",
+  "name": "Blusa de manga longa com touca Renner",
+  "brand": "Renner",
+  "model": null,
+  "module": "Casual / Comfort",
+  "category": "outerwear",
+  "subcategory": "Hoodie",
+  "layerType": "Mid layer",
+  "size": null,
+  "color": "Azul escuro / cinza escuro",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": null,
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "unknown"
+  },
+  "bestUse": [
+    "casual",
+    "frio leve",
+    "conforto"
+  ],
+  "avoidUse": [
+    "formal",
+    "travel pack muito leve"
+  ],
+  "scores": {
+    "urban": 2,
+    "formal": 1,
+    "outdoor": 1,
+    "rain": 0.5,
+    "cold": 1,
+    "hot": 2,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 3,
+    "comfort": 3,
+    "style": 2,
+    "urbanTravel": 2.5,
+    "outdoorFinal": 1.5,
+    "travelPack": 2.5
+  },
+  "role": "Hoodie casual",
+  "purchaseAction": "Keep",
+  "priority": "medium",
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": [],
+    "publicImages": [
+      "assets/hoodie_renner_dark_01/manual-whatsapp-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/hoodie_renner_dark_01/manual-whatsapp-01.jpg"
+    ]
+  },
+  "notes": "Comprada na Renner, conforme transcrição.",
+  "modelConfidence": "medium",
+  "gapOrRedundancy": null,
+  "ownership": "owned",
+  "tags": []
+}

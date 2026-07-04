@@ -82,5 +82,7 @@
   },
   "notes": "Provou funcionar em mochilão de 1 ano; estética outdoor.",
   "modelConfidence": "high",
-  "gapOrRedundancy": "Worn-only in travel pack"
+  "gapOrRedundancy": "Worn-only in travel pack",
+  "ownership": "owned",
+  "tags": []
 }

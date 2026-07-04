@@ -74,5 +74,9 @@
   },
   "notes": "Candidato para camada de protecao solar e secagem rapida em clima quente, com zip para ventilacao e uso urbano/ativo.",
   "modelConfidence": "high",
-  "gapOrRedundancy": "Pode sobrepor o uso do pocketable e de camisetas tecnicas dependendo do clima."
+  "gapOrRedundancy": "Pode sobrepor o uso do pocketable e de camisetas tecnicas dependendo do clima.",
+  "ownership": "not_owned",
+  "tags": [
+    "candidate_buy"
+  ]
 }

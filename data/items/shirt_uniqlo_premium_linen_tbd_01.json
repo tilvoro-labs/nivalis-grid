@@ -86,5 +86,9 @@
   },
   "notes": "Camisa de linho premium bestseller para clima quente, respiravel e com visual limpo para uso urbano/viagem. Cor final ainda a definir entre olive, green, navy ou natural.",
   "modelConfidence": "high",
-  "gapOrRedundancy": "Pode sobrepor camisas casuais atuais; ganho principal e conforto termico em calor com look arrumado."
+  "gapOrRedundancy": "Pode sobrepor camisas casuais atuais; ganho principal e conforto termico em calor com look arrumado.",
+  "ownership": "not_owned",
+  "tags": [
+    "candidate_buy"
+  ]
 }

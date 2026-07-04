@@ -73,5 +73,9 @@
   },
   "notes": "Candidato para ampliar rotacao de camada termica com cor preta mais facil de combinar.",
   "modelConfidence": "high",
-  "gapOrRedundancy": "Pode sobrepor o HEATTECH owned na cor cinza; foco e variacao de cor e rotacao."
+  "gapOrRedundancy": "Pode sobrepor o HEATTECH owned na cor cinza; foco e variacao de cor e rotacao.",
+  "ownership": "not_owned",
+  "tags": [
+    "candidate_buy"
+  ]
 }

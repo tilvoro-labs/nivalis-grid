@@ -1,0 +1,64 @@
+{
+  "id": "shirt_tailored_lilac_old_01",
+  "status": "owned",
+  "name": "Camisa social lilás clara alfaiataria antiga",
+  "brand": "Sob medida",
+  "model": null,
+  "module": "Formal / Social",
+  "category": "top",
+  "subcategory": "Dress shirt",
+  "layerType": "Shirt",
+  "size": null,
+  "color": "Lilás clara",
+  "colorFamily": [
+    "neutral"
+  ],
+  "materialTech": null,
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "unknown"
+  },
+  "bestUse": [
+    "evento social",
+    "terno antigo"
+  ],
+  "avoidUse": [
+    "uso casual frequente",
+    "viagem minimalista"
+  ],
+  "scores": {
+    "urban": 2,
+    "formal": 1,
+    "outdoor": 1,
+    "rain": 0.5,
+    "cold": 1,
+    "hot": 2,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 3,
+    "comfort": 3,
+    "style": 2,
+    "urbanTravel": 2.5,
+    "outdoorFinal": 1.5,
+    "travelPack": 2.5
+  },
+  "role": "Camisa social antiga",
+  "purchaseAction": "Keep",
+  "priority": "medium",
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": [],
+    "publicImages": [
+      "assets/shirt_tailored_lilac_old_01/manual-whatsapp-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_tailored_lilac_old_01/manual-whatsapp-01.jpg"
+    ]
+  },
+  "notes": "Pode estar manchada; usuário pretende mandar lavar.",
+  "modelConfidence": "medium",
+  "gapOrRedundancy": null,
+  "ownership": "owned",
+  "tags": []
+}

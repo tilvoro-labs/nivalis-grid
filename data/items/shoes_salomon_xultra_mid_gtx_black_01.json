@@ -74,5 +74,9 @@
   },
   "notes": "Melhor tecnicamente, pior para visual urbano.",
   "modelConfidence": "medium",
-  "gapOrRedundancy": "Technical visual"
+  "gapOrRedundancy": "Technical visual",
+  "ownership": "archived",
+  "tags": [
+    "archived"
+  ]
 }

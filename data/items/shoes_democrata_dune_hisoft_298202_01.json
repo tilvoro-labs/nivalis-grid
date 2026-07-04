@@ -79,5 +79,7 @@
   },
   "notes": "Pode ser redundante com CNS em alguns eventos, mas mais descontraído.",
   "modelConfidence": "medium",
-  "gapOrRedundancy": "Social redundancy"
+  "gapOrRedundancy": "Social redundancy",
+  "ownership": "owned",
+  "tags": []
 }

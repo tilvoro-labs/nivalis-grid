@@ -1,6 +1,6 @@
 {
   "id": "shorts_nike_running_01",
-  "status": "owned",
+  "status": "archived",
   "name": "Shorts Nike de corrida",
   "brand": "Nike",
   "model": "Running shorts",
@@ -79,7 +79,11 @@
       "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shorts_nike_running_01/online-03.jpg"
     ]
   },
-  "notes": "Leve e fácil de carregar; pouco stylish.",
+  "notes": "Leve e fácil de carregar; pouco stylish. Archived per WhatsApp inbox: user said this Nike shorts is old, ripped, and should be archived.",
   "modelConfidence": "low",
-  "gapOrRedundancy": "Low style"
+  "gapOrRedundancy": "Low style",
+  "ownership": "archived",
+  "tags": [
+    "archived"
+  ]
 }
