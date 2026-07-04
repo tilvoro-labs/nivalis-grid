@@ -52,10 +52,20 @@
   "media": {
     "remoteImages": [],
     "sourceLinks": [],
-    "publicImages": [],
-    "publicImageUrls": []
+    "publicImages": [
+      "assets/sneaker_velluti_everyday_brown_01/manual-01.jpg",
+      "assets/sneaker_velluti_everyday_brown_01/manual-02.jpg",
+      "assets/sneaker_velluti_everyday_brown_01/manual-detail-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/sneaker_velluti_everyday_brown_01/manual-01.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/sneaker_velluti_everyday_brown_01/manual-02.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/sneaker_velluti_everyday_brown_01/manual-detail-01.jpg"
+    ]
   },
-  "notes": "Sapatênis/sneaker com zíper lateral, cadarço elástico e sola branca. Foi o calçado testado nos looks.",
+  "notes": "Sapatênis/sneaker marrom escuro Velluti com zíper lateral, cadarço elástico, painel lateral em tom marrom médio e sola branca. Merge do item duplicado anteriormente catalogado como Pegada.",
   "modelConfidence": "medium",
-  "gapOrRedundancy": "Pode sobrepor com Pegada; validar conforto e função."
+  "gapOrRedundancy": "Item Pegada removido como duplicata; validar conforto e função como único sapatênis marrom casual.",
+  "ownership": "owned",
+  "tags": []
 }

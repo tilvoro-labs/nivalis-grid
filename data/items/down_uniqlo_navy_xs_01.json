@@ -66,13 +66,17 @@
       }
     ],
     "publicImages": [
+      "assets/down_uniqlo_navy_xs_01/manual-whatsapp-01.jpg",
       "assets/down_uniqlo_navy_xs_01/manual-01.jpg"
     ],
     "publicImageUrls": [
-      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/down_uniqlo_navy_xs_01/manual-01.jpg"
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/down_uniqlo_navy_xs_01/manual-whatsapp-01.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/down_uniqlo_navy_xs_01/manual-01.jpg"
     ]
   },
   "notes": "Melhor caimento; preservar mais que a cinza.",
   "modelConfidence": "medium",
-  "gapOrRedundancy": "Protected item"
+  "gapOrRedundancy": "Protected item",
+  "ownership": "owned",
+  "tags": []
 }

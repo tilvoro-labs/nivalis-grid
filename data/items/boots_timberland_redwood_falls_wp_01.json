@@ -70,5 +70,9 @@
   },
   "notes": "Mais urbana que Mt. Maddsen; menos premium que Danner/AKU.",
   "modelConfidence": "medium",
-  "gapOrRedundancy": "Potential overlap"
+  "gapOrRedundancy": "Potential overlap",
+  "ownership": "archived",
+  "tags": [
+    "archived"
+  ]
 }

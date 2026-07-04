@@ -70,10 +70,12 @@
       "assets/shirt_muji_brown_s_01/manual-01.jpg"
     ],
     "publicImageUrls": [
-      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_muji_brown_s_01/manual-01.jpg"
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shirt_muji_brown_s_01/manual-01.jpg"
     ]
   },
   "notes": "Flanela 100% algodao com toque macio interno e externo. Regular fit bom para layering: pode usar aberta como sobrecamisa leve ou fechada como camisa. Boa para ambientes internos e clima ameno/frio leve.",
   "modelConfidence": "high",
-  "gapOrRedundancy": "Fit regular pode parecer amplo dependendo da composicao; peca focada em conforto e versatilidade casual."
+  "gapOrRedundancy": "Fit regular pode parecer amplo dependendo da composicao; peca focada em conforto e versatilidade casual.",
+  "ownership": "owned",
+  "tags": []
 }

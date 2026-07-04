@@ -1,0 +1,68 @@
+{
+  "status": "owned",
+  "ownership": "owned",
+  "tags": [],
+  "brand": "On Deck",
+  "model": "Company long sleeve shirt",
+  "module": "Casual / Work",
+  "subcategory": "Long sleeve T-shirt",
+  "layerType": "Casual base top",
+  "size": null,
+  "color": "Azul escuro / navy",
+  "materialTech": "Tecido de camiseta manga longa; composição não legível",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "low"
+  },
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": [],
+    "publicImages": [
+      "assets/tshirt_ondeck_longsleeve_navy_01/manual-whatsapp-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/tshirt_ondeck_longsleeve_navy_01/manual-whatsapp-01.jpg"
+    ]
+  },
+  "modelConfidence": "medium",
+  "gapOrRedundancy": "Uso externo limitado por logo corporativo.",
+  "id": "tshirt_ondeck_longsleeve_navy_01",
+  "name": "On Deck camiseta manga longa azul escura",
+  "category": "top",
+  "colorFamily": [
+    "dark",
+    "neutral"
+  ],
+  "bestUse": [
+    "casa",
+    "home office",
+    "frio leve",
+    "camada casual"
+  ],
+  "avoidUse": [
+    "cliente",
+    "formal",
+    "cápsula minimalista externa"
+  ],
+  "scores": {
+    "urban": 2.2,
+    "formal": 0.5,
+    "outdoor": 1,
+    "rain": 0.5,
+    "cold": 2,
+    "hot": 2,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 3,
+    "comfort": 3.5,
+    "style": 2,
+    "urbanTravel": 2.4,
+    "outdoorFinal": 1.5,
+    "travelPack": 2.7
+  },
+  "role": "Manga longa casual/corporativa On Deck para casa e home office",
+  "purchaseAction": "Keep",
+  "priority": "low",
+  "notes": "Dropbox inbox 2026-07-04: camiseta/camisa manga longa On Deck; útil em casa ou home office quando está um pouco frio."
+}

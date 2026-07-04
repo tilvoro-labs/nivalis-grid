@@ -1,0 +1,67 @@
+{
+  "status": "owned",
+  "ownership": "owned",
+  "tags": [],
+  "brand": null,
+  "model": null,
+  "module": "Thermal Layering / Active",
+  "subcategory": "Base layer",
+  "layerType": "Base layer top",
+  "size": null,
+  "color": "Preta",
+  "materialTech": "Tecido leve de segunda pele; composição não legível",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "low"
+  },
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": [],
+    "publicImages": [
+      "assets/baselayer_longsleeve_black_01/manual-whatsapp-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/baselayer_longsleeve_black_01/manual-whatsapp-01.jpg"
+    ]
+  },
+  "modelConfidence": "medium",
+  "gapOrRedundancy": "Pode ser substituída por uma preta similar mais nova.",
+  "id": "baselayer_longsleeve_black_01",
+  "name": "Second skin preta manga longa",
+  "category": "top",
+  "colorFamily": [
+    "dark"
+  ],
+  "bestUse": [
+    "camada de base",
+    "frio leve",
+    "sol",
+    "academia",
+    "viagem compacta"
+  ],
+  "avoidUse": [
+    "cliente",
+    "uso visível quando aparência gasta importar"
+  ],
+  "scores": {
+    "urban": 2.2,
+    "formal": 0.5,
+    "outdoor": 2.5,
+    "rain": 0.5,
+    "cold": 2.5,
+    "hot": 2.5,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 4,
+    "comfort": 3.5,
+    "style": 2,
+    "urbanTravel": 2.8,
+    "outdoorFinal": 2.4,
+    "travelPack": 3.2
+  },
+  "role": "Base layer preta leve e compacta",
+  "purchaseAction": "Keep / consider replacement",
+  "priority": "medium",
+  "notes": "Dropbox inbox 2026-07-04: peça antiga comprada nos EUA, única preta nesse estilo. Boa como base layer, para sol ou academia; já está bem gasta, mas leve e compacta."
+}

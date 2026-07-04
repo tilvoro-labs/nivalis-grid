@@ -52,10 +52,16 @@
   "media": {
     "remoteImages": [],
     "sourceLinks": [],
-    "publicImages": [],
-    "publicImageUrls": []
+    "publicImages": [
+      "assets/shirt_uniqlo_super_non_iron_slim_navy_01/manual-whatsapp-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shirt_uniqlo_super_non_iron_slim_navy_01/manual-whatsapp-01.jpg"
+    ]
   },
   "notes": "Camisa social/corporativa navy. Gola com botões, bolso no peito. Fit parece mais amplo/alongado que a MUJI navy.",
   "modelConfidence": "medium",
-  "gapOrRedundancy": "Boa ponte formal, mas fit possivelmente amplo."
+  "gapOrRedundancy": "Boa ponte formal, mas fit possivelmente amplo.",
+  "ownership": "owned",
+  "tags": []
 }

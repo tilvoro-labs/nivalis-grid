@@ -69,10 +69,14 @@
       "assets/pants_uniqlo_ultra_stretch_active_jogger_darkgrey_01/manual-01.jpg"
     ],
     "publicImageUrls": [
-      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_ultra_stretch_active_jogger_darkgrey_01/manual-01.jpg"
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/pants_uniqlo_ultra_stretch_active_jogger_darkgrey_01/manual-01.jpg"
     ]
   },
   "notes": "Candidato para possivel troca do Ultra Stretch Active Jogger Pants atual visando ficar mais adequado para academia. Ainda ha duvida porque o jogger bege atual complementa bem a Ultra Stretch Pants cinza escuro; essa troca faz mais sentido se entrar tambem uma Ultra Stretch Pants bege (ja no catalogo).",
   "modelConfidence": "high",
-  "gapOrRedundancy": "Pode sobrepor o jogger bege atual; decisao depende da composicao final com a calca Ultra Stretch bege."
+  "gapOrRedundancy": "Pode sobrepor o jogger bege atual; decisao depende da composicao final com a calca Ultra Stretch bege.",
+  "ownership": "not_owned",
+  "tags": [
+    "candidate_buy"
+  ]
 }

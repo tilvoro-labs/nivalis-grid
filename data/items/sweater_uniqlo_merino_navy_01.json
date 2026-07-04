@@ -1,0 +1,85 @@
+{
+  "id": "sweater_uniqlo_merino_navy_01",
+  "status": "owned",
+  "name": "UNIQLO Merino Sweater navy",
+  "brand": "UNIQLO",
+  "model": "Merino Sweater (Product ID 486058 / 478535)",
+  "module": "Urban Core",
+  "category": "top",
+  "subcategory": "Knitwear",
+  "layerType": "Base-mid visible",
+  "size": "MEN S",
+  "color": "NAVY",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": "19.5 micron extra-fine 100% Merino wool; machine-washable; pilling-resistant",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "medium"
+  },
+  "bestUse": [
+    "Dia a dia",
+    "home office",
+    "frio leve",
+    "cidade",
+    "videochamada"
+  ],
+  "avoidUse": [
+    "Trilha pesada",
+    "mochila abrasiva"
+  ],
+  "scores": {
+    "urban": 4,
+    "formal": 3.5,
+    "outdoor": 1.5,
+    "rain": 0.5,
+    "cold": 2.5,
+    "hot": 1.5,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 3.5,
+    "comfort": 4,
+    "style": 4,
+    "urbanTravel": 3.8,
+    "outdoorFinal": 1.6,
+    "travelPack": 3.9
+  },
+  "role": "Sueter versatil para camada urbana de frio leve",
+  "purchaseAction": "Keep",
+  "priority": "high",
+  "sourceLinks": [
+    {
+      "label": "UNIQLO",
+      "url": "https://www.uniqlo.com/us/en/products/E450535-000/00?colorDisplayCode=69&sizeDisplayCode=003",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [
+      "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/450535/item/usgoods_69_450535_3x4.jpg?width=400",
+      "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/450535/feature/usgoods_450535_feature1.jpg",
+      "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/450535/feature/usgoods_450535_feature2.jpg",
+      "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/450535/feature/usgoods_450535_feature3.jpg",
+      "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/450535/feature/usgoods_450535_feature4.jpg"
+    ],
+    "sourceLinks": [
+      {
+        "label": "UNIQLO",
+        "url": "https://www.uniqlo.com/us/en/products/E450535-000/00?colorDisplayCode=69&sizeDisplayCode=003",
+        "role": "product"
+      }
+    ],
+    "publicImages": [
+      "assets/sweater_uniqlo_merino_navy_01/manual-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/sweater_uniqlo_merino_navy_01/manual-01.jpg"
+    ]
+  },
+  "notes": "Design simples e versatil para uso urbano. La merino extra-fina com toque suave e brilho discreto; mantem conforto termico e respirabilidade. Lavavel em maquina (ciclo suave, ideal lavar do avesso em saco) com tratamento anti-pilling.",
+  "modelConfidence": "high",
+  "gapOrRedundancy": "Peca de la exige cuidado extra com umidade e friccao; pode ter odor quando molhada ate secar.",
+  "ownership": "owned",
+  "tags": []
+}

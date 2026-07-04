@@ -1,0 +1,66 @@
+{
+  "status": "owned",
+  "ownership": "owned",
+  "tags": [],
+  "brand": null,
+  "model": null,
+  "module": "Bike/Active",
+  "subcategory": "Cycling shorts",
+  "layerType": "Padded active bottom",
+  "size": null,
+  "color": "Preto",
+  "materialTech": "Tecido sintético esportivo; possui enchimento/forro para ciclismo",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "low"
+  },
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": [],
+    "publicImages": [
+      "assets/shorts_cycling_padded_black_01/manual-whatsapp-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shorts_cycling_padded_black_01/manual-whatsapp-01.jpg"
+    ]
+  },
+  "modelConfidence": "medium",
+  "gapOrRedundancy": "Muito específico para bike.",
+  "id": "shorts_cycling_padded_black_01",
+  "name": "Shorts de ciclismo preto com forro",
+  "category": "bottom",
+  "colorFamily": [
+    "dark"
+  ],
+  "bestUse": [
+    "ciclismo",
+    "cicloturismo",
+    "pedal urbano longo"
+  ],
+  "avoidUse": [
+    "uso social",
+    "trilha a pé",
+    "viagem urbana sem bike"
+  ],
+  "scores": {
+    "urban": 1.5,
+    "formal": 0.5,
+    "outdoor": 2.5,
+    "rain": 0.5,
+    "cold": 1,
+    "hot": 3,
+    "bike": 4.5,
+    "water": 0.5,
+    "packability": 3.5,
+    "comfort": 3.8,
+    "style": 1.5,
+    "urbanTravel": 2,
+    "outdoorFinal": 2.3,
+    "travelPack": 2.8
+  },
+  "role": "Shorts específico para bike que parece shorts normal",
+  "purchaseAction": "Keep",
+  "priority": "medium",
+  "notes": "Dropbox inbox 2026-07-04: shorts de ciclismo com enchimento que disfarça bem e parece shorts normal."
+}

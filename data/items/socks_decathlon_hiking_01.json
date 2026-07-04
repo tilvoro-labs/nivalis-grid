@@ -55,11 +55,7 @@
     }
   ],
   "media": {
-    "remoteImages": [
-      "https://decathlonstore.vteximg.com.br/arquivos/logo_og.png",
-      "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/6f083146-b23c-4b9b-8fa4-a4dffe4d7ff3___9edc794483d3b3969f2730041a90c1e5.png",
-      "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/034d70be-8d99-4e8c-9e5b-64f1de9b852f___c0000f3324659e3c6572ee8f200b01c5.png"
-    ],
+    "remoteImages": [],
     "sourceLinks": [
       {
         "label": "Decathlon",
@@ -68,17 +64,15 @@
       }
     ],
     "publicImages": [
-      "assets/socks_decathlon_hiking_01/online-01.jpg",
-      "assets/socks_decathlon_hiking_01/online-02.jpg",
-      "assets/socks_decathlon_hiking_01/online-03.jpg"
+      "assets/socks_decathlon_hiking_01/manual-whatsapp-01.jpg"
     ],
     "publicImageUrls": [
-      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/socks_decathlon_hiking_01/online-01.jpg",
-      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/socks_decathlon_hiking_01/online-02.jpg",
-      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/socks_decathlon_hiking_01/online-03.jpg"
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/socks_decathlon_hiking_01/manual-whatsapp-01.jpg"
     ]
   },
   "notes": "Essenciais com Timberland e trilhas.",
   "modelConfidence": "low",
-  "gapOrRedundancy": "Specialized socks"
+  "gapOrRedundancy": "Specialized socks",
+  "ownership": "owned",
+  "tags": []
 }

@@ -1,0 +1,68 @@
+{
+  "id": "shorts_black_gym_01",
+  "status": "owned",
+  "name": "Shorts preto de academia",
+  "brand": null,
+  "model": null,
+  "module": "Bike/Active",
+  "category": "bottom",
+  "subcategory": "Active shorts",
+  "layerType": "Active bottom",
+  "size": null,
+  "color": "Preto",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": null,
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "unknown"
+  },
+  "bestUse": [
+    "academia",
+    "pijama quente",
+    "piscina improvisada",
+    "viagem"
+  ],
+  "avoidUse": [
+    "smart casual",
+    "evento social"
+  ],
+  "scores": {
+    "urban": 2,
+    "formal": 1,
+    "outdoor": 1,
+    "rain": 0.5,
+    "cold": 1,
+    "hot": 2,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 3,
+    "comfort": 3,
+    "style": 2,
+    "urbanTravel": 2.5,
+    "outdoorFinal": 1.5,
+    "travelPack": 2.5
+  },
+  "role": "Shorts ativo atual",
+  "purchaseAction": "Keep",
+  "priority": "high",
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": [],
+    "publicImages": [
+      "assets/shorts_black_gym_01/manual-whatsapp-01.jpg",
+      "assets/shorts_black_gym_01/manual-whatsapp-02.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shorts_black_gym_01/manual-whatsapp-01.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shorts_black_gym_01/manual-whatsapp-02.jpg"
+    ]
+  },
+  "notes": "Usuário diz que é compacto e versátil; substitui o shorts Nike antigo rasgado.",
+  "modelConfidence": "medium",
+  "gapOrRedundancy": null,
+  "ownership": "owned",
+  "tags": []
+}

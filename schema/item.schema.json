@@ -5,6 +5,8 @@
   "required": [
     "id",
     "status",
+    "ownership",
+    "tags",
     "name",
     "category",
     "colorFamily",
@@ -25,6 +27,24 @@
         "trip_specific",
         "archived"
       ]
+    },
+    "ownership": {
+      "type": "string",
+      "enum": ["owned", "not_owned", "archived"]
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "archived",
+          "buy_more",
+          "candidate_buy",
+          "maybe_replace",
+          "trip_specific"
+        ]
+      },
+      "uniqueItems": true
     },
     "name": { "type": "string", "minLength": 1 },
     "brand": { "type": ["string", "null"] },

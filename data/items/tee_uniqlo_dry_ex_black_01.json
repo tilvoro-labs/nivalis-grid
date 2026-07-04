@@ -74,10 +74,14 @@
       "assets/tee_uniqlo_dry_ex_black_01/manual-01.jpg"
     ],
     "publicImageUrls": [
-      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/tee_uniqlo_dry_ex_black_01/manual-01.jpg"
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/tee_uniqlo_dry_ex_black_01/manual-01.jpg"
     ]
   },
   "notes": "Camiseta regular fit com DRY-EX de secagem rapida, malha respiravel nas laterais e centro das costas, tecido suave com brilho discreto e design com poucas costuras aparentes. Boa para dias ativos, calor, viagem e uso urbano casual.",
   "modelConfidence": "high",
-  "gapOrRedundancy": "Pode competir com outras camisetas tecnicas pretas; validar caimento e sensacao no uso real."
+  "gapOrRedundancy": "Pode competir com outras camisetas tecnicas pretas; validar caimento e sensacao no uso real.",
+  "ownership": "not_owned",
+  "tags": [
+    "candidate_buy"
+  ]
 }

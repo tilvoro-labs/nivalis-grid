@@ -1,0 +1,65 @@
+{
+  "id": "fleece_uniqlo_green_halfzip_01",
+  "status": "owned",
+  "name": "Fleece UNIQLO verde meio zíper",
+  "brand": "UNIQLO",
+  "model": null,
+  "module": "Thermal Layering",
+  "category": "outerwear",
+  "subcategory": "Fleece",
+  "layerType": "Mid layer",
+  "size": null,
+  "color": "Verde",
+  "colorFamily": [
+    "earth"
+  ],
+  "materialTech": null,
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "unknown"
+  },
+  "bestUse": [
+    "frio leve",
+    "camada térmica",
+    "viagem casual"
+  ],
+  "avoidUse": [
+    "formal",
+    "calor"
+  ],
+  "scores": {
+    "urban": 2,
+    "formal": 1,
+    "outdoor": 1,
+    "rain": 0.5,
+    "cold": 1,
+    "hot": 2,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 3,
+    "comfort": 3,
+    "style": 2,
+    "urbanTravel": 2.5,
+    "outdoorFinal": 1.5,
+    "travelPack": 2.5
+  },
+  "role": "Fleece meio zíper",
+  "purchaseAction": "Keep",
+  "priority": "medium",
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": [],
+    "publicImages": [
+      "assets/fleece_uniqlo_green_halfzip_01/manual-whatsapp-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/fleece_uniqlo_green_halfzip_01/manual-whatsapp-01.jpg"
+    ]
+  },
+  "notes": "Transcrição diz que não abre todo.",
+  "modelConfidence": "medium",
+  "gapOrRedundancy": null,
+  "ownership": "owned",
+  "tags": []
+}

@@ -69,10 +69,14 @@
       "assets/dry_ex_uv_hoodie_uniqlo_grey_01/manual-01.jpg"
     ],
     "publicImageUrls": [
-      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/dry_ex_uv_hoodie_uniqlo_grey_01/manual-01.jpg"
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/dry_ex_uv_hoodie_uniqlo_grey_01/manual-01.jpg"
     ]
   },
   "notes": "Candidato para camada de protecao solar e secagem rapida em clima quente, com zip para ventilacao e uso urbano/ativo.",
   "modelConfidence": "high",
-  "gapOrRedundancy": "Pode sobrepor o uso do pocketable e de camisetas tecnicas dependendo do clima."
+  "gapOrRedundancy": "Pode sobrepor o uso do pocketable e de camisetas tecnicas dependendo do clima.",
+  "ownership": "not_owned",
+  "tags": [
+    "candidate_buy"
+  ]
 }

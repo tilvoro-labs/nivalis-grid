@@ -1,0 +1,81 @@
+{
+  "id": "shoes_democrata_dune_hisoft_298201_black_01",
+  "status": "owned",
+  "name": "Democrata Dune Hi-Soft 32 preto",
+  "brand": "Democrata",
+  "model": "Dune Hi-Soft 32 298201-001",
+  "module": "Formal/Social",
+  "category": "footwear",
+  "subcategory": "Smart casual derby",
+  "layerType": "Footwear",
+  "size": null,
+  "color": "Preto com sola marrom e faixa clara",
+  "colorFamily": [
+    "dark",
+    "earth"
+  ],
+  "materialTech": "Couro",
+  "weight": {
+    "estimatedGrams": 840,
+    "confidence": "medium"
+  },
+  "bestUse": [
+    "Casamentos",
+    "eventos formais menos rígidos",
+    "social descolado"
+  ],
+  "avoidUse": [
+    "Trilha",
+    "chuva",
+    "viagem minimalista"
+  ],
+  "scores": {
+    "urban": 3.5,
+    "formal": 4,
+    "outdoor": 0,
+    "rain": 0.5,
+    "cold": 1,
+    "hot": 1,
+    "bike": 0,
+    "water": 0,
+    "packability": 0.5,
+    "comfort": 4,
+    "style": 4,
+    "urbanTravel": 3.2,
+    "outdoorFinal": 0.9,
+    "travelPack": 3
+  },
+  "role": "Social descontraído",
+  "purchaseAction": "Keep",
+  "priority": "medium",
+  "sourceLinks": [
+    {
+      "label": "Democrata product page",
+      "url": "https://www.democrata.com.br/sapato-masculino-dune-hi-soft-32-preto298201-001/p?idsku=17474",
+      "role": "product"
+    }
+  ],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": [
+      {
+        "label": "Democrata product page",
+        "url": "https://www.democrata.com.br/sapato-masculino-dune-hi-soft-32-preto298201-001/p?idsku=17474",
+        "role": "product"
+      }
+    ],
+    "publicImages": [
+      "assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg",
+      "assets/shoes_democrata_dune_hisoft_298201_black_01/official-02.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shoes_democrata_dune_hisoft_298201_black_01/official-02.jpg"
+    ]
+  },
+  "notes": "Pode ser redundante com CNS em alguns eventos, mas mais descontraído. Imagens corrigidas para o sapato Democrata Dune Hi-Soft 32 preto, referência 298201-001, removendo fotos inconsistentes de bota/outro modelo.",
+  "modelConfidence": "medium",
+  "gapOrRedundancy": "Social redundancy",
+  "ownership": "owned",
+  "tags": []
+}

@@ -1,6 +1,6 @@
 {
   "id": "tee_uniqlo_dry_color_black_xs_01",
-  "status": "owned_buy_more",
+  "status": "owned",
   "name": "UNIQLO DRY Color T-Shirt preta",
   "brand": "UNIQLO",
   "model": "DRY Color T-Shirt",
@@ -70,10 +70,14 @@
       "assets/tee_uniqlo_dry_color_black_xs_01/manual-01.jpg"
     ],
     "publicImageUrls": [
-      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/tee_uniqlo_dry_color_black_xs_01/manual-01.jpg"
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/tee_uniqlo_dry_color_black_xs_01/manual-01.jpg"
     ]
   },
   "notes": "Ótima para visual programador; comprar várias se o caimento atual for consistente.",
   "modelConfidence": "high",
-  "gapOrRedundancy": "Cotton blend, não técnica pura"
+  "gapOrRedundancy": "Cotton blend, não técnica pura",
+  "ownership": "owned",
+  "tags": [
+    "buy_more"
+  ]
 }

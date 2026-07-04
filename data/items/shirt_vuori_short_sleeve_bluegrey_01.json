@@ -52,10 +52,16 @@
   "media": {
     "remoteImages": [],
     "sourceLinks": [],
-    "publicImages": [],
-    "publicImageUrls": []
+    "publicImages": [
+      "assets/shirt_vuori_short_sleeve_bluegrey_01/manual-whatsapp-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shirt_vuori_short_sleeve_bluegrey_01/manual-whatsapp-01.jpg"
+    ]
   },
-  "notes": "Você confirmou que é Vuori. Boa para calor, passeio e cliente casual.",
+  "notes": "Você confirmou que é Vuori. Boa para calor, passeio e cliente casual. WhatsApp inbox: user reads color as greener than the existing blue-gray description; may need fit adjustment at bottom hem for Alpha Yacht-style looks.",
   "modelConfidence": "medium",
-  "gapOrRedundancy": "Boa peça quente com ponte casual/cliente."
+  "gapOrRedundancy": "Boa peça quente com ponte casual/cliente.",
+  "ownership": "owned",
+  "tags": []
 }

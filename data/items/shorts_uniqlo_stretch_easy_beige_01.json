@@ -69,10 +69,14 @@
       "assets/shorts_uniqlo_stretch_easy_beige_01/manual-01.jpg"
     ],
     "publicImageUrls": [
-      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shorts_uniqlo_stretch_easy_beige_01/manual-01.jpg"
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shorts_uniqlo_stretch_easy_beige_01/manual-01.jpg"
     ]
   },
   "notes": "Candidate buy de shorts para calor com proposta simples e versatil. Cor bege pode funcionar como alternativa neutra para travel e uso casual.",
   "modelConfidence": "high",
-  "gapOrRedundancy": "Pode sobrepor outros shorts casuais; validar ganho real versus os modelos tecnicos já catalogados."
+  "gapOrRedundancy": "Pode sobrepor outros shorts casuais; validar ganho real versus os modelos tecnicos já catalogados.",
+  "ownership": "not_owned",
+  "tags": [
+    "candidate_buy"
+  ]
 }

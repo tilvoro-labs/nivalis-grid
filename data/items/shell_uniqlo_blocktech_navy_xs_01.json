@@ -69,10 +69,14 @@
       "assets/shell_uniqlo_blocktech_navy_xs_01/manual-01.jpg"
     ],
     "publicImageUrls": [
-      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shell_uniqlo_blocktech_navy_xs_01/manual-01.jpg"
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shell_uniqlo_blocktech_navy_xs_01/manual-01.jpg"
     ]
   },
   "notes": "Compra candidata forte; melhor visual urbano que Alta Vista.",
   "modelConfidence": "medium",
-  "gapOrRedundancy": "Own not yet"
+  "gapOrRedundancy": "Own not yet",
+  "ownership": "not_owned",
+  "tags": [
+    "candidate_buy"
+  ]
 }

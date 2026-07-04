@@ -1,6 +1,6 @@
 {
   "id": "jersey_vale_europeu_longsleeve_fullzip_01",
-  "status": "archived",
+  "status": "owned",
   "name": "Jersey manga longa Vale Europeu",
   "brand": "Evento / Vale Europeu",
   "model": "Jersey cicloturismo",
@@ -52,10 +52,16 @@
   "media": {
     "remoteImages": [],
     "sourceLinks": [],
-    "publicImages": [],
-    "publicImageUrls": []
+    "publicImages": [
+      "assets/jersey_vale_europeu_longsleeve_fullzip_01/manual-whatsapp-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/jersey_vale_europeu_longsleeve_fullzip_01/manual-whatsapp-01.jpg"
+    ]
   },
-  "notes": "Muito funcional; visual chamativo e repetitivo em fotos.",
+  "notes": "Muito funcional; visual chamativo e repetitivo em fotos. Dropbox inbox 2026-07-04: reactivated because user still likes and uses it for biking/trails despite flashy look; zipper and sun protection are useful.",
   "modelConfidence": "medium",
-  "gapOrRedundancy": "Graphic penalty"
+  "gapOrRedundancy": "Graphic penalty",
+  "ownership": "owned",
+  "tags": []
 }

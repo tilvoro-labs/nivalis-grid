@@ -68,10 +68,14 @@
       "assets/heattech_crew_neck_longsleeve_black_uniqlo_01/manual-01.jpg"
     ],
     "publicImageUrls": [
-      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/heattech_crew_neck_longsleeve_black_uniqlo_01/manual-01.jpg"
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/heattech_crew_neck_longsleeve_black_uniqlo_01/manual-01.jpg"
     ]
   },
   "notes": "Candidato para ampliar rotacao de camada termica com cor preta mais facil de combinar.",
   "modelConfidence": "high",
-  "gapOrRedundancy": "Pode sobrepor o HEATTECH owned na cor cinza; foco e variacao de cor e rotacao."
+  "gapOrRedundancy": "Pode sobrepor o HEATTECH owned na cor cinza; foco e variacao de cor e rotacao.",
+  "ownership": "not_owned",
+  "tags": [
+    "candidate_buy"
+  ]
 }

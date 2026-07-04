@@ -51,36 +51,32 @@
   "priority": "high",
   "sourceLinks": [
     {
-      "label": "AKU",
+      "label": "AKU product reference",
       "url": "https://www.aku.com/",
       "role": "product"
     }
   ],
   "media": {
-    "remoteImages": [
-      "http://www.aku.com/cdn/shop/files/Scarpe_da_escursionismo_AKU.jpg?v=1773670450&width=2048",
-      "https://www.aku.com/cdn/shop/files/Scarpe_da_escursionismo_AKU.jpg?v=1773670450&width=2048",
-      "https://www.aku.com/cdn/shop/files/Scarpe_da_escursionismo_AKU.jpg?crop=center&height=1200&v=1773670450&width=1200"
-    ],
+    "remoteImages": [],
     "sourceLinks": [
       {
-        "label": "AKU",
+        "label": "AKU product reference",
         "url": "https://www.aku.com/",
         "role": "product"
       }
     ],
     "publicImages": [
-      "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-01.jpg",
-      "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-02.jpg",
-      "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-03.jpg"
+      "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/official-01.jpg"
     ],
     "publicImageUrls": [
-      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-01.jpg",
-      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-02.jpg",
-      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-03.jpg"
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/official-01.jpg"
     ]
   },
-  "notes": "Melhor visual urbano discreto entre candidatos; low shoe com menos suporte que bota.",
+  "notes": "Melhor visual urbano discreto entre candidatos; low shoe com menos suporte que bota. Foto corrigida para imagem específica do Bellamont IV NBK GTX Nero-Grigio em vez de imagem genérica de paisagem/brand.",
   "modelConfidence": "medium",
-  "gapOrRedundancy": "Low shoe not boot"
+  "gapOrRedundancy": "Low shoe not boot",
+  "ownership": "not_owned",
+  "tags": [
+    "candidate_buy"
+  ]
 }

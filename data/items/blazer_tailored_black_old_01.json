@@ -1,0 +1,64 @@
+{
+  "id": "blazer_tailored_black_old_01",
+  "status": "owned",
+  "name": "Blazer preto alfaiataria antiga",
+  "brand": "Sob medida",
+  "model": null,
+  "module": "Formal / Social",
+  "category": "outerwear",
+  "subcategory": "Blazer",
+  "layerType": "Outer layer",
+  "size": null,
+  "color": "Preto / charcoal",
+  "colorFamily": [
+    "dark"
+  ],
+  "materialTech": null,
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "unknown"
+  },
+  "bestUse": [
+    "evento social",
+    "terno antigo"
+  ],
+  "avoidUse": [
+    "travel pack leve",
+    "calor"
+  ],
+  "scores": {
+    "urban": 2,
+    "formal": 1,
+    "outdoor": 1,
+    "rain": 0.5,
+    "cold": 1,
+    "hot": 2,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 3,
+    "comfort": 3,
+    "style": 2,
+    "urbanTravel": 2.5,
+    "outdoorFinal": 1.5,
+    "travelPack": 2.5
+  },
+  "role": "Blazer de terno antigo",
+  "purchaseAction": "Keep",
+  "priority": "medium",
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": [],
+    "publicImages": [
+      "assets/blazer_tailored_black_old_01/manual-whatsapp-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/blazer_tailored_black_old_01/manual-whatsapp-01.jpg"
+    ]
+  },
+  "notes": "Peça antiga de alfaiataria, prioridade baixa até revisar condição.",
+  "modelConfidence": "medium",
+  "gapOrRedundancy": null,
+  "ownership": "owned",
+  "tags": []
+}

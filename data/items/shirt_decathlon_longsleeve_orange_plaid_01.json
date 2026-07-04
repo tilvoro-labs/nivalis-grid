@@ -1,0 +1,70 @@
+{
+  "status": "owned",
+  "ownership": "owned",
+  "tags": [],
+  "brand": "Decathlon",
+  "model": null,
+  "module": "Outdoor Core / Travel Legacy",
+  "subcategory": "Long sleeve shirt",
+  "layerType": "Outdoor/travel shirt",
+  "size": "XS/S, não totalmente confirmado",
+  "color": "Laranja xadrez",
+  "materialTech": "Tecido técnico respirável; composição não legível",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "low"
+  },
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": [],
+    "publicImages": [
+      "assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-02.jpg",
+      "assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-01.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-02.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-01.jpg"
+    ]
+  },
+  "modelConfidence": "medium",
+  "gapOrRedundancy": "Funcionalmente boa, mas cor/padrão reduzem versatilidade visual.",
+  "id": "shirt_decathlon_longsleeve_orange_plaid_01",
+  "name": "Decathlon camisa manga longa laranja xadrez",
+  "category": "top",
+  "colorFamily": [
+    "bright",
+    "graphic"
+  ],
+  "bestUse": [
+    "trilha",
+    "mochilão",
+    "camada intermediária leve",
+    "viagem outdoor"
+  ],
+  "avoidUse": [
+    "cliente",
+    "cápsula urbana discreta",
+    "quando cor chamativa incomodar"
+  ],
+  "scores": {
+    "urban": 1.8,
+    "formal": 0.5,
+    "outdoor": 3.5,
+    "rain": 0.5,
+    "cold": 1.8,
+    "hot": 3.2,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 3.5,
+    "comfort": 4,
+    "style": 1.8,
+    "urbanTravel": 2.4,
+    "outdoorFinal": 3,
+    "travelPack": 3
+  },
+  "role": "Camisa técnica respirável de manga longa",
+  "purchaseAction": "Keep / maybe replace with neutral equivalent",
+  "priority": "medium",
+  "notes": "Dropbox inbox 2026-07-04: usada no mochilão por um ano; excelente caimento e muito respirável. Hoje mais provável para trilhas/viagens, mas usuário enjoou um pouco da cor e procuraria equivalente mais neutro."
+}

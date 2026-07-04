@@ -69,17 +69,23 @@
       }
     ],
     "publicImages": [
+      "assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-01.jpg",
+      "assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-02.jpg",
       "assets/shoes_cns_austin_oxford_17358_01/online-01.jpg",
       "assets/shoes_cns_austin_oxford_17358_01/online-02.jpg",
       "assets/shoes_cns_austin_oxford_17358_01/online-03.jpg"
     ],
     "publicImageUrls": [
-      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_cns_austin_oxford_17358_01/online-01.jpg",
-      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_cns_austin_oxford_17358_01/online-02.jpg",
-      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_cns_austin_oxford_17358_01/online-03.jpg"
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-01.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-02.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shoes_cns_austin_oxford_17358_01/online-01.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shoes_cns_austin_oxford_17358_01/online-02.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shoes_cns_austin_oxford_17358_01/online-03.jpg"
     ]
   },
   "notes": "Usado no casamento; só entra quando formalidade exige.",
   "modelConfidence": "medium",
-  "gapOrRedundancy": "Formal only"
+  "gapOrRedundancy": "Formal only",
+  "ownership": "owned",
+  "tags": []
 }

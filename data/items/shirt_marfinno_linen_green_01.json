@@ -1,0 +1,70 @@
+{
+  "status": "owned",
+  "ownership": "owned",
+  "tags": [],
+  "brand": "Marfinno",
+  "model": null,
+  "module": "Urban Core / Hot Weather",
+  "subcategory": "Shirt",
+  "layerType": "Light casual shirt",
+  "size": "P",
+  "color": "Verde claro / sage",
+  "materialTech": "Etiqueta: 55% linho / 45% algodão",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "low"
+  },
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": [],
+    "publicImages": [
+      "assets/shirt_marfinno_linen_green_01/manual-whatsapp-01.jpg",
+      "assets/shirt_marfinno_linen_green_01/manual-whatsapp-02.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shirt_marfinno_linen_green_01/manual-whatsapp-01.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shirt_marfinno_linen_green_01/manual-whatsapp-02.jpg"
+    ]
+  },
+  "modelConfidence": "medium",
+  "gapOrRedundancy": "Possível candidata a substituição por camisa leve mais nova/neutra com melhor caimento.",
+  "id": "shirt_marfinno_linen_green_01",
+  "name": "Marfinno camisa verde de linho/algodão",
+  "category": "top",
+  "colorFamily": [
+    "earth",
+    "neutral"
+  ],
+  "bestUse": [
+    "viagem urbana",
+    "calor seco",
+    "passeio",
+    "casual arrumado leve"
+  ],
+  "avoidUse": [
+    "cliente formal",
+    "quando amassado for problema",
+    "trilha"
+  ],
+  "scores": {
+    "urban": 3.2,
+    "formal": 2.3,
+    "outdoor": 1,
+    "rain": 0.5,
+    "cold": 1,
+    "hot": 3.5,
+    "bike": 0.5,
+    "water": 0.5,
+    "packability": 3.4,
+    "comfort": 3.5,
+    "style": 3.4,
+    "urbanTravel": 3.4,
+    "outdoorFinal": 1.5,
+    "travelPack": 3.2
+  },
+  "role": "Camisa leve que adiciona formalidade sem ocupar muito espaço",
+  "purchaseAction": "Keep / consider replacement",
+  "priority": "medium",
+  "notes": "Dropbox inbox 2026-07-04: usuário acha bonita, fácil de carregar e útil em viagens para trazer formalidade leve; amassa bastante e já está batida/gasta. Caimento não é perfeito, mas fica bem."
+}

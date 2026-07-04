@@ -70,10 +70,14 @@
       "assets/shoes_nike_pegasus_trail_5_01/manual-01.jpg"
     ],
     "publicImageUrls": [
-      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_nike_pegasus_trail_5_01/manual-01.jpg"
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shoes_nike_pegasus_trail_5_01/manual-01.jpg"
     ]
   },
   "notes": "Boa para corrida; risco de não dar firmeza que você gosta.",
   "modelConfidence": "high",
-  "gapOrRedundancy": "Not waterproof"
+  "gapOrRedundancy": "Not waterproof",
+  "ownership": "not_owned",
+  "tags": [
+    "candidate_buy"
+  ]
 }

@@ -1,8 +1,7 @@
 {
-  "converted": 62,
+  "converted": 136,
   "skipped": [],
   "failed": [
-    "pants_rei_sahara_convertible_taupe_01:assets/pants_rei_sahara_convertible_taupe_01/manual-01.jpg",
-    "shoes_democrata_dune_hisoft_298202_01:assets/shoes_democrata_dune_hisoft_298202_01/online-03.jpg"
+    "pants_rei_sahara_convertible_taupe_01:assets/pants_rei_sahara_convertible_taupe_01/manual-01.jpg"
   ]
 }

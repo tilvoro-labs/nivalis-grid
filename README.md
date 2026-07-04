@@ -8,6 +8,7 @@ This repository mirrors selected sanitized artifacts from a private wardrobe cat
 
 - `data/catalog.json`: consolidated catalog with all items, aggregate stats, and image URLs.
 - `data/items/*.json`: one sanitized item file per catalog item.
+- `AI_CONTEXT.md`: single-file visual and structured context for AI review.
 - `assets/<item_id>/*.jpg`: public JPEG images associated with items.
 - `grids/index.md`: visual grid index for quick AI overview.
 - `grids/index.json`: machine-readable map from grid cell IDs to item IDs and image paths.
@@ -15,15 +16,17 @@ This repository mirrors selected sanitized artifacts from a private wardrobe cat
 
 ## Current Stats
 
-- Items: 57
-- Owned items: 35
-- Public images: 62
-- Items with public images: 36
-- Status counts: archived: 7, candidate_buy: 15, owned: 34, owned_buy_more: 1
+- Items: 87
+- Owned items: 66
+- Public images: 136
+- Items with public images: 83
+- Status counts: archived: 6, candidate_buy: 15, owned: 66
+- Ownership counts: archived: 6, not_owned: 15, owned: 66
+- Tag counts: archived: 6, buy_more: 1, candidate_buy: 15, maybe_replace: 1
 - Categories: accessory, bottom, footwear, outerwear, top, underwear
 
 ## Suggested AI Prompt
 
-First inspect `grids/index.md` for a quick visual overview. Use the grid cell IDs to reference visible pieces, then consult `data/catalog.json` for the stable `itemId`, metadata, and individual `media.publicImageUrls` when you need detail:
+First inspect `AI_CONTEXT.md` for the single-file overview. It is organized as active overview, owned-by-category summary, decision queues, category deep dives, normalized use-case modules, and archive. Use embedded grid pages for visual triage, cite stable `itemId` values from the tables, and only open individual `media.publicImageUrls` when a grid cell needs closer inspection:
 
-https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/data/catalog.json
+https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/data/catalog.json

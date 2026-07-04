@@ -48,14 +48,36 @@
   "role": "Calça urbana core preta",
   "purchaseAction": "Keep",
   "priority": "high",
-  "sourceLinks": [],
+  "sourceLinks": [
+    {
+      "label": "UNIQLO similar product",
+      "url": "https://www.uniqlo.com/us/en/products/E475598-000/00",
+      "role": "product"
+    }
+  ],
   "media": {
     "remoteImages": [],
-    "sourceLinks": [],
-    "publicImages": [],
-    "publicImageUrls": []
+    "sourceLinks": [
+      {
+        "label": "UNIQLO similar product",
+        "url": "https://www.uniqlo.com/us/en/products/E475598-000/00",
+        "role": "product"
+      }
+    ],
+    "publicImages": [
+      "assets/pants_uniqlo_ultra_stretch_black_01/manual-whatsapp-01.jpg",
+      "assets/pants_uniqlo_ultra_stretch_black_01/manual-whatsapp-02.jpg",
+      "assets/pants_uniqlo_ultra_stretch_black_01/manual-whatsapp-03.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/pants_uniqlo_ultra_stretch_black_01/manual-whatsapp-01.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/pants_uniqlo_ultra_stretch_black_01/manual-whatsapp-02.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/pants_uniqlo_ultra_stretch_black_01/manual-whatsapp-03.jpg"
+    ]
   },
   "notes": "Mesmo modelo/composição das outras Ultra Stretch. Boa peça para cliente, voo e jantar.",
   "modelConfidence": "medium",
-  "gapOrRedundancy": "Nova variação escura mais formal que bege/cinza."
+  "gapOrRedundancy": "Nova variação escura mais formal que bege/cinza.",
+  "ownership": "owned",
+  "tags": []
 }

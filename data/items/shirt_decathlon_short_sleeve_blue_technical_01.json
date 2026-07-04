@@ -1,0 +1,70 @@
+{
+  "status": "owned",
+  "ownership": "owned",
+  "tags": [],
+  "brand": "Decathlon",
+  "model": null,
+  "module": "Outdoor Core / Hot Weather",
+  "subcategory": "Short sleeve shirt",
+  "layerType": "Technical short sleeve shirt",
+  "size": "XS/S, não totalmente confirmado",
+  "color": "Azul acinzentado listrado",
+  "materialTech": "Tecido técnico respirável; composição não legível",
+  "weight": {
+    "estimatedGrams": null,
+    "confidence": "low"
+  },
+  "sourceLinks": [],
+  "media": {
+    "remoteImages": [],
+    "sourceLinks": [],
+    "publicImages": [
+      "assets/shirt_decathlon_short_sleeve_blue_technical_01/manual-whatsapp-01.jpg",
+      "assets/shirt_decathlon_short_sleeve_blue_technical_01/manual-whatsapp-02.jpg"
+    ],
+    "publicImageUrls": [
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shirt_decathlon_short_sleeve_blue_technical_01/manual-whatsapp-01.jpg",
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shirt_decathlon_short_sleeve_blue_technical_01/manual-whatsapp-02.jpg"
+    ]
+  },
+  "modelConfidence": "medium",
+  "gapOrRedundancy": "Manter sob revisão; pode competir com outras camisas técnicas/casuais.",
+  "id": "shirt_decathlon_short_sleeve_blue_technical_01",
+  "name": "Decathlon camisa técnica azul manga curta",
+  "category": "top",
+  "colorFamily": [
+    "dark",
+    "neutral"
+  ],
+  "bestUse": [
+    "calor",
+    "mochilão",
+    "trilha curta se manga curta for aceitável",
+    "uso técnico casual"
+  ],
+  "avoidUse": [
+    "trilha com sol forte sem proteção nos braços",
+    "cliente",
+    "formal"
+  ],
+  "scores": {
+    "urban": 2.4,
+    "formal": 0.5,
+    "outdoor": 2.8,
+    "rain": 0.5,
+    "cold": 1,
+    "hot": 3.7,
+    "bike": 1.5,
+    "water": 0.5,
+    "packability": 3.6,
+    "comfort": 3.8,
+    "style": 2.4,
+    "urbanTravel": 2.8,
+    "outdoorFinal": 2.5,
+    "travelPack": 3
+  },
+  "role": "Camisa técnica respirável de manga curta",
+  "purchaseAction": "Keep / review later",
+  "priority": "medium",
+  "notes": "Dropbox inbox 2026-07-04: usuário usava bastante no mochilão em ambientes quentes. Ainda é incógnita se mantém; bem respirável, mas manga curta limita trilhas com sol."
+}
