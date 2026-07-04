@@ -1,6 +1,6 @@
 {
   "id": "tshirt_factored_white_01",
-  "status": "owned",
+  "status": "archived",
   "name": "Factored camiseta branca",
   "brand": "Factored / Delta",
   "model": "Camiseta corporativa branca",
@@ -46,7 +46,7 @@
     "travelPack": 2.8
   },
   "role": "Camiseta corporativa casual",
-  "purchaseAction": "Keep",
+  "purchaseAction": "Archived",
   "priority": "low",
   "sourceLinks": [],
   "media": {
@@ -55,9 +55,11 @@
     "publicImages": [],
     "publicImageUrls": []
   },
-  "notes": "Camiseta corporativa com logo Factored. Melhor para eventos internos, hotel ou casual; menos indicada para cliente.",
+  "notes": "Arquivada em 2026-07-04. Camiseta corporativa com logo Factored; melhor para eventos internos, hotel ou casual; menos indicada para cliente.",
   "modelConfidence": "medium",
   "gapOrRedundancy": "Logo reduz versatilidade externa.",
-  "ownership": "owned",
-  "tags": []
+  "ownership": "archived",
+  "tags": [
+    "archived"
+  ]
 }

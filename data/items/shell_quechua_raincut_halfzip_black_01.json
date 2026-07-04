@@ -1,6 +1,6 @@
 {
   "id": "shell_quechua_raincut_halfzip_black_01",
-  "status": "owned",
+  "status": "archived",
   "name": "Quechua Raincut 1/2 preta",
   "brand": "Decathlon / Quechua",
   "model": "Raincut 1/2",
@@ -46,8 +46,8 @@
     "travelPack": 3
   },
   "role": "Emergency rain shell",
-  "purchaseAction": "Keep",
-  "priority": "medium",
+  "purchaseAction": "Archived",
+  "priority": "low",
   "sourceLinks": [
     {
       "label": "Decathlon / Quechua",
@@ -67,9 +67,11 @@
     "publicImages": [],
     "publicImageUrls": []
   },
-  "notes": "Muito compacta; meia abertura limita uso como shell principal.",
+  "notes": "Arquivada em 2026-07-04. Muito compacta; meia abertura limita uso como shell principal.",
   "modelConfidence": "high",
   "gapOrRedundancy": "Half zip limitation",
-  "ownership": "owned",
-  "tags": []
+  "ownership": "archived",
+  "tags": [
+    "archived"
+  ]
 }

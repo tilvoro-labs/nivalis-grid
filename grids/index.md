@@ -6,7 +6,7 @@ Generated visual indexes for quick AI inspection. Grids are derived artifacts; r
 - Max cells per grid page: `16`
 - Columns: `4`
 - Grid count: `71`
-- Total cells: `599`
+- Total cells: `594`
 
 Cell IDs are local to a page. Use `itemId` as the stable identifier.
 
@@ -49,12 +49,12 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | D02 | `shorts_uniqlo_stretch_easy_beige_01` | Shorts | not_owned | candidate_buy | `assets/shorts_uniqlo_stretch_easy_beige_01/manual-01.jpg` |
 | A03 | `pants_renner_flannel_plaid_01` | Sleep pants | owned |  | `assets/pants_renner_flannel_plaid_01/manual-whatsapp-01.jpg` |
 | B03 | `shorts_taco_walkshort_flex_beige_01` | Walkshort | owned |  | `assets/shorts_taco_walkshort_flex_beige_01/manual-whatsapp-01.jpg` |
-| C03 | `sneaker_pegada_119405_darkdune_01` | Casual sneaker | owned |  | `assets/sneaker_pegada_119405_darkdune_01/online-01.jpg` |
+| C03 | `sneaker_velluti_everyday_brown_01` | Casual sneaker | owned |  | `assets/sneaker_velluti_everyday_brown_01/manual-01.jpg` |
 | D03 | `flipflop_havaianas_01` | Flip-flop | owned |  | `assets/flipflop_havaianas_01/manual-whatsapp-01.jpg` |
-| A04 | `boots_timberland_mt_maddsen_wp_brown_01` | Hiking boot | owned |  | `assets/boots_timberland_mt_maddsen_wp_brown_01/online-01.jpg` |
+| A04 | `boots_timberland_mt_maddsen_wp_brown_01` | Hiking boot | owned |  | `assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg` |
 | B04 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-01.jpg` |
 | C04 | `slippers_lightweight_01` | Slippers | owned |  | `assets/slippers_lightweight_01/manual-whatsapp-01.jpg` |
-| D04 | `shoes_democrata_dune_hisoft_298202_01` | Smart casual derby | owned |  | `assets/shoes_democrata_dune_hisoft_298202_01/online-01.jpg` |
+| D04 | `shoes_democrata_dune_hisoft_298201_black_01` | Smart casual derby | owned |  | `assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg` |
 
 ## Active Items Overview · p3/6
 
@@ -66,7 +66,7 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | B01 | `shoes_nike_pegasus_trail_5_01` | Trail runner | not_owned | candidate_buy | `assets/shoes_nike_pegasus_trail_5_01/manual-01.jpg` |
 | C01 | `shoes_danner_trail2650_gtx_black_shadow_01` | Trail shoe | not_owned | candidate_buy | `assets/shoes_danner_trail2650_gtx_black_shadow_01/online-01.jpg` |
 | D01 | `boots_danner_mountain600_leaf_gtx_obsidian_01` | Urban hiking boot | not_owned | candidate_buy | `assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-01.jpg` |
-| A02 | `shoes_aku_bellamont_iv_nbk_gtx_black_grey_01` | Urban-outdoor GTX shoe | not_owned | candidate_buy | `assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-01.jpg` |
+| A02 | `shoes_aku_bellamont_iv_nbk_gtx_black_grey_01` | Urban-outdoor GTX shoe | not_owned | candidate_buy | `assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/official-01.jpg` |
 | B02 | `blazer_tailored_beige_wedding_01` | Blazer | owned |  | `assets/blazer_tailored_beige_wedding_01/manual-whatsapp-01.jpg` |
 | C02 | `blazer_casual_navy_01` | Blazer | owned |  | `assets/blazer_casual_navy_01/manual-whatsapp-01.jpg` |
 | D02 | `blazer_tailored_black_old_01` | Blazer | owned |  | `assets/blazer_tailored_black_old_01/manual-whatsapp-01.jpg` |
@@ -98,8 +98,8 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | C03 | `shirt_uniqlo_super_non_iron_slim_navy_01` | Dress shirt | owned |  | `assets/shirt_uniqlo_super_non_iron_slim_navy_01/manual-whatsapp-01.jpg` |
 | D03 | `sweater_uniqlo_merino_black_01` | Knitwear | owned |  | `assets/sweater_uniqlo_merino_black_01/manual-01.jpg` |
 | A04 | `tshirt_ondeck_longsleeve_navy_01` | Long sleeve T-shirt | owned |  | `assets/tshirt_ondeck_longsleeve_navy_01/manual-whatsapp-01.jpg` |
-| B04 | `shirt_decathlon_longsleeve_orange_plaid_01` | Long sleeve shirt | owned |  | `assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-01.jpg` |
-| C04 | `polo_uniqlo_airism_black_01` | Polo | owned |  | `assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg` |
+| B04 | `shirt_decathlon_longsleeve_orange_plaid_01` | Long sleeve shirt | owned |  | `assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-02.jpg` |
+| C04 | `polo_uniqlo_airism_black_01` | Polo | owned |  | `assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg` |
 | D04 | `polo_vuori_strato_black_01` | Polo | owned |  | `assets/polo_vuori_strato_black_01/manual-01.jpg` |
 
 ## Active Items Overview · p5/6
@@ -111,7 +111,7 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | A01 | `shirt_uniqlo_premium_linen_tbd_01` | Shirt | not_owned | candidate_buy | `assets/shirt_uniqlo_premium_linen_tbd_01/manual-01.jpg` |
 | B01 | `shirt_muji_brown_s_01` | Shirt | owned |  | `assets/shirt_muji_brown_s_01/manual-01.jpg` |
 | C01 | `shirt_marfinno_linen_green_01` | Shirt | owned |  | `assets/shirt_marfinno_linen_green_01/manual-whatsapp-01.jpg` |
-| D01 | `shirt_avalanche_tropical_blue_01` | Short sleeve shirt | owned |  | `assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg` |
+| D01 | `shirt_avalanche_tropical_blue_01` | Short sleeve shirt | owned |  | `assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg` |
 | A02 | `shirt_decathlon_short_sleeve_blue_technical_01` | Short sleeve shirt | owned |  | `assets/shirt_decathlon_short_sleeve_blue_technical_01/manual-whatsapp-01.jpg` |
 | B02 | `shirt_vuori_short_sleeve_bluegrey_01` | Short sleeve shirt | owned |  | `assets/shirt_vuori_short_sleeve_bluegrey_01/manual-whatsapp-01.jpg` |
 | C02 | `tee_uniqlo_airism_crew_black_01` | T-shirt | not_owned | candidate_buy | `assets/tee_uniqlo_airism_crew_black_01/manual-01.jpg` |
@@ -249,17 +249,17 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 
 | Cell | Item ID | Subcategory | Ownership | Tags | Source image |
 |---|---|---|---|---|---|
-| A01 | `sneaker_pegada_119405_darkdune_01` | Casual sneaker | owned |  | `assets/sneaker_pegada_119405_darkdune_01/online-01.jpg` |
+| A01 | `sneaker_velluti_everyday_brown_01` | Casual sneaker | owned |  | `assets/sneaker_velluti_everyday_brown_01/manual-01.jpg` |
 | B01 | `flipflop_havaianas_01` | Flip-flop | owned |  | `assets/flipflop_havaianas_01/manual-whatsapp-01.jpg` |
-| C01 | `boots_timberland_mt_maddsen_wp_brown_01` | Hiking boot | owned |  | `assets/boots_timberland_mt_maddsen_wp_brown_01/online-01.jpg` |
+| C01 | `boots_timberland_mt_maddsen_wp_brown_01` | Hiking boot | owned |  | `assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg` |
 | D01 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-01.jpg` |
 | A02 | `slippers_lightweight_01` | Slippers | owned |  | `assets/slippers_lightweight_01/manual-whatsapp-01.jpg` |
-| B02 | `shoes_democrata_dune_hisoft_298202_01` | Smart casual derby | owned |  | `assets/shoes_democrata_dune_hisoft_298202_01/online-01.jpg` |
+| B02 | `shoes_democrata_dune_hisoft_298201_black_01` | Smart casual derby | owned |  | `assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg` |
 | C02 | `sandals_teva_hurricane_xlt2_01` | Sport sandal | owned |  | `assets/sandals_teva_hurricane_xlt2_01/manual-whatsapp-01.jpg` |
 | D02 | `shoes_nike_pegasus_trail_5_01` | Trail runner | not_owned | candidate_buy | `assets/shoes_nike_pegasus_trail_5_01/manual-01.jpg` |
 | A03 | `shoes_danner_trail2650_gtx_black_shadow_01` | Trail shoe | not_owned | candidate_buy | `assets/shoes_danner_trail2650_gtx_black_shadow_01/online-01.jpg` |
 | B03 | `boots_danner_mountain600_leaf_gtx_obsidian_01` | Urban hiking boot | not_owned | candidate_buy | `assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-01.jpg` |
-| C03 | `shoes_aku_bellamont_iv_nbk_gtx_black_grey_01` | Urban-outdoor GTX shoe | not_owned | candidate_buy | `assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-01.jpg` |
+| C03 | `shoes_aku_bellamont_iv_nbk_gtx_black_grey_01` | Urban-outdoor GTX shoe | not_owned | candidate_buy | `assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/official-01.jpg` |
 
 ## Category: footwear · all images · p1/2
 
@@ -267,22 +267,22 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 
 | Cell | Item ID | Subcategory | Ownership | Tags | Source image |
 |---|---|---|---|---|---|
-| A01 | `sneaker_pegada_119405_darkdune_01` | Casual sneaker | owned |  | `assets/sneaker_pegada_119405_darkdune_01/online-01.jpg` |
-| B01 | `sneaker_pegada_119405_darkdune_01` | Casual sneaker | owned |  | `assets/sneaker_pegada_119405_darkdune_01/online-02.jpg` |
-| C01 | `sneaker_pegada_119405_darkdune_01` | Casual sneaker | owned |  | `assets/sneaker_pegada_119405_darkdune_01/online-03.jpg` |
+| A01 | `sneaker_velluti_everyday_brown_01` | Casual sneaker | owned |  | `assets/sneaker_velluti_everyday_brown_01/manual-01.jpg` |
+| B01 | `sneaker_velluti_everyday_brown_01` | Casual sneaker | owned |  | `assets/sneaker_velluti_everyday_brown_01/manual-02.jpg` |
+| C01 | `sneaker_velluti_everyday_brown_01` | Casual sneaker | owned |  | `assets/sneaker_velluti_everyday_brown_01/manual-detail-01.jpg` |
 | D01 | `flipflop_havaianas_01` | Flip-flop | owned |  | `assets/flipflop_havaianas_01/manual-whatsapp-01.jpg` |
-| A02 | `boots_timberland_mt_maddsen_wp_brown_01` | Hiking boot | owned |  | `assets/boots_timberland_mt_maddsen_wp_brown_01/online-01.jpg` |
-| B02 | `boots_timberland_mt_maddsen_wp_brown_01` | Hiking boot | owned |  | `assets/boots_timberland_mt_maddsen_wp_brown_01/online-02.jpg` |
-| C02 | `boots_timberland_mt_maddsen_wp_brown_01` | Hiking boot | owned |  | `assets/boots_timberland_mt_maddsen_wp_brown_01/online-03.jpg` |
-| D02 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-01.jpg` |
-| A03 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-02.jpg` |
-| B03 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/online-01.jpg` |
-| C03 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/online-02.jpg` |
-| D03 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/online-03.jpg` |
-| A04 | `slippers_lightweight_01` | Slippers | owned |  | `assets/slippers_lightweight_01/manual-whatsapp-01.jpg` |
-| B04 | `slippers_lightweight_01` | Slippers | owned |  | `assets/slippers_lightweight_01/manual-whatsapp-02.jpg` |
-| C04 | `shoes_democrata_dune_hisoft_298202_01` | Smart casual derby | owned |  | `assets/shoes_democrata_dune_hisoft_298202_01/online-01.jpg` |
-| D04 | `shoes_democrata_dune_hisoft_298202_01` | Smart casual derby | owned |  | `assets/shoes_democrata_dune_hisoft_298202_01/online-02.jpg` |
+| A02 | `boots_timberland_mt_maddsen_wp_brown_01` | Hiking boot | owned |  | `assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg` |
+| B02 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-01.jpg` |
+| C02 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-02.jpg` |
+| D02 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/online-01.jpg` |
+| A03 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/online-02.jpg` |
+| B03 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/online-03.jpg` |
+| C03 | `slippers_lightweight_01` | Slippers | owned |  | `assets/slippers_lightweight_01/manual-whatsapp-01.jpg` |
+| D03 | `slippers_lightweight_01` | Slippers | owned |  | `assets/slippers_lightweight_01/manual-whatsapp-02.jpg` |
+| A04 | `shoes_democrata_dune_hisoft_298201_black_01` | Smart casual derby | owned |  | `assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg` |
+| B04 | `shoes_democrata_dune_hisoft_298201_black_01` | Smart casual derby | owned |  | `assets/shoes_democrata_dune_hisoft_298201_black_01/official-02.jpg` |
+| C04 | `sandals_teva_hurricane_xlt2_01` | Sport sandal | owned |  | `assets/sandals_teva_hurricane_xlt2_01/manual-whatsapp-01.jpg` |
+| D04 | `sandals_teva_hurricane_xlt2_01` | Sport sandal | owned |  | `assets/sandals_teva_hurricane_xlt2_01/manual-whatsapp-02.jpg` |
 
 ## Category: footwear · all images · p2/2
 
@@ -290,18 +290,14 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 
 | Cell | Item ID | Subcategory | Ownership | Tags | Source image |
 |---|---|---|---|---|---|
-| A01 | `sandals_teva_hurricane_xlt2_01` | Sport sandal | owned |  | `assets/sandals_teva_hurricane_xlt2_01/manual-whatsapp-01.jpg` |
-| B01 | `sandals_teva_hurricane_xlt2_01` | Sport sandal | owned |  | `assets/sandals_teva_hurricane_xlt2_01/manual-whatsapp-02.jpg` |
-| C01 | `shoes_nike_pegasus_trail_5_01` | Trail runner | not_owned | candidate_buy | `assets/shoes_nike_pegasus_trail_5_01/manual-01.jpg` |
-| D01 | `shoes_danner_trail2650_gtx_black_shadow_01` | Trail shoe | not_owned | candidate_buy | `assets/shoes_danner_trail2650_gtx_black_shadow_01/online-01.jpg` |
-| A02 | `shoes_danner_trail2650_gtx_black_shadow_01` | Trail shoe | not_owned | candidate_buy | `assets/shoes_danner_trail2650_gtx_black_shadow_01/online-02.jpg` |
-| B02 | `shoes_danner_trail2650_gtx_black_shadow_01` | Trail shoe | not_owned | candidate_buy | `assets/shoes_danner_trail2650_gtx_black_shadow_01/online-03.jpg` |
-| C02 | `boots_danner_mountain600_leaf_gtx_obsidian_01` | Urban hiking boot | not_owned | candidate_buy | `assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-01.jpg` |
-| D02 | `boots_danner_mountain600_leaf_gtx_obsidian_01` | Urban hiking boot | not_owned | candidate_buy | `assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-02.jpg` |
-| A03 | `boots_danner_mountain600_leaf_gtx_obsidian_01` | Urban hiking boot | not_owned | candidate_buy | `assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-03.jpg` |
-| B03 | `shoes_aku_bellamont_iv_nbk_gtx_black_grey_01` | Urban-outdoor GTX shoe | not_owned | candidate_buy | `assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-01.jpg` |
-| C03 | `shoes_aku_bellamont_iv_nbk_gtx_black_grey_01` | Urban-outdoor GTX shoe | not_owned | candidate_buy | `assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-02.jpg` |
-| D03 | `shoes_aku_bellamont_iv_nbk_gtx_black_grey_01` | Urban-outdoor GTX shoe | not_owned | candidate_buy | `assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-03.jpg` |
+| A01 | `shoes_nike_pegasus_trail_5_01` | Trail runner | not_owned | candidate_buy | `assets/shoes_nike_pegasus_trail_5_01/manual-01.jpg` |
+| B01 | `shoes_danner_trail2650_gtx_black_shadow_01` | Trail shoe | not_owned | candidate_buy | `assets/shoes_danner_trail2650_gtx_black_shadow_01/online-01.jpg` |
+| C01 | `shoes_danner_trail2650_gtx_black_shadow_01` | Trail shoe | not_owned | candidate_buy | `assets/shoes_danner_trail2650_gtx_black_shadow_01/online-02.jpg` |
+| D01 | `shoes_danner_trail2650_gtx_black_shadow_01` | Trail shoe | not_owned | candidate_buy | `assets/shoes_danner_trail2650_gtx_black_shadow_01/online-03.jpg` |
+| A02 | `boots_danner_mountain600_leaf_gtx_obsidian_01` | Urban hiking boot | not_owned | candidate_buy | `assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-01.jpg` |
+| B02 | `boots_danner_mountain600_leaf_gtx_obsidian_01` | Urban hiking boot | not_owned | candidate_buy | `assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-02.jpg` |
+| C02 | `boots_danner_mountain600_leaf_gtx_obsidian_01` | Urban hiking boot | not_owned | candidate_buy | `assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-03.jpg` |
+| D02 | `shoes_aku_bellamont_iv_nbk_gtx_black_grey_01` | Urban-outdoor GTX shoe | not_owned | candidate_buy | `assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/official-01.jpg` |
 
 ## Category: outerwear · p1/1
 
@@ -373,8 +369,8 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | D02 | `shirt_uniqlo_super_non_iron_slim_navy_01` | Dress shirt | owned |  | `assets/shirt_uniqlo_super_non_iron_slim_navy_01/manual-whatsapp-01.jpg` |
 | A03 | `sweater_uniqlo_merino_black_01` | Knitwear | owned |  | `assets/sweater_uniqlo_merino_black_01/manual-01.jpg` |
 | B03 | `tshirt_ondeck_longsleeve_navy_01` | Long sleeve T-shirt | owned |  | `assets/tshirt_ondeck_longsleeve_navy_01/manual-whatsapp-01.jpg` |
-| C03 | `shirt_decathlon_longsleeve_orange_plaid_01` | Long sleeve shirt | owned |  | `assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-01.jpg` |
-| D03 | `polo_uniqlo_airism_black_01` | Polo | owned |  | `assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg` |
+| C03 | `shirt_decathlon_longsleeve_orange_plaid_01` | Long sleeve shirt | owned |  | `assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-02.jpg` |
+| D03 | `polo_uniqlo_airism_black_01` | Polo | owned |  | `assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg` |
 | A04 | `polo_vuori_strato_black_01` | Polo | owned |  | `assets/polo_vuori_strato_black_01/manual-01.jpg` |
 | B04 | `shirt_uniqlo_premium_linen_tbd_01` | Shirt | not_owned | candidate_buy | `assets/shirt_uniqlo_premium_linen_tbd_01/manual-01.jpg` |
 | C04 | `shirt_muji_brown_s_01` | Shirt | owned |  | `assets/shirt_muji_brown_s_01/manual-01.jpg` |
@@ -386,7 +382,7 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 
 | Cell | Item ID | Subcategory | Ownership | Tags | Source image |
 |---|---|---|---|---|---|
-| A01 | `shirt_avalanche_tropical_blue_01` | Short sleeve shirt | owned |  | `assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg` |
+| A01 | `shirt_avalanche_tropical_blue_01` | Short sleeve shirt | owned |  | `assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg` |
 | B01 | `shirt_decathlon_short_sleeve_blue_technical_01` | Short sleeve shirt | owned |  | `assets/shirt_decathlon_short_sleeve_blue_technical_01/manual-whatsapp-01.jpg` |
 | C01 | `shirt_vuori_short_sleeve_bluegrey_01` | Short sleeve shirt | owned |  | `assets/shirt_vuori_short_sleeve_bluegrey_01/manual-whatsapp-01.jpg` |
 | D01 | `tee_uniqlo_airism_crew_black_01` | T-shirt | not_owned | candidate_buy | `assets/tee_uniqlo_airism_crew_black_01/manual-01.jpg` |
@@ -417,10 +413,10 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | B03 | `shirt_uniqlo_super_non_iron_slim_navy_01` | Dress shirt | owned |  | `assets/shirt_uniqlo_super_non_iron_slim_navy_01/manual-whatsapp-01.jpg` |
 | C03 | `sweater_uniqlo_merino_black_01` | Knitwear | owned |  | `assets/sweater_uniqlo_merino_black_01/manual-01.jpg` |
 | D03 | `tshirt_ondeck_longsleeve_navy_01` | Long sleeve T-shirt | owned |  | `assets/tshirt_ondeck_longsleeve_navy_01/manual-whatsapp-01.jpg` |
-| A04 | `shirt_decathlon_longsleeve_orange_plaid_01` | Long sleeve shirt | owned |  | `assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-01.jpg` |
-| B04 | `shirt_decathlon_longsleeve_orange_plaid_01` | Long sleeve shirt | owned |  | `assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-02.jpg` |
-| C04 | `polo_uniqlo_airism_black_01` | Polo | owned |  | `assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg` |
-| D04 | `polo_uniqlo_airism_black_01` | Polo | owned |  | `assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg` |
+| A04 | `shirt_decathlon_longsleeve_orange_plaid_01` | Long sleeve shirt | owned |  | `assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-02.jpg` |
+| B04 | `shirt_decathlon_longsleeve_orange_plaid_01` | Long sleeve shirt | owned |  | `assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-01.jpg` |
+| C04 | `polo_uniqlo_airism_black_01` | Polo | owned |  | `assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg` |
+| D04 | `polo_uniqlo_airism_black_01` | Polo | owned |  | `assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg` |
 
 ## Category: top · all images · p2/3
 
@@ -436,8 +432,8 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | B02 | `shirt_muji_brown_s_01` | Shirt | owned |  | `assets/shirt_muji_brown_s_01/manual-01.jpg` |
 | C02 | `shirt_marfinno_linen_green_01` | Shirt | owned |  | `assets/shirt_marfinno_linen_green_01/manual-whatsapp-01.jpg` |
 | D02 | `shirt_marfinno_linen_green_01` | Shirt | owned |  | `assets/shirt_marfinno_linen_green_01/manual-whatsapp-02.jpg` |
-| A03 | `shirt_avalanche_tropical_blue_01` | Short sleeve shirt | owned |  | `assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg` |
-| B03 | `shirt_avalanche_tropical_blue_01` | Short sleeve shirt | owned |  | `assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg` |
+| A03 | `shirt_avalanche_tropical_blue_01` | Short sleeve shirt | owned |  | `assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg` |
+| B03 | `shirt_avalanche_tropical_blue_01` | Short sleeve shirt | owned |  | `assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg` |
 | C03 | `shirt_decathlon_short_sleeve_blue_technical_01` | Short sleeve shirt | owned |  | `assets/shirt_decathlon_short_sleeve_blue_technical_01/manual-whatsapp-01.jpg` |
 | D03 | `shirt_decathlon_short_sleeve_blue_technical_01` | Short sleeve shirt | owned |  | `assets/shirt_decathlon_short_sleeve_blue_technical_01/manual-whatsapp-02.jpg` |
 | A04 | `shirt_vuori_short_sleeve_bluegrey_01` | Short sleeve shirt | owned |  | `assets/shirt_vuori_short_sleeve_bluegrey_01/manual-whatsapp-01.jpg` |
@@ -576,7 +572,7 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 
 | Cell | Item ID | Subcategory | Ownership | Tags | Source image |
 |---|---|---|---|---|---|
-| A01 | `polo_uniqlo_airism_black_01` | Polo | owned |  | `assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg` |
+| A01 | `polo_uniqlo_airism_black_01` | Polo | owned |  | `assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg` |
 | B01 | `polo_vuori_strato_black_01` | Polo | owned |  | `assets/polo_vuori_strato_black_01/manual-01.jpg` |
 
 ## Subcategory: Shirt · p1/1
@@ -595,7 +591,7 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 
 | Cell | Item ID | Subcategory | Ownership | Tags | Source image |
 |---|---|---|---|---|---|
-| A01 | `shirt_avalanche_tropical_blue_01` | Short sleeve shirt | owned |  | `assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg` |
+| A01 | `shirt_avalanche_tropical_blue_01` | Short sleeve shirt | owned |  | `assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg` |
 | B01 | `shirt_decathlon_short_sleeve_blue_technical_01` | Short sleeve shirt | owned |  | `assets/shirt_decathlon_short_sleeve_blue_technical_01/manual-whatsapp-01.jpg` |
 | C01 | `shirt_vuori_short_sleeve_bluegrey_01` | Short sleeve shirt | owned |  | `assets/shirt_vuori_short_sleeve_bluegrey_01/manual-whatsapp-01.jpg` |
 
@@ -679,11 +675,10 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | Cell | Item ID | Subcategory | Ownership | Tags | Source image |
 |---|---|---|---|---|---|
 | A01 | `socks_cns_modal_social_01` | Socks | owned |  | `assets/socks_cns_modal_social_01/manual-whatsapp-01.jpg` |
-| B01 | `sneaker_pegada_119405_darkdune_01` | Casual sneaker | owned |  | `assets/sneaker_pegada_119405_darkdune_01/online-01.jpg` |
-| C01 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-01.jpg` |
-| D01 | `shoes_democrata_dune_hisoft_298202_01` | Smart casual derby | owned |  | `assets/shoes_democrata_dune_hisoft_298202_01/online-01.jpg` |
-| A02 | `shirt_tailored_white_wedding_01` | Dress shirt | owned |  | `assets/shirt_tailored_white_wedding_01/manual-whatsapp-01.jpg` |
-| B02 | `shirt_muji_brown_s_01` | Shirt | owned |  | `assets/shirt_muji_brown_s_01/manual-01.jpg` |
+| B01 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-01.jpg` |
+| C01 | `shoes_democrata_dune_hisoft_298201_black_01` | Smart casual derby | owned |  | `assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg` |
+| D01 | `shirt_tailored_white_wedding_01` | Dress shirt | owned |  | `assets/shirt_tailored_white_wedding_01/manual-whatsapp-01.jpg` |
+| A02 | `shirt_muji_brown_s_01` | Shirt | owned |  | `assets/shirt_muji_brown_s_01/manual-01.jpg` |
 
 ## Module: Hot/Water · p1/1
 
@@ -703,7 +698,7 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | Cell | Item ID | Subcategory | Ownership | Tags | Source image |
 |---|---|---|---|---|---|
 | A01 | `shorts_taco_walkshort_flex_beige_01` | Walkshort | owned |  | `assets/shorts_taco_walkshort_flex_beige_01/manual-whatsapp-01.jpg` |
-| B01 | `shirt_avalanche_tropical_blue_01` | Short sleeve shirt | owned |  | `assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg` |
+| B01 | `shirt_avalanche_tropical_blue_01` | Short sleeve shirt | owned |  | `assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg` |
 
 ## Module: Laundry / Base · p1/1
 
@@ -725,7 +720,7 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | C01 | `socks_decathlon_hiking_01` | Socks | owned |  | `assets/socks_decathlon_hiking_01/manual-whatsapp-01.jpg` |
 | D01 | `socks_mountain_warehouse_melange_blue_01` | Socks | owned |  | `assets/socks_mountain_warehouse_melange_blue_01/manual-whatsapp-01.jpg` |
 | A02 | `pants_rei_sahara_convertible_taupe_01` | Hiking convertible pants | owned |  | `assets/pants_rei_sahara_convertible_taupe_01/manual-whatsapp-01.jpg` |
-| B02 | `boots_timberland_mt_maddsen_wp_brown_01` | Hiking boot | owned |  | `assets/boots_timberland_mt_maddsen_wp_brown_01/online-01.jpg` |
+| B02 | `boots_timberland_mt_maddsen_wp_brown_01` | Hiking boot | owned |  | `assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg` |
 | C02 | `shell_tnf_alta_vista_blue_01` | Rain shell | owned | maybe_replace | `assets/shell_tnf_alta_vista_blue_01/manual-whatsapp-01.jpg` |
 
 ## Module: Sleep / Camp · p1/1
@@ -766,7 +761,7 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | A02 | `pants_uniqlo_ultra_stretch_olive_01` | Pants | owned |  | `assets/pants_uniqlo_ultra_stretch_olive_01/manual-whatsapp-01.jpg` |
 | B02 | `pants_uniqlo_ultra_stretch_dry_ex_tapered_beige_01` | Performance tapered pants | not_owned | candidate_buy | `assets/pants_uniqlo_ultra_stretch_dry_ex_tapered_beige_01/manual-01.jpg` |
 | C02 | `boots_danner_mountain600_leaf_gtx_obsidian_01` | Urban hiking boot | not_owned | candidate_buy | `assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-01.jpg` |
-| D02 | `shoes_aku_bellamont_iv_nbk_gtx_black_grey_01` | Urban-outdoor GTX shoe | not_owned | candidate_buy | `assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-01.jpg` |
+| D02 | `shoes_aku_bellamont_iv_nbk_gtx_black_grey_01` | Urban-outdoor GTX shoe | not_owned | candidate_buy | `assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/official-01.jpg` |
 | A03 | `blazer_casual_navy_01` | Blazer | owned |  | `assets/blazer_casual_navy_01/manual-whatsapp-01.jpg` |
 | B03 | `dry_ex_uv_hoodie_uniqlo_grey_01` | Light performance hoodie | not_owned | candidate_buy | `assets/dry_ex_uv_hoodie_uniqlo_grey_01/manual-01.jpg` |
 | C03 | `shell_uniqlo_blocktech_navy_xs_01` | Rain/wind shell | not_owned | candidate_buy | `assets/shell_uniqlo_blocktech_navy_xs_01/manual-01.jpg` |
@@ -818,7 +813,7 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | B02 | `shoes_nike_pegasus_trail_5_01` | Trail runner | not_owned | candidate_buy | `assets/shoes_nike_pegasus_trail_5_01/manual-01.jpg` |
 | C02 | `shoes_danner_trail2650_gtx_black_shadow_01` | Trail shoe | not_owned | candidate_buy | `assets/shoes_danner_trail2650_gtx_black_shadow_01/online-01.jpg` |
 | D02 | `boots_danner_mountain600_leaf_gtx_obsidian_01` | Urban hiking boot | not_owned | candidate_buy | `assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-01.jpg` |
-| A03 | `shoes_aku_bellamont_iv_nbk_gtx_black_grey_01` | Urban-outdoor GTX shoe | not_owned | candidate_buy | `assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-01.jpg` |
+| A03 | `shoes_aku_bellamont_iv_nbk_gtx_black_grey_01` | Urban-outdoor GTX shoe | not_owned | candidate_buy | `assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/official-01.jpg` |
 | B03 | `dry_ex_uv_hoodie_uniqlo_grey_01` | Light performance hoodie | not_owned | candidate_buy | `assets/dry_ex_uv_hoodie_uniqlo_grey_01/manual-01.jpg` |
 | C03 | `shell_uniqlo_blocktech_navy_xs_01` | Rain/wind shell | not_owned | candidate_buy | `assets/shell_uniqlo_blocktech_navy_xs_01/manual-01.jpg` |
 | D03 | `heattech_crew_neck_longsleeve_black_uniqlo_01` | Base layer | not_owned | candidate_buy | `assets/heattech_crew_neck_longsleeve_black_uniqlo_01/manual-01.jpg` |
@@ -860,12 +855,12 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | C01 | `pants_uniqlo_ultra_stretch_olive_01` | Pants | owned |  | `assets/pants_uniqlo_ultra_stretch_olive_01/manual-whatsapp-01.jpg` |
 | D01 | `pants_renner_flannel_plaid_01` | Sleep pants | owned |  | `assets/pants_renner_flannel_plaid_01/manual-whatsapp-01.jpg` |
 | A02 | `shorts_taco_walkshort_flex_beige_01` | Walkshort | owned |  | `assets/shorts_taco_walkshort_flex_beige_01/manual-whatsapp-01.jpg` |
-| B02 | `sneaker_pegada_119405_darkdune_01` | Casual sneaker | owned |  | `assets/sneaker_pegada_119405_darkdune_01/online-01.jpg` |
+| B02 | `sneaker_velluti_everyday_brown_01` | Casual sneaker | owned |  | `assets/sneaker_velluti_everyday_brown_01/manual-01.jpg` |
 | C02 | `flipflop_havaianas_01` | Flip-flop | owned |  | `assets/flipflop_havaianas_01/manual-whatsapp-01.jpg` |
-| D02 | `boots_timberland_mt_maddsen_wp_brown_01` | Hiking boot | owned |  | `assets/boots_timberland_mt_maddsen_wp_brown_01/online-01.jpg` |
+| D02 | `boots_timberland_mt_maddsen_wp_brown_01` | Hiking boot | owned |  | `assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg` |
 | A03 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-01.jpg` |
 | B03 | `slippers_lightweight_01` | Slippers | owned |  | `assets/slippers_lightweight_01/manual-whatsapp-01.jpg` |
-| C03 | `shoes_democrata_dune_hisoft_298202_01` | Smart casual derby | owned |  | `assets/shoes_democrata_dune_hisoft_298202_01/online-01.jpg` |
+| C03 | `shoes_democrata_dune_hisoft_298201_black_01` | Smart casual derby | owned |  | `assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg` |
 | D03 | `sandals_teva_hurricane_xlt2_01` | Sport sandal | owned |  | `assets/sandals_teva_hurricane_xlt2_01/manual-whatsapp-01.jpg` |
 | A04 | `blazer_tailored_beige_wedding_01` | Blazer | owned |  | `assets/blazer_tailored_beige_wedding_01/manual-whatsapp-01.jpg` |
 | B04 | `blazer_casual_navy_01` | Blazer | owned |  | `assets/blazer_casual_navy_01/manual-whatsapp-01.jpg` |
@@ -902,12 +897,12 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | Cell | Item ID | Subcategory | Ownership | Tags | Source image |
 |---|---|---|---|---|---|
 | A01 | `tshirt_ondeck_longsleeve_navy_01` | Long sleeve T-shirt | owned |  | `assets/tshirt_ondeck_longsleeve_navy_01/manual-whatsapp-01.jpg` |
-| B01 | `shirt_decathlon_longsleeve_orange_plaid_01` | Long sleeve shirt | owned |  | `assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-01.jpg` |
-| C01 | `polo_uniqlo_airism_black_01` | Polo | owned |  | `assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg` |
+| B01 | `shirt_decathlon_longsleeve_orange_plaid_01` | Long sleeve shirt | owned |  | `assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-02.jpg` |
+| C01 | `polo_uniqlo_airism_black_01` | Polo | owned |  | `assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg` |
 | D01 | `polo_vuori_strato_black_01` | Polo | owned |  | `assets/polo_vuori_strato_black_01/manual-01.jpg` |
 | A02 | `shirt_muji_brown_s_01` | Shirt | owned |  | `assets/shirt_muji_brown_s_01/manual-01.jpg` |
 | B02 | `shirt_marfinno_linen_green_01` | Shirt | owned |  | `assets/shirt_marfinno_linen_green_01/manual-whatsapp-01.jpg` |
-| C02 | `shirt_avalanche_tropical_blue_01` | Short sleeve shirt | owned |  | `assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg` |
+| C02 | `shirt_avalanche_tropical_blue_01` | Short sleeve shirt | owned |  | `assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg` |
 | D02 | `shirt_decathlon_short_sleeve_blue_technical_01` | Short sleeve shirt | owned |  | `assets/shirt_decathlon_short_sleeve_blue_technical_01/manual-whatsapp-01.jpg` |
 | A03 | `shirt_vuori_short_sleeve_bluegrey_01` | Short sleeve shirt | owned |  | `assets/shirt_vuori_short_sleeve_bluegrey_01/manual-whatsapp-01.jpg` |
 | B03 | `tshirt_insider_beige_sleep_01` | T-shirt | owned |  | `assets/tshirt_insider_beige_sleep_01/manual-whatsapp-01.jpg` |
@@ -950,7 +945,7 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | B02 | `shoes_nike_pegasus_trail_5_01` | Trail runner | not_owned | candidate_buy | `assets/shoes_nike_pegasus_trail_5_01/manual-01.jpg` |
 | C02 | `shoes_danner_trail2650_gtx_black_shadow_01` | Trail shoe | not_owned | candidate_buy | `assets/shoes_danner_trail2650_gtx_black_shadow_01/online-01.jpg` |
 | D02 | `boots_danner_mountain600_leaf_gtx_obsidian_01` | Urban hiking boot | not_owned | candidate_buy | `assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-01.jpg` |
-| A03 | `shoes_aku_bellamont_iv_nbk_gtx_black_grey_01` | Urban-outdoor GTX shoe | not_owned | candidate_buy | `assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-01.jpg` |
+| A03 | `shoes_aku_bellamont_iv_nbk_gtx_black_grey_01` | Urban-outdoor GTX shoe | not_owned | candidate_buy | `assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/official-01.jpg` |
 | B03 | `dry_ex_uv_hoodie_uniqlo_grey_01` | Light performance hoodie | not_owned | candidate_buy | `assets/dry_ex_uv_hoodie_uniqlo_grey_01/manual-01.jpg` |
 | C03 | `shell_uniqlo_blocktech_navy_xs_01` | Rain/wind shell | not_owned | candidate_buy | `assets/shell_uniqlo_blocktech_navy_xs_01/manual-01.jpg` |
 | D03 | `heattech_crew_neck_longsleeve_black_uniqlo_01` | Base layer | not_owned | candidate_buy | `assets/heattech_crew_neck_longsleeve_black_uniqlo_01/manual-01.jpg` |
@@ -992,12 +987,12 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | C01 | `pants_uniqlo_ultra_stretch_olive_01` | Pants | owned |  | `assets/pants_uniqlo_ultra_stretch_olive_01/manual-whatsapp-01.jpg` |
 | D01 | `pants_renner_flannel_plaid_01` | Sleep pants | owned |  | `assets/pants_renner_flannel_plaid_01/manual-whatsapp-01.jpg` |
 | A02 | `shorts_taco_walkshort_flex_beige_01` | Walkshort | owned |  | `assets/shorts_taco_walkshort_flex_beige_01/manual-whatsapp-01.jpg` |
-| B02 | `sneaker_pegada_119405_darkdune_01` | Casual sneaker | owned |  | `assets/sneaker_pegada_119405_darkdune_01/online-01.jpg` |
+| B02 | `sneaker_velluti_everyday_brown_01` | Casual sneaker | owned |  | `assets/sneaker_velluti_everyday_brown_01/manual-01.jpg` |
 | C02 | `flipflop_havaianas_01` | Flip-flop | owned |  | `assets/flipflop_havaianas_01/manual-whatsapp-01.jpg` |
-| D02 | `boots_timberland_mt_maddsen_wp_brown_01` | Hiking boot | owned |  | `assets/boots_timberland_mt_maddsen_wp_brown_01/online-01.jpg` |
+| D02 | `boots_timberland_mt_maddsen_wp_brown_01` | Hiking boot | owned |  | `assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg` |
 | A03 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-01.jpg` |
 | B03 | `slippers_lightweight_01` | Slippers | owned |  | `assets/slippers_lightweight_01/manual-whatsapp-01.jpg` |
-| C03 | `shoes_democrata_dune_hisoft_298202_01` | Smart casual derby | owned |  | `assets/shoes_democrata_dune_hisoft_298202_01/online-01.jpg` |
+| C03 | `shoes_democrata_dune_hisoft_298201_black_01` | Smart casual derby | owned |  | `assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg` |
 | D03 | `sandals_teva_hurricane_xlt2_01` | Sport sandal | owned |  | `assets/sandals_teva_hurricane_xlt2_01/manual-whatsapp-01.jpg` |
 | A04 | `blazer_tailored_beige_wedding_01` | Blazer | owned |  | `assets/blazer_tailored_beige_wedding_01/manual-whatsapp-01.jpg` |
 | B04 | `blazer_casual_navy_01` | Blazer | owned |  | `assets/blazer_casual_navy_01/manual-whatsapp-01.jpg` |
@@ -1034,12 +1029,12 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | Cell | Item ID | Subcategory | Ownership | Tags | Source image |
 |---|---|---|---|---|---|
 | A01 | `tshirt_ondeck_longsleeve_navy_01` | Long sleeve T-shirt | owned |  | `assets/tshirt_ondeck_longsleeve_navy_01/manual-whatsapp-01.jpg` |
-| B01 | `shirt_decathlon_longsleeve_orange_plaid_01` | Long sleeve shirt | owned |  | `assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-01.jpg` |
-| C01 | `polo_uniqlo_airism_black_01` | Polo | owned |  | `assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg` |
+| B01 | `shirt_decathlon_longsleeve_orange_plaid_01` | Long sleeve shirt | owned |  | `assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-02.jpg` |
+| C01 | `polo_uniqlo_airism_black_01` | Polo | owned |  | `assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg` |
 | D01 | `polo_vuori_strato_black_01` | Polo | owned |  | `assets/polo_vuori_strato_black_01/manual-01.jpg` |
 | A02 | `shirt_muji_brown_s_01` | Shirt | owned |  | `assets/shirt_muji_brown_s_01/manual-01.jpg` |
 | B02 | `shirt_marfinno_linen_green_01` | Shirt | owned |  | `assets/shirt_marfinno_linen_green_01/manual-whatsapp-01.jpg` |
-| C02 | `shirt_avalanche_tropical_blue_01` | Short sleeve shirt | owned |  | `assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg` |
+| C02 | `shirt_avalanche_tropical_blue_01` | Short sleeve shirt | owned |  | `assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg` |
 | D02 | `shirt_decathlon_short_sleeve_blue_technical_01` | Short sleeve shirt | owned |  | `assets/shirt_decathlon_short_sleeve_blue_technical_01/manual-whatsapp-01.jpg` |
 | A03 | `shirt_vuori_short_sleeve_bluegrey_01` | Short sleeve shirt | owned |  | `assets/shirt_vuori_short_sleeve_bluegrey_01/manual-whatsapp-01.jpg` |
 | B03 | `tshirt_insider_beige_sleep_01` | T-shirt | owned |  | `assets/tshirt_insider_beige_sleep_01/manual-whatsapp-01.jpg` |
@@ -1090,7 +1085,7 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | B02 | `shoes_nike_pegasus_trail_5_01` | Trail runner | not_owned | candidate_buy | `assets/shoes_nike_pegasus_trail_5_01/manual-01.jpg` |
 | C02 | `shoes_danner_trail2650_gtx_black_shadow_01` | Trail shoe | not_owned | candidate_buy | `assets/shoes_danner_trail2650_gtx_black_shadow_01/online-01.jpg` |
 | D02 | `boots_danner_mountain600_leaf_gtx_obsidian_01` | Urban hiking boot | not_owned | candidate_buy | `assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-01.jpg` |
-| A03 | `shoes_aku_bellamont_iv_nbk_gtx_black_grey_01` | Urban-outdoor GTX shoe | not_owned | candidate_buy | `assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-01.jpg` |
+| A03 | `shoes_aku_bellamont_iv_nbk_gtx_black_grey_01` | Urban-outdoor GTX shoe | not_owned | candidate_buy | `assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/official-01.jpg` |
 | B03 | `dry_ex_uv_hoodie_uniqlo_grey_01` | Light performance hoodie | not_owned | candidate_buy | `assets/dry_ex_uv_hoodie_uniqlo_grey_01/manual-01.jpg` |
 | C03 | `shell_uniqlo_blocktech_navy_xs_01` | Rain/wind shell | not_owned | candidate_buy | `assets/shell_uniqlo_blocktech_navy_xs_01/manual-01.jpg` |
 | D03 | `heattech_crew_neck_longsleeve_black_uniqlo_01` | Base layer | not_owned | candidate_buy | `assets/heattech_crew_neck_longsleeve_black_uniqlo_01/manual-01.jpg` |

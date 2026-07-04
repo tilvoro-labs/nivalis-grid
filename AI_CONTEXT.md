@@ -12,21 +12,21 @@ Generated dossier for AI inspection of the wardrobe catalog. Regenerate this fil
 - Structured catalog: [data/catalog.json](data/catalog.json)
 - Full visual grid index: [grids/index.md](grids/index.md)
 - Grid pages: `71`
-- Grid cells: `599`
+- Grid cells: `594`
 - Max cells per grid page: `16`
 
 ## Snapshot
 
-- Items: `88`
-- Owned: `69`
+- Items: `87`
+- Owned: `66`
 - Candidate/not owned: `15`
 - Maybe replace: `1`
 - Buy more: `1`
-- Items without this context's image field: `5`
-- Ownership: owned: 69, not_owned: 15, archived: 4
-- Categories: top: 30, bottom: 18, outerwear: 15, footwear: 14, accessory: 9, underwear: 2
-- Tags: candidate_buy: 15, archived: 4, buy_more: 1, maybe_replace: 1
-- Color families: dark: 48, neutral: 26, earth: 20, graphic: 6, bright: 3
+- Items without this context's image field: `4`
+- Ownership: owned: 66, not_owned: 15, archived: 6
+- Categories: top: 30, bottom: 18, outerwear: 15, footwear: 13, accessory: 9, underwear: 2
+- Tags: candidate_buy: 15, archived: 6, buy_more: 1, maybe_replace: 1
+- Color families: dark: 48, neutral: 26, earth: 19, graphic: 6, bright: 3
 
 ## Public Mirror Scope
 
@@ -73,12 +73,12 @@ This public file is generated from sanitized mirror data. It excludes private pr
 | D02 | `shorts_uniqlo_stretch_easy_beige_01` | UNIQLO Stretch Easy Shorts beige | Shorts | candidate_buy |
 | A03 | `pants_renner_flannel_plaid_01` | Calça flanela xadrez Renner | Sleep pants |  |
 | B03 | `shorts_taco_walkshort_flex_beige_01` | TACO Walkshort Flex bege | Walkshort |  |
-| C03 | `sneaker_pegada_119405_darkdune_01` | Pegada sapatênis couro com zíper | Casual sneaker |  |
+| C03 | `sneaker_velluti_everyday_brown_01` | Velluti Everyday sapatênis marrom | Casual sneaker |  |
 | D03 | `flipflop_havaianas_01` | Havaianas | Flip-flop |  |
-| A04 | `boots_timberland_mt_maddsen_wp_brown_01` | Timberland Mt. Maddsen Waterproof Hiking Boot | Hiking boot |  |
+| A04 | `boots_timberland_mt_maddsen_wp_brown_01` | Timberland Mt. Maddsen Mid Waterproof Hiking Boot | Hiking boot |  |
 | B04 | `shoes_cns_austin_oxford_17358_01` | CNS Austin Oxford social | Oxford shoe |  |
 | C04 | `slippers_lightweight_01` | Pantufas leves | Slippers |  |
-| D04 | `shoes_democrata_dune_hisoft_298202_01` | Democrata Dune Hi-Soft 298202 | Smart casual derby |  |
+| D04 | `shoes_democrata_dune_hisoft_298201_black_01` | Democrata Dune Hi-Soft 32 preto | Smart casual derby |  |
 
 ### Category: accessory p1/1
 
@@ -133,12 +133,12 @@ This public file is generated from sanitized mirror data. It excludes private pr
 
 | Cell | Item ID | Name | Category | Tags |
 |---|---|---|---|---|
-| A01 | `sneaker_pegada_119405_darkdune_01` | Pegada sapatênis couro com zíper | Casual sneaker |  |
+| A01 | `sneaker_velluti_everyday_brown_01` | Velluti Everyday sapatênis marrom | Casual sneaker |  |
 | B01 | `flipflop_havaianas_01` | Havaianas | Flip-flop |  |
-| C01 | `boots_timberland_mt_maddsen_wp_brown_01` | Timberland Mt. Maddsen Waterproof Hiking Boot | Hiking boot |  |
+| C01 | `boots_timberland_mt_maddsen_wp_brown_01` | Timberland Mt. Maddsen Mid Waterproof Hiking Boot | Hiking boot |  |
 | D01 | `shoes_cns_austin_oxford_17358_01` | CNS Austin Oxford social | Oxford shoe |  |
 | A02 | `slippers_lightweight_01` | Pantufas leves | Slippers |  |
-| B02 | `shoes_democrata_dune_hisoft_298202_01` | Democrata Dune Hi-Soft 298202 | Smart casual derby |  |
+| B02 | `shoes_democrata_dune_hisoft_298201_black_01` | Democrata Dune Hi-Soft 32 preto | Smart casual derby |  |
 | C02 | `sandals_teva_hurricane_xlt2_01` | Teva Hurricane XLT2 masculina | Sport sandal |  |
 | D02 | `shoes_nike_pegasus_trail_5_01` | Nike Pegasus Trail 5 | Trail runner | candidate_buy |
 | A03 | `shoes_danner_trail2650_gtx_black_shadow_01` | Danner Trail 2650 GTX Black Shadow | Trail shoe | candidate_buy |
@@ -273,12 +273,12 @@ This public file is generated from sanitized mirror data. It excludes private pr
 | C01 | `pants_uniqlo_ultra_stretch_olive_01` | UNIQLO Ultra Stretch Pants olive | Pants |  |
 | D01 | `pants_renner_flannel_plaid_01` | Calça flanela xadrez Renner | Sleep pants |  |
 | A02 | `shorts_taco_walkshort_flex_beige_01` | TACO Walkshort Flex bege | Walkshort |  |
-| B02 | `sneaker_pegada_119405_darkdune_01` | Pegada sapatênis couro com zíper | Casual sneaker |  |
+| B02 | `sneaker_velluti_everyday_brown_01` | Velluti Everyday sapatênis marrom | Casual sneaker |  |
 | C02 | `flipflop_havaianas_01` | Havaianas | Flip-flop |  |
-| D02 | `boots_timberland_mt_maddsen_wp_brown_01` | Timberland Mt. Maddsen Waterproof Hiking Boot | Hiking boot |  |
+| D02 | `boots_timberland_mt_maddsen_wp_brown_01` | Timberland Mt. Maddsen Mid Waterproof Hiking Boot | Hiking boot |  |
 | A03 | `shoes_cns_austin_oxford_17358_01` | CNS Austin Oxford social | Oxford shoe |  |
 | B03 | `slippers_lightweight_01` | Pantufas leves | Slippers |  |
-| C03 | `shoes_democrata_dune_hisoft_298202_01` | Democrata Dune Hi-Soft 298202 | Smart casual derby |  |
+| C03 | `shoes_democrata_dune_hisoft_298201_black_01` | Democrata Dune Hi-Soft 32 preto | Smart casual derby |  |
 | D03 | `sandals_teva_hurricane_xlt2_01` | Teva Hurricane XLT2 masculina | Sport sandal |  |
 | A04 | `blazer_tailored_beige_wedding_01` | Blazer bege de casamento | Blazer |  |
 | B04 | `blazer_casual_navy_01` | Blazer casual azul marinho | Blazer |  |
@@ -350,12 +350,12 @@ This public file is generated from sanitized mirror data. It excludes private pr
 | C01 | `pants_uniqlo_ultra_stretch_olive_01` | UNIQLO Ultra Stretch Pants olive | Pants |  |
 | D01 | `pants_renner_flannel_plaid_01` | Calça flanela xadrez Renner | Sleep pants |  |
 | A02 | `shorts_taco_walkshort_flex_beige_01` | TACO Walkshort Flex bege | Walkshort |  |
-| B02 | `sneaker_pegada_119405_darkdune_01` | Pegada sapatênis couro com zíper | Casual sneaker |  |
+| B02 | `sneaker_velluti_everyday_brown_01` | Velluti Everyday sapatênis marrom | Casual sneaker |  |
 | C02 | `flipflop_havaianas_01` | Havaianas | Flip-flop |  |
-| D02 | `boots_timberland_mt_maddsen_wp_brown_01` | Timberland Mt. Maddsen Waterproof Hiking Boot | Hiking boot |  |
+| D02 | `boots_timberland_mt_maddsen_wp_brown_01` | Timberland Mt. Maddsen Mid Waterproof Hiking Boot | Hiking boot |  |
 | A03 | `shoes_cns_austin_oxford_17358_01` | CNS Austin Oxford social | Oxford shoe |  |
 | B03 | `slippers_lightweight_01` | Pantufas leves | Slippers |  |
-| C03 | `shoes_democrata_dune_hisoft_298202_01` | Democrata Dune Hi-Soft 298202 | Smart casual derby |  |
+| C03 | `shoes_democrata_dune_hisoft_298201_black_01` | Democrata Dune Hi-Soft 32 preto | Smart casual derby |  |
 | D03 | `sandals_teva_hurricane_xlt2_01` | Teva Hurricane XLT2 masculina | Sport sandal |  |
 | A04 | `blazer_tailored_beige_wedding_01` | Blazer bege de casamento | Blazer |  |
 | B04 | `blazer_casual_navy_01` | Blazer casual azul marinho | Blazer |  |
@@ -479,19 +479,18 @@ This public file is generated from sanitized mirror data. It excludes private pr
 
 | Item ID | Name | Ownership/tags | Subcategory | Module | Color | Use/role | Scores | Images |
 |---|---|---|---|---|---|---|---|---|
-| `sneaker_pegada_119405_darkdune_01` | Pegada sapatênis couro com zíper | owned | Casual sneaker | Formal/Social | Dark dune / marrom | Casual urbano | urban 3.5 / travel 2.8 | 3 |
-| `sneaker_velluti_everyday_brown_01` | Velluti Everyday sapatênis marrom | owned | Casual sneaker | Urban Core / Casual | Marrom escuro com detalhes marrom médio | Sapatênis urbano marrom | urban 3.4 / travel 3.4 | 0 |
+| `sneaker_velluti_everyday_brown_01` | Velluti Everyday sapatênis marrom | owned | Casual sneaker | Urban Core / Casual | Marrom escuro com detalhes marrom médio | Sapatênis urbano marrom | urban 3.4 / travel 3.4 | 3 |
 | `flipflop_havaianas_01` | Havaianas | owned | Flip-flop | Hot/Water | ? | Banho/praia | urban 1 / travel 1.8 | 1 |
-| `boots_timberland_mt_maddsen_wp_brown_01` | Timberland Mt. Maddsen Waterproof Hiking Boot | owned | Hiking boot | Outdoor Core | Marrom | Bota robusta principal | urban 2 / travel 1.9 | 3 |
+| `boots_timberland_mt_maddsen_wp_brown_01` | Timberland Mt. Maddsen Mid Waterproof Hiking Boot | owned | Hiking boot | Outdoor Core | Marrom | Bota robusta principal | urban 2 / travel 1.9 | 1 |
 | `shoes_cns_austin_oxford_17358_01` | CNS Austin Oxford social | owned | Oxford shoe | Formal/Social | ? | Sapato formal clássico | urban 3 / travel 3.2 | 5 |
 | `slippers_lightweight_01` | Pantufas leves | owned | Slippers | Indoor/Comfort | ? | Conforto indoor | urban 0 / travel 1.8 | 2 |
-| `shoes_democrata_dune_hisoft_298202_01` | Democrata Dune Hi-Soft 298202 | owned | Smart casual derby | Formal/Social | Preto/tabaco? | Social descontraído | urban 3.5 / travel 3.2 | 2 |
+| `shoes_democrata_dune_hisoft_298201_black_01` | Democrata Dune Hi-Soft 32 preto | owned | Smart casual derby | Formal/Social | Preto com sola marrom e faixa clara | Social descontraído | urban 3.5 / travel 3.2 | 2 |
 | `sandals_teva_hurricane_xlt2_01` | Teva Hurricane XLT2 masculina | owned | Sport sandal | Hot/Water | Preta | Water/hot sandal | urban 1.5 / travel 1.9 | 2 |
 | `shoes_salomon_xultra_mid_gtx_black_01` | Salomon X Ultra Mid GTX preto | archived, archived | Technical hiking boot/shoe | Outdoor Core | Preto | Opção técnica de trilha | urban 2.5 / travel 2 | 1 |
 | `shoes_nike_pegasus_trail_5_01` | Nike Pegasus Trail 5 | not_owned, candidate_buy | Trail runner | Bike/Active | Preta/grafite ideal | Corrida + trilha leve | urban 3.5 / travel 2.6 | 1 |
 | `shoes_danner_trail2650_gtx_black_shadow_01` | Danner Trail 2650 GTX Black Shadow | not_owned, candidate_buy | Trail shoe | Bike/Active | Black Shadow | Exploração leve | urban 3.5 / travel 2.7 | 3 |
 | `boots_danner_mountain600_leaf_gtx_obsidian_01` | Danner Mountain 600 Leaf GTX Obsidian/Kangaroo | not_owned, candidate_buy | Urban hiking boot | Urban Core | Obsidian/Kangaroo | Bota urbano-rugged premium | urban 4 / travel 3.1 | 3 |
-| `shoes_aku_bellamont_iv_nbk_gtx_black_grey_01` | AKU Bellamont IV NBK GTX black-grey | not_owned, candidate_buy | Urban-outdoor GTX shoe | Urban Core | Black-grey | Urban-outdoor low shoe | urban 4.5 / travel 3.3 | 3 |
+| `shoes_aku_bellamont_iv_nbk_gtx_black_grey_01` | AKU Bellamont IV NBK GTX black-grey | not_owned, candidate_buy | Urban-outdoor GTX shoe | Urban Core | Black-grey | Urban-outdoor low shoe | urban 4.5 / travel 3.3 | 1 |
 | `boots_timberland_redwood_falls_wp_01` | Timberland Redwood Falls Waterproof | archived, archived | Waterproof casual boot | Urban Core | Marrom escuro/preto ideal | Bota pragmática urbano-outdoor | urban 4 / travel 2.9 | 0 |
 
 ### Category: outerwear
@@ -503,7 +502,7 @@ This public file is generated from sanitized mirror data. It excludes private pr
 | `blazer_tailored_black_old_01` | Blazer preto alfaiataria antiga | owned | Blazer | Formal / Social | Preto / charcoal | Blazer de terno antigo | urban 2 / travel 2.5 | 1 |
 | `down_uniqlo_navy_xs_01` | Jaqueta down UNIQLO azul marinho | owned | Down jacket | Thermal Layering | Azul marinho | Clean insulation | urban 3 / travel 3.5 | 2 |
 | `down_uniqlo_grey_s_01` | Jaqueta down UNIQLO cinza | owned | Down jacket | Thermal Layering | Cinza | Beater down | urban 2 / travel 2.9 | 1 |
-| `shell_quechua_raincut_halfzip_black_01` | Quechua Raincut 1/2 preta | owned | Emergency rain shell | Outdoor Core | Preta | Emergency rain shell | urban 1.5 / travel 2.2 | 0 |
+| `shell_quechua_raincut_halfzip_black_01` | Quechua Raincut 1/2 preta | archived, archived | Emergency rain shell | Outdoor Core | Preta | Emergency rain shell | urban 1.5 / travel 2.2 | 0 |
 | `fleece_uniqlo_green_halfzip_01` | Fleece UNIQLO verde meio zíper | owned | Fleece | Thermal Layering | Verde | Fleece meio zíper | urban 2 / travel 2.5 | 1 |
 | `fleece_inextenso_black_s_01` | Fleece preto In Extenso | owned | Fleece | Thermal Layering | Preto | Comfort midlayer | urban 2.5 / travel 3 | 2 |
 | `fleece_quechua_plaid_red_01` | Fleece/flanela Quechua xadrez vermelha | owned | Fleece | Thermal Layering | Vermelho xadrez | Fleece/flanela casual | urban 2 / travel 2.5 | 1 |
@@ -538,10 +537,10 @@ This public file is generated from sanitized mirror data. It excludes private pr
 | `shirt_avalanche_tropical_blue_01` | Avalanche camisa manga curta estampada | owned | Short sleeve shirt | Hot/Water / Casual Summer | Azul com estampa tropical branca/azul clara | Camisa casual de verão/praia | urban 2.4 / travel 2.4 | 2 |
 | `shirt_decathlon_short_sleeve_blue_technical_01` | Decathlon camisa técnica azul manga curta | owned | Short sleeve shirt | Outdoor Core / Hot Weather | Azul acinzentado listrado | Camisa técnica respirável de manga curta | urban 2.4 / travel 2.8 | 2 |
 | `shirt_vuori_short_sleeve_bluegrey_01` | Vuori camisa manga curta azul acinzentada | owned | Short sleeve shirt | Urban Core / Hot Weather | Azul acinzentado / slate blue | Camisa técnica casual para calor | urban 4 / travel 4 | 1 |
+| `tshirt_factored_white_01` | Factored camiseta branca | archived, archived | T-shirt | Casual / Work | Branca | Camiseta corporativa casual | urban 2.5 / travel 2.5 | 0 |
 | `tee_uniqlo_airism_crew_black_01` | UNIQLO AIRism Crew Neck T-Shirt | not_owned, candidate_buy | T-shirt | Urban Core | 09 BLACK | Camiseta técnica leve versátil | urban 3.5 / travel 3.5 | 1 |
 | `tee_uniqlo_dry_ex_black_01` | UNIQLO DRY-EX T-Shirt black | not_owned, candidate_buy | T-shirt | Urban Core | 09 BLACK | Camiseta tecnica de secagem rapida para uso diario e ativo | urban 3.5 / travel 4 | 1 |
 | `tshirt_insider_beige_sleep_01` | Camiseta Insider bege para pijama | owned | T-shirt | Sleep / Base | Bege | Camiseta de dormir | urban 2 / travel 2.5 | 1 |
-| `tshirt_factored_white_01` | Factored camiseta branca | owned | T-shirt | Casual / Work | Branca | Camiseta corporativa casual | urban 2.5 / travel 2.5 | 0 |
 | `tshirt_factored_black_01` | Factored camiseta preta | owned | T-shirt | Casual / Work | Preta | Camiseta corporativa casual discreta | urban 2.8 / travel 2.8 | 1 |
 | `tee_uniqlo_dry_color_black_xs_01` | UNIQLO DRY Color T-Shirt preta | owned, buy_more | T-shirt | Urban Core | Preta | Camiseta urbana core | urban 3.5 / travel 3.3 | 1 |
 | `tshirt_uniqlo_navy_01` | UNIQLO camiseta lisa navy | owned | T-shirt | Urban Core | Navy | Base urbana navy | urban 3.6 / travel 3.6 | 4 |
@@ -560,11 +559,10 @@ This public file is generated from sanitized mirror data. It excludes private pr
 
 | Item ID | Name | Category | Action | Priority | Notes |
 |---|---|---|---|---|---|
-| `sneaker_velluti_everyday_brown_01` | Velluti Everyday sapatênis marrom | Casual sneaker | Keep | medium | Pode sobrepor com Pegada; validar conforto e função. |
 | `boots_timberland_redwood_falls_wp_01` | Timberland Redwood Falls Waterproof | Waterproof casual boot | Test before buy | medium | Potential overlap |
-| `shell_quechua_raincut_halfzip_black_01` | Quechua Raincut 1/2 preta | Emergency rain shell | Keep | medium | Half zip limitation |
+| `shell_quechua_raincut_halfzip_black_01` | Quechua Raincut 1/2 preta | Emergency rain shell | Archived | low | Half zip limitation |
 | `jersey_longsleeve_fullzip_neutral_01` | Jersey manga longa neutra full zip | Cycling jersey | Consider if bike use frequent | medium | Reduz repetição visual |
-| `tshirt_factored_white_01` | Factored camiseta branca | T-shirt | Keep | low | Logo reduz versatilidade externa. |
+| `tshirt_factored_white_01` | Factored camiseta branca | T-shirt | Archived | low | Logo reduz versatilidade externa. |
 
 ## Prompt Pattern
 

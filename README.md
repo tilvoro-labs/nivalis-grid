@@ -16,13 +16,13 @@ This repository mirrors selected sanitized artifacts from a private wardrobe cat
 
 ## Current Stats
 
-- Items: 88
-- Owned items: 69
-- Public images: 140
+- Items: 87
+- Owned items: 66
+- Public images: 136
 - Items with public images: 83
-- Status counts: archived: 4, candidate_buy: 15, owned: 69
-- Ownership counts: archived: 4, not_owned: 15, owned: 69
-- Tag counts: archived: 4, buy_more: 1, candidate_buy: 15, maybe_replace: 1
+- Status counts: archived: 6, candidate_buy: 15, owned: 66
+- Ownership counts: archived: 6, not_owned: 15, owned: 66
+- Tag counts: archived: 6, buy_more: 1, candidate_buy: 15, maybe_replace: 1
 - Categories: accessory, bottom, footwear, outerwear, top, underwear
 
 ## Suggested AI Prompt

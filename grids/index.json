@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "generatedAt": "not-recorded",
   "sourceCatalog": "/private/tmp/nivalis-grid/data/catalog.json",
-  "sourceHash": "a59e60db12db0cb0bc26694788b71bd5763e01083b877635068610dcb416413e",
+  "sourceHash": "94a7c01b6b7c015e62a52a98e81bda5b609444d89203cacf6ef754788bcfcf56",
   "settings": {
     "imageField": "publicImages",
     "maxCellsPerGrid": 16,
@@ -13,9 +13,9 @@
     ]
   },
   "stats": {
-    "itemCount": 88,
+    "itemCount": 87,
     "gridCount": 71,
-    "totalCells": 599
+    "totalCells": 594
   },
   "grids": [
     {
@@ -420,17 +420,17 @@
         },
         {
           "cellId": "C03",
-          "itemId": "sneaker_pegada_119405_darkdune_01",
-          "itemName": "Pegada sapatênis couro com zíper",
+          "itemId": "sneaker_velluti_everyday_brown_01",
+          "itemName": "Velluti Everyday sapatênis marrom",
           "status": "owned",
           "ownership": "owned",
           "tags": [],
           "category": "footwear",
           "subcategory": "Casual sneaker",
-          "module": "Formal/Social",
-          "sourceImage": "assets/sneaker_pegada_119405_darkdune_01/online-01.jpg",
+          "module": "Urban Core / Casual",
+          "sourceImage": "assets/sneaker_velluti_everyday_brown_01/manual-01.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_pegada_119405_darkdune_01/online-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_velluti_everyday_brown_01/manual-01.jpg"
         },
         {
           "cellId": "D03",
@@ -449,16 +449,16 @@
         {
           "cellId": "A04",
           "itemId": "boots_timberland_mt_maddsen_wp_brown_01",
-          "itemName": "Timberland Mt. Maddsen Waterproof Hiking Boot",
+          "itemName": "Timberland Mt. Maddsen Mid Waterproof Hiking Boot",
           "status": "owned",
           "ownership": "owned",
           "tags": [],
           "category": "footwear",
           "subcategory": "Hiking boot",
           "module": "Outdoor Core",
-          "sourceImage": "assets/boots_timberland_mt_maddsen_wp_brown_01/online-01.jpg",
+          "sourceImage": "assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_timberland_mt_maddsen_wp_brown_01/online-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg"
         },
         {
           "cellId": "B04",
@@ -490,17 +490,17 @@
         },
         {
           "cellId": "D04",
-          "itemId": "shoes_democrata_dune_hisoft_298202_01",
-          "itemName": "Democrata Dune Hi-Soft 298202",
+          "itemId": "shoes_democrata_dune_hisoft_298201_black_01",
+          "itemName": "Democrata Dune Hi-Soft 32 preto",
           "status": "owned",
           "ownership": "owned",
           "tags": [],
           "category": "footwear",
           "subcategory": "Smart casual derby",
           "module": "Formal/Social",
-          "sourceImage": "assets/shoes_democrata_dune_hisoft_298202_01/online-01.jpg",
+          "sourceImage": "assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_democrata_dune_hisoft_298202_01/online-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg"
         }
       ]
     },
@@ -590,9 +590,9 @@
           "category": "footwear",
           "subcategory": "Urban-outdoor GTX shoe",
           "module": "Urban Core",
-          "sourceImage": "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-01.jpg",
+          "sourceImage": "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/official-01.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/official-01.jpg"
         },
         {
           "cellId": "B02",
@@ -962,9 +962,9 @@
           "category": "top",
           "subcategory": "Long sleeve shirt",
           "module": "Outdoor Core / Travel Legacy",
-          "sourceImage": "assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-01.jpg",
+          "sourceImage": "assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-02.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-02.jpg"
         },
         {
           "cellId": "C04",
@@ -976,9 +976,9 @@
           "category": "top",
           "subcategory": "Polo",
           "module": "Urban Core / Casual Work",
-          "sourceImage": "assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg",
+          "sourceImage": "assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg"
         },
         {
           "cellId": "D04",
@@ -1062,9 +1062,9 @@
           "category": "top",
           "subcategory": "Short sleeve shirt",
           "module": "Hot/Water / Casual Summer",
-          "sourceImage": "assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg",
+          "sourceImage": "assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg"
         },
         {
           "cellId": "A02",
@@ -2340,17 +2340,17 @@
       "cells": [
         {
           "cellId": "A01",
-          "itemId": "sneaker_pegada_119405_darkdune_01",
-          "itemName": "Pegada sapatênis couro com zíper",
+          "itemId": "sneaker_velluti_everyday_brown_01",
+          "itemName": "Velluti Everyday sapatênis marrom",
           "status": "owned",
           "ownership": "owned",
           "tags": [],
           "category": "footwear",
           "subcategory": "Casual sneaker",
-          "module": "Formal/Social",
-          "sourceImage": "assets/sneaker_pegada_119405_darkdune_01/online-01.jpg",
+          "module": "Urban Core / Casual",
+          "sourceImage": "assets/sneaker_velluti_everyday_brown_01/manual-01.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_pegada_119405_darkdune_01/online-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_velluti_everyday_brown_01/manual-01.jpg"
         },
         {
           "cellId": "B01",
@@ -2369,16 +2369,16 @@
         {
           "cellId": "C01",
           "itemId": "boots_timberland_mt_maddsen_wp_brown_01",
-          "itemName": "Timberland Mt. Maddsen Waterproof Hiking Boot",
+          "itemName": "Timberland Mt. Maddsen Mid Waterproof Hiking Boot",
           "status": "owned",
           "ownership": "owned",
           "tags": [],
           "category": "footwear",
           "subcategory": "Hiking boot",
           "module": "Outdoor Core",
-          "sourceImage": "assets/boots_timberland_mt_maddsen_wp_brown_01/online-01.jpg",
+          "sourceImage": "assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_timberland_mt_maddsen_wp_brown_01/online-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg"
         },
         {
           "cellId": "D01",
@@ -2410,17 +2410,17 @@
         },
         {
           "cellId": "B02",
-          "itemId": "shoes_democrata_dune_hisoft_298202_01",
-          "itemName": "Democrata Dune Hi-Soft 298202",
+          "itemId": "shoes_democrata_dune_hisoft_298201_black_01",
+          "itemName": "Democrata Dune Hi-Soft 32 preto",
           "status": "owned",
           "ownership": "owned",
           "tags": [],
           "category": "footwear",
           "subcategory": "Smart casual derby",
           "module": "Formal/Social",
-          "sourceImage": "assets/shoes_democrata_dune_hisoft_298202_01/online-01.jpg",
+          "sourceImage": "assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_democrata_dune_hisoft_298202_01/online-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg"
         },
         {
           "cellId": "C02",
@@ -2496,9 +2496,9 @@
           "category": "footwear",
           "subcategory": "Urban-outdoor GTX shoe",
           "module": "Urban Core",
-          "sourceImage": "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-01.jpg",
+          "sourceImage": "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/official-01.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/official-01.jpg"
         }
       ]
     },
@@ -2516,45 +2516,45 @@
       "cells": [
         {
           "cellId": "A01",
-          "itemId": "sneaker_pegada_119405_darkdune_01",
-          "itemName": "Pegada sapatênis couro com zíper",
+          "itemId": "sneaker_velluti_everyday_brown_01",
+          "itemName": "Velluti Everyday sapatênis marrom",
           "status": "owned",
           "ownership": "owned",
           "tags": [],
           "category": "footwear",
           "subcategory": "Casual sneaker",
-          "module": "Formal/Social",
-          "sourceImage": "assets/sneaker_pegada_119405_darkdune_01/online-01.jpg",
+          "module": "Urban Core / Casual",
+          "sourceImage": "assets/sneaker_velluti_everyday_brown_01/manual-01.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_pegada_119405_darkdune_01/online-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_velluti_everyday_brown_01/manual-01.jpg"
         },
         {
           "cellId": "B01",
-          "itemId": "sneaker_pegada_119405_darkdune_01",
-          "itemName": "Pegada sapatênis couro com zíper",
+          "itemId": "sneaker_velluti_everyday_brown_01",
+          "itemName": "Velluti Everyday sapatênis marrom",
           "status": "owned",
           "ownership": "owned",
           "tags": [],
           "category": "footwear",
           "subcategory": "Casual sneaker",
-          "module": "Formal/Social",
-          "sourceImage": "assets/sneaker_pegada_119405_darkdune_01/online-02.jpg",
+          "module": "Urban Core / Casual",
+          "sourceImage": "assets/sneaker_velluti_everyday_brown_01/manual-02.jpg",
           "sourceImageOrdinal": 2,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_pegada_119405_darkdune_01/online-02.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_velluti_everyday_brown_01/manual-02.jpg"
         },
         {
           "cellId": "C01",
-          "itemId": "sneaker_pegada_119405_darkdune_01",
-          "itemName": "Pegada sapatênis couro com zíper",
+          "itemId": "sneaker_velluti_everyday_brown_01",
+          "itemName": "Velluti Everyday sapatênis marrom",
           "status": "owned",
           "ownership": "owned",
           "tags": [],
           "category": "footwear",
           "subcategory": "Casual sneaker",
-          "module": "Formal/Social",
-          "sourceImage": "assets/sneaker_pegada_119405_darkdune_01/online-03.jpg",
+          "module": "Urban Core / Casual",
+          "sourceImage": "assets/sneaker_velluti_everyday_brown_01/manual-detail-01.jpg",
           "sourceImageOrdinal": 3,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_pegada_119405_darkdune_01/online-03.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_velluti_everyday_brown_01/manual-detail-01.jpg"
         },
         {
           "cellId": "D01",
@@ -2573,47 +2573,19 @@
         {
           "cellId": "A02",
           "itemId": "boots_timberland_mt_maddsen_wp_brown_01",
-          "itemName": "Timberland Mt. Maddsen Waterproof Hiking Boot",
+          "itemName": "Timberland Mt. Maddsen Mid Waterproof Hiking Boot",
           "status": "owned",
           "ownership": "owned",
           "tags": [],
           "category": "footwear",
           "subcategory": "Hiking boot",
           "module": "Outdoor Core",
-          "sourceImage": "assets/boots_timberland_mt_maddsen_wp_brown_01/online-01.jpg",
+          "sourceImage": "assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_timberland_mt_maddsen_wp_brown_01/online-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg"
         },
         {
           "cellId": "B02",
-          "itemId": "boots_timberland_mt_maddsen_wp_brown_01",
-          "itemName": "Timberland Mt. Maddsen Waterproof Hiking Boot",
-          "status": "owned",
-          "ownership": "owned",
-          "tags": [],
-          "category": "footwear",
-          "subcategory": "Hiking boot",
-          "module": "Outdoor Core",
-          "sourceImage": "assets/boots_timberland_mt_maddsen_wp_brown_01/online-02.jpg",
-          "sourceImageOrdinal": 2,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_timberland_mt_maddsen_wp_brown_01/online-02.jpg"
-        },
-        {
-          "cellId": "C02",
-          "itemId": "boots_timberland_mt_maddsen_wp_brown_01",
-          "itemName": "Timberland Mt. Maddsen Waterproof Hiking Boot",
-          "status": "owned",
-          "ownership": "owned",
-          "tags": [],
-          "category": "footwear",
-          "subcategory": "Hiking boot",
-          "module": "Outdoor Core",
-          "sourceImage": "assets/boots_timberland_mt_maddsen_wp_brown_01/online-03.jpg",
-          "sourceImageOrdinal": 3,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_timberland_mt_maddsen_wp_brown_01/online-03.jpg"
-        },
-        {
-          "cellId": "D02",
           "itemId": "shoes_cns_austin_oxford_17358_01",
           "itemName": "CNS Austin Oxford social",
           "status": "owned",
@@ -2627,7 +2599,7 @@
           "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-01.jpg"
         },
         {
-          "cellId": "A03",
+          "cellId": "C02",
           "itemId": "shoes_cns_austin_oxford_17358_01",
           "itemName": "CNS Austin Oxford social",
           "status": "owned",
@@ -2641,7 +2613,7 @@
           "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-02.jpg"
         },
         {
-          "cellId": "B03",
+          "cellId": "D02",
           "itemId": "shoes_cns_austin_oxford_17358_01",
           "itemName": "CNS Austin Oxford social",
           "status": "owned",
@@ -2655,7 +2627,7 @@
           "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_cns_austin_oxford_17358_01/online-01.jpg"
         },
         {
-          "cellId": "C03",
+          "cellId": "A03",
           "itemId": "shoes_cns_austin_oxford_17358_01",
           "itemName": "CNS Austin Oxford social",
           "status": "owned",
@@ -2669,7 +2641,7 @@
           "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_cns_austin_oxford_17358_01/online-02.jpg"
         },
         {
-          "cellId": "D03",
+          "cellId": "B03",
           "itemId": "shoes_cns_austin_oxford_17358_01",
           "itemName": "CNS Austin Oxford social",
           "status": "owned",
@@ -2683,7 +2655,7 @@
           "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_cns_austin_oxford_17358_01/online-03.jpg"
         },
         {
-          "cellId": "A04",
+          "cellId": "C03",
           "itemId": "slippers_lightweight_01",
           "itemName": "Pantufas leves",
           "status": "owned",
@@ -2697,7 +2669,7 @@
           "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/slippers_lightweight_01/manual-whatsapp-01.jpg"
         },
         {
-          "cellId": "B04",
+          "cellId": "D03",
           "itemId": "slippers_lightweight_01",
           "itemName": "Pantufas leves",
           "status": "owned",
@@ -2711,49 +2683,35 @@
           "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/slippers_lightweight_01/manual-whatsapp-02.jpg"
         },
         {
-          "cellId": "C04",
-          "itemId": "shoes_democrata_dune_hisoft_298202_01",
-          "itemName": "Democrata Dune Hi-Soft 298202",
+          "cellId": "A04",
+          "itemId": "shoes_democrata_dune_hisoft_298201_black_01",
+          "itemName": "Democrata Dune Hi-Soft 32 preto",
           "status": "owned",
           "ownership": "owned",
           "tags": [],
           "category": "footwear",
           "subcategory": "Smart casual derby",
           "module": "Formal/Social",
-          "sourceImage": "assets/shoes_democrata_dune_hisoft_298202_01/online-01.jpg",
+          "sourceImage": "assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_democrata_dune_hisoft_298202_01/online-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg"
         },
         {
-          "cellId": "D04",
-          "itemId": "shoes_democrata_dune_hisoft_298202_01",
-          "itemName": "Democrata Dune Hi-Soft 298202",
+          "cellId": "B04",
+          "itemId": "shoes_democrata_dune_hisoft_298201_black_01",
+          "itemName": "Democrata Dune Hi-Soft 32 preto",
           "status": "owned",
           "ownership": "owned",
           "tags": [],
           "category": "footwear",
           "subcategory": "Smart casual derby",
           "module": "Formal/Social",
-          "sourceImage": "assets/shoes_democrata_dune_hisoft_298202_01/online-02.jpg",
+          "sourceImage": "assets/shoes_democrata_dune_hisoft_298201_black_01/official-02.jpg",
           "sourceImageOrdinal": 2,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_democrata_dune_hisoft_298202_01/online-02.jpg"
-        }
-      ]
-    },
-    {
-      "gridId": "category-all-images/footwear-p02",
-      "title": "Category: footwear · all images",
-      "groupType": "category",
-      "groupValue": "footwear",
-      "mode": "all-images",
-      "page": 2,
-      "pageCount": 2,
-      "path": "grids/category-all-images/footwear-p02.jpg",
-      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/category-all-images/footwear-p02.jpg",
-      "cellCount": 12,
-      "cells": [
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_democrata_dune_hisoft_298201_black_01/official-02.jpg"
+        },
         {
-          "cellId": "A01",
+          "cellId": "C04",
           "itemId": "sandals_teva_hurricane_xlt2_01",
           "itemName": "Teva Hurricane XLT2 masculina",
           "status": "owned",
@@ -2767,7 +2725,7 @@
           "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sandals_teva_hurricane_xlt2_01/manual-whatsapp-01.jpg"
         },
         {
-          "cellId": "B01",
+          "cellId": "D04",
           "itemId": "sandals_teva_hurricane_xlt2_01",
           "itemName": "Teva Hurricane XLT2 masculina",
           "status": "owned",
@@ -2779,9 +2737,23 @@
           "sourceImage": "assets/sandals_teva_hurricane_xlt2_01/manual-whatsapp-02.jpg",
           "sourceImageOrdinal": 2,
           "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sandals_teva_hurricane_xlt2_01/manual-whatsapp-02.jpg"
-        },
+        }
+      ]
+    },
+    {
+      "gridId": "category-all-images/footwear-p02",
+      "title": "Category: footwear · all images",
+      "groupType": "category",
+      "groupValue": "footwear",
+      "mode": "all-images",
+      "page": 2,
+      "pageCount": 2,
+      "path": "grids/category-all-images/footwear-p02.jpg",
+      "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/category-all-images/footwear-p02.jpg",
+      "cellCount": 8,
+      "cells": [
         {
-          "cellId": "C01",
+          "cellId": "A01",
           "itemId": "shoes_nike_pegasus_trail_5_01",
           "itemName": "Nike Pegasus Trail 5",
           "status": "candidate_buy",
@@ -2797,7 +2769,7 @@
           "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_nike_pegasus_trail_5_01/manual-01.jpg"
         },
         {
-          "cellId": "D01",
+          "cellId": "B01",
           "itemId": "shoes_danner_trail2650_gtx_black_shadow_01",
           "itemName": "Danner Trail 2650 GTX Black Shadow",
           "status": "candidate_buy",
@@ -2813,7 +2785,7 @@
           "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_danner_trail2650_gtx_black_shadow_01/online-01.jpg"
         },
         {
-          "cellId": "A02",
+          "cellId": "C01",
           "itemId": "shoes_danner_trail2650_gtx_black_shadow_01",
           "itemName": "Danner Trail 2650 GTX Black Shadow",
           "status": "candidate_buy",
@@ -2829,7 +2801,7 @@
           "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_danner_trail2650_gtx_black_shadow_01/online-02.jpg"
         },
         {
-          "cellId": "B02",
+          "cellId": "D01",
           "itemId": "shoes_danner_trail2650_gtx_black_shadow_01",
           "itemName": "Danner Trail 2650 GTX Black Shadow",
           "status": "candidate_buy",
@@ -2845,7 +2817,7 @@
           "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_danner_trail2650_gtx_black_shadow_01/online-03.jpg"
         },
         {
-          "cellId": "C02",
+          "cellId": "A02",
           "itemId": "boots_danner_mountain600_leaf_gtx_obsidian_01",
           "itemName": "Danner Mountain 600 Leaf GTX Obsidian/Kangaroo",
           "status": "candidate_buy",
@@ -2861,7 +2833,7 @@
           "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-01.jpg"
         },
         {
-          "cellId": "D02",
+          "cellId": "B02",
           "itemId": "boots_danner_mountain600_leaf_gtx_obsidian_01",
           "itemName": "Danner Mountain 600 Leaf GTX Obsidian/Kangaroo",
           "status": "candidate_buy",
@@ -2877,7 +2849,7 @@
           "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-02.jpg"
         },
         {
-          "cellId": "A03",
+          "cellId": "C02",
           "itemId": "boots_danner_mountain600_leaf_gtx_obsidian_01",
           "itemName": "Danner Mountain 600 Leaf GTX Obsidian/Kangaroo",
           "status": "candidate_buy",
@@ -2893,7 +2865,7 @@
           "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-03.jpg"
         },
         {
-          "cellId": "B03",
+          "cellId": "D02",
           "itemId": "shoes_aku_bellamont_iv_nbk_gtx_black_grey_01",
           "itemName": "AKU Bellamont IV NBK GTX black-grey",
           "status": "candidate_buy",
@@ -2904,41 +2876,9 @@
           "category": "footwear",
           "subcategory": "Urban-outdoor GTX shoe",
           "module": "Urban Core",
-          "sourceImage": "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-01.jpg",
+          "sourceImage": "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/official-01.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-01.jpg"
-        },
-        {
-          "cellId": "C03",
-          "itemId": "shoes_aku_bellamont_iv_nbk_gtx_black_grey_01",
-          "itemName": "AKU Bellamont IV NBK GTX black-grey",
-          "status": "candidate_buy",
-          "ownership": "not_owned",
-          "tags": [
-            "candidate_buy"
-          ],
-          "category": "footwear",
-          "subcategory": "Urban-outdoor GTX shoe",
-          "module": "Urban Core",
-          "sourceImage": "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-02.jpg",
-          "sourceImageOrdinal": 2,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-02.jpg"
-        },
-        {
-          "cellId": "D03",
-          "itemId": "shoes_aku_bellamont_iv_nbk_gtx_black_grey_01",
-          "itemName": "AKU Bellamont IV NBK GTX black-grey",
-          "status": "candidate_buy",
-          "ownership": "not_owned",
-          "tags": [
-            "candidate_buy"
-          ],
-          "category": "footwear",
-          "subcategory": "Urban-outdoor GTX shoe",
-          "module": "Urban Core",
-          "sourceImage": "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-03.jpg",
-          "sourceImageOrdinal": 3,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-03.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/official-01.jpg"
         }
       ]
     },
@@ -3628,9 +3568,9 @@
           "category": "top",
           "subcategory": "Long sleeve shirt",
           "module": "Outdoor Core / Travel Legacy",
-          "sourceImage": "assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-01.jpg",
+          "sourceImage": "assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-02.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-02.jpg"
         },
         {
           "cellId": "D03",
@@ -3642,9 +3582,9 @@
           "category": "top",
           "subcategory": "Polo",
           "module": "Urban Core / Casual Work",
-          "sourceImage": "assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg",
+          "sourceImage": "assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg"
         },
         {
           "cellId": "A04",
@@ -3728,9 +3668,9 @@
           "category": "top",
           "subcategory": "Short sleeve shirt",
           "module": "Hot/Water / Casual Summer",
-          "sourceImage": "assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg",
+          "sourceImage": "assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg"
         },
         {
           "cellId": "B01",
@@ -4086,9 +4026,9 @@
           "category": "top",
           "subcategory": "Long sleeve shirt",
           "module": "Outdoor Core / Travel Legacy",
-          "sourceImage": "assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-01.jpg",
+          "sourceImage": "assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-02.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-02.jpg"
         },
         {
           "cellId": "B04",
@@ -4100,9 +4040,9 @@
           "category": "top",
           "subcategory": "Long sleeve shirt",
           "module": "Outdoor Core / Travel Legacy",
-          "sourceImage": "assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-02.jpg",
+          "sourceImage": "assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-01.jpg",
           "sourceImageOrdinal": 2,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-02.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-01.jpg"
         },
         {
           "cellId": "C04",
@@ -4114,9 +4054,9 @@
           "category": "top",
           "subcategory": "Polo",
           "module": "Urban Core / Casual Work",
-          "sourceImage": "assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg",
+          "sourceImage": "assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg"
         },
         {
           "cellId": "D04",
@@ -4128,9 +4068,9 @@
           "category": "top",
           "subcategory": "Polo",
           "module": "Urban Core / Casual Work",
-          "sourceImage": "assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg",
+          "sourceImage": "assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg",
           "sourceImageOrdinal": 2,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg"
         }
       ]
     },
@@ -4276,9 +4216,9 @@
           "category": "top",
           "subcategory": "Short sleeve shirt",
           "module": "Hot/Water / Casual Summer",
-          "sourceImage": "assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg",
+          "sourceImage": "assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg"
         },
         {
           "cellId": "B03",
@@ -4290,9 +4230,9 @@
           "category": "top",
           "subcategory": "Short sleeve shirt",
           "module": "Hot/Water / Casual Summer",
-          "sourceImage": "assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg",
+          "sourceImage": "assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg",
           "sourceImageOrdinal": 2,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg"
         },
         {
           "cellId": "C03",
@@ -5156,9 +5096,9 @@
           "category": "top",
           "subcategory": "Polo",
           "module": "Urban Core / Casual Work",
-          "sourceImage": "assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg",
+          "sourceImage": "assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg"
         },
         {
           "cellId": "B01",
@@ -5256,9 +5196,9 @@
           "category": "top",
           "subcategory": "Short sleeve shirt",
           "module": "Hot/Water / Casual Summer",
-          "sourceImage": "assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg",
+          "sourceImage": "assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg"
         },
         {
           "cellId": "B01",
@@ -5832,7 +5772,7 @@
       "pageCount": 1,
       "path": "grids/module/formal-social-p01.jpg",
       "url": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/grids/module/formal-social-p01.jpg",
-      "cellCount": 6,
+      "cellCount": 5,
       "cells": [
         {
           "cellId": "A01",
@@ -5850,20 +5790,6 @@
         },
         {
           "cellId": "B01",
-          "itemId": "sneaker_pegada_119405_darkdune_01",
-          "itemName": "Pegada sapatênis couro com zíper",
-          "status": "owned",
-          "ownership": "owned",
-          "tags": [],
-          "category": "footwear",
-          "subcategory": "Casual sneaker",
-          "module": "Formal/Social",
-          "sourceImage": "assets/sneaker_pegada_119405_darkdune_01/online-01.jpg",
-          "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_pegada_119405_darkdune_01/online-01.jpg"
-        },
-        {
-          "cellId": "C01",
           "itemId": "shoes_cns_austin_oxford_17358_01",
           "itemName": "CNS Austin Oxford social",
           "status": "owned",
@@ -5877,21 +5803,21 @@
           "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-01.jpg"
         },
         {
-          "cellId": "D01",
-          "itemId": "shoes_democrata_dune_hisoft_298202_01",
-          "itemName": "Democrata Dune Hi-Soft 298202",
+          "cellId": "C01",
+          "itemId": "shoes_democrata_dune_hisoft_298201_black_01",
+          "itemName": "Democrata Dune Hi-Soft 32 preto",
           "status": "owned",
           "ownership": "owned",
           "tags": [],
           "category": "footwear",
           "subcategory": "Smart casual derby",
           "module": "Formal/Social",
-          "sourceImage": "assets/shoes_democrata_dune_hisoft_298202_01/online-01.jpg",
+          "sourceImage": "assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_democrata_dune_hisoft_298202_01/online-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg"
         },
         {
-          "cellId": "A02",
+          "cellId": "D01",
           "itemId": "shirt_tailored_white_wedding_01",
           "itemName": "Camisa social branca sob medida",
           "status": "owned",
@@ -5905,7 +5831,7 @@
           "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_tailored_white_wedding_01/manual-whatsapp-01.jpg"
         },
         {
-          "cellId": "B02",
+          "cellId": "A02",
           "itemId": "shirt_muji_brown_s_01",
           "itemName": "MUJI Men's Flannel Shirt brown",
           "status": "owned",
@@ -6028,9 +5954,9 @@
           "category": "top",
           "subcategory": "Short sleeve shirt",
           "module": "Hot/Water / Casual Summer",
-          "sourceImage": "assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg",
+          "sourceImage": "assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg"
         }
       ]
     },
@@ -6161,16 +6087,16 @@
         {
           "cellId": "B02",
           "itemId": "boots_timberland_mt_maddsen_wp_brown_01",
-          "itemName": "Timberland Mt. Maddsen Waterproof Hiking Boot",
+          "itemName": "Timberland Mt. Maddsen Mid Waterproof Hiking Boot",
           "status": "owned",
           "ownership": "owned",
           "tags": [],
           "category": "footwear",
           "subcategory": "Hiking boot",
           "module": "Outdoor Core",
-          "sourceImage": "assets/boots_timberland_mt_maddsen_wp_brown_01/online-01.jpg",
+          "sourceImage": "assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_timberland_mt_maddsen_wp_brown_01/online-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg"
         },
         {
           "cellId": "C02",
@@ -6502,9 +6428,9 @@
           "category": "footwear",
           "subcategory": "Urban-outdoor GTX shoe",
           "module": "Urban Core",
-          "sourceImage": "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-01.jpg",
+          "sourceImage": "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/official-01.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/official-01.jpg"
         },
         {
           "cellId": "A03",
@@ -6928,9 +6854,9 @@
           "category": "footwear",
           "subcategory": "Urban-outdoor GTX shoe",
           "module": "Urban Core",
-          "sourceImage": "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-01.jpg",
+          "sourceImage": "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/official-01.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/official-01.jpg"
         },
         {
           "cellId": "B03",
@@ -7352,17 +7278,17 @@
         },
         {
           "cellId": "B02",
-          "itemId": "sneaker_pegada_119405_darkdune_01",
-          "itemName": "Pegada sapatênis couro com zíper",
+          "itemId": "sneaker_velluti_everyday_brown_01",
+          "itemName": "Velluti Everyday sapatênis marrom",
           "status": "owned",
           "ownership": "owned",
           "tags": [],
           "category": "footwear",
           "subcategory": "Casual sneaker",
-          "module": "Formal/Social",
-          "sourceImage": "assets/sneaker_pegada_119405_darkdune_01/online-01.jpg",
+          "module": "Urban Core / Casual",
+          "sourceImage": "assets/sneaker_velluti_everyday_brown_01/manual-01.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_pegada_119405_darkdune_01/online-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_velluti_everyday_brown_01/manual-01.jpg"
         },
         {
           "cellId": "C02",
@@ -7381,16 +7307,16 @@
         {
           "cellId": "D02",
           "itemId": "boots_timberland_mt_maddsen_wp_brown_01",
-          "itemName": "Timberland Mt. Maddsen Waterproof Hiking Boot",
+          "itemName": "Timberland Mt. Maddsen Mid Waterproof Hiking Boot",
           "status": "owned",
           "ownership": "owned",
           "tags": [],
           "category": "footwear",
           "subcategory": "Hiking boot",
           "module": "Outdoor Core",
-          "sourceImage": "assets/boots_timberland_mt_maddsen_wp_brown_01/online-01.jpg",
+          "sourceImage": "assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_timberland_mt_maddsen_wp_brown_01/online-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg"
         },
         {
           "cellId": "A03",
@@ -7422,17 +7348,17 @@
         },
         {
           "cellId": "C03",
-          "itemId": "shoes_democrata_dune_hisoft_298202_01",
-          "itemName": "Democrata Dune Hi-Soft 298202",
+          "itemId": "shoes_democrata_dune_hisoft_298201_black_01",
+          "itemName": "Democrata Dune Hi-Soft 32 preto",
           "status": "owned",
           "ownership": "owned",
           "tags": [],
           "category": "footwear",
           "subcategory": "Smart casual derby",
           "module": "Formal/Social",
-          "sourceImage": "assets/shoes_democrata_dune_hisoft_298202_01/online-01.jpg",
+          "sourceImage": "assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_democrata_dune_hisoft_298202_01/online-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg"
         },
         {
           "cellId": "D03",
@@ -7782,9 +7708,9 @@
           "category": "top",
           "subcategory": "Long sleeve shirt",
           "module": "Outdoor Core / Travel Legacy",
-          "sourceImage": "assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-01.jpg",
+          "sourceImage": "assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-02.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-02.jpg"
         },
         {
           "cellId": "C01",
@@ -7796,9 +7722,9 @@
           "category": "top",
           "subcategory": "Polo",
           "module": "Urban Core / Casual Work",
-          "sourceImage": "assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg",
+          "sourceImage": "assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg"
         },
         {
           "cellId": "D01",
@@ -7852,9 +7778,9 @@
           "category": "top",
           "subcategory": "Short sleeve shirt",
           "module": "Hot/Water / Casual Summer",
-          "sourceImage": "assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg",
+          "sourceImage": "assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg"
         },
         {
           "cellId": "D02",
@@ -8226,9 +8152,9 @@
           "category": "footwear",
           "subcategory": "Urban-outdoor GTX shoe",
           "module": "Urban Core",
-          "sourceImage": "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-01.jpg",
+          "sourceImage": "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/official-01.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/official-01.jpg"
         },
         {
           "cellId": "B03",
@@ -8650,17 +8576,17 @@
         },
         {
           "cellId": "B02",
-          "itemId": "sneaker_pegada_119405_darkdune_01",
-          "itemName": "Pegada sapatênis couro com zíper",
+          "itemId": "sneaker_velluti_everyday_brown_01",
+          "itemName": "Velluti Everyday sapatênis marrom",
           "status": "owned",
           "ownership": "owned",
           "tags": [],
           "category": "footwear",
           "subcategory": "Casual sneaker",
-          "module": "Formal/Social",
-          "sourceImage": "assets/sneaker_pegada_119405_darkdune_01/online-01.jpg",
+          "module": "Urban Core / Casual",
+          "sourceImage": "assets/sneaker_velluti_everyday_brown_01/manual-01.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_pegada_119405_darkdune_01/online-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_velluti_everyday_brown_01/manual-01.jpg"
         },
         {
           "cellId": "C02",
@@ -8679,16 +8605,16 @@
         {
           "cellId": "D02",
           "itemId": "boots_timberland_mt_maddsen_wp_brown_01",
-          "itemName": "Timberland Mt. Maddsen Waterproof Hiking Boot",
+          "itemName": "Timberland Mt. Maddsen Mid Waterproof Hiking Boot",
           "status": "owned",
           "ownership": "owned",
           "tags": [],
           "category": "footwear",
           "subcategory": "Hiking boot",
           "module": "Outdoor Core",
-          "sourceImage": "assets/boots_timberland_mt_maddsen_wp_brown_01/online-01.jpg",
+          "sourceImage": "assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_timberland_mt_maddsen_wp_brown_01/online-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg"
         },
         {
           "cellId": "A03",
@@ -8720,17 +8646,17 @@
         },
         {
           "cellId": "C03",
-          "itemId": "shoes_democrata_dune_hisoft_298202_01",
-          "itemName": "Democrata Dune Hi-Soft 298202",
+          "itemId": "shoes_democrata_dune_hisoft_298201_black_01",
+          "itemName": "Democrata Dune Hi-Soft 32 preto",
           "status": "owned",
           "ownership": "owned",
           "tags": [],
           "category": "footwear",
           "subcategory": "Smart casual derby",
           "module": "Formal/Social",
-          "sourceImage": "assets/shoes_democrata_dune_hisoft_298202_01/online-01.jpg",
+          "sourceImage": "assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_democrata_dune_hisoft_298202_01/online-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg"
         },
         {
           "cellId": "D03",
@@ -9080,9 +9006,9 @@
           "category": "top",
           "subcategory": "Long sleeve shirt",
           "module": "Outdoor Core / Travel Legacy",
-          "sourceImage": "assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-01.jpg",
+          "sourceImage": "assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-02.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-02.jpg"
         },
         {
           "cellId": "C01",
@@ -9094,9 +9020,9 @@
           "category": "top",
           "subcategory": "Polo",
           "module": "Urban Core / Casual Work",
-          "sourceImage": "assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg",
+          "sourceImage": "assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg"
         },
         {
           "cellId": "D01",
@@ -9150,9 +9076,9 @@
           "category": "top",
           "subcategory": "Short sleeve shirt",
           "module": "Hot/Water / Casual Summer",
-          "sourceImage": "assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg",
+          "sourceImage": "assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg"
         },
         {
           "cellId": "D02",
@@ -9554,9 +9480,9 @@
           "category": "footwear",
           "subcategory": "Urban-outdoor GTX shoe",
           "module": "Urban Core",
-          "sourceImage": "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-01.jpg",
+          "sourceImage": "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/official-01.jpg",
           "sourceImageOrdinal": 1,
-          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-01.jpg"
+          "sourceImageUrl": "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/official-01.jpg"
         },
         {
           "cellId": "B03",

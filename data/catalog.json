@@ -9,25 +9,25 @@
     "Product/source URLs and remote product image URLs may be included when present in item metadata."
   ],
   "stats": {
-    "itemCount": 88,
+    "itemCount": 87,
     "statusCounts": {
-      "archived": 4,
+      "archived": 6,
       "candidate_buy": 15,
-      "owned": 69
+      "owned": 66
     },
     "ownershipCounts": {
-      "archived": 4,
+      "archived": 6,
       "not_owned": 15,
-      "owned": 69
+      "owned": 66
     },
     "tagCounts": {
-      "archived": 4,
+      "archived": 6,
       "buy_more": 1,
       "candidate_buy": 15,
       "maybe_replace": 1
     },
-    "ownedCount": 69,
-    "publicImageCount": 140,
+    "ownedCount": 66,
+    "publicImageCount": 136,
     "itemsWithPublicImages": 83,
     "categories": [
       "accessory",
@@ -578,9 +578,9 @@
     {
       "id": "boots_timberland_mt_maddsen_wp_brown_01",
       "status": "owned",
-      "name": "Timberland Mt. Maddsen Waterproof Hiking Boot",
+      "name": "Timberland Mt. Maddsen Mid Waterproof Hiking Boot",
       "brand": "Timberland",
-      "model": "Mt. Maddsen Waterproof",
+      "model": "Mt. Maddsen Mid Waterproof Hiking Boot TB12730R242",
       "module": "Outdoor Core",
       "category": "footwear",
       "subcategory": "Hiking boot",
@@ -590,9 +590,9 @@
       "colorFamily": [
         "earth"
       ],
-      "materialTech": "Couro waterproof + membrana impermeável",
+      "materialTech": "Premium Timberland waterproof leather + TimberDry waterproof membrane + ReBOTL lining + Anti-Fatigue footbed",
       "weight": {
-        "estimatedGrams": 1000,
+        "estimatedGrams": 1237,
         "confidence": "medium"
       },
       "bestUse": [
@@ -628,36 +628,31 @@
       "priority": "high",
       "sourceLinks": [
         {
-          "label": "Timberland",
-          "url": "https://www.amazon.com/Timberland-Maddsen-Anti-Fatigue-Wateproof-Full-Grain/dp/B0CPSKW8J9",
+          "label": "Timberland product page",
+          "url": "https://www.timberland.com/en-us/p/men/footwear-10039/mens-mt-maddsen-waterproof-mid-hiking-boot-TB12730R242?width=M",
           "role": "product"
         }
       ],
       "media": {
         "remoteImages": [
-          "https://m.media-amazon.com/images/G/01/share-icons/previewdoh/amazon.png",
-          "https://m.media-amazon.com/images/G/01/social_share/amazon_logo._CB635397845_.png",
-          "https://m.media-amazon.com/images/G/01/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB779528203_.png"
+          "https://assets.timberland.com/images/t_img/f_auto,h_1300,e_sharpen:60,w_1300/dpr_2.0/v1718941366/TB12730R242-HERO/Mens-Mt-Maddsen-Mid-Waterproof-Hiking-Boot-TBL-HERO.png",
+          "https://assets.timberland.com/images/t_img/f_auto,h_1300,e_sharpen:60,w_1300/dpr_2.0/v1718941367/TB12730R242-ALT4/Mens-Mt-Maddsen-Mid-Waterproof-Hiking-Boot-TBL-ALT4.png"
         ],
         "sourceLinks": [
           {
-            "label": "Timberland",
-            "url": "https://www.amazon.com/Timberland-Maddsen-Anti-Fatigue-Wateproof-Full-Grain/dp/B0CPSKW8J9",
+            "label": "Timberland product page",
+            "url": "https://www.timberland.com/en-us/p/men/footwear-10039/mens-mt-maddsen-waterproof-mid-hiking-boot-TB12730R242?width=M",
             "role": "product"
           }
         ],
         "publicImages": [
-          "assets/boots_timberland_mt_maddsen_wp_brown_01/online-01.jpg",
-          "assets/boots_timberland_mt_maddsen_wp_brown_01/online-02.jpg",
-          "assets/boots_timberland_mt_maddsen_wp_brown_01/online-03.jpg"
+          "assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_timberland_mt_maddsen_wp_brown_01/online-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_timberland_mt_maddsen_wp_brown_01/online-02.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_timberland_mt_maddsen_wp_brown_01/online-03.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg"
         ]
       },
-      "notes": "Provou funcionar em mochilão de 1 ano; estética outdoor.",
+      "notes": "Provou funcionar em mochilão de 1 ano; estética outdoor. Página oficial lista cor Dark Brown, waterproof Premium Timberland leather, TimberDry membrane, ReBOTL lining, Anti-Fatigue footbed, EVA midsole and rubber lug outsole. Peso de referência: 618.47 g por bota em Men's size 9; peso do par estimado no catálogo.",
       "modelConfidence": "high",
       "gapOrRedundancy": "Worn-only in travel pack",
       "ownership": "owned",
@@ -2563,12 +2558,12 @@
         "remoteImages": [],
         "sourceLinks": [],
         "publicImages": [
-          "assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg",
-          "assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg"
+          "assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg",
+          "assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg"
         ]
       },
       "modelConfidence": "medium",
@@ -2609,7 +2604,7 @@
       "role": "Polo preta casual com bom caimento",
       "purchaseAction": "Keep",
       "priority": "medium",
-      "notes": "Dropbox inbox 2026-07-04: usuário tem apego; peça já um pouco velha, mas com caimento muito bom. Considerar para home office e ambientes não tão formais."
+      "notes": "Dropbox inbox 2026-07-04: usuário tem apego; peça já um pouco velha, mas com caimento muito bom. Foto principal deve mostrar a peça inteira; foto de etiqueta fica como referência secundária. Considerar para home office e ambientes não tão formais."
     },
     {
       "id": "polo_vuori_strato_black_01",
@@ -2845,7 +2840,7 @@
     },
     {
       "id": "shell_quechua_raincut_halfzip_black_01",
-      "status": "owned",
+      "status": "archived",
       "name": "Quechua Raincut 1/2 preta",
       "brand": "Decathlon / Quechua",
       "model": "Raincut 1/2",
@@ -2891,8 +2886,8 @@
         "travelPack": 3
       },
       "role": "Emergency rain shell",
-      "purchaseAction": "Keep",
-      "priority": "medium",
+      "purchaseAction": "Archived",
+      "priority": "low",
       "sourceLinks": [
         {
           "label": "Decathlon / Quechua",
@@ -2912,11 +2907,13 @@
         "publicImages": [],
         "publicImageUrls": []
       },
-      "notes": "Muito compacta; meia abertura limita uso como shell principal.",
+      "notes": "Arquivada em 2026-07-04. Muito compacta; meia abertura limita uso como shell principal.",
       "modelConfidence": "high",
       "gapOrRedundancy": "Half zip limitation",
-      "ownership": "owned",
-      "tags": []
+      "ownership": "archived",
+      "tags": [
+        "archived"
+      ]
     },
     {
       "id": "shell_tnf_alta_vista_blue_01",
@@ -3231,12 +3228,12 @@
         "remoteImages": [],
         "sourceLinks": [],
         "publicImages": [
-          "assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg",
-          "assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg"
+          "assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg",
+          "assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg"
         ]
       },
       "notes": "Camisa casual de verão/praia. Menos coerente para cliente. WhatsApp inbox: bought at REI, altered for size, now slightly tight; still validating usefulness.",
@@ -3266,12 +3263,12 @@
         "remoteImages": [],
         "sourceLinks": [],
         "publicImages": [
-          "assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-01.jpg",
-          "assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-02.jpg"
+          "assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-02.jpg",
+          "assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-02.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-01.jpg"
         ]
       },
       "modelConfidence": "medium",
@@ -4019,36 +4016,28 @@
       "priority": "high",
       "sourceLinks": [
         {
-          "label": "AKU",
+          "label": "AKU product reference",
           "url": "https://www.aku.com/",
           "role": "product"
         }
       ],
       "media": {
-        "remoteImages": [
-          "http://www.aku.com/cdn/shop/files/Scarpe_da_escursionismo_AKU.jpg?v=1773670450&width=2048",
-          "https://www.aku.com/cdn/shop/files/Scarpe_da_escursionismo_AKU.jpg?v=1773670450&width=2048",
-          "https://www.aku.com/cdn/shop/files/Scarpe_da_escursionismo_AKU.jpg?crop=center&height=1200&v=1773670450&width=1200"
-        ],
+        "remoteImages": [],
         "sourceLinks": [
           {
-            "label": "AKU",
+            "label": "AKU product reference",
             "url": "https://www.aku.com/",
             "role": "product"
           }
         ],
         "publicImages": [
-          "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-01.jpg",
-          "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-02.jpg",
-          "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-03.jpg"
+          "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/official-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-02.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/online-03.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/official-01.jpg"
         ]
       },
-      "notes": "Melhor visual urbano discreto entre candidatos; low shoe com menos suporte que bota.",
+      "notes": "Melhor visual urbano discreto entre candidatos; low shoe com menos suporte que bota. Foto corrigida para imagem específica do Bellamont IV NBK GTX Nero-Grigio em vez de imagem genérica de paisagem/brand.",
       "modelConfidence": "medium",
       "gapOrRedundancy": "Low shoe not boot",
       "ownership": "not_owned",
@@ -4235,17 +4224,17 @@
       ]
     },
     {
-      "id": "shoes_democrata_dune_hisoft_298202_01",
+      "id": "shoes_democrata_dune_hisoft_298201_black_01",
       "status": "owned",
-      "name": "Democrata Dune Hi-Soft 298202",
+      "name": "Democrata Dune Hi-Soft 32 preto",
       "brand": "Democrata",
-      "model": "Dune Hi-Soft 298202",
+      "model": "Dune Hi-Soft 32 298201-001",
       "module": "Formal/Social",
       "category": "footwear",
       "subcategory": "Smart casual derby",
       "layerType": "Footwear",
       "size": null,
-      "color": "Preto/tabaco?",
+      "color": "Preto com sola marrom e faixa clara",
       "colorFamily": [
         "dark",
         "earth"
@@ -4286,34 +4275,30 @@
       "priority": "medium",
       "sourceLinks": [
         {
-          "label": "Democrata",
-          "url": "https://www.democrata.com.br/",
+          "label": "Democrata product page",
+          "url": "https://www.democrata.com.br/sapato-masculino-dune-hi-soft-32-preto298201-001/p?idsku=17474",
           "role": "product"
         }
       ],
       "media": {
-        "remoteImages": [
-          "https://democrata.vtexassets.com/arquivos/ids/242226/Bota-Masculina-Doha-Couro-Preto-Preto-37.jpg?v=639118462891400000",
-          "https://democrata.vtexassets.com/arquivos/ids/253700/Bota-Masculina-Dust-Marrom-Marrom-37.jpg?v=639180692533670000",
-          "https://democrata.vtexassets.com/assets/vtex/assets-builder/democrata.theme/2.4.51/images/svg/logo-desktop___cf025c7cec2ba6d666f2ca39df4ec757.svg"
-        ],
+        "remoteImages": [],
         "sourceLinks": [
           {
-            "label": "Democrata",
-            "url": "https://www.democrata.com.br/",
+            "label": "Democrata product page",
+            "url": "https://www.democrata.com.br/sapato-masculino-dune-hi-soft-32-preto298201-001/p?idsku=17474",
             "role": "product"
           }
         ],
         "publicImages": [
-          "assets/shoes_democrata_dune_hisoft_298202_01/online-01.jpg",
-          "assets/shoes_democrata_dune_hisoft_298202_01/online-02.jpg"
+          "assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg",
+          "assets/shoes_democrata_dune_hisoft_298201_black_01/official-02.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_democrata_dune_hisoft_298202_01/online-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_democrata_dune_hisoft_298202_01/online-02.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_democrata_dune_hisoft_298201_black_01/official-02.jpg"
         ]
       },
-      "notes": "Pode ser redundante com CNS em alguns eventos, mas mais descontraído.",
+      "notes": "Pode ser redundante com CNS em alguns eventos, mas mais descontraído. Imagens corrigidas para o sapato Democrata Dune Hi-Soft 32 preto, referência 298201-001, removendo fotos inconsistentes de bota/outro modelo.",
       "modelConfidence": "medium",
       "gapOrRedundancy": "Social redundancy",
       "ownership": "owned",
@@ -5015,92 +5000,6 @@
       "tags": []
     },
     {
-      "id": "sneaker_pegada_119405_darkdune_01",
-      "status": "owned",
-      "name": "Pegada sapatênis couro com zíper",
-      "brand": "Pegada",
-      "model": "119405",
-      "module": "Formal/Social",
-      "category": "footwear",
-      "subcategory": "Casual sneaker",
-      "layerType": "Footwear",
-      "size": "38?",
-      "color": "Dark dune / marrom",
-      "colorFamily": [
-        "earth"
-      ],
-      "materialTech": "Couro",
-      "weight": {
-        "estimatedGrams": 630,
-        "confidence": "medium"
-      },
-      "bestUse": [
-        "Cidade",
-        "viagem urbana",
-        "social casual"
-      ],
-      "avoidUse": [
-        "Trilha",
-        "formal real",
-        "chuva pesada"
-      ],
-      "scores": {
-        "urban": 3.5,
-        "formal": 2.5,
-        "outdoor": 1,
-        "rain": 1.5,
-        "cold": 1.5,
-        "hot": 2,
-        "bike": 0,
-        "water": 0,
-        "packability": 1,
-        "comfort": 4,
-        "style": 3,
-        "urbanTravel": 2.8,
-        "outdoorFinal": 1.4,
-        "travelPack": 2.9
-      },
-      "role": "Casual urbano",
-      "purchaseAction": "Keep",
-      "priority": "medium",
-      "sourceLinks": [
-        {
-          "label": "Pegada",
-          "url": "https://www.pegada.com.br/",
-          "role": "product"
-        }
-      ],
-      "media": {
-        "remoteImages": [
-          "https://www.pegada.com.br/img/pegada-pt.png",
-          "https://admin.pegada.com.br/pegada-admin/assets/CAD-0185-25Y%20-%20BANNERS%20SITE%20CAMP%2026%20259060.jpg",
-          "https://admin.pegada.com.br/pegada-admin/assets/thaila-ayala-pegada-desktop.jpg"
-        ],
-        "sourceLinks": [
-          {
-            "label": "Pegada",
-            "url": "https://www.pegada.com.br/",
-            "role": "product"
-          }
-        ],
-        "publicImages": [
-          "assets/sneaker_pegada_119405_darkdune_01/online-01.jpg",
-          "assets/sneaker_pegada_119405_darkdune_01/online-02.jpg",
-          "assets/sneaker_pegada_119405_darkdune_01/online-03.jpg"
-        ],
-        "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_pegada_119405_darkdune_01/online-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_pegada_119405_darkdune_01/online-02.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_pegada_119405_darkdune_01/online-03.jpg"
-        ]
-      },
-      "notes": "Intermediário casual; não é trilha nem formal real.",
-      "modelConfidence": "medium",
-      "gapOrRedundancy": "Casual/social overlap",
-      "ownership": "owned",
-      "tags": []
-    },
-    {
       "id": "sneaker_velluti_everyday_brown_01",
       "status": "owned",
       "name": "Velluti Everyday sapatênis marrom",
@@ -5154,12 +5053,20 @@
       "media": {
         "remoteImages": [],
         "sourceLinks": [],
-        "publicImages": [],
-        "publicImageUrls": []
+        "publicImages": [
+          "assets/sneaker_velluti_everyday_brown_01/manual-01.jpg",
+          "assets/sneaker_velluti_everyday_brown_01/manual-02.jpg",
+          "assets/sneaker_velluti_everyday_brown_01/manual-detail-01.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_velluti_everyday_brown_01/manual-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_velluti_everyday_brown_01/manual-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_velluti_everyday_brown_01/manual-detail-01.jpg"
+        ]
       },
-      "notes": "Sapatênis/sneaker com zíper lateral, cadarço elástico e sola branca. Foi o calçado testado nos looks.",
+      "notes": "Sapatênis/sneaker marrom escuro Velluti com zíper lateral, cadarço elástico, painel lateral em tom marrom médio e sola branca. Merge do item duplicado anteriormente catalogado como Pegada.",
       "modelConfidence": "medium",
-      "gapOrRedundancy": "Pode sobrepor com Pegada; validar conforto e função.",
+      "gapOrRedundancy": "Item Pegada removido como duplicata; validar conforto e função como único sapatênis marrom casual.",
       "ownership": "owned",
       "tags": []
     },
@@ -6130,7 +6037,7 @@
     },
     {
       "id": "tshirt_factored_white_01",
-      "status": "owned",
+      "status": "archived",
       "name": "Factored camiseta branca",
       "brand": "Factored / Delta",
       "model": "Camiseta corporativa branca",
@@ -6176,7 +6083,7 @@
         "travelPack": 2.8
       },
       "role": "Camiseta corporativa casual",
-      "purchaseAction": "Keep",
+      "purchaseAction": "Archived",
       "priority": "low",
       "sourceLinks": [],
       "media": {
@@ -6185,11 +6092,13 @@
         "publicImages": [],
         "publicImageUrls": []
       },
-      "notes": "Camiseta corporativa com logo Factored. Melhor para eventos internos, hotel ou casual; menos indicada para cliente.",
+      "notes": "Arquivada em 2026-07-04. Camiseta corporativa com logo Factored; melhor para eventos internos, hotel ou casual; menos indicada para cliente.",
       "modelConfidence": "medium",
       "gapOrRedundancy": "Logo reduz versatilidade externa.",
-      "ownership": "owned",
-      "tags": []
+      "ownership": "archived",
+      "tags": [
+        "archived"
+      ]
     },
     {
       "id": "tshirt_insider_beige_sleep_01",
