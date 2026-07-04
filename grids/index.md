@@ -90,13 +90,13 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | C01 | `shell_uniqlo_pocketable_01` | Wind shell | owned |  | `assets/shell_uniqlo_pocketable_01/manual-01.jpg` |
 | D01 | `heattech_crew_neck_longsleeve_black_uniqlo_01` | Base layer | not_owned | candidate_buy | `assets/heattech_crew_neck_longsleeve_black_uniqlo_01/manual-01.jpg` |
 | A02 | `baselayer_longsleeve_black_01` | Base layer | owned |  | `assets/baselayer_longsleeve_black_01/manual-whatsapp-01.jpg` |
-| B02 | `baselayer_uniqlo_merino_light_01` | Base layer | owned |  | `assets/baselayer_uniqlo_merino_light_01/manual-01.jpg` |
+| B02 | `baselayer_uniqlo_heattech_darkgray_01` | Base layer | owned |  | `assets/baselayer_uniqlo_heattech_darkgray_01/manual-01.jpg` |
 | C02 | `shirt_muji_buttondown_navy_s_01` | Button-down shirt | owned |  | `assets/shirt_muji_buttondown_navy_s_01/manual-whatsapp-01.jpg` |
 | D02 | `jersey_vale_europeu_longsleeve_fullzip_01` | Cycling jersey | owned |  | `assets/jersey_vale_europeu_longsleeve_fullzip_01/manual-whatsapp-01.jpg` |
 | A03 | `shirt_tailored_white_wedding_01` | Dress shirt | owned |  | `assets/shirt_tailored_white_wedding_01/manual-whatsapp-01.jpg` |
 | B03 | `shirt_tailored_lilac_old_01` | Dress shirt | owned |  | `assets/shirt_tailored_lilac_old_01/manual-whatsapp-01.jpg` |
 | C03 | `shirt_uniqlo_super_non_iron_slim_navy_01` | Dress shirt | owned |  | `assets/shirt_uniqlo_super_non_iron_slim_navy_01/manual-whatsapp-01.jpg` |
-| D03 | `sweater_uniqlo_merino_black_01` | Knitwear | owned |  | `assets/sweater_uniqlo_merino_black_01/manual-01.jpg` |
+| D03 | `sweater_uniqlo_merino_navy_01` | Knitwear | owned |  | `assets/sweater_uniqlo_merino_navy_01/manual-01.jpg` |
 | A04 | `tshirt_ondeck_longsleeve_navy_01` | Long sleeve T-shirt | owned |  | `assets/tshirt_ondeck_longsleeve_navy_01/manual-whatsapp-01.jpg` |
 | B04 | `shirt_decathlon_longsleeve_orange_plaid_01` | Long sleeve shirt | owned |  | `assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-02.jpg` |
 | C04 | `polo_uniqlo_airism_black_01` | Polo | owned |  | `assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg` |
@@ -361,13 +361,13 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 |---|---|---|---|---|---|
 | A01 | `heattech_crew_neck_longsleeve_black_uniqlo_01` | Base layer | not_owned | candidate_buy | `assets/heattech_crew_neck_longsleeve_black_uniqlo_01/manual-01.jpg` |
 | B01 | `baselayer_longsleeve_black_01` | Base layer | owned |  | `assets/baselayer_longsleeve_black_01/manual-whatsapp-01.jpg` |
-| C01 | `baselayer_uniqlo_merino_light_01` | Base layer | owned |  | `assets/baselayer_uniqlo_merino_light_01/manual-01.jpg` |
+| C01 | `baselayer_uniqlo_heattech_darkgray_01` | Base layer | owned |  | `assets/baselayer_uniqlo_heattech_darkgray_01/manual-01.jpg` |
 | D01 | `shirt_muji_buttondown_navy_s_01` | Button-down shirt | owned |  | `assets/shirt_muji_buttondown_navy_s_01/manual-whatsapp-01.jpg` |
 | A02 | `jersey_vale_europeu_longsleeve_fullzip_01` | Cycling jersey | owned |  | `assets/jersey_vale_europeu_longsleeve_fullzip_01/manual-whatsapp-01.jpg` |
 | B02 | `shirt_tailored_white_wedding_01` | Dress shirt | owned |  | `assets/shirt_tailored_white_wedding_01/manual-whatsapp-01.jpg` |
 | C02 | `shirt_tailored_lilac_old_01` | Dress shirt | owned |  | `assets/shirt_tailored_lilac_old_01/manual-whatsapp-01.jpg` |
 | D02 | `shirt_uniqlo_super_non_iron_slim_navy_01` | Dress shirt | owned |  | `assets/shirt_uniqlo_super_non_iron_slim_navy_01/manual-whatsapp-01.jpg` |
-| A03 | `sweater_uniqlo_merino_black_01` | Knitwear | owned |  | `assets/sweater_uniqlo_merino_black_01/manual-01.jpg` |
+| A03 | `sweater_uniqlo_merino_navy_01` | Knitwear | owned |  | `assets/sweater_uniqlo_merino_navy_01/manual-01.jpg` |
 | B03 | `tshirt_ondeck_longsleeve_navy_01` | Long sleeve T-shirt | owned |  | `assets/tshirt_ondeck_longsleeve_navy_01/manual-whatsapp-01.jpg` |
 | C03 | `shirt_decathlon_longsleeve_orange_plaid_01` | Long sleeve shirt | owned |  | `assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-02.jpg` |
 | D03 | `polo_uniqlo_airism_black_01` | Polo | owned |  | `assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg` |
@@ -403,7 +403,7 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 |---|---|---|---|---|---|
 | A01 | `heattech_crew_neck_longsleeve_black_uniqlo_01` | Base layer | not_owned | candidate_buy | `assets/heattech_crew_neck_longsleeve_black_uniqlo_01/manual-01.jpg` |
 | B01 | `baselayer_longsleeve_black_01` | Base layer | owned |  | `assets/baselayer_longsleeve_black_01/manual-whatsapp-01.jpg` |
-| C01 | `baselayer_uniqlo_merino_light_01` | Base layer | owned |  | `assets/baselayer_uniqlo_merino_light_01/manual-01.jpg` |
+| C01 | `baselayer_uniqlo_heattech_darkgray_01` | Base layer | owned |  | `assets/baselayer_uniqlo_heattech_darkgray_01/manual-01.jpg` |
 | D01 | `shirt_muji_buttondown_navy_s_01` | Button-down shirt | owned |  | `assets/shirt_muji_buttondown_navy_s_01/manual-whatsapp-01.jpg` |
 | A02 | `shirt_muji_buttondown_navy_s_01` | Button-down shirt | owned |  | `assets/shirt_muji_buttondown_navy_s_01/manual-whatsapp-02.jpg` |
 | B02 | `shirt_muji_buttondown_navy_s_01` | Button-down shirt | owned |  | `assets/shirt_muji_buttondown_navy_s_01/manual-whatsapp-03.jpg` |
@@ -411,7 +411,7 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | D02 | `shirt_tailored_white_wedding_01` | Dress shirt | owned |  | `assets/shirt_tailored_white_wedding_01/manual-whatsapp-01.jpg` |
 | A03 | `shirt_tailored_lilac_old_01` | Dress shirt | owned |  | `assets/shirt_tailored_lilac_old_01/manual-whatsapp-01.jpg` |
 | B03 | `shirt_uniqlo_super_non_iron_slim_navy_01` | Dress shirt | owned |  | `assets/shirt_uniqlo_super_non_iron_slim_navy_01/manual-whatsapp-01.jpg` |
-| C03 | `sweater_uniqlo_merino_black_01` | Knitwear | owned |  | `assets/sweater_uniqlo_merino_black_01/manual-01.jpg` |
+| C03 | `sweater_uniqlo_merino_navy_01` | Knitwear | owned |  | `assets/sweater_uniqlo_merino_navy_01/manual-01.jpg` |
 | D03 | `tshirt_ondeck_longsleeve_navy_01` | Long sleeve T-shirt | owned |  | `assets/tshirt_ondeck_longsleeve_navy_01/manual-whatsapp-01.jpg` |
 | A04 | `shirt_decathlon_longsleeve_orange_plaid_01` | Long sleeve shirt | owned |  | `assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-02.jpg` |
 | B04 | `shirt_decathlon_longsleeve_orange_plaid_01` | Long sleeve shirt | owned |  | `assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-01.jpg` |
@@ -496,7 +496,7 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 |---|---|---|---|---|---|
 | A01 | `heattech_crew_neck_longsleeve_black_uniqlo_01` | Base layer | not_owned | candidate_buy | `assets/heattech_crew_neck_longsleeve_black_uniqlo_01/manual-01.jpg` |
 | B01 | `baselayer_longsleeve_black_01` | Base layer | owned |  | `assets/baselayer_longsleeve_black_01/manual-whatsapp-01.jpg` |
-| C01 | `baselayer_uniqlo_merino_light_01` | Base layer | owned |  | `assets/baselayer_uniqlo_merino_light_01/manual-01.jpg` |
+| C01 | `baselayer_uniqlo_heattech_darkgray_01` | Base layer | owned |  | `assets/baselayer_uniqlo_heattech_darkgray_01/manual-01.jpg` |
 
 ## Subcategory: Blazer · p1/1
 
@@ -746,7 +746,7 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | B02 | `fleece_inextenso_black_s_01` | Fleece | owned |  | `assets/fleece_inextenso_black_s_01/manual-whatsapp-01.jpg` |
 | C02 | `fleece_quechua_plaid_red_01` | Fleece | owned |  | `assets/fleece_quechua_plaid_red_01/manual-whatsapp-01.jpg` |
 | D02 | `heattech_crew_neck_longsleeve_black_uniqlo_01` | Base layer | not_owned | candidate_buy | `assets/heattech_crew_neck_longsleeve_black_uniqlo_01/manual-01.jpg` |
-| A03 | `baselayer_uniqlo_merino_light_01` | Base layer | owned |  | `assets/baselayer_uniqlo_merino_light_01/manual-01.jpg` |
+| A03 | `baselayer_uniqlo_heattech_darkgray_01` | Base layer | owned |  | `assets/baselayer_uniqlo_heattech_darkgray_01/manual-01.jpg` |
 
 ## Module: Urban Core · p1/2
 
@@ -765,7 +765,7 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | A03 | `blazer_casual_navy_01` | Blazer | owned |  | `assets/blazer_casual_navy_01/manual-whatsapp-01.jpg` |
 | B03 | `dry_ex_uv_hoodie_uniqlo_grey_01` | Light performance hoodie | not_owned | candidate_buy | `assets/dry_ex_uv_hoodie_uniqlo_grey_01/manual-01.jpg` |
 | C03 | `shell_uniqlo_blocktech_navy_xs_01` | Rain/wind shell | not_owned | candidate_buy | `assets/shell_uniqlo_blocktech_navy_xs_01/manual-01.jpg` |
-| D03 | `sweater_uniqlo_merino_black_01` | Knitwear | owned |  | `assets/sweater_uniqlo_merino_black_01/manual-01.jpg` |
+| D03 | `sweater_uniqlo_merino_navy_01` | Knitwear | owned |  | `assets/sweater_uniqlo_merino_navy_01/manual-01.jpg` |
 | A04 | `polo_vuori_strato_black_01` | Polo | owned |  | `assets/polo_vuori_strato_black_01/manual-01.jpg` |
 | B04 | `shirt_uniqlo_premium_linen_tbd_01` | Shirt | not_owned | candidate_buy | `assets/shirt_uniqlo_premium_linen_tbd_01/manual-01.jpg` |
 | C04 | `tee_uniqlo_airism_crew_black_01` | T-shirt | not_owned | candidate_buy | `assets/tee_uniqlo_airism_crew_black_01/manual-01.jpg` |
@@ -882,13 +882,13 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | C02 | `shell_tnf_alta_vista_blue_01` | Rain shell | owned | maybe_replace | `assets/shell_tnf_alta_vista_blue_01/manual-whatsapp-01.jpg` |
 | D02 | `shell_uniqlo_pocketable_01` | Wind shell | owned |  | `assets/shell_uniqlo_pocketable_01/manual-01.jpg` |
 | A03 | `baselayer_longsleeve_black_01` | Base layer | owned |  | `assets/baselayer_longsleeve_black_01/manual-whatsapp-01.jpg` |
-| B03 | `baselayer_uniqlo_merino_light_01` | Base layer | owned |  | `assets/baselayer_uniqlo_merino_light_01/manual-01.jpg` |
+| B03 | `baselayer_uniqlo_heattech_darkgray_01` | Base layer | owned |  | `assets/baselayer_uniqlo_heattech_darkgray_01/manual-01.jpg` |
 | C03 | `shirt_muji_buttondown_navy_s_01` | Button-down shirt | owned |  | `assets/shirt_muji_buttondown_navy_s_01/manual-whatsapp-01.jpg` |
 | D03 | `jersey_vale_europeu_longsleeve_fullzip_01` | Cycling jersey | owned |  | `assets/jersey_vale_europeu_longsleeve_fullzip_01/manual-whatsapp-01.jpg` |
 | A04 | `shirt_tailored_white_wedding_01` | Dress shirt | owned |  | `assets/shirt_tailored_white_wedding_01/manual-whatsapp-01.jpg` |
 | B04 | `shirt_tailored_lilac_old_01` | Dress shirt | owned |  | `assets/shirt_tailored_lilac_old_01/manual-whatsapp-01.jpg` |
 | C04 | `shirt_uniqlo_super_non_iron_slim_navy_01` | Dress shirt | owned |  | `assets/shirt_uniqlo_super_non_iron_slim_navy_01/manual-whatsapp-01.jpg` |
-| D04 | `sweater_uniqlo_merino_black_01` | Knitwear | owned |  | `assets/sweater_uniqlo_merino_black_01/manual-01.jpg` |
+| D04 | `sweater_uniqlo_merino_navy_01` | Knitwear | owned |  | `assets/sweater_uniqlo_merino_navy_01/manual-01.jpg` |
 
 ## Status: owned · p4/5
 
@@ -1014,13 +1014,13 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | C02 | `shell_tnf_alta_vista_blue_01` | Rain shell | owned | maybe_replace | `assets/shell_tnf_alta_vista_blue_01/manual-whatsapp-01.jpg` |
 | D02 | `shell_uniqlo_pocketable_01` | Wind shell | owned |  | `assets/shell_uniqlo_pocketable_01/manual-01.jpg` |
 | A03 | `baselayer_longsleeve_black_01` | Base layer | owned |  | `assets/baselayer_longsleeve_black_01/manual-whatsapp-01.jpg` |
-| B03 | `baselayer_uniqlo_merino_light_01` | Base layer | owned |  | `assets/baselayer_uniqlo_merino_light_01/manual-01.jpg` |
+| B03 | `baselayer_uniqlo_heattech_darkgray_01` | Base layer | owned |  | `assets/baselayer_uniqlo_heattech_darkgray_01/manual-01.jpg` |
 | C03 | `shirt_muji_buttondown_navy_s_01` | Button-down shirt | owned |  | `assets/shirt_muji_buttondown_navy_s_01/manual-whatsapp-01.jpg` |
 | D03 | `jersey_vale_europeu_longsleeve_fullzip_01` | Cycling jersey | owned |  | `assets/jersey_vale_europeu_longsleeve_fullzip_01/manual-whatsapp-01.jpg` |
 | A04 | `shirt_tailored_white_wedding_01` | Dress shirt | owned |  | `assets/shirt_tailored_white_wedding_01/manual-whatsapp-01.jpg` |
 | B04 | `shirt_tailored_lilac_old_01` | Dress shirt | owned |  | `assets/shirt_tailored_lilac_old_01/manual-whatsapp-01.jpg` |
 | C04 | `shirt_uniqlo_super_non_iron_slim_navy_01` | Dress shirt | owned |  | `assets/shirt_uniqlo_super_non_iron_slim_navy_01/manual-whatsapp-01.jpg` |
-| D04 | `sweater_uniqlo_merino_black_01` | Knitwear | owned |  | `assets/sweater_uniqlo_merino_black_01/manual-01.jpg` |
+| D04 | `sweater_uniqlo_merino_navy_01` | Knitwear | owned |  | `assets/sweater_uniqlo_merino_navy_01/manual-01.jpg` |
 
 ## Ownership: owned · p4/5
 

@@ -38,4 +38,4 @@ This repository is a public, sanitized mirror for AI inspection of a wardrobe ca
 
 Primary catalog URL:
 
-https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/data/catalog.json
+https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/data/catalog.json

@@ -190,13 +190,13 @@ This public file is generated from sanitized mirror data. It excludes private pr
 |---|---|---|---|---|
 | A01 | `heattech_crew_neck_longsleeve_black_uniqlo_01` | UNIQLO HEATTECH Crew Neck Long Sleeve T-Shirt black | Base layer | candidate_buy |
 | B01 | `baselayer_longsleeve_black_01` | Second skin preta manga longa | Base layer |  |
-| C01 | `baselayer_uniqlo_merino_light_01` | UNIQLO HEATTECH Crew Neck Long Sleeve T-Shirt | Base layer |  |
+| C01 | `baselayer_uniqlo_heattech_darkgray_01` | UNIQLO HEATTECH Crew Neck Long Sleeve T-Shirt | Base layer |  |
 | D01 | `shirt_muji_buttondown_navy_s_01` | MUJI camisa button-down navy | Button-down shirt |  |
 | A02 | `jersey_vale_europeu_longsleeve_fullzip_01` | Jersey manga longa Vale Europeu | Cycling jersey |  |
 | B02 | `shirt_tailored_white_wedding_01` | Camisa social branca sob medida | Dress shirt |  |
 | C02 | `shirt_tailored_lilac_old_01` | Camisa social lilás clara alfaiataria antiga | Dress shirt |  |
 | D02 | `shirt_uniqlo_super_non_iron_slim_navy_01` | UNIQLO Super Non-Iron Slim Fit Shirt navy | Dress shirt |  |
-| A03 | `sweater_uniqlo_merino_black_01` | UNIQLO Merino Sweater navy | Knitwear |  |
+| A03 | `sweater_uniqlo_merino_navy_01` | UNIQLO Merino Sweater navy | Knitwear |  |
 | B03 | `tshirt_ondeck_longsleeve_navy_01` | On Deck camiseta manga longa azul escura | Long sleeve T-shirt |  |
 | C03 | `shirt_decathlon_longsleeve_orange_plaid_01` | Decathlon camisa manga longa laranja xadrez | Long sleeve shirt |  |
 | D03 | `polo_uniqlo_airism_black_01` | UNIQLO AIRism polo preta | Polo |  |
@@ -237,7 +237,7 @@ This public file is generated from sanitized mirror data. It excludes private pr
 
 | Category | Count | Representative item IDs | Notes |
 |---|---:|---|---|
-| Tops | 24 | `baselayer_longsleeve_black_01`, `baselayer_uniqlo_merino_light_01`, `shirt_muji_buttondown_navy_s_01`, `jersey_vale_europeu_longsleeve_fullzip_01`, `shirt_tailored_white_wedding_01`, `shirt_tailored_lilac_old_01` | 18 more |
+| Tops | 24 | `baselayer_longsleeve_black_01`, `baselayer_uniqlo_heattech_darkgray_01`, `shirt_muji_buttondown_navy_s_01`, `jersey_vale_europeu_longsleeve_fullzip_01`, `shirt_tailored_white_wedding_01`, `shirt_tailored_lilac_old_01` | 18 more |
 | Bottoms | 12 | `shorts_black_gym_01`, `baselayer_uniqlo_heattech_leggings_black_01`, `shorts_cycling_padded_black_01`, `pants_tailored_beige_wedding_01`, `pants_tailored_black_old_01`, `pants_rei_sahara_convertible_taupe_01` | 6 more |
 | Outerwear | 12 | `blazer_tailored_beige_wedding_01`, `blazer_casual_navy_01`, `blazer_tailored_black_old_01`, `down_uniqlo_navy_xs_01`, `down_uniqlo_grey_s_01`, `fleece_uniqlo_green_halfzip_01` | 6 more |
 | Footwear | 7 | `sneaker_velluti_everyday_brown_01`, `flipflop_havaianas_01`, `boots_timberland_mt_maddsen_wp_brown_01`, `shoes_cns_austin_oxford_17358_01`, `slippers_lightweight_01`, `shoes_democrata_dune_hisoft_298201_black_01` | 1 more |
@@ -281,13 +281,13 @@ This public file is generated from sanitized mirror data. It excludes private pr
 |---|---|---|---|---|---|---|---|---|
 | `heattech_crew_neck_longsleeve_black_uniqlo_01` | UNIQLO HEATTECH Crew Neck Long Sleeve T-Shirt black | not_owned, candidate_buy | Base layer | Thermal Layering | 09 BLACK | Base layer termica preta | urban 2.5 / travel 3 | 1 |
 | `baselayer_longsleeve_black_01` | Second skin preta manga longa | owned | Base layer | Thermal Layering / Active | Preta | Base layer preta leve e compacta | urban 2.2 / travel 2.8 | 1 |
-| `baselayer_uniqlo_merino_light_01` | UNIQLO HEATTECH Crew Neck Long Sleeve T-Shirt | owned | Base layer | Thermal Layering | 08 DARK GRAY | Base térmica core | urban 2.5 / travel 2.9 | 1 |
+| `baselayer_uniqlo_heattech_darkgray_01` | UNIQLO HEATTECH Crew Neck Long Sleeve T-Shirt | owned | Base layer | Thermal Layering | 08 DARK GRAY | Base térmica core | urban 2.5 / travel 2.9 | 1 |
 | `shirt_muji_buttondown_navy_s_01` | MUJI camisa button-down navy | owned | Button-down shirt | Urban Core / Formal-Social casual | Navy | Camisa casual-profissional navy | urban 4 / travel 4 | 3 |
 | `jersey_vale_europeu_longsleeve_fullzip_01` | Jersey manga longa Vale Europeu | owned | Cycling jersey | Bike/Active | Multicolorida | Bike/sun module | urban 0.5 / travel 1.8 | 1 |
 | `shirt_tailored_white_wedding_01` | Camisa social branca sob medida | owned | Dress shirt | Formal/Social | Branca | Camisa formal clássica | urban 2.8 / travel 2.8 | 1 |
 | `shirt_tailored_lilac_old_01` | Camisa social lilás clara alfaiataria antiga | owned | Dress shirt | Formal / Social | Lilás clara | Camisa social antiga | urban 2 / travel 2.5 | 1 |
 | `shirt_uniqlo_super_non_iron_slim_navy_01` | UNIQLO Super Non-Iron Slim Fit Shirt navy | owned | Dress shirt | Formal/Social / Urban Core | Navy | Camisa social/corporativa navy | urban 3.6 / travel 3.6 | 1 |
-| `sweater_uniqlo_merino_black_01` | UNIQLO Merino Sweater navy | owned | Knitwear | Urban Core | NAVY | Sueter versatil para camada urbana de frio leve | urban 4 / travel 3.8 | 1 |
+| `sweater_uniqlo_merino_navy_01` | UNIQLO Merino Sweater navy | owned | Knitwear | Urban Core | NAVY | Sueter versatil para camada urbana de frio leve | urban 4 / travel 3.8 | 1 |
 | `tshirt_ondeck_longsleeve_navy_01` | On Deck camiseta manga longa azul escura | owned | Long sleeve T-shirt | Casual / Work | Azul escuro / navy | Manga longa casual/corporativa On Deck para casa e home office | urban 2.2 / travel 2.4 | 1 |
 | `shirt_decathlon_longsleeve_orange_plaid_01` | Decathlon camisa manga longa laranja xadrez | owned | Long sleeve shirt | Outdoor Core / Travel Legacy | Laranja xadrez | Camisa técnica respirável de manga longa | urban 1.8 / travel 2.4 | 2 |
 | `polo_uniqlo_airism_black_01` | UNIQLO AIRism polo preta | owned | Polo | Urban Core / Casual Work | Preta | Polo preta casual com bom caimento | urban 3.2 / travel 3.3 | 2 |
@@ -416,7 +416,7 @@ These are presentation modules for AI reasoning. They normalize the noisier raw 
 | `hoodie_renner_dark_01` | Blusa de manga longa com touca Renner | owned | Hoodie | Casual / Comfort | Azul escuro / cinza escuro | Hoodie casual | urban 2 / travel 2.5 | 1 |
 | `hoodie_factored_blue_01` | Moletom Factored azul | owned | Hoodie | Casual / Comfort | Azul vivo | Hoodie da empresa | urban 2 / travel 2.5 | 1 |
 | `dry_ex_uv_hoodie_uniqlo_grey_01` | UNIQLO DRY-EX UV Protection Full-Zip Hoodie | not_owned, candidate_buy | Light performance hoodie | Urban Core | 07 GRAY | Camada tecnica leve com protecao UV | urban 3.5 / travel 3.9 | 1 |
-| `sweater_uniqlo_merino_black_01` | UNIQLO Merino Sweater navy | owned | Knitwear | Urban Core | NAVY | Sueter versatil para camada urbana de frio leve | urban 4 / travel 3.8 | 1 |
+| `sweater_uniqlo_merino_navy_01` | UNIQLO Merino Sweater navy | owned | Knitwear | Urban Core | NAVY | Sueter versatil para camada urbana de frio leve | urban 4 / travel 3.8 | 1 |
 | `tshirt_ondeck_longsleeve_navy_01` | On Deck camiseta manga longa azul escura | owned | Long sleeve T-shirt | Casual / Work | Azul escuro / navy | Manga longa casual/corporativa On Deck para casa e home office | urban 2.2 / travel 2.4 | 1 |
 | `polo_uniqlo_airism_black_01` | UNIQLO AIRism polo preta | owned | Polo | Urban Core / Casual Work | Preta | Polo preta casual com bom caimento | urban 3.2 / travel 3.3 | 2 |
 | `polo_vuori_strato_black_01` | Vuori Strato Tech Polo Charcoal Heather | owned | Polo | Urban Core | Grafite (Charcoal Heather) | Polo técnica smart-casual | urban 4 / travel 4.2 | 1 |
@@ -478,7 +478,7 @@ These are presentation modules for AI reasoning. They normalize the noisier raw 
 | `fleece_inextenso_black_s_01` | Fleece preto In Extenso | owned | Fleece | Thermal Layering | Preto | Comfort midlayer | urban 2.5 / travel 3 | 2 |
 | `fleece_quechua_plaid_red_01` | Fleece/flanela Quechua xadrez vermelha | owned | Fleece | Thermal Layering | Vermelho xadrez | Fleece/flanela casual | urban 2 / travel 2.5 | 1 |
 | `heattech_crew_neck_longsleeve_black_uniqlo_01` | UNIQLO HEATTECH Crew Neck Long Sleeve T-Shirt black | not_owned, candidate_buy | Base layer | Thermal Layering | 09 BLACK | Base layer termica preta | urban 2.5 / travel 3 | 1 |
-| `baselayer_uniqlo_merino_light_01` | UNIQLO HEATTECH Crew Neck Long Sleeve T-Shirt | owned | Base layer | Thermal Layering | 08 DARK GRAY | Base térmica core | urban 2.5 / travel 2.9 | 1 |
+| `baselayer_uniqlo_heattech_darkgray_01` | UNIQLO HEATTECH Crew Neck Long Sleeve T-Shirt | owned | Base layer | Thermal Layering | 08 DARK GRAY | Base térmica core | urban 2.5 / travel 2.9 | 1 |
 
 ### Active/Bike
 

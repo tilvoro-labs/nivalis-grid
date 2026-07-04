@@ -1,5 +1,5 @@
 {
-  "id": "sweater_uniqlo_merino_black_01",
+  "id": "sweater_uniqlo_merino_navy_01",
   "status": "owned",
   "name": "UNIQLO Merino Sweater navy",
   "brand": "UNIQLO",
@@ -71,10 +71,10 @@
       }
     ],
     "publicImages": [
-      "assets/sweater_uniqlo_merino_black_01/manual-01.jpg"
+      "assets/sweater_uniqlo_merino_navy_01/manual-01.jpg"
     ],
     "publicImageUrls": [
-      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sweater_uniqlo_merino_black_01/manual-01.jpg"
+      "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/sweater_uniqlo_merino_navy_01/manual-01.jpg"
     ]
   },
   "notes": "Design simples e versatil para uso urbano. La merino extra-fina com toque suave e brilho discreto; mantem conforto termico e respirabilidade. Lavavel em maquina (ciclo suave, ideal lavar do avesso em saco) com tratamento anti-pilling.",

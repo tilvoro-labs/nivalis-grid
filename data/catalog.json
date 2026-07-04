@@ -96,7 +96,7 @@
           "assets/baselayer_longsleeve_black_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/baselayer_longsleeve_black_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/baselayer_longsleeve_black_01/manual-whatsapp-01.jpg"
         ]
       },
       "modelConfidence": "medium",
@@ -140,78 +140,7 @@
       "notes": "Dropbox inbox 2026-07-04: peça antiga comprada nos EUA, única preta nesse estilo. Boa como base layer, para sol ou academia; já está bem gasta, mas leve e compacta."
     },
     {
-      "id": "baselayer_uniqlo_heattech_leggings_black_01",
-      "status": "owned",
-      "name": "UNIQLO HEATTECH legging térmica preta",
-      "brand": "UNIQLO",
-      "model": "HEATTECH leggings",
-      "module": "Thermal Layering",
-      "category": "bottom",
-      "subcategory": "Base layer bottom",
-      "layerType": "Base layer",
-      "size": null,
-      "color": "Preta",
-      "colorFamily": [
-        "dark"
-      ],
-      "materialTech": "HEATTECH synthetic thermal knit",
-      "weight": {
-        "estimatedGrams": null,
-        "confidence": "unknown"
-      },
-      "bestUse": [
-        "inverno",
-        "acampamento frio",
-        "usar sob shorts/calça"
-      ],
-      "avoidUse": [
-        "calor",
-        "uso sozinho urbano"
-      ],
-      "scores": {
-        "urban": 2,
-        "formal": 1,
-        "outdoor": 1,
-        "rain": 0.5,
-        "cold": 1,
-        "hot": 2,
-        "bike": 0.5,
-        "water": 0.5,
-        "packability": 3,
-        "comfort": 3,
-        "style": 2,
-        "urbanTravel": 2.5,
-        "outdoorFinal": 1.5,
-        "travelPack": 2.5
-      },
-      "role": "Camada térmica inferior",
-      "purchaseAction": "Keep",
-      "priority": "high",
-      "sourceLinks": [],
-      "media": {
-        "remoteImages": [],
-        "sourceLinks": [],
-        "publicImages": [
-          "assets/baselayer_uniqlo_heattech_leggings_black_01/manual-whatsapp-01.jpg",
-          "assets/baselayer_uniqlo_heattech_leggings_black_01/manual-whatsapp-02.jpg",
-          "assets/baselayer_uniqlo_heattech_leggings_black_01/manual-whatsapp-03.jpg",
-          "assets/baselayer_uniqlo_heattech_leggings_black_01/manual-whatsapp-04.jpg"
-        ],
-        "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/baselayer_uniqlo_heattech_leggings_black_01/manual-whatsapp-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/baselayer_uniqlo_heattech_leggings_black_01/manual-whatsapp-02.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/baselayer_uniqlo_heattech_leggings_black_01/manual-whatsapp-03.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/baselayer_uniqlo_heattech_leggings_black_01/manual-whatsapp-04.jpg"
-        ]
-      },
-      "notes": "Peça compacta que adiciona calor nas pernas; distinta da camiseta HEATTECH existente.",
-      "modelConfidence": "medium",
-      "gapOrRedundancy": null,
-      "ownership": "owned",
-      "tags": []
-    },
-    {
-      "id": "baselayer_uniqlo_merino_light_01",
+      "id": "baselayer_uniqlo_heattech_darkgray_01",
       "status": "owned",
       "name": "UNIQLO HEATTECH Crew Neck Long Sleeve T-Shirt",
       "brand": "UNIQLO",
@@ -279,15 +208,86 @@
           }
         ],
         "publicImages": [
-          "assets/baselayer_uniqlo_merino_light_01/manual-01.jpg"
+          "assets/baselayer_uniqlo_heattech_darkgray_01/manual-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/baselayer_uniqlo_merino_light_01/manual-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/baselayer_uniqlo_heattech_darkgray_01/manual-01.jpg"
         ]
       },
       "notes": "Nao e merino: base HEATTECH sintetica com toque suave, elasticidade alta e conforto termico para camada interna em frio leve/moderado. Lavagem suave em maquina; sem dry clean.",
       "modelConfidence": "high",
       "gapOrRedundancy": "Camada interna termica dedicada; pouca relevancia como peca externa.",
+      "ownership": "owned",
+      "tags": []
+    },
+    {
+      "id": "baselayer_uniqlo_heattech_leggings_black_01",
+      "status": "owned",
+      "name": "UNIQLO HEATTECH legging térmica preta",
+      "brand": "UNIQLO",
+      "model": "HEATTECH leggings",
+      "module": "Thermal Layering",
+      "category": "bottom",
+      "subcategory": "Base layer bottom",
+      "layerType": "Base layer",
+      "size": null,
+      "color": "Preta",
+      "colorFamily": [
+        "dark"
+      ],
+      "materialTech": "HEATTECH synthetic thermal knit",
+      "weight": {
+        "estimatedGrams": null,
+        "confidence": "unknown"
+      },
+      "bestUse": [
+        "inverno",
+        "acampamento frio",
+        "usar sob shorts/calça"
+      ],
+      "avoidUse": [
+        "calor",
+        "uso sozinho urbano"
+      ],
+      "scores": {
+        "urban": 2,
+        "formal": 1,
+        "outdoor": 1,
+        "rain": 0.5,
+        "cold": 1,
+        "hot": 2,
+        "bike": 0.5,
+        "water": 0.5,
+        "packability": 3,
+        "comfort": 3,
+        "style": 2,
+        "urbanTravel": 2.5,
+        "outdoorFinal": 1.5,
+        "travelPack": 2.5
+      },
+      "role": "Camada térmica inferior",
+      "purchaseAction": "Keep",
+      "priority": "high",
+      "sourceLinks": [],
+      "media": {
+        "remoteImages": [],
+        "sourceLinks": [],
+        "publicImages": [
+          "assets/baselayer_uniqlo_heattech_leggings_black_01/manual-whatsapp-01.jpg",
+          "assets/baselayer_uniqlo_heattech_leggings_black_01/manual-whatsapp-02.jpg",
+          "assets/baselayer_uniqlo_heattech_leggings_black_01/manual-whatsapp-03.jpg",
+          "assets/baselayer_uniqlo_heattech_leggings_black_01/manual-whatsapp-04.jpg"
+        ],
+        "publicImageUrls": [
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/baselayer_uniqlo_heattech_leggings_black_01/manual-whatsapp-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/baselayer_uniqlo_heattech_leggings_black_01/manual-whatsapp-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/baselayer_uniqlo_heattech_leggings_black_01/manual-whatsapp-03.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/baselayer_uniqlo_heattech_leggings_black_01/manual-whatsapp-04.jpg"
+        ]
+      },
+      "notes": "Peça compacta que adiciona calor nas pernas; distinta da camiseta HEATTECH existente.",
+      "modelConfidence": "medium",
+      "gapOrRedundancy": null,
       "ownership": "owned",
       "tags": []
     },
@@ -347,7 +347,7 @@
           "assets/blazer_casual_navy_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/blazer_casual_navy_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/blazer_casual_navy_01/manual-whatsapp-01.jpg"
         ]
       },
       "notes": "Pode servir para testar looks mais arrumados.",
@@ -412,7 +412,7 @@
           "assets/blazer_tailored_beige_wedding_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/blazer_tailored_beige_wedding_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/blazer_tailored_beige_wedding_01/manual-whatsapp-01.jpg"
         ]
       },
       "notes": "Parte do conjunto usado no casamento.",
@@ -476,7 +476,7 @@
           "assets/blazer_tailored_black_old_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/blazer_tailored_black_old_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/blazer_tailored_black_old_01/manual-whatsapp-01.jpg"
         ]
       },
       "notes": "Peça antiga de alfaiataria, prioridade baixa até revisar condição.",
@@ -562,9 +562,9 @@
           "assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-03.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-02.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-03.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/boots_danner_mountain600_leaf_gtx_obsidian_01/online-03.jpg"
         ]
       },
       "notes": "Melhor equilíbrio entre bota, trilha, chuva e urbanidade para seu perfil.",
@@ -649,7 +649,7 @@
           "assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg"
         ]
       },
       "notes": "Provou funcionar em mochilão de 1 ano; estética outdoor. Página oficial lista cor Dark Brown, waterproof Premium Timberland leather, TimberDry membrane, ReBOTL lining, Anti-Fatigue footbed, EVA midsole and rubber lug outsole. Peso de referência: 618.47 g por bota em Men's size 9; peso do par estimado no catálogo.",
@@ -807,7 +807,7 @@
           "assets/down_uniqlo_grey_s_01/manual-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/down_uniqlo_grey_s_01/manual-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/down_uniqlo_grey_s_01/manual-01.jpg"
         ]
       },
       "notes": "Batida; manter para uso bruto e preservar a navy.",
@@ -888,8 +888,8 @@
           "assets/down_uniqlo_navy_xs_01/manual-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/down_uniqlo_navy_xs_01/manual-whatsapp-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/down_uniqlo_navy_xs_01/manual-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/down_uniqlo_navy_xs_01/manual-whatsapp-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/down_uniqlo_navy_xs_01/manual-01.jpg"
         ]
       },
       "notes": "Melhor caimento; preservar mais que a cinza.",
@@ -969,7 +969,7 @@
           "assets/dry_ex_uv_hoodie_uniqlo_grey_01/manual-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/dry_ex_uv_hoodie_uniqlo_grey_01/manual-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/dry_ex_uv_hoodie_uniqlo_grey_01/manual-01.jpg"
         ]
       },
       "notes": "Candidato para camada de protecao solar e secagem rapida em clima quente, com zip para ventilacao e uso urbano/ativo.",
@@ -1042,8 +1042,8 @@
           "assets/fleece_inextenso_black_s_01/manual-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/fleece_inextenso_black_s_01/manual-whatsapp-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/fleece_inextenso_black_s_01/manual-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/fleece_inextenso_black_s_01/manual-whatsapp-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/fleece_inextenso_black_s_01/manual-01.jpg"
         ]
       },
       "notes": "Fit excelente e apego alto; batido, mas difícil substituir.",
@@ -1108,7 +1108,7 @@
           "assets/fleece_quechua_plaid_red_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/fleece_quechua_plaid_red_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/fleece_quechua_plaid_red_01/manual-whatsapp-01.jpg"
         ]
       },
       "notes": "Descrita como fleece flanela Quechua/Decathlon.",
@@ -1173,7 +1173,7 @@
           "assets/fleece_uniqlo_green_halfzip_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/fleece_uniqlo_green_halfzip_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/fleece_uniqlo_green_halfzip_01/manual-whatsapp-01.jpg"
         ]
       },
       "notes": "Transcrição diz que não abre todo.",
@@ -1252,7 +1252,7 @@
           "assets/flipflop_havaianas_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/flipflop_havaianas_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/flipflop_havaianas_01/manual-whatsapp-01.jpg"
         ]
       },
       "notes": "Complemento simples para banho/praia.",
@@ -1285,7 +1285,7 @@
           "assets/gloves_uniqlo_black_touchscreen_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/gloves_uniqlo_black_touchscreen_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/gloves_uniqlo_black_touchscreen_01/manual-whatsapp-01.jpg"
         ]
       },
       "modelConfidence": "medium",
@@ -1398,7 +1398,7 @@
           "assets/heattech_crew_neck_longsleeve_black_uniqlo_01/manual-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/heattech_crew_neck_longsleeve_black_uniqlo_01/manual-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/heattech_crew_neck_longsleeve_black_uniqlo_01/manual-01.jpg"
         ]
       },
       "notes": "Candidato para ampliar rotacao de camada termica com cor preta mais facil de combinar.",
@@ -1465,7 +1465,7 @@
           "assets/hoodie_factored_blue_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/hoodie_factored_blue_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/hoodie_factored_blue_01/manual-whatsapp-01.jpg"
         ]
       },
       "notes": "Peça da empresa onde o usuário trabalha.",
@@ -1530,7 +1530,7 @@
           "assets/hoodie_renner_dark_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/hoodie_renner_dark_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/hoodie_renner_dark_01/manual-whatsapp-01.jpg"
         ]
       },
       "notes": "Comprada na Renner, conforme transcrição.",
@@ -1659,7 +1659,7 @@
           "assets/jersey_vale_europeu_longsleeve_fullzip_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/jersey_vale_europeu_longsleeve_fullzip_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/jersey_vale_europeu_longsleeve_fullzip_01/manual-whatsapp-01.jpg"
         ]
       },
       "notes": "Muito funcional; visual chamativo e repetitivo em fotos. Dropbox inbox 2026-07-04: reactivated because user still likes and uses it for biking/trails despite flashy look; zipper and sun protection are useful.",
@@ -1743,8 +1743,8 @@
           "assets/pants_rei_sahara_convertible_taupe_01/manual-whatsapp-02.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_rei_sahara_convertible_taupe_01/manual-whatsapp-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_rei_sahara_convertible_taupe_01/manual-whatsapp-02.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/pants_rei_sahara_convertible_taupe_01/manual-whatsapp-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/pants_rei_sahara_convertible_taupe_01/manual-whatsapp-02.jpg"
         ]
       },
       "notes": "Muito versátil funcionalmente; visual cargo/zipper técnico.",
@@ -1810,8 +1810,8 @@
           "assets/pants_renner_flannel_plaid_01/manual-whatsapp-02.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_renner_flannel_plaid_01/manual-whatsapp-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_renner_flannel_plaid_01/manual-whatsapp-02.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/pants_renner_flannel_plaid_01/manual-whatsapp-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/pants_renner_flannel_plaid_01/manual-whatsapp-02.jpg"
         ]
       },
       "notes": "Volumosa, mas útil para pijama de inverno e acampamento frio.",
@@ -1878,8 +1878,8 @@
           "assets/pants_tailored_beige_wedding_01/manual-whatsapp-02.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_tailored_beige_wedding_01/manual-whatsapp-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_tailored_beige_wedding_01/manual-whatsapp-02.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/pants_tailored_beige_wedding_01/manual-whatsapp-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/pants_tailored_beige_wedding_01/manual-whatsapp-02.jpg"
         ]
       },
       "notes": "Parte do conjunto usado no casamento.",
@@ -1944,7 +1944,7 @@
           "assets/pants_tailored_black_old_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_tailored_black_old_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/pants_tailored_black_old_01/manual-whatsapp-01.jpg"
         ]
       },
       "notes": "Peça de alfaiataria antiga; usuário mencionou cerca de 10-15 anos e necessidade de revisar condição.",
@@ -2029,9 +2029,9 @@
           "assets/pants_uniqlo_airism_stretch_darkgrey_01/manual-03.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_airism_stretch_darkgrey_01/manual-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_airism_stretch_darkgrey_01/manual-02.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_airism_stretch_darkgrey_01/manual-03.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/pants_uniqlo_airism_stretch_darkgrey_01/manual-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/pants_uniqlo_airism_stretch_darkgrey_01/manual-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/pants_uniqlo_airism_stretch_darkgrey_01/manual-03.jpg"
         ]
       },
       "notes": "Calca regular fit com silhueta tapered, tecido nylon jersey leve e fresco ao toque; versatil para office/casual/travel e atividade leve. Acabamento water-repellent ajuda em chuva fraca (nao permanente). Bolsos funcionais.",
@@ -2111,7 +2111,7 @@
           "assets/pants_uniqlo_airism_stretch_jogger_beige_01/manual-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_airism_stretch_jogger_beige_01/manual-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/pants_uniqlo_airism_stretch_jogger_beige_01/manual-01.jpg"
         ]
       },
       "notes": "Mesma família da cinza; boa para variação e clima quente. Também representa a peça identificada como Stretch Jogger bege.",
@@ -2191,7 +2191,7 @@
           "assets/pants_uniqlo_ultra_stretch_active_jogger_darkgrey_01/manual-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_ultra_stretch_active_jogger_darkgrey_01/manual-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/pants_uniqlo_ultra_stretch_active_jogger_darkgrey_01/manual-01.jpg"
         ]
       },
       "notes": "Candidato para possivel troca do Ultra Stretch Active Jogger Pants atual visando ficar mais adequado para academia. Ainda ha duvida porque o jogger bege atual complementa bem a Ultra Stretch Pants cinza escuro; essa troca faz mais sentido se entrar tambem uma Ultra Stretch Pants bege (ja no catalogo).",
@@ -2274,9 +2274,9 @@
           "assets/pants_uniqlo_ultra_stretch_black_01/manual-whatsapp-03.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_ultra_stretch_black_01/manual-whatsapp-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_ultra_stretch_black_01/manual-whatsapp-02.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_ultra_stretch_black_01/manual-whatsapp-03.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/pants_uniqlo_ultra_stretch_black_01/manual-whatsapp-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/pants_uniqlo_ultra_stretch_black_01/manual-whatsapp-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/pants_uniqlo_ultra_stretch_black_01/manual-whatsapp-03.jpg"
         ]
       },
       "notes": "Mesmo modelo/composição das outras Ultra Stretch. Boa peça para cliente, voo e jantar.",
@@ -2356,7 +2356,7 @@
           "assets/pants_uniqlo_ultra_stretch_dry_ex_tapered_beige_01/manual-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_ultra_stretch_dry_ex_tapered_beige_01/manual-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/pants_uniqlo_ultra_stretch_dry_ex_tapered_beige_01/manual-01.jpg"
         ]
       },
       "notes": "Candidato para versao mais tecnica e respiravel em tom bege, mantendo visual urbano limpo com silhueta tapered.",
@@ -2441,10 +2441,10 @@
           "assets/pants_uniqlo_ultra_stretch_olive_01/manual-whatsapp-04.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_ultra_stretch_olive_01/manual-whatsapp-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_ultra_stretch_olive_01/manual-whatsapp-02.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_ultra_stretch_olive_01/manual-whatsapp-03.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_ultra_stretch_olive_01/manual-whatsapp-04.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/pants_uniqlo_ultra_stretch_olive_01/manual-whatsapp-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/pants_uniqlo_ultra_stretch_olive_01/manual-whatsapp-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/pants_uniqlo_ultra_stretch_olive_01/manual-whatsapp-03.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/pants_uniqlo_ultra_stretch_olive_01/manual-whatsapp-04.jpg"
         ]
       },
       "notes": "Cor confirmada pelo usuário como 57 OLIVE; item distinto da dark gray existente.",
@@ -2526,7 +2526,7 @@
           "assets/pants_uniqlo_ultra_stretch_tall_beige_01/manual-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/pants_uniqlo_ultra_stretch_tall_beige_01/manual-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/pants_uniqlo_ultra_stretch_tall_beige_01/manual-01.jpg"
         ]
       },
       "notes": "Versao Tall com regular fit e silhueta tapered para melhor proporcao no comprimento. Tecido nylon jersey elastico e leve para dias longos de trabalho, viagem e uso casual. Acabamento water-repellent ajuda em umidade leve, mas nao e permanente.",
@@ -2562,8 +2562,8 @@
           "assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/polo_uniqlo_airism_black_01/manual-whatsapp-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/polo_uniqlo_airism_black_01/manual-whatsapp-01.jpg"
         ]
       },
       "modelConfidence": "medium",
@@ -2678,7 +2678,7 @@
           "assets/polo_vuori_strato_black_01/manual-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/polo_vuori_strato_black_01/manual-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/polo_vuori_strato_black_01/manual-01.jpg"
         ]
       },
       "notes": "Textura excelente, seca rápido, leve, quase perfeita.",
@@ -2760,8 +2760,8 @@
           "assets/sandals_teva_hurricane_xlt2_01/manual-whatsapp-02.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sandals_teva_hurricane_xlt2_01/manual-whatsapp-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sandals_teva_hurricane_xlt2_01/manual-whatsapp-02.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/sandals_teva_hurricane_xlt2_01/manual-whatsapp-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/sandals_teva_hurricane_xlt2_01/manual-whatsapp-02.jpg"
         ]
       },
       "notes": "Boa, mas pesada como complemento. WhatsApp inbox photos show current black sport sandals. Transcript called them Ativa, but visible branding/shape appears Teva; keep brand review note.",
@@ -2794,7 +2794,7 @@
           "assets/scarf_plaid_black_beige_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/scarf_plaid_black_beige_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/scarf_plaid_black_beige_01/manual-whatsapp-01.jpg"
         ]
       },
       "modelConfidence": "medium",
@@ -2997,10 +2997,10 @@
           "assets/shell_tnf_alta_vista_blue_01/manual-whatsapp-04.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shell_tnf_alta_vista_blue_01/manual-whatsapp-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shell_tnf_alta_vista_blue_01/manual-whatsapp-02.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shell_tnf_alta_vista_blue_01/manual-whatsapp-03.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shell_tnf_alta_vista_blue_01/manual-whatsapp-04.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shell_tnf_alta_vista_blue_01/manual-whatsapp-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shell_tnf_alta_vista_blue_01/manual-whatsapp-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shell_tnf_alta_vista_blue_01/manual-whatsapp-03.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shell_tnf_alta_vista_blue_01/manual-whatsapp-04.jpg"
         ]
       },
       "notes": "Técnica e compacta; azul chama atenção em uso urbano. WhatsApp inbox update: compact and technical, but user is unsure because bright blue is less versatile for urban use.",
@@ -3082,7 +3082,7 @@
           "assets/shell_uniqlo_blocktech_navy_xs_01/manual-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shell_uniqlo_blocktech_navy_xs_01/manual-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shell_uniqlo_blocktech_navy_xs_01/manual-01.jpg"
         ]
       },
       "notes": "Compra candidata forte; melhor visual urbano que Alta Vista.",
@@ -3164,7 +3164,7 @@
           "assets/shell_uniqlo_pocketable_01/manual-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shell_uniqlo_pocketable_01/manual-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shell_uniqlo_pocketable_01/manual-01.jpg"
         ]
       },
       "notes": "Cabe na shoulder bag; não contar como rain shell real.",
@@ -3232,8 +3232,8 @@
           "assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shirt_avalanche_tropical_blue_01/manual-whatsapp-01.jpg"
         ]
       },
       "notes": "Camisa casual de verão/praia. Menos coerente para cliente. WhatsApp inbox: bought at REI, altered for size, now slightly tight; still validating usefulness.",
@@ -3267,8 +3267,8 @@
           "assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-02.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shirt_decathlon_longsleeve_orange_plaid_01/manual-whatsapp-01.jpg"
         ]
       },
       "modelConfidence": "medium",
@@ -3337,8 +3337,8 @@
           "assets/shirt_decathlon_short_sleeve_blue_technical_01/manual-whatsapp-02.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_decathlon_short_sleeve_blue_technical_01/manual-whatsapp-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_decathlon_short_sleeve_blue_technical_01/manual-whatsapp-02.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shirt_decathlon_short_sleeve_blue_technical_01/manual-whatsapp-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shirt_decathlon_short_sleeve_blue_technical_01/manual-whatsapp-02.jpg"
         ]
       },
       "modelConfidence": "medium",
@@ -3407,8 +3407,8 @@
           "assets/shirt_marfinno_linen_green_01/manual-whatsapp-02.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_marfinno_linen_green_01/manual-whatsapp-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_marfinno_linen_green_01/manual-whatsapp-02.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shirt_marfinno_linen_green_01/manual-whatsapp-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shirt_marfinno_linen_green_01/manual-whatsapp-02.jpg"
         ]
       },
       "modelConfidence": "medium",
@@ -3524,7 +3524,7 @@
           "assets/shirt_muji_brown_s_01/manual-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_muji_brown_s_01/manual-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shirt_muji_brown_s_01/manual-01.jpg"
         ]
       },
       "notes": "Flanela 100% algodao com toque macio interno e externo. Regular fit bom para layering: pode usar aberta como sobrecamisa leve ou fechada como camisa. Boa para ambientes internos e clima ameno/frio leve.",
@@ -3594,9 +3594,9 @@
           "assets/shirt_muji_buttondown_navy_s_01/manual-whatsapp-03.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_muji_buttondown_navy_s_01/manual-whatsapp-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_muji_buttondown_navy_s_01/manual-whatsapp-02.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_muji_buttondown_navy_s_01/manual-whatsapp-03.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shirt_muji_buttondown_navy_s_01/manual-whatsapp-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shirt_muji_buttondown_navy_s_01/manual-whatsapp-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shirt_muji_buttondown_navy_s_01/manual-whatsapp-03.jpg"
         ]
       },
       "notes": "Camisa casual-profissional navy. Melhor fit que a UNIQLO Super Non-Iron M. Boa para cliente, jantar e layering.",
@@ -3660,7 +3660,7 @@
           "assets/shirt_tailored_lilac_old_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_tailored_lilac_old_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shirt_tailored_lilac_old_01/manual-whatsapp-01.jpg"
         ]
       },
       "notes": "Pode estar manchada; usuário pretende mandar lavar.",
@@ -3726,7 +3726,7 @@
           "assets/shirt_tailored_white_wedding_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_tailored_white_wedding_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shirt_tailored_white_wedding_01/manual-whatsapp-01.jpg"
         ]
       },
       "notes": "Camisa de alfaiate usada no casamento. Punho formal/para abotoadura. Formal demais para cápsula casual, mas importante no módulo social.",
@@ -3815,10 +3815,10 @@
           "assets/shirt_uniqlo_premium_linen_tbd_01/manual-04.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_uniqlo_premium_linen_tbd_01/manual-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_uniqlo_premium_linen_tbd_01/manual-02.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_uniqlo_premium_linen_tbd_01/manual-03.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_uniqlo_premium_linen_tbd_01/manual-04.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shirt_uniqlo_premium_linen_tbd_01/manual-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shirt_uniqlo_premium_linen_tbd_01/manual-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shirt_uniqlo_premium_linen_tbd_01/manual-03.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shirt_uniqlo_premium_linen_tbd_01/manual-04.jpg"
         ]
       },
       "notes": "Camisa de linho premium bestseller para clima quente, respiravel e com visual limpo para uso urbano/viagem. Cor final ainda a definir entre olive, green, navy ou natural.",
@@ -3887,7 +3887,7 @@
           "assets/shirt_uniqlo_super_non_iron_slim_navy_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_uniqlo_super_non_iron_slim_navy_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shirt_uniqlo_super_non_iron_slim_navy_01/manual-whatsapp-01.jpg"
         ]
       },
       "notes": "Camisa social/corporativa navy. Gola com botões, bolso no peito. Fit parece mais amplo/alongado que a MUJI navy.",
@@ -3954,7 +3954,7 @@
           "assets/shirt_vuori_short_sleeve_bluegrey_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shirt_vuori_short_sleeve_bluegrey_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shirt_vuori_short_sleeve_bluegrey_01/manual-whatsapp-01.jpg"
         ]
       },
       "notes": "Você confirmou que é Vuori. Boa para calor, passeio e cliente casual. WhatsApp inbox: user reads color as greener than the existing blue-gray description; may need fit adjustment at bottom hem for Alpha Yacht-style looks.",
@@ -4034,7 +4034,7 @@
           "assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/official-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/official-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shoes_aku_bellamont_iv_nbk_gtx_black_grey_01/official-01.jpg"
         ]
       },
       "notes": "Melhor visual urbano discreto entre candidatos; low shoe com menos suporte que bota. Foto corrigida para imagem específica do Bellamont IV NBK GTX Nero-Grigio em vez de imagem genérica de paisagem/brand.",
@@ -4123,11 +4123,11 @@
           "assets/shoes_cns_austin_oxford_17358_01/online-03.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-02.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_cns_austin_oxford_17358_01/online-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_cns_austin_oxford_17358_01/online-02.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_cns_austin_oxford_17358_01/online-03.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shoes_cns_austin_oxford_17358_01/online-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shoes_cns_austin_oxford_17358_01/online-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shoes_cns_austin_oxford_17358_01/online-03.jpg"
         ]
       },
       "notes": "Usado no casamento; só entra quando formalidade exige.",
@@ -4210,9 +4210,9 @@
           "assets/shoes_danner_trail2650_gtx_black_shadow_01/online-03.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_danner_trail2650_gtx_black_shadow_01/online-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_danner_trail2650_gtx_black_shadow_01/online-02.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_danner_trail2650_gtx_black_shadow_01/online-03.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shoes_danner_trail2650_gtx_black_shadow_01/online-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shoes_danner_trail2650_gtx_black_shadow_01/online-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shoes_danner_trail2650_gtx_black_shadow_01/online-03.jpg"
         ]
       },
       "notes": "Boa opção leve, mas visual mais técnico e menos bota.",
@@ -4294,8 +4294,8 @@
           "assets/shoes_democrata_dune_hisoft_298201_black_01/official-02.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_democrata_dune_hisoft_298201_black_01/official-02.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shoes_democrata_dune_hisoft_298201_black_01/official-02.jpg"
         ]
       },
       "notes": "Pode ser redundante com CNS em alguns eventos, mas mais descontraído. Imagens corrigidas para o sapato Democrata Dune Hi-Soft 32 preto, referência 298201-001, removendo fotos inconsistentes de bota/outro modelo.",
@@ -4376,7 +4376,7 @@
           "assets/shoes_nike_pegasus_trail_5_01/manual-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_nike_pegasus_trail_5_01/manual-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shoes_nike_pegasus_trail_5_01/manual-01.jpg"
         ]
       },
       "notes": "Boa para corrida; risco de não dar firmeza que você gosta.",
@@ -4458,7 +4458,7 @@
           "assets/shoes_salomon_xultra_mid_gtx_black_01/online-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_salomon_xultra_mid_gtx_black_01/online-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shoes_salomon_xultra_mid_gtx_black_01/online-01.jpg"
         ]
       },
       "notes": "Melhor tecnicamente, pior para visual urbano.",
@@ -4527,8 +4527,8 @@
           "assets/shorts_black_gym_01/manual-whatsapp-02.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shorts_black_gym_01/manual-whatsapp-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shorts_black_gym_01/manual-whatsapp-02.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shorts_black_gym_01/manual-whatsapp-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shorts_black_gym_01/manual-whatsapp-02.jpg"
         ]
       },
       "notes": "Usuário diz que é compacto e versátil; substitui o shorts Nike antigo rasgado.",
@@ -4561,7 +4561,7 @@
           "assets/shorts_cycling_padded_black_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shorts_cycling_padded_black_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shorts_cycling_padded_black_01/manual-whatsapp-01.jpg"
         ]
       },
       "modelConfidence": "medium",
@@ -4679,9 +4679,9 @@
           "assets/shorts_nike_running_01/online-03.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shorts_nike_running_01/online-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shorts_nike_running_01/online-02.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shorts_nike_running_01/online-03.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shorts_nike_running_01/online-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shorts_nike_running_01/online-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shorts_nike_running_01/online-03.jpg"
         ]
       },
       "notes": "Leve e fácil de carregar; pouco stylish. Archived per WhatsApp inbox: user said this Nike shorts is old, ripped, and should be archived.",
@@ -4751,8 +4751,8 @@
           "assets/shorts_taco_walkshort_flex_beige_01/manual-whatsapp-02.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shorts_taco_walkshort_flex_beige_01/manual-whatsapp-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shorts_taco_walkshort_flex_beige_01/manual-whatsapp-02.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shorts_taco_walkshort_flex_beige_01/manual-whatsapp-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shorts_taco_walkshort_flex_beige_01/manual-whatsapp-02.jpg"
         ]
       },
       "notes": "Bermuda casual de verão. Boa para passeio/calor, não para cliente.",
@@ -4832,7 +4832,7 @@
           "assets/shorts_uniqlo_stretch_easy_beige_01/manual-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shorts_uniqlo_stretch_easy_beige_01/manual-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shorts_uniqlo_stretch_easy_beige_01/manual-01.jpg"
         ]
       },
       "notes": "Candidate buy de shorts para calor com proposta simples e versatil. Cor bege pode funcionar como alternativa neutra para travel e uso casual.",
@@ -4919,7 +4919,7 @@
           "assets/shorts_uniqlo_ultra_stretch_active_5in_black_01/manual-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shorts_uniqlo_ultra_stretch_active_5in_black_01/manual-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/shorts_uniqlo_ultra_stretch_active_5in_black_01/manual-01.jpg"
         ]
       },
       "notes": "Short regular fit com entreperna 5in, tecido leve com secagem rapida DRY-EX e elasticidade em todas as direcoes. Bom para treino e dias quentes, com bolsos de zip e acabamento limpo sem volume.",
@@ -4989,8 +4989,8 @@
           "assets/slippers_lightweight_01/manual-whatsapp-02.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/slippers_lightweight_01/manual-whatsapp-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/slippers_lightweight_01/manual-whatsapp-02.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/slippers_lightweight_01/manual-whatsapp-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/slippers_lightweight_01/manual-whatsapp-02.jpg"
         ]
       },
       "notes": "Levar só em viagem longa/frio/hospedagem fixa.",
@@ -5059,9 +5059,9 @@
           "assets/sneaker_velluti_everyday_brown_01/manual-detail-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_velluti_everyday_brown_01/manual-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_velluti_everyday_brown_01/manual-02.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sneaker_velluti_everyday_brown_01/manual-detail-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/sneaker_velluti_everyday_brown_01/manual-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/sneaker_velluti_everyday_brown_01/manual-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/sneaker_velluti_everyday_brown_01/manual-detail-01.jpg"
         ]
       },
       "notes": "Sapatênis/sneaker marrom escuro Velluti com zíper lateral, cadarço elástico, painel lateral em tom marrom médio e sola branca. Merge do item duplicado anteriormente catalogado como Pegada.",
@@ -5094,7 +5094,7 @@
           "assets/socks_aztec_technical_grey_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/socks_aztec_technical_grey_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/socks_aztec_technical_grey_01/manual-whatsapp-01.jpg"
         ]
       },
       "modelConfidence": "medium",
@@ -5195,8 +5195,8 @@
           "assets/socks_black_fuzzy_sleep_01/manual-whatsapp-02.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/socks_black_fuzzy_sleep_01/manual-whatsapp-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/socks_black_fuzzy_sleep_01/manual-whatsapp-02.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/socks_black_fuzzy_sleep_01/manual-whatsapp-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/socks_black_fuzzy_sleep_01/manual-whatsapp-02.jpg"
         ]
       },
       "notes": "Usuário usa em dias frios como parte do kit de pijama.",
@@ -5275,7 +5275,7 @@
           "assets/socks_cns_modal_social_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/socks_cns_modal_social_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/socks_cns_modal_social_01/manual-whatsapp-01.jpg"
         ]
       },
       "notes": "Mantém coerência visual com CNS/Democrata.",
@@ -5353,7 +5353,7 @@
           "assets/socks_decathlon_hiking_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/socks_decathlon_hiking_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/socks_decathlon_hiking_01/manual-whatsapp-01.jpg"
         ]
       },
       "notes": "Essenciais com Timberland e trilhas.",
@@ -5429,7 +5429,7 @@
           "assets/socks_mountain_warehouse_melange_blue_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/socks_mountain_warehouse_melange_blue_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/socks_mountain_warehouse_melange_blue_01/manual-whatsapp-01.jpg"
         ]
       },
       "notes": "Texto do WhatsApp: Melange Mens Walking Socks Blue, Shoe Size 8-12 US.",
@@ -5493,7 +5493,7 @@
           "assets/socks_quechua_lightgrey_worn_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/socks_quechua_lightgrey_worn_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/socks_quechua_lightgrey_worn_01/manual-whatsapp-01.jpg"
         ]
       },
       "notes": "Marca incerta na transcrição; visualmente meia técnica clara já gasta.",
@@ -5503,7 +5503,7 @@
       "tags": []
     },
     {
-      "id": "sweater_uniqlo_merino_black_01",
+      "id": "sweater_uniqlo_merino_navy_01",
       "status": "owned",
       "name": "UNIQLO Merino Sweater navy",
       "brand": "UNIQLO",
@@ -5575,10 +5575,10 @@
           }
         ],
         "publicImages": [
-          "assets/sweater_uniqlo_merino_black_01/manual-01.jpg"
+          "assets/sweater_uniqlo_merino_navy_01/manual-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/sweater_uniqlo_merino_black_01/manual-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/sweater_uniqlo_merino_navy_01/manual-01.jpg"
         ]
       },
       "notes": "Design simples e versatil para uso urbano. La merino extra-fina com toque suave e brilho discreto; mantem conforto termico e respirabilidade. Lavavel em maquina (ciclo suave, ideal lavar do avesso em saco) com tratamento anti-pilling.",
@@ -5611,7 +5611,7 @@
           "assets/swim_briefs_speedo_black_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/swim_briefs_speedo_black_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/swim_briefs_speedo_black_01/manual-whatsapp-01.jpg"
         ]
       },
       "modelConfidence": "medium",
@@ -5725,7 +5725,7 @@
           "assets/tee_uniqlo_airism_crew_black_01/manual-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/tee_uniqlo_airism_crew_black_01/manual-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/tee_uniqlo_airism_crew_black_01/manual-01.jpg"
         ]
       },
       "notes": "Comprar 1 para testar; pode substituir undershirt em usos mais visíveis.",
@@ -5808,7 +5808,7 @@
           "assets/tee_uniqlo_dry_color_black_xs_01/manual-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/tee_uniqlo_dry_color_black_xs_01/manual-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/tee_uniqlo_dry_color_black_xs_01/manual-01.jpg"
         ]
       },
       "notes": "Ótima para visual programador; comprar várias se o caimento atual for consistente.",
@@ -5895,7 +5895,7 @@
           "assets/tee_uniqlo_dry_ex_black_01/manual-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/tee_uniqlo_dry_ex_black_01/manual-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/tee_uniqlo_dry_ex_black_01/manual-01.jpg"
         ]
       },
       "notes": "Camiseta regular fit com DRY-EX de secagem rapida, malha respiravel nas laterais e centro das costas, tecido suave com brilho discreto e design com poucas costuras aparentes. Boa para dias ativos, calor, viagem e uso urbano casual.",
@@ -5960,7 +5960,7 @@
           "assets/tie_navy_social_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/tie_navy_social_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/tie_navy_social_01/manual-whatsapp-01.jpg"
         ]
       },
       "notes": "Fotografada junto dos conjuntos sociais.",
@@ -6026,7 +6026,7 @@
           "assets/tshirt_factored_black_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/tshirt_factored_black_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/tshirt_factored_black_01/manual-whatsapp-01.jpg"
         ]
       },
       "notes": "Camiseta corporativa com logo Factored. Mais discreta que a branca, mas ainda casual. WhatsApp inbox: company T-shirt from the user workplace.",
@@ -6155,7 +6155,7 @@
           "assets/tshirt_insider_beige_sleep_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/tshirt_insider_beige_sleep_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/tshirt_insider_beige_sleep_01/manual-whatsapp-01.jpg"
         ]
       },
       "notes": "Era para ser pequena, mas ficou larga; usuário usa mais como pijama.",
@@ -6188,7 +6188,7 @@
           "assets/tshirt_ondeck_longsleeve_navy_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/tshirt_ondeck_longsleeve_navy_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/tshirt_ondeck_longsleeve_navy_01/manual-whatsapp-01.jpg"
         ]
       },
       "modelConfidence": "medium",
@@ -6291,8 +6291,8 @@
           "assets/tshirt_uniqlo_black_01/manual-whatsapp-02.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/tshirt_uniqlo_black_01/manual-whatsapp-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/tshirt_uniqlo_black_01/manual-whatsapp-02.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/tshirt_uniqlo_black_01/manual-whatsapp-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/tshirt_uniqlo_black_01/manual-whatsapp-02.jpg"
         ]
       },
       "notes": "Camiseta lisa sem estampa. Base útil para voo, layering e looks casuais.",
@@ -6361,10 +6361,10 @@
           "assets/tshirt_uniqlo_navy_01/manual-whatsapp-04.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/tshirt_uniqlo_navy_01/manual-whatsapp-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/tshirt_uniqlo_navy_01/manual-whatsapp-02.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/tshirt_uniqlo_navy_01/manual-whatsapp-03.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/tshirt_uniqlo_navy_01/manual-whatsapp-04.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/tshirt_uniqlo_navy_01/manual-whatsapp-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/tshirt_uniqlo_navy_01/manual-whatsapp-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/tshirt_uniqlo_navy_01/manual-whatsapp-03.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/tshirt_uniqlo_navy_01/manual-whatsapp-04.jpg"
         ]
       },
       "notes": "Camiseta lisa sem estampa. Redundante com a preta, mas útil como base.",
@@ -6443,10 +6443,10 @@
           "assets/undershirt_uniqlo_airism_vneck_black_01/manual-whatsapp-04.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/undershirt_uniqlo_airism_vneck_black_01/manual-whatsapp-01.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/undershirt_uniqlo_airism_vneck_black_01/manual-whatsapp-02.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/undershirt_uniqlo_airism_vneck_black_01/manual-whatsapp-03.jpg",
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/undershirt_uniqlo_airism_vneck_black_01/manual-whatsapp-04.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/undershirt_uniqlo_airism_vneck_black_01/manual-whatsapp-01.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/undershirt_uniqlo_airism_vneck_black_01/manual-whatsapp-02.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/undershirt_uniqlo_airism_vneck_black_01/manual-whatsapp-03.jpg",
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/undershirt_uniqlo_airism_vneck_black_01/manual-whatsapp-04.jpg"
         ]
       },
       "notes": "Muito leve; feia para usar sozinha; não serve bem para academia. WhatsApp inbox update: user still uses this often as an extremely compact underlayer under shirts/cardigan or for reusing clothes.",
@@ -6524,7 +6524,7 @@
           "assets/underwear_uniqlo_01/manual-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/underwear_uniqlo_01/manual-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/underwear_uniqlo_01/manual-01.jpg"
         ]
       },
       "notes": "Confirmar modelo e quantidade.",
@@ -6589,7 +6589,7 @@
           "assets/vest_tailored_beige_wedding_01/manual-whatsapp-01.jpg"
         ],
         "publicImageUrls": [
-          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/vest_tailored_beige_wedding_01/manual-whatsapp-01.jpg"
+          "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/codex/wardrobe-ai-context/assets/vest_tailored_beige_wedding_01/manual-whatsapp-01.jpg"
         ]
       },
       "notes": "Usuário observou que o colete é mais difícil de reutilizar.",
