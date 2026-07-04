@@ -27,6 +27,6 @@ This repository mirrors selected sanitized artifacts from a private wardrobe cat
 
 ## Suggested AI Prompt
 
-First inspect `AI_CONTEXT.md` for the single-file overview. Use embedded grid pages for visual triage, cite stable `itemId` values from the tables, and only open individual `media.publicImageUrls` when a grid cell needs closer inspection:
+First inspect `AI_CONTEXT.md` for the single-file overview. It is organized as active overview, owned-by-category summary, decision queues, category deep dives, normalized use-case modules, and archive. Use embedded grid pages for visual triage, cite stable `itemId` values from the tables, and only open individual `media.publicImageUrls` when a grid cell needs closer inspection:
 
 https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/data/catalog.json
