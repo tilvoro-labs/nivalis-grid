@@ -90,11 +90,11 @@ This public file is generated from sanitized mirror data. It excludes private pr
 | A03 | `pants_renner_flannel_plaid_01` | Calça flanela xadrez Renner | Sleep pants |  |
 | B03 | `shorts_taco_walkshort_flex_beige_01` | TACO Walkshort Flex bege | Walkshort |  |
 | C03 | `sneaker_velluti_everyday_brown_01` | Velluti Everyday sapatênis marrom | Casual sneaker |  |
-| D03 | `flipflop_havaianas_01` | Havaianas | Flip-flop |  |
-| A04 | `boots_timberland_mt_maddsen_wp_brown_01` | Timberland Mt. Maddsen Mid Waterproof Hiking Boot | Hiking boot |  |
-| B04 | `shoes_cns_austin_oxford_17358_01` | CNS Austin Oxford social | Oxford shoe |  |
-| C04 | `slippers_lightweight_01` | Pantufas leves | Slippers |  |
-| D04 | `shoes_democrata_dune_hisoft_298201_black_01` | Democrata Dune Hi-Soft 32 preto | Smart casual derby |  |
+| D03 | `shoes_democrata_dune_hisoft_298201_black_01` | Democrata Dune Hi-Soft 32 preto | Casual-social shoe |  |
+| A04 | `flipflop_havaianas_01` | Havaianas | Flip-flop |  |
+| B04 | `boots_timberland_mt_maddsen_wp_brown_01` | Timberland Mt. Maddsen Mid Waterproof Hiking Boot | Hiking boot |  |
+| C04 | `shoes_cns_austin_oxford_17358_01` | CNS Austin Oxford social | Oxford shoe |  |
+| D04 | `slippers_lightweight_01` | Pantufas leves | Slippers |  |
 
 ### Category: accessory p1/1
 
@@ -150,11 +150,11 @@ This public file is generated from sanitized mirror data. It excludes private pr
 | Cell | Item ID | Name | Category | Tags |
 |---|---|---|---|---|
 | A01 | `sneaker_velluti_everyday_brown_01` | Velluti Everyday sapatênis marrom | Casual sneaker |  |
-| B01 | `flipflop_havaianas_01` | Havaianas | Flip-flop |  |
-| C01 | `boots_timberland_mt_maddsen_wp_brown_01` | Timberland Mt. Maddsen Mid Waterproof Hiking Boot | Hiking boot |  |
-| D01 | `shoes_cns_austin_oxford_17358_01` | CNS Austin Oxford social | Oxford shoe |  |
-| A02 | `slippers_lightweight_01` | Pantufas leves | Slippers |  |
-| B02 | `shoes_democrata_dune_hisoft_298201_black_01` | Democrata Dune Hi-Soft 32 preto | Smart casual derby |  |
+| B01 | `shoes_democrata_dune_hisoft_298201_black_01` | Democrata Dune Hi-Soft 32 preto | Casual-social shoe |  |
+| C01 | `flipflop_havaianas_01` | Havaianas | Flip-flop |  |
+| D01 | `boots_timberland_mt_maddsen_wp_brown_01` | Timberland Mt. Maddsen Mid Waterproof Hiking Boot | Hiking boot |  |
+| A02 | `shoes_cns_austin_oxford_17358_01` | CNS Austin Oxford social | Oxford shoe |  |
+| B02 | `slippers_lightweight_01` | Pantufas leves | Slippers |  |
 | C02 | `sandals_teva_hurricane_xlt2_01` | Teva Hurricane XLT2 masculina | Sport sandal |  |
 | D02 | `shoes_nike_pegasus_trail_5_01` | Nike Pegasus Trail 5 | Trail runner | candidate_buy |
 | A03 | `shoes_danner_trail2650_gtx_black_shadow_01` | Danner Trail 2650 GTX Black Shadow | Trail shoe | candidate_buy |
@@ -240,7 +240,7 @@ This public file is generated from sanitized mirror data. It excludes private pr
 | Tops | 24 | `baselayer_longsleeve_black_01`, `baselayer_uniqlo_heattech_darkgray_01`, `shirt_muji_buttondown_navy_s_01`, `jersey_vale_europeu_longsleeve_fullzip_01`, `shirt_tailored_white_wedding_01`, `shirt_tailored_lilac_old_01` | 18 more |
 | Bottoms | 12 | `shorts_black_gym_01`, `baselayer_uniqlo_heattech_leggings_black_01`, `shorts_cycling_padded_black_01`, `pants_tailored_beige_wedding_01`, `pants_tailored_black_old_01`, `pants_rei_sahara_convertible_taupe_01` | 6 more |
 | Outerwear | 12 | `blazer_tailored_beige_wedding_01`, `blazer_casual_navy_01`, `blazer_tailored_black_old_01`, `down_uniqlo_navy_xs_01`, `down_uniqlo_grey_s_01`, `fleece_uniqlo_green_halfzip_01` | 6 more |
-| Footwear | 7 | `sneaker_velluti_everyday_brown_01`, `flipflop_havaianas_01`, `boots_timberland_mt_maddsen_wp_brown_01`, `shoes_cns_austin_oxford_17358_01`, `slippers_lightweight_01`, `shoes_democrata_dune_hisoft_298201_black_01` | 1 more |
+| Footwear | 7 | `sneaker_velluti_everyday_brown_01`, `shoes_democrata_dune_hisoft_298201_black_01`, `flipflop_havaianas_01`, `boots_timberland_mt_maddsen_wp_brown_01`, `shoes_cns_austin_oxford_17358_01`, `slippers_lightweight_01` | 1 more |
 | Accessories | 9 | `gloves_uniqlo_black_touchscreen_01`, `scarf_plaid_black_beige_01`, `socks_aztec_technical_grey_01`, `socks_quechua_lightgrey_worn_01`, `socks_black_fuzzy_sleep_01`, `socks_cns_modal_social_01` | 3 more |
 | Underwear | 2 | `underwear_uniqlo_01`, `swim_briefs_speedo_black_01` |  |
 
@@ -354,11 +354,11 @@ This public file is generated from sanitized mirror data. It excludes private pr
 | Item ID | Name | Ownership/tags | Subcategory | Module | Color | Use/role | Scores | Images |
 |---|---|---|---|---|---|---|---|---|
 | `sneaker_velluti_everyday_brown_01` | Velluti Everyday sapatênis marrom | owned | Casual sneaker | Urban Core / Casual | Marrom escuro com detalhes marrom médio | Sapatênis urbano marrom | urban 3.4 / travel 3.4 | 3 |
+| `shoes_democrata_dune_hisoft_298201_black_01` | Democrata Dune Hi-Soft 32 preto | owned | Casual-social shoe | Formal/Social | Preto com sola marrom e faixa clara | Sapato preto casual-social | urban 3.5 / travel 3.2 | 2 |
 | `flipflop_havaianas_01` | Havaianas | owned | Flip-flop | Hot/Water | ? | Banho/praia | urban 1 / travel 1.8 | 1 |
 | `boots_timberland_mt_maddsen_wp_brown_01` | Timberland Mt. Maddsen Mid Waterproof Hiking Boot | owned | Hiking boot | Outdoor Core | Marrom | Bota robusta principal | urban 2 / travel 1.9 | 1 |
 | `shoes_cns_austin_oxford_17358_01` | CNS Austin Oxford social | owned | Oxford shoe | Formal/Social | ? | Sapato formal clássico | urban 3 / travel 3.2 | 5 |
 | `slippers_lightweight_01` | Pantufas leves | owned | Slippers | Indoor/Comfort | ? | Conforto indoor | urban 0 / travel 1.8 | 2 |
-| `shoes_democrata_dune_hisoft_298201_black_01` | Democrata Dune Hi-Soft 32 preto | owned | Smart casual derby | Formal/Social | Preto com sola marrom e faixa clara | Social descontraído | urban 3.5 / travel 3.2 | 2 |
 | `sandals_teva_hurricane_xlt2_01` | Teva Hurricane XLT2 masculina | owned | Sport sandal | Hot/Water | Preta | Water/hot sandal | urban 1.5 / travel 1.9 | 2 |
 | `shoes_nike_pegasus_trail_5_01` | Nike Pegasus Trail 5 | not_owned, candidate_buy | Trail runner | Bike/Active | Preta/grafite ideal | Corrida + trilha leve | urban 3.5 / travel 2.6 | 1 |
 | `shoes_danner_trail2650_gtx_black_shadow_01` | Danner Trail 2650 GTX Black Shadow | not_owned, candidate_buy | Trail shoe | Bike/Active | Black Shadow | Exploração leve | urban 3.5 / travel 2.7 | 3 |
@@ -436,8 +436,8 @@ These are presentation modules for AI reasoning. They normalize the noisier raw 
 | `tie_navy_social_01` | Gravata social navy | owned | Tie | Formal / Social | Navy | Acessório social | urban 2 / travel 2.5 | 1 |
 | `pants_tailored_beige_wedding_01` | Calça social bege de casamento | owned | Dress pants | Formal / Social | Bege | Calça social clara | urban 2 / travel 2.5 | 2 |
 | `pants_tailored_black_old_01` | Calça social preta alfaiataria antiga | owned | Dress pants | Formal / Social | Preta | Calça de terno antigo | urban 2 / travel 2.5 | 1 |
+| `shoes_democrata_dune_hisoft_298201_black_01` | Democrata Dune Hi-Soft 32 preto | owned | Casual-social shoe | Formal/Social | Preto com sola marrom e faixa clara | Sapato preto casual-social | urban 3.5 / travel 3.2 | 2 |
 | `shoes_cns_austin_oxford_17358_01` | CNS Austin Oxford social | owned | Oxford shoe | Formal/Social | ? | Sapato formal clássico | urban 3 / travel 3.2 | 5 |
-| `shoes_democrata_dune_hisoft_298201_black_01` | Democrata Dune Hi-Soft 32 preto | owned | Smart casual derby | Formal/Social | Preto com sola marrom e faixa clara | Social descontraído | urban 3.5 / travel 3.2 | 2 |
 | `blazer_tailored_beige_wedding_01` | Blazer bege de casamento | owned | Blazer | Formal / Social | Bege | Blazer social claro | urban 2 / travel 2.5 | 1 |
 | `blazer_tailored_black_old_01` | Blazer preto alfaiataria antiga | owned | Blazer | Formal / Social | Preto / charcoal | Blazer de terno antigo | urban 2 / travel 2.5 | 1 |
 | `shirt_muji_buttondown_navy_s_01` | MUJI camisa button-down navy | owned | Button-down shirt | Urban Core / Formal-Social casual | Navy | Camisa casual-profissional navy | urban 4 / travel 4 | 3 |

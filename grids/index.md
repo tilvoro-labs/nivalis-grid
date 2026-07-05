@@ -50,11 +50,11 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | A03 | `pants_renner_flannel_plaid_01` | Sleep pants | owned |  | `assets/pants_renner_flannel_plaid_01/manual-whatsapp-01.jpg` |
 | B03 | `shorts_taco_walkshort_flex_beige_01` | Walkshort | owned |  | `assets/shorts_taco_walkshort_flex_beige_01/manual-whatsapp-01.jpg` |
 | C03 | `sneaker_velluti_everyday_brown_01` | Casual sneaker | owned |  | `assets/sneaker_velluti_everyday_brown_01/manual-01.jpg` |
-| D03 | `flipflop_havaianas_01` | Flip-flop | owned |  | `assets/flipflop_havaianas_01/manual-whatsapp-01.jpg` |
-| A04 | `boots_timberland_mt_maddsen_wp_brown_01` | Hiking boot | owned |  | `assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg` |
-| B04 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-01.jpg` |
-| C04 | `slippers_lightweight_01` | Slippers | owned |  | `assets/slippers_lightweight_01/manual-whatsapp-01.jpg` |
-| D04 | `shoes_democrata_dune_hisoft_298201_black_01` | Smart casual derby | owned |  | `assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg` |
+| D03 | `shoes_democrata_dune_hisoft_298201_black_01` | Casual-social shoe | owned |  | `assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg` |
+| A04 | `flipflop_havaianas_01` | Flip-flop | owned |  | `assets/flipflop_havaianas_01/manual-whatsapp-01.jpg` |
+| B04 | `boots_timberland_mt_maddsen_wp_brown_01` | Hiking boot | owned |  | `assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg` |
+| C04 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-01.jpg` |
+| D04 | `slippers_lightweight_01` | Slippers | owned |  | `assets/slippers_lightweight_01/manual-whatsapp-01.jpg` |
 
 ## Active Items Overview · p3/6
 
@@ -250,11 +250,11 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | Cell | Item ID | Subcategory | Ownership | Tags | Source image |
 |---|---|---|---|---|---|
 | A01 | `sneaker_velluti_everyday_brown_01` | Casual sneaker | owned |  | `assets/sneaker_velluti_everyday_brown_01/manual-01.jpg` |
-| B01 | `flipflop_havaianas_01` | Flip-flop | owned |  | `assets/flipflop_havaianas_01/manual-whatsapp-01.jpg` |
-| C01 | `boots_timberland_mt_maddsen_wp_brown_01` | Hiking boot | owned |  | `assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg` |
-| D01 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-01.jpg` |
-| A02 | `slippers_lightweight_01` | Slippers | owned |  | `assets/slippers_lightweight_01/manual-whatsapp-01.jpg` |
-| B02 | `shoes_democrata_dune_hisoft_298201_black_01` | Smart casual derby | owned |  | `assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg` |
+| B01 | `shoes_democrata_dune_hisoft_298201_black_01` | Casual-social shoe | owned |  | `assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg` |
+| C01 | `flipflop_havaianas_01` | Flip-flop | owned |  | `assets/flipflop_havaianas_01/manual-whatsapp-01.jpg` |
+| D01 | `boots_timberland_mt_maddsen_wp_brown_01` | Hiking boot | owned |  | `assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg` |
+| A02 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-01.jpg` |
+| B02 | `slippers_lightweight_01` | Slippers | owned |  | `assets/slippers_lightweight_01/manual-whatsapp-01.jpg` |
 | C02 | `sandals_teva_hurricane_xlt2_01` | Sport sandal | owned |  | `assets/sandals_teva_hurricane_xlt2_01/manual-whatsapp-01.jpg` |
 | D02 | `shoes_nike_pegasus_trail_5_01` | Trail runner | not_owned | candidate_buy | `assets/shoes_nike_pegasus_trail_5_01/manual-01.jpg` |
 | A03 | `shoes_danner_trail2650_gtx_black_shadow_01` | Trail shoe | not_owned | candidate_buy | `assets/shoes_danner_trail2650_gtx_black_shadow_01/online-01.jpg` |
@@ -270,17 +270,17 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | A01 | `sneaker_velluti_everyday_brown_01` | Casual sneaker | owned |  | `assets/sneaker_velluti_everyday_brown_01/manual-01.jpg` |
 | B01 | `sneaker_velluti_everyday_brown_01` | Casual sneaker | owned |  | `assets/sneaker_velluti_everyday_brown_01/manual-02.jpg` |
 | C01 | `sneaker_velluti_everyday_brown_01` | Casual sneaker | owned |  | `assets/sneaker_velluti_everyday_brown_01/manual-detail-01.jpg` |
-| D01 | `flipflop_havaianas_01` | Flip-flop | owned |  | `assets/flipflop_havaianas_01/manual-whatsapp-01.jpg` |
-| A02 | `boots_timberland_mt_maddsen_wp_brown_01` | Hiking boot | owned |  | `assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg` |
-| B02 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-01.jpg` |
-| C02 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-02.jpg` |
-| D02 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/online-01.jpg` |
-| A03 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/online-02.jpg` |
-| B03 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/online-03.jpg` |
-| C03 | `slippers_lightweight_01` | Slippers | owned |  | `assets/slippers_lightweight_01/manual-whatsapp-01.jpg` |
-| D03 | `slippers_lightweight_01` | Slippers | owned |  | `assets/slippers_lightweight_01/manual-whatsapp-02.jpg` |
-| A04 | `shoes_democrata_dune_hisoft_298201_black_01` | Smart casual derby | owned |  | `assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg` |
-| B04 | `shoes_democrata_dune_hisoft_298201_black_01` | Smart casual derby | owned |  | `assets/shoes_democrata_dune_hisoft_298201_black_01/official-02.jpg` |
+| D01 | `shoes_democrata_dune_hisoft_298201_black_01` | Casual-social shoe | owned |  | `assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg` |
+| A02 | `shoes_democrata_dune_hisoft_298201_black_01` | Casual-social shoe | owned |  | `assets/shoes_democrata_dune_hisoft_298201_black_01/official-02.jpg` |
+| B02 | `flipflop_havaianas_01` | Flip-flop | owned |  | `assets/flipflop_havaianas_01/manual-whatsapp-01.jpg` |
+| C02 | `boots_timberland_mt_maddsen_wp_brown_01` | Hiking boot | owned |  | `assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg` |
+| D02 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-01.jpg` |
+| A03 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-02.jpg` |
+| B03 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/online-01.jpg` |
+| C03 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/online-02.jpg` |
+| D03 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/online-03.jpg` |
+| A04 | `slippers_lightweight_01` | Slippers | owned |  | `assets/slippers_lightweight_01/manual-whatsapp-01.jpg` |
+| B04 | `slippers_lightweight_01` | Slippers | owned |  | `assets/slippers_lightweight_01/manual-whatsapp-02.jpg` |
 | C04 | `sandals_teva_hurricane_xlt2_01` | Sport sandal | owned |  | `assets/sandals_teva_hurricane_xlt2_01/manual-whatsapp-01.jpg` |
 | D04 | `sandals_teva_hurricane_xlt2_01` | Sport sandal | owned |  | `assets/sandals_teva_hurricane_xlt2_01/manual-whatsapp-02.jpg` |
 
@@ -675,8 +675,8 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | Cell | Item ID | Subcategory | Ownership | Tags | Source image |
 |---|---|---|---|---|---|
 | A01 | `socks_cns_modal_social_01` | Socks | owned |  | `assets/socks_cns_modal_social_01/manual-whatsapp-01.jpg` |
-| B01 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-01.jpg` |
-| C01 | `shoes_democrata_dune_hisoft_298201_black_01` | Smart casual derby | owned |  | `assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg` |
+| B01 | `shoes_democrata_dune_hisoft_298201_black_01` | Casual-social shoe | owned |  | `assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg` |
+| C01 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-01.jpg` |
 | D01 | `shirt_tailored_white_wedding_01` | Dress shirt | owned |  | `assets/shirt_tailored_white_wedding_01/manual-whatsapp-01.jpg` |
 | A02 | `shirt_muji_brown_s_01` | Shirt | owned |  | `assets/shirt_muji_brown_s_01/manual-01.jpg` |
 
@@ -856,11 +856,11 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | D01 | `pants_renner_flannel_plaid_01` | Sleep pants | owned |  | `assets/pants_renner_flannel_plaid_01/manual-whatsapp-01.jpg` |
 | A02 | `shorts_taco_walkshort_flex_beige_01` | Walkshort | owned |  | `assets/shorts_taco_walkshort_flex_beige_01/manual-whatsapp-01.jpg` |
 | B02 | `sneaker_velluti_everyday_brown_01` | Casual sneaker | owned |  | `assets/sneaker_velluti_everyday_brown_01/manual-01.jpg` |
-| C02 | `flipflop_havaianas_01` | Flip-flop | owned |  | `assets/flipflop_havaianas_01/manual-whatsapp-01.jpg` |
-| D02 | `boots_timberland_mt_maddsen_wp_brown_01` | Hiking boot | owned |  | `assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg` |
-| A03 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-01.jpg` |
-| B03 | `slippers_lightweight_01` | Slippers | owned |  | `assets/slippers_lightweight_01/manual-whatsapp-01.jpg` |
-| C03 | `shoes_democrata_dune_hisoft_298201_black_01` | Smart casual derby | owned |  | `assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg` |
+| C02 | `shoes_democrata_dune_hisoft_298201_black_01` | Casual-social shoe | owned |  | `assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg` |
+| D02 | `flipflop_havaianas_01` | Flip-flop | owned |  | `assets/flipflop_havaianas_01/manual-whatsapp-01.jpg` |
+| A03 | `boots_timberland_mt_maddsen_wp_brown_01` | Hiking boot | owned |  | `assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg` |
+| B03 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-01.jpg` |
+| C03 | `slippers_lightweight_01` | Slippers | owned |  | `assets/slippers_lightweight_01/manual-whatsapp-01.jpg` |
 | D03 | `sandals_teva_hurricane_xlt2_01` | Sport sandal | owned |  | `assets/sandals_teva_hurricane_xlt2_01/manual-whatsapp-01.jpg` |
 | A04 | `blazer_tailored_beige_wedding_01` | Blazer | owned |  | `assets/blazer_tailored_beige_wedding_01/manual-whatsapp-01.jpg` |
 | B04 | `blazer_casual_navy_01` | Blazer | owned |  | `assets/blazer_casual_navy_01/manual-whatsapp-01.jpg` |
@@ -988,11 +988,11 @@ Cell IDs are local to a page. Use `itemId` as the stable identifier.
 | D01 | `pants_renner_flannel_plaid_01` | Sleep pants | owned |  | `assets/pants_renner_flannel_plaid_01/manual-whatsapp-01.jpg` |
 | A02 | `shorts_taco_walkshort_flex_beige_01` | Walkshort | owned |  | `assets/shorts_taco_walkshort_flex_beige_01/manual-whatsapp-01.jpg` |
 | B02 | `sneaker_velluti_everyday_brown_01` | Casual sneaker | owned |  | `assets/sneaker_velluti_everyday_brown_01/manual-01.jpg` |
-| C02 | `flipflop_havaianas_01` | Flip-flop | owned |  | `assets/flipflop_havaianas_01/manual-whatsapp-01.jpg` |
-| D02 | `boots_timberland_mt_maddsen_wp_brown_01` | Hiking boot | owned |  | `assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg` |
-| A03 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-01.jpg` |
-| B03 | `slippers_lightweight_01` | Slippers | owned |  | `assets/slippers_lightweight_01/manual-whatsapp-01.jpg` |
-| C03 | `shoes_democrata_dune_hisoft_298201_black_01` | Smart casual derby | owned |  | `assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg` |
+| C02 | `shoes_democrata_dune_hisoft_298201_black_01` | Casual-social shoe | owned |  | `assets/shoes_democrata_dune_hisoft_298201_black_01/official-01.jpg` |
+| D02 | `flipflop_havaianas_01` | Flip-flop | owned |  | `assets/flipflop_havaianas_01/manual-whatsapp-01.jpg` |
+| A03 | `boots_timberland_mt_maddsen_wp_brown_01` | Hiking boot | owned |  | `assets/boots_timberland_mt_maddsen_wp_brown_01/official-alt4-01.jpg` |
+| B03 | `shoes_cns_austin_oxford_17358_01` | Oxford shoe | owned |  | `assets/shoes_cns_austin_oxford_17358_01/manual-whatsapp-01.jpg` |
+| C03 | `slippers_lightweight_01` | Slippers | owned |  | `assets/slippers_lightweight_01/manual-whatsapp-01.jpg` |
 | D03 | `sandals_teva_hurricane_xlt2_01` | Sport sandal | owned |  | `assets/sandals_teva_hurricane_xlt2_01/manual-whatsapp-01.jpg` |
 | A04 | `blazer_tailored_beige_wedding_01` | Blazer | owned |  | `assets/blazer_tailored_beige_wedding_01/manual-whatsapp-01.jpg` |
 | B04 | `blazer_casual_navy_01` | Blazer | owned |  | `assets/blazer_casual_navy_01/manual-whatsapp-01.jpg` |

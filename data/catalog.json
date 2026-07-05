@@ -4231,7 +4231,7 @@
       "model": "Dune Hi-Soft 32 298201-001",
       "module": "Formal/Social",
       "category": "footwear",
-      "subcategory": "Smart casual derby",
+      "subcategory": "Casual-social shoe",
       "layerType": "Footwear",
       "size": null,
       "color": "Preto com sola marrom e faixa clara",
@@ -4245,18 +4245,21 @@
         "confidence": "medium"
       },
       "bestUse": [
-        "Casamentos",
-        "eventos formais menos rígidos",
-        "social descolado"
+        "Jantares informais arrumados",
+        "escritório casual",
+        "eventos sociais menos rígidos",
+        "looks urbanos com calça escura"
       ],
       "avoidUse": [
+        "Formalidade alta",
+        "casamento muito formal",
         "Trilha",
         "chuva",
         "viagem minimalista"
       ],
       "scores": {
         "urban": 3.5,
-        "formal": 4,
+        "formal": 3.2,
         "outdoor": 0,
         "rain": 0.5,
         "cold": 1,
@@ -4270,7 +4273,7 @@
         "outdoorFinal": 0.9,
         "travelPack": 3
       },
-      "role": "Social descontraído",
+      "role": "Sapato preto casual-social",
       "purchaseAction": "Keep",
       "priority": "medium",
       "sourceLinks": [
@@ -4298,9 +4301,9 @@
           "https://raw.githubusercontent.com/tilvoro-labs/nivalis-grid/main/assets/shoes_democrata_dune_hisoft_298201_black_01/official-02.jpg"
         ]
       },
-      "notes": "Pode ser redundante com CNS em alguns eventos, mas mais descontraído. Imagens corrigidas para o sapato Democrata Dune Hi-Soft 32 preto, referência 298201-001, removendo fotos inconsistentes de bota/outro modelo.",
-      "modelConfidence": "medium",
-      "gapOrRedundancy": "Social redundancy",
+      "notes": "Sapato preto casual-social em couro, com sola marrom mais grossa e faixa clara. Evitar rotular como derby social clássico: visualmente é um híbrido urbano arrumado, menos formal que o CNS Austin Oxford. Imagens corrigidas para o sapato Democrata Dune Hi-Soft 32 preto, referência 298201-001.",
+      "modelConfidence": "high",
+      "gapOrRedundancy": "Redundante com o CNS em eventos sociais, mas cobre um uso mais descontraído; para formalidade real, preferir shoes_cns_austin_oxford_17358_01.",
       "ownership": "owned",
       "tags": []
     },
